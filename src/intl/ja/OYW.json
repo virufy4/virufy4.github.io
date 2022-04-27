@@ -1,0 +1,146 @@
+{
+  "topbanner": {
+    "header": "About/サポーター紹介",
+    "title": "ミュンヘン2021",
+    "description": "OYW - 毎年開催されるOne Young Worldは、社会的インパクトを加速させるために活動している、各国・各分野の最も優秀な若手人材が集結しました。"
+  },
+  "headers": {
+    "header": "Virufy & One Young World",
+    "topbanner": "私たちの世界は、優れたリーダーシップを必要としています。現代の若者世代は、世界史の中で未だかつてない情報量を持ち、豊かな教育を受け、十分なコネクションを持つ世代の一つです。One Young Worldは、より良い世界、つまりより責任感のある効果的なリーダーシップのある世界を創るために、世界中で最も影響力のある若いリーダーを発掘し、促進し、結びつけます。",
+    "sub-header": "Virufyは、アメリカ大陸や日本など、さまざまなOYWのプラットフォームでその活動の様子紹介されており、OYWとコラボレートし、各地域のアンバサダーとともに活動に取り組んでいます。 ",
+    "buttonJoinUs": "参加する",
+    "help": "Virufyをあなたの近くの病院や地域に届けるために、ご協力ください。一緒に、医療を変え、COVIDの蔓延を食い止めましょう。そして、これは始まりに過ぎません。将来のパンデミックに対する戦いにも参加しましょう！"
+  },
+  "section1": {
+    "header": "2021年7月25日に開催されるOYW2021サミットをご覧ください。:",
+    "sub-header": "COVID-19に対する総会が開かれ、VirufyのオペレーションリードであるYulie Qiaoが講演を行います。",
+    "sub-header2": "デジタル展示会でVirufyを詳しく知る"
+  },
+  "sectionHi": {
+    "header": "Come Say Hi!",
+    "amil": "<b>Amil Khanzada</b> - OYW 日本大使 & Virufy創設者兼CEO",
+    "yulie": "<b>Yulie Qiao</b> - bp 代表, USA & Virufyオペレーション",
+    "ayomide": "<b>Ayomide Owoyemi, MD</b> - Novartis 代表, Nigeria & Virufy ML 臨床統計 ",
+    "shreya": "<b>Shreya Shreeram, MD</b> - Virufy 代表, India & Virufy 臨床研究",
+    "join": "<b>You can be part of the solution!</b> ボランティアの募集 <a target='_blank' href='https://virufy.org/en/available-roles/'>Join Page</a> こちらもご覧ください <a target='_blank' href='https://docs.google.com/document/d/18XFbn6wSY6Ld-oN7UpqUY8GVX7T1wEaoJSn1HD9eBls/edit'>Virufy OYW playbook</a>."
+  },
+  "section2": {
+    "title": "なぜOne Young Worldなのか?",
+    "header": "グローバルなインパクトに焦点をあてる",
+    "sub-header": " データを収集し、世界中の開発途上国の人々のために公平なソリューションを提供する。",
+    "youth": "若者主導",
+    "youth-des": "私たちのチームは、十数カ国から集まった若者たちが率い、世界的なリーダーたちがアドバイスをしてくれることで、成長を続けています。",
+    "ambassador": "アンバサダー・ドリブン",
+    "ambassador-des": "ワン・ヤング・ワールドの組織構成は、ユースアンバサダーが各国での活動をリードし、地域コーディネートアンバサダーがそれに対応する形となっています。",
+    "diverse": "多彩な視点",
+    "diverse-des": "私たちのチームは、25以上の大学、15カ国から代表者が集まり、10人以上のワン・ヤング・ワールドのアンバサダーが参加しています。"
+  },
+  "ambassador": {
+    "header": "Our OYW x Virufy Community",
+    "ambassador-list": {
+      "amil": {
+        "name": "Amil Khanzada",
+        "descriptionOYW": "OYW Ambassador, Japan",
+        "descriptionVirufy": "Virufy Founder & Leader"
+      },
+      "madhav": {
+        "name": "Madhav Datt",
+        "descriptionOYW": "OYW Ambassador, India",
+        "descriptionVirufy": "Virufy Advisor"
+      },
+      "marcos": {
+        "name": "Marcos Deza",
+        "descriptionOYW": "OYW Ambassador, Argentina",
+        "descriptionVirufy": "Virufy Digital Communications"
+      },
+      "yulie": {
+        "name": "Yulie Qiao",
+        "descriptionOYW": "2021 OYW bp Delegate, USA",
+        "descriptionVirufy": "Virufy Operations"
+      },
+      "ayomide": {
+        "name": "Ayomide Owoyemi, MD",
+        "descriptionOYW": "2021 OYW Novartis Delegate, Nigeria",
+        "descriptionVirufy": "Virufy Machine Learning Clinical Statistics"
+      },
+      "shreya": {
+        "name": "Shreya Sreeram, MD",
+        "descriptionOYW": "2021 Virufy Delegate, India",
+        "descriptionVirufy": "Virufy Clinical Research"
+      },
+      "lauravelasquezh": {
+        "name": "Laura Velasquez",
+        "descriptionOYW": "2021 OYW Johnson & Johnson Delegate, Colombia",
+        "descriptionVirufy": "Arkangel AI Co-founder and President & Virufy Partner"
+      },
+      "nathan": {
+        "name": "Nathan Thomas",
+        "descriptionOYW": "OYW Coordinating Ambassador, USA",
+        "descriptionVirufy": " "
+      },
+      "jason": {
+        "name": "Jason Pareja Jauregui",
+        "descriptionOYW": "OYW Coordinating Ambassador LATAM, Peru",
+        "descriptionVirufy": " "
+      },
+      "katherine": {
+        "name": "Katherine Thalia Ortiz León",
+        "descriptionOYW": "OYW Ambassador, Peru",
+        "descriptionVirufy": " "
+      },
+      "gonzalo": {
+        "name": "Gonzalo Roiffe",
+        "descriptionOYW": "OYW Ambassador, Argentina",
+        "descriptionVirufy": " "
+      },
+      "annelisse": {
+        "name": "Annelisse Torrez Daza",
+        "descriptionOYW": "OYW Ambassador, Bolivia",
+        "descriptionVirufy": " "
+      },
+      "veronica": {
+        "name": "Verónica Guzmán Quilaqueo",
+        "descriptionOYW": "OYW Ambassador, Chile",
+        "descriptionVirufy": " "
+      },
+      "sebastian": {
+        "name": "Sebastian Pedraza",
+        "descriptionOYW": "OYW Ambassador, Colombia",
+        "descriptionVirufy": " "
+      },
+      "kenmaru": {
+        "name": "Kenmaru Suedomi",
+        "descriptionOYW": "OYW Ambassador, Japan",
+        "descriptionVirufy": " "
+      },
+      "kapil": {
+        "name": "Kapil Narain, MD",
+        "descriptionOYW": "OYW Ambassador, South Africa",
+        "descriptionVirufy": " "
+      },
+      "leonard": {
+        "name": "Leonard Burhz",
+        "descriptionOYW": "OYW Ambassador, Ireland",
+        "descriptionVirufy": " "
+      },
+      "allana": {
+        "name": "Allana Doyle",
+        "descriptionOYW": "Embajador OYW, EE.UU",
+        "descriptionVirufy": " "
+      },
+      "kavya": {
+        "name": "Kavya Madhavan",
+        "descriptionOYW": "Embajador OYW, EE.UU",
+        "descriptionVirufy": " "
+      }
+    }
+  },
+  "testimonials": {
+    "title": "ボランティア体験談",
+    "intro": "私たちのチームは、スタンフォード大学、プリンストン大学、そしてワン・ヤング・ワールドといった定評ある教育機関の、社会貢献活動に熱心な学生たちによって率いられています。私たちはOne Young Worldのメンバーを強く信頼しており、興味のあるアンバサダーがピッチに参加することを温かく迎えてくれます。",
+    "annelisse": "“私自身、恵まれない国で家族全員と一緒にCOVIDに苦しんだので、Virufyに参加することで、同じ運命に直面する人をなくすことができると即座に思いました”",
+    "sebastian": "“Virufyは、若者の力とテクノロジーを融合し、世界を変えていきます。このソリューションが全世界に届き、特に低所得国の医師を支える存在になることを期待しています。”",
+    "gonzalo": "“Virufyは、ユーザーのバックグラウンドや社会的地位に関係なく、グローバルにインパクトを与えることができます。これこそ、現状を変えるということなのです。”",
+    "marcos": "“Virufyが非常に正確なソリューションを開発し、これが全世界のあらゆる産業で役に立つと思うのです。ですから、皆さんもぜひ時間をとって、私たちと一緒に頑張りましょう。”"
+  }
+}

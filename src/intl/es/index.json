@@ -1,0 +1,50 @@
+{
+  "meta": "Conoce Virufy, un proyecto fundado en marzo de 2020 por personas dedicadas a construir una prueba en línea de Covid-19 con Inteligencia Artificial.",
+  "title": "Desarrollando una prueba de Covid-19 en línea con IA | Virufy",
+  "section1": {
+    "header": "Una prueba de Covid-19 en línea es posible",
+    "pg": "Virufy es una organización de investigación sin fines de lucro que desarrolla tecnología de inteligencia artificial (IA) para detectar el COVID-19 en los patrones de tos, rápidamente y sin costo mediante el uso de un teléfono inteligente",
+    "coughLink": "DONA TU TOS",
+    "donateLink": "Dona tu tos ahora",
+    "donateLinkResponsive": "Dona ahora",
+    "learnmore": "Más información",
+    "whoweare": "Quiénes somos"
+  },
+  "section2": {
+    "header": "Creemos que juntos podemos ayudar a mejorar el mundo",
+    "pg1": "Personas de todo el mundo nos apoyan y trabajan con nosotros para combatir este tipo de enfermedad, pero muchas personas como tú también pueden ayudarnos",
+    "pg2": "No importa en qué parte del mundo te encuentres, todo lo que necesitará es un dispositivo móvil y la aplicación Virufy",
+    "learnMoreLink": "Más información",
+    "donateyourcough": "Dona tu tos"
+  },
+  "section3": {
+    "howItWorks": "Cómo funciona nuestra prueba de Covid-19 en línea",
+    "header": "La comunidad Virufy",
+    "subencabezado": "Estamos recolectando toses para mejorar nuestro algoritmo de IA e implementaremos un proceso de detección de tres pasos que ayudará a contribuir a un diagnóstico de COVID-19 rápido y fácil para el beneficio de países de todo el mundo, especialmente los países de bajos ingresos. <br> Ayude a apoyar nuestra visión donando una tos hoy.",
+    "header1": "Graba tu tos",
+    "header2": "AI analiza el patron respiratorio",
+    "header3": "Número de toses recopiladas",
+    "tryItOutLink": "PRUEBA",
+    "description": "Virufy se fundó en marzo de 2020. Hoy, Virufighters en los cinco continentes se comprometen para hacer que la detección de enfermedades sea instantánea y gratuita a través de tecnología innovadora",
+    "numbercollected": "100.000",
+    "joincommunity": "Únete a nuestra comunidad"
+  },
+  "section4": {
+    "header": "Nuestra historia",
+    "pg1": "En marzo de 2020, fuimos pioneros en una aplicación móvil impulsada por IA para detectar COVID-19",
+    "pg2": "Ahora, los Virufighters en los cinco continentes están comprometidos a hacer que la detección de enfermedades sea instantánea y gratuita a través de la innovación tecnológica",
+    "knowUsLink": "Conocenos",
+    "header2": "Nos apoyamos",
+    "supporter": "Conviértete en partidario"
+  },
+  "section5": {
+    "messagehero": "Ayudemos al mundo a registrar tu tos y salvar muchas vidas",
+    "donatebuttonhero": "Dona tu tos ahora"
+  },
+  "faq": {
+    "distinguishableQ": "¿Por qué se distinguen las toses de COVID-19?",
+    "distinguishableA": "Al igual que otras enfermedades respiratorias, COVID-19 daña la garganta y los pulmones, creando diferencias detectables en los patrones de tos. En consecuencia, los sonidos de la tos pueden analizarse para detectar COVID-19. A nivel mundial, esta idea se está investigando activamente por varias instituciones prestigiosas, incluidas Carnegie Mellon (CMU), MIT y Cambridge. Por ejemplo, una investigación realizada por la Universidad de Cambridge mostró que un clasificador binario simple de aprendizaje automático puede clasificar a los pacientes con COVID-19 positivos a través de sonidos respiratorios y de tos de manera muy precisa, los investigadores de CMU identificaron 18 características de voz que distinguen a los pacientes positivos con COVID-19 y desarrollaron un modelo académico para detectar COVID-19 con alta precisión. ",
+    "aiQ": "¿Cómo detectará COVID-19 el algoritmo de inteligencia artificial de Virufy?",
+    "aiA": "Basado en investigaciones anteriores, Virufy está desarrollando un algoritmo de inteligencia artificial que se puede utilizar para predecir con precisión una infección por COVID-19 en cuestión de minutos según las grabaciones de los sonidos de la tos. Sin embargo, a diferencia de la investigación previa de COVID-19 sobre la tos dirigida en la población de EE. UU., Virufy tiene como objetivo recopilar datos de varios sitios en todo el mundo. Como una iniciativa dirigida por estudiantes con voluntarios en varios países, Virufy está desarrollando un modelo de diagnóstico de COVID-19 con mayor inclusión racial y espacial a través de datos que incluyen una variedad de etnias y diferencias fonológicas específicas de la comunidad"
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "supportersSection": {
+    "header": "About/Our supporters",
+    "description": "Companies and organizations support us from their extensive knowledge and provide us with security and certainty in what we do.",
+    "supporterText": "Virufy is a <a target='_blank' rel='noreferrer' href='https://responselab.stanford.edu/projects.html' class='underline'/>Stanford COVID-19 Response Innovation Lab</a> project and is also featured in <a target='_blank' rel='noreferrer' href='https://www.oneyoungworld.com/' class='underline'/>One Young World</a>",
+    "buttonSupporter": "Become a supporter"
+  },
+  "teamSection": {
+    "title-ourpeople": "About/Our People",
+    "weUnite": "We unite from across the world to defeat COVID-19 one cough at a time",
+    "header": " Our People",
+    "teamLeadText": "Team Leads",
+    "advisorText": "Advisors",
+    "oyw": "One Young World",
+    "oyw-xs": "OYW",
+    "supportersText": "Our supporters",
+    "leadership": {
+      "amil": {
+        "name": "Amil Khanzada",
+        "description": "MBA / Data Science Student, UC Berkeley Haas\nB.A. Computer Science, UC Berkeley",
+        "title": "Founder & President"
+      },
+      "yulie": {
+        "name": "Yulie Qiao",
+        "description": "Fuels Pricing, bp\nB.B.A. Marketing & Supply Chain Management, UW-Madison",
+        "title": "Operations Team"
+      },
+      "jonatan": {
+        "name": "Jonatan Jaskilioff",
+        "description": "CTO - XOOR\nUniversidad Nacional del Centro de la Provincia de Buenos Aires",
+        "title": "Mobile App Team Lead"
+      },
+      "kristy": {
+        "name": "Kristy Aldridge",
+        "description": "Masters of Industrial and Organizational Psychology, Adler University ",
+        "title": "Human Resources Lead"
+      },
+      "siddhi": {
+        "name": "Siddhi Hegde",
+        "description": "Bachelors of Medicine, Bachelor of Surgery - KVG Medical College Sullia",
+        "title": "Clinical Research Coordinator"
+      },
+      "shreya": {
+        "name": "Shreya Sreeram",
+        "description": "Bachelors of Medicine - KVG Medical College Sullia",
+        "title": "Clinical Research Coordinator"
+      },
+      "daniel": {
+        "name": "Daniel C.H. Tan",
+        "description": "Artificial Intelligence Researcher\nMathematical and Computational Sciences B.S., Stanford University",
+        "title": "MLOps Engineering Team Lead"
+      },
+      "zach": {
+        "name": "Zach Lawless",
+        "description": "Software Engineer\nM.A. University of Illinois Urbana-Champaign",
+        "title": "MLOps Team Lead"
+      },
+      "marcos": {
+        "name": "Marcos Deza",
+        "description": "Advertising Representative\nM.A. Public Relations, Ott Educación Superior",
+        "title": "Latin America Digital Communications Lead"
+      },
+      "sandra": {
+        "name": "Sandra Almaguer",
+        "description": "Corporate Project Management and Global Communications Strategist, Northeastern University",
+        "title": "Project Management Office"
+      },
+      "kitan": {
+        "name": "Kitan Fasuyi",
+        "description": "Senior Product Manager,\nMaster’s Health Informatics, Stony Brook University",
+        "title": "Product Manager Lead"
+      },
+      "jadesola": {
+        "name": "Jadesola Surakat",
+        "description": "Senior Product Manager\nMBA, Yale School of Management",
+        "title": "Project Manager Lead"
+      },
+      "tezeswi": {
+        "name": "Tezeswi Madarasu",
+        "description": "M.S. Financial Mathematics, Arizona State University",
+        "title": "MLOps Team Lead-Dashboard"
+      },
+      "jason": {
+        "name": "Jason Pareja Jauregui",
+        "description": "Product Development\nMIT Sloan School of Management",
+        "title": "Peru Community Outreach Manager"
+      },
+      "sebastian": {
+        "name": "Sebastian Pedraza",
+        "description": "Steering Committee Member\nPolitical Science, International University of La Rioja",
+        "title": "Colombia Community Outreach Manager"
+      },
+      "matheus": {
+        "name": "Matheus Galiza",
+        "description": "Youth Development Public Policy\nM.A. International Relations, Universidade Federal da Paraiba",
+        "title": "Brazil Community Outreach Manager"
+      },
+      "colleen": {
+        "name": "Colleen Wang",
+        "description": "High School Student, Palo Alto High\nAuthor of Roses Watered by a Robot’s Tears",
+        "title": "Fundraising Team Lead"
+      },
+      "christiancanham": {
+        "name": "Christian Canham",
+        "description": "Avionics Engineer, Boeing\nM.S. EE, Rensselaer Polytechnic Institute",
+        "title": "Audio Engineering Team Lead"
+      },
+      "ravel": {
+        "name": "Ravel Charles",
+        "description": "Cloud Solutions Engineer, Google\nM.P.S. Data Security, Northeastern University",
+        "title": "Infosec Team Lead"
+      },
+      "amelie": {
+        "name": "Amelie Azim-Khan",
+        "description": "High School Student, Wycombe Abbey",
+        "title": "Youth Ambassador, Europe & UK"
+      },
+      "alfonso": {
+        "name": "Alfonso Assaf",
+        "description": "Former Senior Consultant\nB.A. Economics, Universidad del CEMA",
+        "title": "Global Outreach Manager"
+      },
+      "diego": {
+        "name": "Dr. Diego Carvahalo",
+        "description": "Professor\nUniversidade de Sao Paolo",
+        "title": "Clinical Research Lead"
+      },
+      "wei": {
+        "name": "Wei Chen",
+        "description": "M.S. Computer Engineering, UC Riverside",
+        "title": "ML Data Team Lead"
+      },
+      "lukas": {
+        "name": "Lukas Gubo",
+        "description": "DevOps\nAWS\nCloud Solutions Architect",
+        "title": "MLOps Project Manager"
+      },
+      "sadhi": {
+        "name": "Abhinandan Saini",
+        "description": "Senior Product Manager, Fresh Consulting\nMBA, INSEAD",
+        "title": "Country Lead – India"
+      },
+      "tania": {
+        "name": "Tania Cristina Ferreira",
+        "description": "MBA International Business Relationship, FAAP\nB.E. Electronic Engineering, Instituto Mauá de Tecnologia\nAssociate Degree - Mechatronics, Robotics, Automation",
+        "title": "Global Country Management Lead"
+      },
+      "luiz": {
+        "name": "Luiz Goulart",
+        "description": "MBA Information Systems",
+        "title": "Country Lead – Brazil"
+      },
+      "nutan": {
+        "name": "Nutan Jayavant",
+        "description": "PMI and Google Certified Project Management Professional\nB.E Computer Engineering",
+        "title": "App Product Manager"
+      },
+      "vivek": {
+        "name": "Vivek Krishnani",
+        "description": "Background In Digital Marketing & Recruiting\nStony Brook University",
+        "title": "Director Of Recruitment & Talent Acquisition"
+      },
+      "frederick": {
+        "name": "Frederick Cosper",
+        "description": "MBA Graduate Candidate: California State Polytechnic University–Pomona\nB.S. Management and Human Resources: California State Polytechnic University–Pomona",
+        "title": "Human Resources Lead"
+      }
+    },
+    "advisors": {
+      "amil": {
+        "name": "Amil Khanzada",
+        "description": "MBA / Data Science Student, UC Berkeley Haas\nB.A. Computer Science, UC Berkeley",
+        "title": "Founder & President"
+      },
+      "kara": {
+        "name": "Kara Meister, M.D.",
+        "description": "Clinical Assistant Professor of ENT\nStanford School of Medicine",
+        "title": "Clinical Advisor"
+      },
+      "jure": {
+        "name": "Dr. Jure Leskovec",
+        "description": "Chief Scientist - Pinterest\nAssociate Professor of AI - Stanford",
+        "title": "Artificial Intelligence Advisor"
+      },
+      "melissa": {
+        "name": "Melissa Dyrdahl",
+        "description": "Former CMO - Adobe\nBoard Member - CommonSpirit Health",
+        "title": "Executive Marketing Advisor"
+      },
+      "hugo": {
+        "name": "Hugo Estrada",
+        "description": "CEO & Managing Partner - iwé Consultores\nChairman - Nueva EPS (Health Insurance)",
+        "title": "Colombia Executive Outreach Advisor"
+      },
+      "anais": {
+        "name": "Anaïs Rameau, M.D.",
+        "description": "Assistant Professor of ENT - Cornell University\nDoctor of Medicine - McGill University",
+        "title": "Clinical Advisor"
+      },
+      "madhav": {
+        "name": "Madhav Datt",
+        "description": "Founder - Green the Gene\nFormer Global Representative for Youth - UN EP",
+        "title": "Executive Nonprofit Advisor"
+      },
+      "rafi": {
+        "name": "Rafi Azim-Khan",
+        "description": "Partner, IP/IT & Head Data Privacy Europe\nPillsbury Winthrop Shaw Pittman LLP",
+        "title": "Executive Legal Advisor"
+      },
+      "richardswart": {
+        "name": "Richard Swartzbaugh",
+        "description": "Risk Management - Curaesoft\nJ.D. - University of Iowa",
+        "title": "Executive Advisor"
+      },
+      "ronan": {
+        "name": "Ronan Dunlop",
+        "description": "Form Head of Marketing - Pivotal/VMWare\nVP of Marketing - Cohuman",
+        "title": "Executive Marketing Advisor"
+      },
+      "richard": {
+        "name": "Richard Nall",
+        "description": "CEO - The Brand Garden\nMaster's Organisational Leadership - Henley",
+        "title": "Marketing Advisor"
+      },
+      "mark.haseltine": {
+        "name": "Mark Haseltine",
+        "description": "Former CTO/CPO - edX\nComputer Science alumnus - MIT",
+        "title": "Executive Advisor"
+      },
+      "matt": {
+        "name": "Matt Prusak",
+        "description": "Chief Business Officer - Curative\nMBA - Stanford Graduate School of Business",
+        "title": "Executive Advisor"
+      },
+      "mathijs": {
+        "name": "Mathijs De Vaan",
+        "description": "Management of Organizations\nPhD Sociology - Columbia University",
+        "title": "Assistant Professor - UC Berkeley Haas Business School"
+      },
+      "pedro": {
+        "name": "Pedro Siena",
+        "description": "Founder and CEO - Siena Company\nMentor - Stanford Lean Launchpad",
+        "title": "Brazil Executive Advisor"
+      },
+      "victor": {
+        "name": "Victor Wang",
+        "description": "Founder and Chairman- China Silicon Valley\nMBA - Stanford Graduate School of Business",
+        "title": "Executive Advisor"
+      },
+      "rok": {
+        "name": "Rok Sosic",
+        "description": "Senior Research Engineer\nStanford School of Engineering",
+        "title": "Artificial Intelligence Advisor"
+      },
+      "taisuke": {
+        "name": "Taisuke Fukuno",
+        "description": "Founder - Open Data Japan\nChairman - jig.jp",
+        "title": "Executive IT Advisor"
+      },
+      "tsutomu": {
+        "name": "Tsutomu Ito",
+        "description": "Founder - Tannan FM Radio\nLead Architect, Bullet Train",
+        "title": "Executive Visionary Advisor"
+      },
+      "alfonso": {
+        "name": "Alfonso Assaf",
+        "description": "Former Senior Consultant, Deloitte\nB.A. Economics, Universidad del CEMA",
+        "title": "Global Outreach Manager"
+      },
+      "khwaja": {
+        "name": "Khwaja Shaik",
+        "description": "MOSH, Vice Chair, Board Member\nBoard Member - University of North Florida Computing",
+        "title": "Chief Technology Officer - IBM"
+      },
+      "george": {
+        "name": "George Pegelow",
+        "description": "Martial Arts & Philosophy Professor - Stanford University",
+        "title": "Executive Visionary Advisor"
+      },
+      "rich": {
+        "name": "Rich Walcoff",
+        "description": "Sports Director - KGO Radio",
+        "title": "Communications Advisor"
+      },
+      "mansoor": {
+        "name": "Mansoor Ahmed",
+        "description": "Founder & CEO - Cleveland Sleep Research Center\nMBBS - King Edward Medical University",
+        "title": "Clinical Research Advisor"
+      },
+      "mert": {
+        "name": "Mert Pilanci",
+        "description": "Assistant Professor of AI Stanford University Electrical Engineering",
+        "title": "Artificial Intelligence Advisor"
+      }
+    }
+  },
+  "valuesSection": {
+    "meta": "People all over the world have joined forces to build Virufy, a superior COVID pre-screening that could help decrease the virus circulation. Learn more.",
+    "About": "About Us",
+    "OurPurpose": "Transforming the world’s health, one cough at a time.",
+    "vision": {
+      "ourVision": "Our Mission",
+      "ourInnovative": "Our innovative approach aims to offer superior COVID pre-screening for patients, clinicians and governments, especially in low-income countries. We aspire to be the leading nonprofit organization for technology - enabled disease identification, transforming global healthcare and inspiring others to support and invest in this mission with us.",
+      "ourCommitment": "Our Commitment to Privacy",
+      "virufyPrivacy": "Virufy takes the privacy and protection of your personal information seriously. Our legal team has prepared a detailed <a target='_blank' href='https://virufy.org/privacy_policy'>Privacy Policy</a> and <a target='_blank' href='https://virufy.org/cookie_policy'>Cookie Policy</a> to protect the personal information you share with us through use of our website",
+      "buttonHelpUs": "Our Research"
+    },
+    "values": {
+      "OurValues": "Our Values",
+      "Transformation": {
+        "title": "Transformation",
+        "description": "We aim to transform expensive healthcare systems by using technology to drive necessary changes."
+      },
+      "Collaboration": {
+        "title": "Collaboration",
+        "description": "We commit to making rapid disease detection available to every person in the world, regardless of background."
+      },
+      "Health": {
+        "title": "Health",
+        "description": "We commit to always putting the health and well-being of all people across the globe first and foremost."
+      },
+      "Affordability": {
+        "title": "Affordability",
+        "description": "We aim to use technology to make disease prevention and detection free for all people around the world"
+      },
+      "Efficiency": {
+        "title": "Efficiency",
+        "description": "We commit to creating intuitive technology that delivers rapid detection, stopping virus spread and saving lives."
+      },
+      "Innovation": {
+        "title": "Innovation",
+        "description": "We aim to ensure rapid detection of dieseases with just one tap on a mobile device."
+      }
+    },
+    "ourStory": {
+      "title": "Our Story",
+      "description": "When the pandemic hit, Virufy’s founder, Amil Khanzada, knew smartphones were omnipresent and that COVID impacted the nose, throat, and lungs. He hypothesized that breathing and cough sounds could be analyzed with machine learning to detect COVID patterns. Wanting to make a positive impact, he orchestrated a clinical study with 362 patients in an esteemed university hospital. The original team of Virufy, beginning with Stanford graduate AI students, expanded to volunteers from universities globally."
+    },
+    "section4": {
+      "header": "Our supporters",
+      "pg1": "Virufy is a Stanford COVID-19 Response Innovation Lab project and is also featured in One Young World"
+    }
+  }
+}

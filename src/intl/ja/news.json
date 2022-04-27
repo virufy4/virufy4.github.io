@@ -1,0 +1,95 @@
+{
+  "headers": {
+    "header": "ニュースでのVirufyの紹介",
+    "filter": "国別にニュースを絞り込む"
+  },
+  "news": {
+    "section2": {
+      "date": "2021年2月",
+      "title": "スマホの前で咳をするだけでCovid-19の診断ができることを目指したアプリ",
+      "name": "Forbes",
+      "city": " ",
+      "country": " ",
+      "readMoreLink": "さらに読む..."
+    },
+    "section3": {
+      "date": "2021年1月",
+      "title": "COVID-19: Virufyアプリケーションで、咳の解析によりウイルスを診断することが可能",
+      "name": "MSN",
+      "city": " ",
+      "country": " ",
+      "readMoreLink": "さらに読む..."
+    },
+    "section4": {
+      "date": "2020年10月",
+      "title": "VIRUFY: COVID-19に感染状況を検出するためのプラットフォーム。",
+      "name": "Expreso",
+      "city": "リマ, ",
+      "country": "ペルー",
+      "readMoreLink": "さらに読む..."
+    },
+
+    "section5": {
+      "date": "2020年5月",
+      "title": "One Young World 日本大使館、AIでCOVID-19を狙う",
+      "name": "One Young World",
+      "city": "東京, ",
+      "country": "日本",
+      "readMoreLink": "さらに読む..."
+    },
+
+    "section6": {
+      "date": "2020年",
+      "title": "COVID-19対応の最前線に立つ北米の大使達",
+      "name": "One Young World",
+      "city": " ",
+      "country": " ",
+      "readMoreLink": "さらに読む..."
+    },
+
+    "section7": {
+      "date": "2020年7月",
+      "title": "7月度のアンバサダー",
+      "name": "One Young World",
+      "city": " ",
+      "country": " ",
+      "readMoreLink": "さらに読む..."
+    },
+
+    "section8": {
+      "date": "2020年7月",
+      "title": "7月に開催されたOYWのグローバル・デジタル・イベントには数千人が参加。見逃しイベントを振り返る",
+      "name": "One Young World",
+      "city": " ",
+      "country": " ",
+      "readMoreLink": "さらに読む..."
+    },
+
+    "section9": {
+      "date": "2020年",
+      "title": "One Young World　東京2020代表会議",
+      "name": "One Young World",
+      "city": " ",
+      "country": " ",
+      "readMoreLink": "さらに読む..."
+    },
+
+    "section10": {
+      "date": "2020年",
+      "title": "One Young World 東京2020代表会議でのVirufyによるプレゼンテーション",
+      "name": "One Young World",
+      "city": "東京, ",
+      "country": "日本",
+      "readMoreLink": "ビデオを観る"
+    },
+
+    "section11": {
+      "date": "2020年",
+      "title": "COVID-19ワークショップの音",
+      "name": "One Young World",
+      "city": " ",
+      "country": " ",
+      "readMoreLink": "さらに読む..."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "meta": "COVID-19の感染、制御、検出、および事前スクリーニングのための人工知能の使用に関する最も関連性の高い論文のいくつかを読んでください。",
+  "title": "AIによるCovid-19検出に関する論文| Virufy",
+  "headers": {
+    "header": "論文"
+  },
+  "papers": {
+    "section2": {
+      "date": "2020年11月",
+      "title": "Virufy 咳からCOVID-19を検出するAIのためのクラウドソースと臨床データセットのグローバルな適用可能性",
+      "readMoreLink": "さらに読む..."
+    },
+    "section4": {
+      "date": "2021年9月",
+      "title": "COVID-19咳AIシステムの展開における課題と機会",
+      "readMoreLink": "さらに読む..."
+    },
+    "section5": {
+      "date": "20221年1月",
+      "title": "咳からのCOVID-19分類のための大規模な集約データセットでのディープラーニングの使用",
+      "readMoreLink": "さらに読む..."
+    },
+    "section6": {
+      "date": "20221年1月",
+      "title": "Covid 19 Calculator -- Positive U.S. Socio-Economic Impact",
+      "readMoreLink": "さらに読む...",
+      "calculatorLink": "Calculator"
+    }
+  }
+}

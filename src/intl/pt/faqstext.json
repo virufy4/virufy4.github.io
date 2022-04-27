@@ -1,0 +1,281 @@
+{
+  "meta": "Obtenha mais informações sobre Virufy e o que você pode fazer para ajudar a criar uma pré-triagem gratuita da COVID-19. Juntos podemos fazer a diferença!",
+  "tabFaqs": {
+    "pageTitle": "Perguntas Frequentes Sobre Nosso Projeto | Virufy",
+    "title": "FAQ´s",
+    "virufyApp": "Virufy App",
+    "aboutVirufy": "Sobre Virufy",
+    "aboutAI": "Sobre IA",
+    "aboutFinances": "Finances",
+    "privacyDetails": "Privacy",
+    "otherDetails": "Outros",
+    "titleAnswer": "Resposta"
+  },
+  "questionSection": {
+    "questionsVirufyApp": {
+      "Question#1": {
+        "numberQuestion": "Pergunta #1",
+        "questionIdQ": "Quando e como o aplicativo fornecerá resultados de previsão COVID-19?",
+        "questionIdA": "Atualmente, nosso aplicativo é apenas para coleta de dados.\n\n Não podemos lançar um aplicativo de previsão COVID-19 sem as aprovações do departamento de saúde pública em cada país e estudos clínicos para validar a tecnologia de IA nas condições locais. Este processo pode levar algumas semanas ou meses, dependendo da velocidade do parceiro do governo. Virufy recebe parcerias de funcionários de saúde e hospitais para levar a tecnologia de uso gratuito às pessoas e otimizar o uso de testes de PCR caros apenas quando necessário."
+      },
+      "Question#2": {
+        "numberQuestion": "Pergunta #2",
+        "questionIdQ": "Onde posso baixar o aplicativo? Estará disponível para iOS e Android?",
+        "questionIdA": "O aplicativo estará disponível para download em <a target='_blank' href='https://virufy.org/app'> https://virufy.org/app </a>, assim como nós precisamos de aprovação governamental ou médica em alguns países para colocar nosso aplicativo nas lojas de aplicativos oficiais. \n\n O aplicativo pode ser conectado de e para um smartphone. Portanto, é compatível com qualquer sistema operacional, incluindo iOS ou Android."
+      },
+      "Question#3": {
+        "numberQuestion": "Pergunta #3",
+        "questionIdQ": "O aplicativo estará disponível gratuitamente e em todo o mundo?",
+        "questionIdA": "Como organização sem fins lucrativos 501 (c) (3), nossa intenção é tornar o aplicativo gratuito para o benefício de países de baixa renda. No entanto, podemos precisar cobrar uma taxa nominal para apoiar nossas operações caso não consigamos levantar fundos suficientes. "
+      },
+      "Question#4": {
+        "numberQuestion": "Pergunta #4",
+        "questionIdQ": "Vocês planejam transformar este aplicativo numa startup?",
+        "questionIdA": "Virufy é uma organização sem fins lucrativos. Podemos fazer parceria com empresas, se necessário, para acelerar a implantação do aplicativo para o benefício das pessoas."
+      },
+      "Question#5": {
+        "numberQuestion": "Pergunta #5",
+        "questionIdQ": "Quando o aplicativo estará disponível para meu país?",
+        "questionIdA": "Virufy se esforça para cumprir as leis de privacidade de dados que variam de acordo com o país. Estamos muito felizes em estender a extensão para seu país se conseguirmos entrar em contato com um advogado de privacidade de dados pro bono para revisar nossa política de privacidade e formulário de consentimento."
+      },
+      "Question#6": {
+        "numberQuestion": "Pergunta #6",
+        "questionIdQ": "Qual é a visão do aplicativo Virufy?",
+        "questionIdA": "Virufy foi inicialmente concebido como um suplemento aos testes. Também prevemos um futuro onde as pessoas possam conhecer facilmente o seu estado de saúde, para que não transmitam doenças."
+      },
+      "Question#7": {
+        "numberQuestion": "Pergunta #7",
+        "questionIdQ": "Quem pode acessar os resultados do teste? Como a organização tenta regular as restrições de acessibilidade? Onde os resultados do teste são armazenados?",
+        "questionIdA": "Nossa intenção com os aplicativos preditivos é que apenas o usuário veja os resultados dos testes, pois há muito medo em relação aos resultados positivos. Os dados dos resultados dos testes e da coleta de dados serão armazenados em servidores seguros."
+      }
+    },
+    "questionsAboutVirufy": {
+      "Question#1": {
+        "numberQuestion": "Pergunta #1",
+        "questionIdQ": "Como foi criada esta iniciativa?",
+        "questionIdA": "Quando a pandemia começou, o fundador do Virufy, Amil, sabia que os smartphones eram onipresentes e que o COVID afetava o nariz, a garganta e os pulmões. Ele formulou a hipótese de que os sons da respiração e da tosse poderiam ser analisados ​​com aprendizado de máquina para detectar os padrões do COVID. Com o objetivo de causar um impacto positivo, ele orquestrou um estudo clínico com 362 pacientes em um conceituado hospital universitário. A equipe original da Virufy, começando com estudantes de IA de Stanford, expandiu-se para voluntários de universidades de todo o mundo. \n\n Sendo um embaixador da <um alvo='_ blank' href=https://www.oneyoungworld.com/'>One Young World Japan </a> que viajou para mais de uma dúzia de países, Amil entende a perspectiva global e como uma solução baseada em smartphone pode ser usada por pessoas em todo o mundo."
+      },
+      "Question#2": {
+        "numberQuestion": "Pergunta #2",
+        "questionIdQ": "O que sua organização fará?",
+        "questionIdA": "Virufy visa construir o maior conjunto de dados de sons de tosse de COVID no mundo, gerando um movimento em que milhões de pessoas contribuam coletivamente com seus dados para lutar contra nosso inimigo comum, o COVID. Como uma startup 501 (c) (3) sem fins lucrativos, sem burocracia institucional e com uma equipe diversificada em 20 países, estamos bem posicionados para que isso aconteça. \n\nUma vez aprovado(s) pelas autoridades locais de saúde pública, serão lançados aplicativos de smartphone para testes rápidos e gratuitos de COVID em países de baixa renda. Esses aplicativos permitirão testes anônimos em grande escala para desacelerar a propagação do vírus. Esperamos unir as pessoas além das fronteiras em nosso esforço para parar o COVID e criar um novo paradigma para a colaboração global. \n\n Queremos criar um futuro onde a disseminação de doenças infecciosas pela comunidade seja bastante reduzida, já que a população mundial é capacitada por aplicativos de smartphone para detectar doenças precocemente."
+      },
+      "Question#3": {
+        "numberQuestion": "Pergunta #3",
+        "questionIdQ": "Como o Virufy é diferente de outros grupos que trabalham em projetos semelhantes?",
+        "questionIdA": "Como Virufy é uma organização 501 (c) (3) sem fins lucrativos, podemos recrutar profissionais altamente talentosos como voluntários. Nossa equipe é global, abrangendo cinco continentes e, portanto, nossa organização tem empatia global nata. Não estamos preocupados em ter lucro, por isso podemos trabalhar em países em desenvolvimento. Nossas densas redes em Stanford e One Young World nos dão acesso a contatos de alto escalão em todos os países do mundo. Nosso modelo de jovens profissionais capacitados por sábios conselhos de especialistas seniores da indústria leva a uma atividade rápida e criativa focada na direção certa."
+      },
+      "Question#4": {
+        "numberQuestion": "Pergunta #4",
+        "questionIdQ": "Em que fase da investigação você está? Existe um prazo para participar?",
+        "questionIdA": "Fizemos um esforço considerável para formar parcerias, desenvolver nosso aplicativo móvel, registrar nossa entidade sem fins lucrativos da Califórnia e criar nossas políticas para conformidade com as leis de privacidade de dados em 7 países. \n\n Nosso aplicativo de coleta de dados está no estágio de inovação e aborda a maioria das questões técnicas e de privacidade de dados de saúde para permitir o lançamento. Já implementamos privacidade de dados, segurança de informações e UI/UX para nosso aplicativo móvel de coleta de dados, junto com uma infraestrutura AWS de back-end escalonável. \n\n Prevemos grandes volumes de coleta de dados em 2021 e pretendemos impulsionar os esforços de desenvolvimento de IA colaborativa para construir a solução. Não há prazo e sempre recebemos mais dados de tosse, assim melhorando o algoritmo de IA."
+      },
+      "Question#5": {
+        "numberQuestion": "Pergunta #5",
+        "questionIdQ": "O que há de único no Virufy em relação a outros projetos?",
+        "questionIdA": "Somos dirigidos por jovens, com uma equipe diversificada e global de 15 países e 25 universidades. Somos orientados por consultores especializados de universidades, organizações sem fins lucrativos e empresas de todo o mundo. Nossa equipe multidisciplinar tem experiência em dados privacidade, aprendizado de máquina, medicina, segurança da informação e desenvolvimento de aplicativos para dispositivos móveis. Nossa rede One Young World permite que nos conectemos com parceiros confiáveis ​​em todos os países. \n\n Atendemos a todos e, o fato de sermos sem-fins lucrativos 501 (c) (3) nos permite que voluntários participem. Como voluntários sem fins lucrativos, somos independentes e temos menos burocracia. Também temos acesso pro bono a aconselhamento jurídico e de privacidade de dados para uma implementação adequada."
+      },
+      "Question#6": {
+        "numberQuestion": "Pergunta #6",
+        "questionIdQ": "Quanto investimento foi feito para viabilizar o projeto Virufy?",
+        "questionIdA": "Mais de 200 voluntários dedicaram milhares de horas para tornar o projeto possível. Empresas como Slack e JotForm nos apoiaram com software gratuito e créditos de nuvem como respondentes COVID. Outras despesas, como serviços de e-mail e computação em nuvem, foram pagas das economias do fundador Amil, mas são apenas alguns milhares de dólares. \n\nAcreditamos que, se tivermos sucesso, nossos custos de computação em nuvem aumentarão, mas seremos capazes de atrair amplo financiamento e doações privadas, e por isso estamos pensando em confiar somente nisso. "
+      },
+      "Question#7": {
+        "numberQuestion": "Pergunta #7",
+        "questionIdQ": "Virufy é uma organização sem fins lucrativos?",
+        "questionIdA": "Virufy é uma corporação sem fins lucrativos da Califórnia reconhecida pelo Internal Revenue Service (IRS) dos Estados Unidos, como uma instituição de caridade pública isenta de impostos de acordo com a Seção 501 (c) (3) do Código da Receita Federal."
+      },
+      "Question#8": {
+        "numberQuestion": "Pergunta #8",
+        "questionIdQ": "Quais são as universidades participantes?",
+        "questionIdA": "Virufy não é oficialmente afiliado a nenhuma universidade. \n\n No entanto, somos um projeto de Stanford<a target='_blank' href= https://responselab.stanford.edu/projects.html'> do Laboratório de Inovação na Resposta ao COVID-19</a>, participamos do <a target='_blank' href=' https://h4r.stanford.edu/'>acelerador de inicialização de Stanford's Hacking</a> for Recovery e também foi apresentado em várias <a target='_blank' href='https://oneyoungworld.com/'>plataformas do One Young World</a>. \n\n Nossa equipe inclui alunos e ex-alunos de mais de 25 universidades, incluindo UC Berkeley, Harvard e Princeton."
+      }
+    },
+    "questionsAboutAI": {
+      "Question#1": {
+        "numberQuestion": "Pergunta #1",
+        "questionIdQ": "Por que as tosses de COVID-19 são distinguíveis?",
+        "questionIdA": "Semelhante a outras doenças respiratórias, COVID-19 danifica a garganta e os pulmões, criando diferenças detectáveis ​​nos padrões de tosse. Consequentemente, os sons da tosse podem ser analisados ​​para detectar COVID-19. Globalmente, essa ideia está sendo ativamente pesquisada por várias instituições de prestígio, incluindo Carnegie Mellon (CMU), MIT e Cambridge. Por exemplo, uma pesquisa feita pela University of Cambridge mostrou que um classificador de aprendizado de máquina binário simples é capaz de classificar pacientes COVID-19 positivos por meio de sons de respiração e tosse com alta precisão. Da mesma forma, os pesquisadores da CMU identificaram 18 características de voz que distinguem pacientes COVID-19 positivos e treinaram um modelo acadêmico para detectar COVID-19 com alta precisão. "
+      },
+      "Question#2": {
+        "numberQuestion": "Pergunta #2",
+        "questionIdQ": "Como o algoritmo de IA de Virufy detectará COVID-19?",
+        "questionIdA": "Com base em pesquisas anteriores, Virufy está desenvolvendo um algoritmo de IA que pode ser usado para prever com precisão uma infecção por COVID-19 em minutos com base em gravações de sons de tosse. No entanto, ao contrário de pesquisas anteriores de tosse com COVID-19 que visavam a população dos EUA, Virufy visa coletar dados de vários locais em todo o mundo. Como uma iniciativa administrada por estudantes com voluntários em vários países, Virufy está desenvolvendo um modelo de diagnóstico COVID-19 com maior inclusão racial e geográfica por meio de dados que incluem uma variedade de etnias e diferenças fonológicas específicas da comunidade. "
+      },
+      "Question#3": {
+        "numberQuestion": "Pergunta #3",
+        "questionIdQ": "Como o aplicativo pode ajudar a prevenir infecções por coronavírus?",
+        "questionIdA": "Ao permitir que todos conheçam seu status de risco de COVID e outras doenças, o potencial de disseminação de vírus desconhecidos diminuirá consideravelmente. A detecção precoce permitirá que as pessoas se autoisolem e tomem medidas para se curarem do vírus mais rapidamente. Enquanto isso, enfermeiras em países em desenvolvimento podem usar o aplicativo para verificar se um paciente tem COVID, reduzindo assim a necessidade de usar os caros kits de teste de PCR. As pessoas também podem verificar a si mesmas sempre que sentirem que têm sintomas de COVID para confirmar se precisam ir ao médico para um check-up ou teste para COVID."
+      },
+      "Question#4": {
+        "numberQuestion": "Pergunta #4",
+        "questionIdQ": "Como você mede nossa porcentagem de eficácia e isso é medido em estudos clínicos?",
+        "questionIdA": "Consulte <a target='_blank' href='https://virufy.org/paper'> https://virufy.org/paper </a> e <a target = '_ blank' href = 'https: //virufy.org/research.html'> https://virufy.org/research.html </a> para obter detalhes sobre nossa pesquisa. "
+      },
+      "Question#5": {
+        "numberQuestion": "Pergunta #5",
+        "questionIdQ": "Os microfones de smartphone são confiáveis ​​o suficiente para serem usados ​​para detecção?",
+        "questionIdA": "Sim, os resultados de 3.500 pessoas de 20 países com muitos smartphones diferentes mostram que os microfones são realmente capazes de capturar assinaturas COVID-19."
+      },
+      "Question#6": {
+        "numberQuestion": "Pergunta #6",
+        "questionIdQ": "O desempenho do modelo de IA em diferentes ambientes permanecerá inalterado?",
+        "questionIdA": "Idealmente, gostaríamos que os usuários seguissem as instruções no aplicativo sobre como registrar sua tosse. No entanto, podemos usar uma técnica chamada aumento de dados para fazer o algoritmo funcionar em todos os tipos de situações, se necessário."
+      },
+      "Question#7": {
+        "numberQuestion": "Pergunta #7",
+        "questionIdQ": "Qual foi a principal dificuldade na coleta e processamento de dados? Houve alguma região onde a inteligência artificial foi menos precisa, por exemplo?",
+        "questionIdA": "O processo é lento e complicado ao coletar em hospitais, exigindo formulários de estudos clínicos e aprovações de IRB. Com a supervisão de consultores médicos de Stanford, passamos por esse processo em dois hospitais no sul da Ásia e atualmente estamos em discussões com hospitais na América do Sul e África. \n\nPara coletar diretamente dos usuários, investimos esforços significativos com advogados especializados pro bono para garantir a conformidade com as leis de privacidade de dados, incluindo LGPD. \n\nComo descrito em nosso <a target='_blank' href='https://virify.org/paper</a> research paper, algumas das dificuldades que encontramos no processamento de dados incluíam ruídos de fundo excessivos e gravações de tosse incorretas enviadas pelos usuários, o que exigia que os desenvolvedores de IA limpassem manualmente as amostras de áudio antes de treinar IA modelos."
+      },
+      "Question#8": {
+        "numberQuestion": "Pergunta #8",
+        "questionIdQ": "A tecnologia já foi validada?",
+        "questionIdA": "Sim, vários grupos em todo o mundo validaram que a tosse contém padrões detectáveis ​​que indicam a presença de COVID-19. Acreditamos que a implementação da tecnologia é apenas uma questão de tempo e colaboração. Conforme descrito em nosso artigo de pesquisa, mostramos de forma independente que a assinatura da tosse COVID se generaliza entre continentes e entre conjuntos de dados clínicos e de crowdsourcing. \n\nJá fizemos estudos clínicos aprovados pelo IRB em hospitais em dois países e estamos atualmente buscando aprovações na África, América Latina e Sul da Ásia para estudos clínicos por meio de executivos de hospitais privados e conexões governamentais de alto nível. "
+      },
+      "Question#9": {
+        "numberQuestion": "Pergunta #9",
+        "questionIdQ": "Podem ser detectados casos assintomáticos?",
+        "questionIdA": "Sim, a detecção assintomática foi demonstrada em pesquisas do MIT e outros grupos. É especialmente importante para pessoas na faixa dos 20 e 30 anos que são mais propensas a ser assintomáticas."
+      },
+      "Question#10": {
+        "numberQuestion": "Pergunta #10",
+        "questionIdQ": "A aplicação utilizará inteligência artificial desenvolvida por terceiros ou criada apenas para este fim?",
+        "questionIdA": "Virufy tem sua própria equipe de pesquisa de IA e está aberta à colaboração e integração de algoritmos de IA de outros grupos de pesquisa."
+      },
+      "Question#11": {
+        "numberQuestion": "Pergunta #11",
+        "questionIdQ": "Quais são seus planos para Virufy após a vacina COVID-19?",
+        "questionIdA": "Prevemos que os países de baixa renda não terão os recursos financeiros e a infraestrutura médica para vacinar sua população e que os testes de COVID-19 rápidos e equitativos ainda serão importantes para controlar a pandemia, especialmente nesses países. Além disso, a partir de nossas discussões com especialistas da indústria de vacinas, não está claro quão eficazes as novas vacinas COVID-19 serão a longo prazo e também tememos que COVID permanecerá uma doença sazonal semelhante a outros coronavírus, como o resfriado comum e a gripe. "
+      },
+      "Question#12": {
+        "numberQuestion": "Pergunta #12",
+        "questionIdQ": "Quais são seus planos para Virufy depois que COVID-19 estiver sob controle?",
+        "questionIdA": "Virufy visa acabar com a propagação de várias doenças transmissíveis em países de baixa renda por meio de testes generalizados baseados em smartphones que podem ser usados ​​sempre que uma comunidade se sentir em risco de propagação do vírus. Prevemos que a mesma tecnologia artificial de inteligência pode ser adaptada para detectar outros coronavírus, incluindo o resfriado comum e a gripe. Isso pode reduzir a carga desnecessária sobre os sistemas de saúde e o diagnóstico baseado em produtos químicos para doenças que podem ser detectadas por IA."
+      }
+    },
+    "questionsFinances": {
+      "Question#1": {
+        "numberQuestion": "Pergunta #1",
+        "questionIdQ": "Preciso fazer alguma contribuição financeira para doar minha tosse?",
+        "questionIdA": "Não."
+      },
+      "Question#2": {
+        "numberQuestion": "Pergunta #2",
+        "questionIdQ": "Como registro minha tosse e a envio para o Virufy?",
+        "questionIdA": "Virufy atualmente está coletando tosses de alguns países, que podem ser encontradas em nosso aplicativo: <a target='_blank' href='https://virufy.org/app'> https: // virufy. org / app </a> "
+      },
+      "Question#3": {
+        "numberQuestion": "Pergunta #3",
+        "questionIdQ": "Preciso ter sintomas de tosse para doar minha tosse?",
+        "questionIdA": "Não, o aplicativo também é compatível com tosse forçada."
+      },
+      "Question#4": {
+        "numberQuestion": "Pergunta #4",
+        "questionIdQ": "Quantos doadores você já teve no total?",
+        "questionIdA": "Temos mais de 5.000 registros de tosse em mais de 10 países, principalmente na América do Sul e no Sul da Ásia. Alguns deles são clínicos e outros são contribuídos diretamente por indivíduos em nosso aplicativo."
+      },
+      "Question#5": {
+        "numberQuestion": "Pergunta #5",
+        "questionIdQ": "Quais são as despesas operacionais da organização?",
+        "questionIdA": "Atualmente, somos totalmente voluntários. Nossos principais requisitos de orçamento são para marketing para completar a coleta de dados. Também precisaríamos de dinheiro para computação posteriormente, após o dimensionamento para uma grande base de usuários."
+      },
+      "Question#6": {
+        "numberQuestion": "Pergunta #6",
+        "questionIdQ": "A equipe consegue financiamento? Em caso afirmativo, onde e quanto? Em que é usado?",
+        "questionIdA": "Ainda não temos financiamento, pois estamos apenas começando a solicitar subsídios após obter recentemente o status 501 (c) (3)."
+      }
+    },
+    "questionsPrivacy": {
+      "Question#1": {
+        "numberQuestion": "Pergunta #1",
+        "questionIdQ": "Como o Virufy armazenará meus dados com segurança?",
+        "questionIdA": "Usamos JotForm e Amazon Web Services (AWS) para coleta de dados de estudo de pesquisa. JotForm e AWS armazenam os dados em um aplicativo seguro com acesso e controles restritos. Seus dados serão armazenados com JotForm ou AWS até que sejam baixados por nós. Armazenaremos os dados em um banco de dados com acesso restrito. Se desejar obter mais informações sobre como JotForm e AWS armazenam seus dados, visite as respectivas políticas de privacidade em <a target = '_ blank' href = 'https: / /www.jotform.com/privacy/'>https://www.jotform.com/privacy/ </a> e <a target = '_ blank' href = 'https: //aws.amazon.com/en/ privacy / '> https://aws.amazon.com/en/privacy/ </a>. Se desejar saber mais, consulte a política de privacidade da Virufy. "
+      },
+      "Question#2": {
+        "numberQuestion": "Pergunta #2",
+        "questionIdQ": "A minha privacidade corre o risco de ficar exposta quando doo a minha tosse para o Virufy?",
+        "questionIdA": "Nossas fortes equipes jurídicas e de segurança da informação desenvolveram um DPIA para lidar com possíveis riscos e ameaças à sua privacidade. Armazenaremos seus dados pessoais apenas de forma anônima (embora você não possa ser identificado de nenhuma forma) e de uma banco de dados seguro com acesso restrito. Se quiser saber mais, consulte a <a target='_blank' href='https://virufy.org/privacy_policy.html'> Política de Privacidade da Virufy </a>. "
+      },
+      "Question#3": {
+        "numberQuestion": "Pergunta #3",
+        "questionIdQ": "O Virufy tem uma política de privacidade e uma política de cookies?",
+        "questionIdA": "Virufy leva a sério a privacidade e a proteção de suas informações pessoais. Nossa equipe jurídica preparou uma Política de Privacidade e Política de Cookies detalhada para proteger as informações pessoais que você compartilha conosco através do uso de nosso site, participação em nosso estudo de doação de tosse , entrando em contato conosco e inscrições de voluntários. "
+      },
+      "Question#4": {
+        "numberQuestion": "Pergunta #4",
+        "questionIdQ": "Meus dados serão compartilhados com terceiros?",
+        "questionIdA": "Se você optar por compartilhar suas informações de contato (por exemplo, e-mail e número de telefone) conosco, não distribuiremos nenhuma dessas informações pessoais identificáveis ​​a terceiros. No entanto, podemos compartilhar suas informações anônimas, como conforme sua tosse soa, com terceiros para acelerar os esforços de pesquisa global para impedir a pandemia de COVID-19 e outras propagações futuras da doença. Mais detalhes podem ser encontrados em nosso <a target = '_ blank' href = 'https: // www.jotform.com/privacy/'>Política de Privacidade </a> e o estudo de coleta de dados <a target='_blank' href='https://virufy.org/us/study_consent.pdf'> Formulário de Consentimento </ a>. "
+      }
+    },
+    "questionsOthers": {
+      "Question#1": {
+        "numberQuestion": "Pergunta #1",
+        "questionIdQ": "Como posso oferecer mais suporte ao Virufy?",
+        "questionIdA": "Você pode se juntar à nossa equipe hoje e olhar a <a target='_blank' href='https://virufy.org/join.html'> página de inscrição </a> para obter mais informações. Você pode também nos apoiar em <a target='_blank' href='https://gofundme.com/virufy'>GoFundMe</a>. Você também pode entrar em contato conosco para parcerias."
+      },
+      "Question#2": {
+        "numberQuestion": "Pergunta #2",
+        "questionIdQ": "Como funciona a distribuição e como o Virufy se tornará mais difundido?",
+        "questionIdA": "O aplicativo será oferecido para o benefício de pessoas em países de baixa renda e provavelmente se comercializará e se espalhará rapidamente."
+      },
+      "Question#3": {
+        "numberQuestion": "Pergunta #3",
+        "questionIdQ": "Em quantos países já houve coleta de dados para Virufy? Além da América Latina, a organização tem outro foco neste momento?",
+        "questionIdA": "Coletamos dados dos países listados em nosso <a target='_blank' href='https://virufy.org/app.html'>aplicativo</a>. A América Latina é nossa região de foco principal agora."
+      },
+      "Question#4": {
+        "numberQuestion": "Pergunta #4",
+        "questionIdQ": "Como tem sido a resposta das pessoas?",
+        "questionIdA": "Todas as nossas pesquisas com clientes e respostas da mídia sugerem que as pessoas apreciam muito a existência do aplicativo e apóiam nossa causa."
+      },
+      "Question#5": {
+        "numberQuestion": "Pergunta #5",
+        "questionIdQ": "Você colaborará com os governos para a coleta de dados? Em caso afirmativo, como será?",
+        "questionIdA": "Atualmente, não temos nenhum acordo de colaboração com governos para a coleta de dados. No entanto, estamos abertos a parcerias com governos para aumentar a coleta de dados sobre tosse por meio de marketing ou meios clínicos. Além disso, gostaríamos de acelerar a aprovação para o implantação do aplicativo de detecção de IA em países de baixa renda, o que pode envolver apresentações e parcerias com empresas locais de IA médica, universidades e grupos de pesquisa. "
+      },
+      "Question#6": {
+        "numberQuestion": "Pergunta #6",
+        "questionIdQ": "O seu produto precisa de aprovação regulamentar (por exemplo, FDA)? Em caso afirmativo, qual é o processo de aprovação? Qual é o seu plano para ser aprovado e quanto tempo e dinheiro será necessário?",
+        "questionIdA": "Estamos em conformidade com os regulamentos de privacidade de dados em vários países em 3 continentes. A Lei de Portabilidade e Responsabilidade de Seguro Saúde (HIPAA) não se aplica a nós. \n\nComo não estamos fornecendo previsões para indivíduos nos EUA, A aprovação do FDA não é necessária. "
+      },
+      "Question#7": {
+        "numberQuestion": "Pergunta #7",
+        "questionIdQ": "E se eu tiver mais perguntas?",
+        "questionIdA": "Mais detalhes podem ser encontrados em nossa <a target='_blank' href='https://www.jotform.com/privacy/'> Política de Privacidade </a> completa, <a target = '_ em branco 'href =' https: //virufy.org/cookie_policy.html '> Política de cookies </a> e formulário de consentimento que está incorporado em <a target =' _ blank 'href =' https: //virufy.org/ app '> aplicativo de coleta de dados </a>. \n\nPara dúvidas relacionadas ao estudo de coleta de dados, envie um e-mail para <a href='mailto:study@virufy.org'> study@virufy.org </a> . \nPara consultas relacionadas a dados, podemos ser contatados em <a href='mailto:open-data@virufy.org'> open-data@virufy.org </a>. \nPara todas as outras consultas, você pode entrar em contato conosco em <a href='mailto:info@virufy.org'> info@virufy.org </a>. "
+      }
+    }
+  },
+  "missionCategory": "Mission",
+  "nonprofitQ": "Virufy é uma organização sem fins lucrativos?",
+  "nonprofitA": "Virufy é uma empresa de benefício público sem fins lucrativos registrada na Califórnia. No entanto, nossa aprovação oficial do status 501 (c) (3) pode levar até meados de 2021, pois o IRS está atrasado devido ao COVID-19.",
+  "postVaccineQ": "Quais são os planos para Virufy após a vacina COVID-19?",
+  "postVaccineA": "Prevemos que os países de baixa renda não terão os recursos financeiros e infra-estrutura médica para vacinar sua população e que o teste de COVID-19 rápido e equitativo ainda será importante para controlar a pandemia, especialmente nesses países.",
+  "postControlQ": "Quais são os planos para Virufy depois que COVID-19 estiver sob controle?",
+  "postControlA": "Virufy visa acabar com a propagação de várias doenças transmissíveis através de testes generalizados baseados em smartphones que podem ser usados ​​sempre que uma comunidade se sentir em risco de propagação do vírus. Prevemos que a mesma tecnologia de inteligência artificial pode ser adaptada para detectar outros coronavírus, incluindo o resfriado comum e a gripe. ",
+  "detecçãoCategoria": "Tecnologia",
+  "distinguishableQ": "Por que as tosses de COVID-19 são distinguíveis?",
+  "distinguívelA": "Semelhante a outras doenças respiratórias, COVID-19 cria uma assinatura respiratória única na garganta e nos pulmões que é distinta de outras infecções respiratórias que produzem uma tosse úmida. Consequentemente, foi sugerido que os sons da tosse podem ser analisados ​​para detectar COVID-19. Globalmente, essa ideia está sendo ativamente pesquisada por várias instituições de prestígio, incluindo CMU [8], MIT e Cambridge. Por exemplo, uma pesquisa crowdsource feita pela Universidade de Cambridge mostrou que um classificador de aprendizado de máquina binário simples é capaz de classificar pacientes COVID-19 positivos por meio de sons respiratórios e de tosse com alta precisão (AUC = 0,7) [7]. Da mesma forma, os pesquisadores da CMU identificaram 18 características de voz que distinguem pacientes COVID-19 positivos e treinaram um modelo para diagnosticar COVID- 19 com uma precisão de 89,1%. ",
+  "diagnosticQ": "Como o algoritmo de AI de Virufy detectará COVID-19?",
+  "diagnosticoA": "Com base nesta pesquisa anterior, Virufy está desenvolvendo um algoritmo de IA que pode ser usado para prever com precisão uma infecção por COVID-19 em minutos com base em gravações de sons de tosse. No entanto, ao contrário de pesquisas anteriores de tosse com COVID-19 que voltado para a população dos EUA, Virufy visa coletar dados de vários locais em todo o mundo. Como uma iniciativa de estudantes com voluntários em vários países, Virufy está desenvolvendo um modelo de diagnóstico COVID-19 com maior inclusão racial e espacial por meio de dados que incluem uma variedade de etnias e diferenças fonológicas específicas da comunidade. ",
+  "performanceQ": "O desempenho do modelo de IA em diferentes smartphones permanecerá inalterado?",
+  "performanceA": "Idealmente, gostaríamos que os usuários seguissem as instruções no aplicativo que explicam como registrar sua tosse. No entanto, podemos usar uma técnica chamada aumento de dados para fazer o algoritmo funcionar em todos os tipos de cenários, se necessário.",
+  "privacyCategory": "Privacidade de dados",
+  "dataStorageQ": "Como o Virufy armazenará meus dados com segurança?",
+  "dataStorageA": "Usamos JotForm e Amazon Web Services (AWS) para coleta de dados de estudo de pesquisa. JotForm e AWS armazenam os dados em um aplicativo seguro com acesso e controles restritos. Seus dados serão armazenados com JotForm ou AWS até que sejam baixados por nós. Armazenaremos os dados em um banco de dados com acesso restrito. Se desejar obter mais informações sobre como a Jotform e a AWS armazenam seus dados, visite as respectivas políticas de privacidade em <a target = '_ blank' href = 'https: / /www.jotform.com/privacy / '> https://www.jotform.com/privacy/ </a> e <a target =' _ blank 'href =' https: //aws.amazon.com/en/ privacy '> https://aws.amazon.com/en/privacy/ </a>. Se desejar saber mais, consulte a política de privacidade da Virufy. ",
+  "privacyThreatsQ": "A minha privacidade corre o risco de ficar exposta quando doo a minha tosse para o Virufy?",
+  "privacyThreatsA": "Nossas fortes equipes jurídicas e de segurança da informação desenvolveram um DPIA para lidar com riscos e ameaças potenciais à sua privacidade. Armazenaremos seus dados pessoais de uma forma que nos permita identificá-lo por no máximo 4 (quatro) meses em um banco de dados seguro com acesso restrito. Após 4 (quatro) meses, retiraremos todas as informações de seus dados pessoais (por exemplo, seu nome e informações de contato) e os agregaremos às informações de terceiros, de modo que você não possa ser razoavelmente identificado como um indivíduo. Para evitar dúvidas, o que iremos reter a longo prazo são dados biométricos e de saúde anônimos, como registros de tosse, para fins de pesquisas futuras sobre vírus e outras condições médicas. Se você quiser saber mais, consulte à política de privacidade da Virufy. ",
+  "privacyPolicyQ": "O Virufy tem uma política de privacidade e uma política de cookies?",
+  "privacyPolicyA": "Virufy leva sua privacidade a sério e nossa equipe jurídica preparou uma política de privacidade detalhada e uma política de cookies para proteger as informações pessoais que você compartilha conosco por meio do uso de nosso website, participação em nosso estudo de doação de tosse, contato conosco e voluntário formulários.",
+  "thirdPartiesQ": "Meus dados serão compartilhados com terceiros?",
+  "thirdPartiesA": "Se você optar por compartilhar suas informações de contato (por exemplo, e-mail e número de telefone) conosco, não distribuiremos nenhuma dessas informações identificáveis ​​a terceiros, mesmo para fins de pesquisa, sem o seu consentimento explícito. No entanto, podemos compartilhar suas informações anônimas, como sons de tosse, com terceiros, a fim de acelerar os esforços de pesquisa global para interromper a pandemia de COVID-19 e outras propagações futuras da doença. Mais detalhes podem ser encontrados em nossa política de privacidade e no formulário de consentimento do estudo de coleta de dados. ",
+  "validTechnologyQ": "A tecnologia já foi validada?",
+  "validTechnologyA": "Sim, vários grupos em todo o mundo validaram que a tosse contém padrões detectáveis ​​que indicam a presença de COVID-19. Acreditamos que a implementação da tecnologia é apenas uma questão de tempo e colaboração. Mais detalhes podem ser encontrados em nosso página de pesquisa. Você também pode ler sobre nossas novas descobertas em nosso artigo de pesquisa. ",
+  "financeCategory": "Financeiro",
+  "financialContributionQ": "Preciso fazer uma contribuição financeira se estou doando minha tosse?",
+  "FinancialContributionA": "Não.",
+  "appCostQ": "Os usuários terão que pagar para usar o aplicativo?",
+  "appCostA": "Como organização sem fins lucrativos, nossa intenção é tornar o aplicativo gratuito para todos, especialmente em países de baixa renda. No entanto, podemos precisar cobrar uma taxa nominal para apoiar nossas operações, caso não consigamos arrecadar o suficiente fundos.",
+  "generalCategory": "Geral",
+  "moreQuestionsQ": "E se eu tiver mais perguntas?",
+  "moreQuestionsA": "Mais detalhes podem ser encontrados em nossa política de privacidade completa, política de cookies e formulário de consentimento que está incorporado no aplicativo de coleta de dados. Para perguntas relacionadas ao estudo de coleta de dados, envie um e-mail para <a href = 'mailto: study@virufy.org '> study@virufy.org </a>. Para consultas relacionadas a dados, podemos ser contatados em <a href='mailto:open-data@virufy.org'> open-data@virufy.org </a>. Para todas as outras perguntas, você pode entrar em contato conosco pelo e-mail info@virufy.org. "
+}

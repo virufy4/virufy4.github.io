@@ -1,0 +1,80 @@
+{
+  "meta": "Dondequiera que estés, puedes unirte al proyecto Virufy y ayudar a crear una prueba COVID-19 en línea impulsada por IA. Marca la diferencia hoy.",
+  "title": "Tú puedes ayudar a controlar la pandemia | Virufy",
+  "otherWaysContribute": {
+    "title": "Otras Formas De Contribuir",
+    "contribute": "Contribuir",
+    "collaborate": "Colaborar",
+    "tellStory": "Cuéntanos Tu Historia"
+  },
+  "joinusContibute": {
+    "title": "Necesitamos tu contribución para poder seguir ayudando a millones de personas en la lucha contra el Covid",
+    "details": "Tenemos dos formas de contribuir - elige la que prefieras y haz tu donación ahora.",
+    "buttonDonate": "Donar"
+  },
+  "availableRoles": {
+    "join": "Únete al equipo Virufighter",
+    "fontHeading": "Virufy está completamente formado de voluntarios y empresas asociadas pro bono. Únete a nuestro equipo acelerado e impulsado por la misión para poner en práctica sus habilidades para frenar la propagación de la pandemia a nivel mundial.",
+    "fontheadingBold": "¿Tienes lo que se necesita? ¡Consulta nuestras oportunidades a continuación!",
+    "jobOpenings": "Ofertas De Empleo",
+    "applyNow": "Aplicar ahora",
+    "location": "Ubicación"
+  },
+  "joinusCollaborate": {
+    "joinTitle": "Únete a nosotros en la lucha contra COVID-19.",
+    "details": "Si eres un humanitario, un experto o simplemente quieres participar en la misión de Virufy; hay muchas formas de ayudar",
+    "joinSubTitle": "Cómo Puedes Participar",
+    "careers": "Carreras",
+    "becomeaPartner": "Conviértete en socio",
+    "textcarrers": "Únete a nuestro veloz equipo impulsado por una misión que combina habilidades únicas para frenar la propagación de la pandemia a nivel mundial.",
+    "textbecomeaPartner": "Trabajamos con organizaciones médicas, tecnológicas, gubernamentales y otras organizaciones establecidas en todo el mundo para dar forma a la misión de Virufy",
+    "joinButtonViewAvailable": "Ver roles disponibles",
+    "joinButtonContactuS": "Contáctanos"
+  },
+  "joinusTellStory": {
+    "head": "Comparte tu historia personal",
+    "details": "Cuéntanos cómo te ha afectado el COVID 19 a ti o a tu familia y cómo has podido superar la enfermedad, muchas personas encontrarán motivación en tu historia",
+    "buttonSend": "Enviar",
+    "yourStory": "Tu historia se ha recibido correctamente",
+    "thankyou": "Gracias por confiar en nosotros",
+    "learnmore": "Más información sobre nosotros"
+  },
+  "opportunities": {
+    "atras": "Atrás",
+    "head": "Virufy está totalmente a cargo de voluntarios y empresas colaboradoras pro bono",
+    "Subhead": "Únete a nuestro rápido equipo impulsado por misiones para poner en práctica sus habilidades para frenar la propagación de la pandemia a nivel mundial. ¿Tiene lo que se necesita? ¡Vea las oportunidades a continuación!",
+    "title": "Ofertas de empleo",
+    "location": "Ubicación",
+    "remote": "Remoto",
+    "SwissArmy": "Swiss Army Knife",
+    "TextSwissArmy": "Seeking an individual to contribute on a part-time volunteer basis as a Jack/Jill-of-all-trades",
+    "ProductManager": "Product Manager",
+    "TextProductManager": "Seeking an individual to contribute on a part-time volunteer basis and collaborate closely with the Virufy development team, define the product roadmap, manage development progress and align with stakeholders.",
+    "buttonApllyNow": "APLICAR AHORA"
+  },
+  "donate": {
+    "title": "Hacer una donación",
+    "details": "Haz tu donación ahora para ayudar a Virufy a realizar su trabajo vital de llevar la detección de enfermedades rápida y gratuita a todos. \n\n Todo ayuda; no podríamos hacerlo sin el apoyo financiero de colaboradores como usted.",
+    "donateButton": "Done para apoyar nuestra organización"
+  },
+  "shareCough": {
+    "title": "Comparte tu tos",
+    "details": "Haz tu donación para nuestro estudio y ayudar a refinar la capacidad predictiva de nuestra IA para reconocer COVID-19.",
+    "getTheApp": "Contribuye Con Tu Tos"
+  },
+  "nextSteps": {
+    "contribute": {
+      "title": "Asóciate con nosotros",
+      "details": "Trabajamos con organizaciones médicas, tecnológicas, gubernamentales y otras organizaciones establecidas en todo el mundo para dar forma  y cumplir la misión de Virufy",
+      "learnmore": "¿Quieres aprender más?",
+      "faq": "Consulta nuestra página de preguntas frecuentes",
+      "question": "¿Buscando un socio?",
+      "linkText": "Contáctanos"
+    },
+    "join": {
+      "title": "Conoce nuestra gente",
+      "details": "Virufy trabaja con instituciones establecidas en todo el mundo para cumplir con su misión en las áreas de tecnología médica, gobierno y otras áreas. Como organización sin fines de lucro en el campo de la identificación de enfermedades con tecnología, nuestro objetivo es transformar la atención médica global e inspirar apoyo e inversión.",
+      "linkText": "Quiénes somos"
+    }
+  }
+}

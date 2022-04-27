@@ -1,0 +1,71 @@
+[
+  {
+    "fromPath": "study/submit-steps/questionary/step2a",
+    "toPath": "/study"
+  },
+
+  {
+    "fromPath": "study/submit-steps/questionary/step2b",
+    "toPath": "/study"
+  },
+
+  {
+    "fromPath": "study/submit-steps/questionary/step3",
+    "toPath": "/study"
+  },
+
+  {
+    "fromPath": "study/submit-steps/questionary/step4a",
+    "toPath": "/study"
+  },
+
+  {
+    "fromPath": "study/submit-steps/questionary/step6",
+    "toPath": "/study"
+  },
+
+  {
+    "fromPath": "study/submit-steps/step-listen/cough",
+    "toPath": "/study"
+  },
+
+  {
+    "fromPath": "study/submit-steps/step-listen/speech",
+    "toPath": "/study"
+  },
+
+  {
+    "fromPath": "study/submit-steps/step-record/cough",
+    "toPath": "/study"
+  },
+
+  {
+    "fromPath": "study/submit-steps/step-record/speech",
+    "toPath": "/study"
+  },
+
+  {
+    "fromPath": "study/welcome",
+    "toPath": "/study"
+  },
+
+  {
+    "fromPath": "study/welcome/step-2",
+    "toPath": "/study"
+  },
+
+  {
+    "fromPath": "study/welcome/step-3",
+    "toPath": "/study"
+  },
+
+  {
+    "fromPath": "study/welcome/step-4",
+    "toPath": "/study"
+  },
+
+  {
+    "fromPath": "study/welcome/step-5",
+    "toPath": "/study"
+  }
+]

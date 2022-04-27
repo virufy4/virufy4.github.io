@@ -1,0 +1,15 @@
+{
+  "callToAction": {
+    "title": "Ayúdanos a luchar para acabar con Covid 19",
+    "paragraph": "Necesitamos tu contribución para seguir ayudando a millones de personas en la lucha contra Covid."
+  },
+  "paymentTitles": {
+    "secureDonation": "Donación segura",
+    "paymentOption": "Opciones de pago",
+    "billingInfo": "Información de facturación"
+  },
+  "success": {
+    "title": "Gracias por tu donación!",
+    "paragraph": "Ahora estamos un paso más cerca de terminar con el Covid-19"
+  }
+}

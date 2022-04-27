@@ -1,0 +1,1217 @@
+{
+  "404": {
+    "header": "エラー!",
+    "error": "お探しのページは見つかりませんでした。",
+    "code": "エラーコード： 404",
+    "back": "ホームページに戻る"
+  },
+  "becomeaSupporter": {
+    "title-BecomeaSuporter": "サポーターになる（個人）",
+    "title-BecomeaPartner": "パートナーになる（企業）",
+    "sub-header": "ぜひご協力をお願いします。データのご提供後、順次ご連絡差しあげます。",
+    "button": "送信する",
+    "inputname": "*お名前",
+    "inputemail": "*メールアドレス",
+    "inputcompany": "勤務先",
+    "inputmessage": "*メッセージ",
+    "inputstory": "*ストーリー",
+    "inputupLoadyourPicture": "*プロフィール写真をアップロードする",
+    "back": "戻る"
+  },
+  "CAROUSEL": {
+    "listInfo": {
+      "title": "私たちは、共に世界をより良くすることができると信じています。",
+      "intro": "このような病気と闘うために、世界中の人々が私たちを支援し協力してくれています。</p> 今あなたの協力が必要です。",
+      "jose": "“教えることは、大切な人を支えるために、最も効率的な方法です”",
+      "philipe": "“私の手で、見ず知らずの誰かへ安心・安全を届ける”",
+      "sophie": "“COVIDに悩む人々をサポートしたい”"
+    }
+  },
+  "dashboard": {
+    "header": "収集データのダッシュボード",
+    "sub-header": "あなたの咳は、<b>COVID-19<b>との闘いに<b>欠かせない<b>予測モデルの改良に役立ちます。これまでのVirufyの功績をご覧いただき、ぜひあなたの咳を寄付してください",
+    "button": "あなたの咳を投稿する",
+    "donatedCoughs": "咳を寄付する"
+  },
+  "donate": {
+    "callToAction": {
+      "title": "Covid 19を撲滅するための活動にご協力をお願いします。",
+      "paragraph": "Covid 19との闘いで何百万人もの人々を支援し続けるためには、皆様からの寄付が必要です。"
+    },
+    "paymentTitles": {
+      "secureDonation": "寄付の実行",
+      "paymentOption": "お支払い方法",
+      "billingInfo": "請求情報"
+    },
+    "success": {
+      "title": "寄付をありがとうございました!",
+      "paragraph": "Covid-19の撲滅に一歩近づきました。"
+    }
+  },
+  "faqstext": {
+    "meta": "Virufyプロジェクトの詳細と、無料のオンラインCOVID-19事前スクリーニングの構築を支援するためにできることを入手してください。 一緒に私たちは違いを生むことができます！",
+    "tabFaqs": {
+      "pageTitle": "私たちのプロジェクトに関するよくある質問| Virufy",
+      "title": "よくある質問",
+      "virufyApp": "Virufy App",
+      "aboutVirufy": "Virufyについて",
+      "aboutAI": "AIについて",
+      "aboutFinances": "財務情報",
+      "privacyDetails": "プライバシー",
+      "otherDetails": "その他",
+      "titleAnswer": "回答"
+    },
+    "questionSection": {
+      "questionsVirufyApp": {
+        "Question#1": {
+          "numberQuestion": "質問 その１",
+          "questionIdQ": "COVID-19の予測結果は、いつ、どのようにアプリに出るのですか？",
+          "questionIdA": "当社のアプリは現在、データ収集専用となっています。\n\nCOVID-19予測アプリは、各国の保健所の承認と、AI技術を現地で検証するための臨床試験がないとリリース出来ません。このプロセスは、政府パートナーのスピードによって、数週間から数ヶ月かかることもあります。Virufyは、人々にこの技術を無料で提供し、必要な場合にのみ高価なPCR検査を最適に使用できるようにするため、保健当局や病院からのパートナーシップを求めています。"
+        },
+        "Question#2": {
+          "numberQuestion": "質問　その２",
+          "questionIdQ": "アプリはどこでダウンロードできますか？iOSとAndroidに対応していますか？",
+          "questionIdA": "アプリは<a target='_blank' href='https://virufy.org/app'>https://virufy.org/app</a>でダウンロードできます。公式アプリストアに入れるには、国によっては政府または医療機関の承認が必要なため、アプリをダウンロードできるようにする予定です。\n\nアプリはスマートフォンから接続可能です。スマートフォンとの連携が可能で、iOSやAndroidなど、あらゆるOSに対応しています。"
+        },
+        "Question#3": {
+          "numberQuestion": "質問　その３",
+          "questionIdQ": "アプリケーションは無償で全世界に提供されるのですか？",
+          "questionIdA": "501(c)(3)非営利団体として、私たちは低所得国のためにアプリを無料にすることを意図しています。しかし、十分な資金を集めることができない場合、運営をサポートするためにわずかな手数料を徴収する必要があるかもしれません."
+        },
+        "Question#4": {
+          "numberQuestion": "質問　その４",
+          "questionIdQ": "このアプリをにスタートアップへ展開する予定はありますか？",
+          "questionIdA": "Virufyは非営利団体です。人々のためになるアプリの展開を加速させるため、必要に応じて企業と提携することがあります。"
+        },
+        "Question#5": {
+          "numberQuestion": "質問　その５",
+          "questionIdQ": "私の国では、いつからアプリが使えるようになりますか？",
+          "questionIdA": "Virufyは、国によって異なるデータプライバシー法の遵守に努めています。無償のデータプライバシー弁護士と接続できる場合、当社のプライバシーポリシーと同意書を確認し、順次あなたの国に拡大することが可能になります。"
+        },
+        "Question#6": {
+          "numberQuestion": "質問　その６",
+          "questionIdQ": "Virufyアプリのビジョンについて教えてください。",
+          "questionIdA": "Virufyは当初、検査を補完する目的で作られました。そして、人々が自分の健康状態を簡単に知ることができ、病気を蔓延させることのない未来を描いています。"
+        },
+        "Question#7": {
+          "numberQuestion": "質問　その７",
+          "questionIdQ": "テスト結果にアクセスできる人は限られていますか？どのようにしてプライバシーは守られているのでしょうか。テスト結果はどこに保存されるのですか？",
+          "questionIdA": "予測アプリの意図としては、ポジティブな結果には多くの恐怖があるため、ユーザーだけが検査結果を見ることができるようにしたいと考えています。検査結果やデータ収集のデータは、安全なサーバーに保存されます。"
+        }
+      },
+      "questionsAboutVirufy": {
+        "Question#1": {
+          "numberQuestion": "質問　その１",
+          "questionIdQ": "この取り組みはどのようにして生まれたのですか？?",
+          "questionIdA": "パンデミック発生時、Virufyの創業者アミル・カンザダ氏は、スマートフォンが遍在していること、COVIDが鼻、喉、肺に影響を与えることを知っていました。彼は、呼吸音や咳の音を機械学習で分析することで、COVIDのパターンを検出できるのではないかと考えたのです。 そして、良い影響を与えたいと考え、著名な大学病院で362人の患者を対象とした臨床試験を実施しました。スタンフォード大学の大学院生から始まったVirufyのオリジナルチームは、世界中の大学から集まったボランティアに拡大した。\n\nAs a <a target='_blank' href='https://www.oneyoungworld.com/'>One Young World Japan</a> のアンバサダーとして10数カ国を訪問したアミルは、グローバルな視点と、スマートフォンを使ったソリューションがいかに世界中の人々に利用されるかを熟知しています。"
+        },
+        "Question#2": {
+          "numberQuestion": "質問　その２",
+          "questionIdQ": "Virufyは何をする組織なのか？",
+          "questionIdA": "Virufyの目標は、何百万人もの人々が咳データを提供し、共通の敵であるCOVIDと戦うムーブメントを起こすことによって、世界最大のデータセットを構築することです。地元の公衆衛生当局に承認されると、低所得国において、迅速かつ無料のCOVID検査のためのスマートフォンアプリがリリースされる予定です。このアプリは、大規模かつ匿名での検査を可能にし、ウイルスの拡散を遅らせるために、非常に役に立ちます。COVIDを阻止するために、国境を越えて人々を団結させ、グローバルな協力の新しいパラダイムを創り出したいと考えています。スマートフォンアプリで病気の早期発見を可能にし、感染症の広がりが大幅に減少する未来を、ともに創りましょう。"
+        },
+        "Question#3": {
+          "numberQuestion": "質問　その３",
+          "questionIdQ": "Virufyは、同じようなプロジェクトに取り組んでいる他のグループとどう違うのですか？",
+          "questionIdA": "Virufyは501(c)(3)の非営利団体であるため、優秀なプロフェッショナルをボランティアとして採用することが可能です。また、5大陸にまたがるグローバルなチームであり、グローバルな共感を得ることができる組織でもあります。営利を目的としないので、途上国での活動も可能です。スタンフォード大学とOne Young Worldの密なネットワークにより、世界各国のトップレベルの人脈にアクセスすることができます。若いプロフェッショナルが、業界のシニアエキスパートの賢明なアドバイスによって力を与えられ、正しい方向に焦点を当てた迅速で創造的な活動を行うというモデルです。"
+        },
+        "Question#4": {
+          "numberQuestion": "質問　その４",
+          "questionIdQ": "調査のフェーズは？参加するための期限はありますか？",
+          "questionIdA": "私たちは、パートナーシップの構築、モバイルアプリの構築、カリフォルニア州の非営利団体の登録、7カ国のデータプライバシー法を遵守するためのポリシーの構築などに多大な労力を費やしてきました。\n\n私たちのデータ収集アプリは重要な段階にあり、アプリの公式リリースのために、医療データのプライバシーと技術的な懸念の大部分に対処しています。データ収集モバイルアプリのデータプライバシー、情報セキュリティ、UI/UXを整備し、スケーラブルなバックエンドのAWSインフラを構築済みです。2021年には大量のデータ収集が予想され、ソリューション構築のためのAI開発を共同で推進する予定です。期限はなく、AIアルゴリズムの改善に繋げるために、より多くの咳のデータをいつでも歓迎しています。"
+        },
+        "Question#5": {
+          "numberQuestion": "質問　その５",
+          "questionIdQ": "他のプロジェクトと比較して、Virufyの特徴は何ですか？",
+          "questionIdA": "私たちは若者が運営し、15カ国、25大学から集まった多様でグローバルなチームで構成されています。私たちは、世界中の大学、非営利団体、企業からの専門家アドバイザーに指導を受けています。私たちの学際的なチームは、データプライバシー、機械学習、医療、情報セキュリティ、モバイルアプリ開発などの専門知識を備えています。ワン・ヤング・ワールドのネットワークにより、各国の信頼できるパートナーとのつながりがあります。\n\n私たちは、ボランティアで運営される501(c)(3)非営利団体なので、独立性が高く、お役所仕事も少なくなります。また、法律や個人情報保護に関するアドバイスも無償で受けられるので、適切な展開が可能です。"
+        },
+        "Question#6": {
+          "numberQuestion": "質問　その６",
+          "questionIdQ": "Virufyプロジェクトを実現するために、どれくらいの投資が行われたのでしょうか？",
+          "questionIdA": "現在まで200人以上のボランティアが、このプロジェクトの実現に数千時間を費やしてきました。SlackやJotFormなどの企業は、無料のソフトウェアやクラウドクレジットでサポートしてくれています。その他、メールサービスやクラウドコンピューティングなどの費用は、創業者であるカンザダ氏が賄っていますが、数千ドル程度にとどまっています。\n\n成功すればクラウドコンピューティングのコストは上がりますが、同時に助成金や個人の寄付も潤沢に集理始めるため、これらを資金源にしようと考えています。"
+        },
+        "Question#7": {
+          "numberQuestion": "質問　その７",
+          "questionIdQ": "Virufy は非営利団体ですか？?",
+          "questionIdA": "Virufyは、米国内国歳入庁（IRS）により、内国歳入法第501条（c）（3）に基づく非課税公益法人として認められたカリフォルニア州の非営利法人です。"
+        },
+        "Question#8": {
+          "numberQuestion": "質問　その８",
+          "questionIdQ": "参加大学について教えてください。",
+          "questionIdA": "Virufyは、どの大学とも公式に提携していません。\n\nしかし、このVirufyプロジェクトはスタンフォード大学 <a target='_blank'href='https://responselab.stanford.edu/projects.html'>COVID-19レスポンス・イノベーション・ラボのプロジェクトであり、</a>,<a target='_blank' href='https://h4r.stanford.edu/'>スタンフォード・ハッキング</a>の一部でもあります。<a target='_blank' href='https://www.oneyoungworld.com/'>One Young World</a>など様々なプラットフォームで紹介されており、私たちのチームには、カリフォルニア大学バークレー校、ハーバード大学、プリンストン大学など、25以上の大学の学生や卒業生が参加しています。"
+        }
+      },
+      "questionsAboutAI": {
+        "Question#1": {
+          "numberQuestion": "質問　その１",
+          "questionIdQ": "なぜCOVID-19の咳を識別できるのですか？",
+          "questionIdA": "COVID-19は、他の呼吸器疾患と同様に、喉や肺にダメージを与えますが、咳のパターンに決定的な違いを生じさせます。現在、カーネギーメロン大学、MIT、ケンブリッジ大学など、世界的に有名な研究機関によって活発に研究がなされています。例えば、ケンブリッジ大学が行った研究では、単純な2値機械学習分類器により、呼吸音や咳の音からCOVID-19陽性患者を高い精度で分類できることを示しました。同様に、CMUの研究者は、COVID-19陽性患者を区別する18の音声特徴を特定し、COVID-19を高い精度で検出する学術モデルを構築しました。"
+        },
+        "Question#2": {
+          "numberQuestion": "質問　その２",
+          "questionIdQ": "VirufyのAIアルゴリズムは、どのようにCOVID-19を検出するのでしょうか。",
+          "questionIdA": "Virufyは過去の研究をもとに、咳の音の録音から数分以内にCOVID-19感染を正確に予測できるAIアルゴリズムの開発を進めています。ただし、これまでのCOVID-19の咳の研究が米国人を対象としていたのに対し、Virufyは世界中の複数の拠点からデータを収集することを目標としています。Virufyは、数カ国にまたがるボランティアとともに学生が運営するイニシアチブとして、さまざまな民族や地域特有の音韻の違いを含むデータを通じて、より人種性・地域性を網羅したCOVID-19診断モデルの開発を進めています。"
+        },
+        "Question#3": {
+          "numberQuestion": "質問　その３",
+          "questionIdQ": "コロナウイルスの感染予防にアプリはどのように役立つのでしょうか？",
+          "questionIdA": "COVIDをはじめとする病気のリスク状況を誰もが知ることで、未知のウイルスが蔓延する可能性を大きく減らすことができます。また、早期発見することで、自己隔離を行い、早く治すことができるようになります。一方、発展途上国の看護師は、アプリを使って患者がCOVIDに感染しているかどうかを確認できるため、高価なPCR検査キットを使用する必要性を減らすことができます。また、COVIDの症状があると感じた人は、いつでも自分でチェックすることができ、医師による診察やCOVIDの検査が必要かどうかを確認することができます。"
+        },
+        "Question#4": {
+          "numberQuestion": "質問　その４",
+          "questionIdQ": "私たちの効果の割合は、臨床試験でどのように測定されているのでしょうか？",
+          "questionIdA": "詳細は、こちらをご覧ください <a target='_blank' href='https://virufy.org/paper'>https://virufy.org/paper</a> ＆ <a target='_blank' href='https://virufy.org/research.html'>https://virufy.org/research.html</a>"
+        },
+        "Question#5": {
+          "numberQuestion": "質問　その５",
+          "questionIdQ": "スマートフォンのマイクは、検出に使えるほどの精度はあるのでしょうか？",
+          "questionIdA": "20カ国3500人、さまざまなスマートフォンの結果から、マイクは確かにCOVID-19のサインを捉えることができることがわかりました。"
+        },
+        "Question#6": {
+          "numberQuestion": "質問　その６",
+          "questionIdQ": "異なる環境下でのAIモデルの性能に影響はないのでしょうか？",
+          "questionIdA": "理想は、アプリの指示に従って咳を記録してもらうことです。しかし、必要であれば、データ拡張と呼ばれる技術を使って、あらゆる種類の状況でアルゴリズムが機能するようにすることができます。"
+        },
+        "Question#7": {
+          "numberQuestion": "質問　その７",
+          "questionIdQ": "データの収集プロセスの過程で苦労した点は？例えば、人工知能の精度が低い国や地域などはありましたか？",
+          "questionIdA": "病院から収集する場合は、臨床試験の書式やIRBからの承認が必要であり、プロセスに時間がかかります。スタンフォード大学のメディカルアドバイザーの指導のもと、南アジアの2病院を対象にこのプロセスを進め、現在、南米とアフリカの病院と協議中です。また、ユーザーから直接収集する場合、LGPDを含むデータプライバシー法の遵守のため、プロボノの専門弁護士と多大な労力を費やしました。\n <a target='_blank' href='https://virufy.org/paper'>研究論文</a>にあるように, 研究論文にあるように、データ処理で苦労した点として、過剰な背景雑音や誤った種類の咳の録音などがあり、AI開発者がAIモデルの学習前に手動で音声サンプルをクリーニングする必要がありました。"
+        },
+        "Question#8": {
+          "numberQuestion": "質問　その８",
+          "questionIdQ": "技術検証は済んでいますか?",
+          "questionIdA": "はい、世界中のさまざまなグループが、COVID-19の咳パターンの優位性を検証しています。私たちは、この技術の普及には、時間と協力が鍵だと考えています。論文にあるように、私たちはCOVIDの咳サンプルが大陸間や臨床データセットとクラウドソースデータセット間で一般化されることを独自に示しています。 すでに2カ国の病院でIRB承認の臨床試験を行い、現在、民間病院の幹部や政府トップレベルのコネクションを通じて、アフリカ、中南米、南アジアでの臨床試験の承認を求めています。"
+        },
+        "Question#9": {
+          "numberQuestion": "質問　その９",
+          "questionIdQ": "無症状の症例は発見できるのでしょうか。",
+          "questionIdA": "はい、無症状での検出はMITなどの研究でも明らかになっています。特に無症状になりやすい20代、30代の方は要注意です。"
+        },
+        "Question#10": {
+          "numberQuestion": "質問　その１０",
+          "questionIdQ": "第三者が開発した人工知能、またはこの目的のためだけに作られた人工知能を使用するのでしょうか？",
+          "questionIdA": "Virufyは独自のAI研究チームを持ち、他の研究グループのAIアルゴリズムとのコラボレーションや統合にオープンな姿勢で臨んでいます。"
+        },
+        "Question#11": {
+          "numberQuestion": "質問　その１１",
+          "questionIdQ": "COVID-19プロジェクト後のVirufyの計画は？",
+          "questionIdA": "低所得国には、国民にワクチンを接種するための財源や医療インフラがなく、特にそれらの国々でパンデミックを抑制するためには、やはり迅速で公平なCOVID-19検査が重要になると予想されます。さらに、ワクチン業界の上級専門家との議論から、新しいCOVID-19ワクチンが長期的にどの程度有効であるかは不明であり、またCOVIDが風邪やインフルエンザなど他と同様の季節性疾患にとどまることも懸念されています。"
+        },
+        "Question#12": {
+          "numberQuestion": "質問　その１２",
+          "questionIdQ": "COVID-19が収束した後、Virufyはどのような展開を考えているのですか？",
+          "questionIdA": "Virufyは、低所得国において、スマートフォンによる検査を普及させることで、ウイルス感染のリスクを感じたときにいつでも利用を可能にし、さまざまな感染症の蔓延を食い止めることを目的としています。同じ人工知能技術を応用して、風邪やインフルエンザなど他のコロナウイルスも検出できるようになると期待しており、結果としてAIで検出できる病気については、医療システムや化学物質による診断にかかる不要な負担を軽減することができます。"
+        }
+      },
+      "questionsFinances": {
+        "Question#1": {
+          "numberQuestion": "質問　その１",
+          "questionIdQ": "咳の寄付をする際に、金銭的な負担は必要ですか？",
+          "questionIdA": "金銭の負担は一切ありません。"
+        },
+        "Question#2": {
+          "numberQuestion": "質問　その２",
+          "questionIdQ": "どのように咳を録音し提出すればよいですか？",
+          "questionIdA": "Virufyは現在、特定の国からの咳のみを収集しており、それは私たちのアプリで確認できます。: <a target='_blank' href='https://virufy.org/app'>https://virufy.org/app</a>"
+        },
+        "Question#3": {
+          "numberQuestion": "質問　その３",
+          "questionIdQ": "咳の症状がないと寄付はできないのでしょうか？",
+          "questionIdA": "無症状の陽性者の方でも咳を寄付いただけます。"
+        },
+        "Question#4": {
+          "numberQuestion": "質問　その４",
+          "questionIdQ": "ドナーは全部で何人いらっしゃるのですか？",
+          "questionIdA": "南米や南アジアを中心に10カ国以上から5,000件以上の咳の録音を収録しています。これらの中には、臨床的なものもあれば、私たちのアプリに直接個人から投稿されたものもあります。"
+        },
+        "Question#5": {
+          "numberQuestion": "質問　その５",
+          "questionIdQ": "組織の運営経費はどのくらいですか？",
+          "questionIdA": "現在、完全にボランティアで運営されています。主な予算は、データ収集を完了させるためのマーケティング費用です。また、大規模なユーザーベースにスケールアップした後の計算のための資金も必要でしょう。"
+        },
+        "Question#6": {
+          "numberQuestion": "質問　その６",
+          "questionIdQ": "チームは資金援助を受けているのですか？もしあれば、どこで、いくらですか？それは何に使われるのですか？",
+          "questionIdA": "最近501(c)(3)の資格を取得し、助成金の申請を始めたばかりなので、まだ資金調達はできていません。"
+        }
+      },
+      "questionsPrivacy": {
+        "Question#1": {
+          "numberQuestion": "質問　その１",
+          "questionIdQ": "Virufy はどのように私のデータを安全に保管するのですか？",
+          "questionIdA": "調査研究データの収集には、JotFormとAmazon Web Services（AWS）を使用しています。JotForm と AWS は、アクセスおよび制御が制限された安全なアプリケーションにデータを保存します。お客様のデータは、弊社がダウンロードするまで JotForm または AWS に保存されます。弊社は、データをアクセス制限のあるデータベースに保存します。JotForm と AWS がお客様のデータをどのように保存しているかについての詳しい情報は、それぞれのプライバシーポリシーをご覧ください： <a target='_blank' href='https://www.jotform.com/privacy/'>https://www.jotform.com/privacy/</a> ＆ <a target='_blank' href='https://aws.amazon.com/en/privacy/'>https://aws.amazon.com/en/privacy/</a>."
+        },
+        "Question#2": {
+          "numberQuestion": "質問　その２",
+          "questionIdQ": "Virufyに咳を寄付する際、私のプライバシーが漏れることはありませんか？",
+          "questionIdA": "当社の強力な法務および情報セキュリティチームは、お客様のプライバシーに対する潜在的なリスクと脅威に対処するため、DPIAを策定しました。私たちは、お客様の個人データを匿名化された形（お客様を一切特定できない形）で、アクセスが制限された安全なデータベースのみに保存します。 詳しくはこちらをご覧ください：<a target='_blank' href='https://virufy.org/privacy_policy.html'>Virufy Privacy Policy</a>."
+        },
+        "Question#3": {
+          "numberQuestion": "質問　その３",
+          "questionIdQ": "Virufy には、プライバシーポリシーとクッキーポリシーがありますか？",
+          "questionIdA": "Virufyは、お客様のプライバシーと個人情報の保護に真剣に取り組んでいます。当社の法務チームは、当社のウェブサイトの使用、咳止め寄付研究への参加、当社への連絡、およびボランティア応募を通じてお客様が当社と共有する個人情報を保護するために、詳細なプライバシーポリシーとクッキーポリシーを作成しました。"
+        },
+        "Question#4": {
+          "numberQuestion": "質問　その４",
+          "questionIdQ": "私のデータは第三者と共有されるのでしょうか？",
+          "questionIdA": "お客様がご自身の連絡先（Eメールや電話番号など）を当社に知らせることを選択された場合、当社はこの個人を特定できる情報をいかなる第三者にも配布いたしません。ただし、COVID-19の大流行やその他の将来の感染拡大を阻止するための世界的な研究活動を加速させるために、あなたの咳の音など、匿名化された情報を第三者と共有することがあります。 詳しくはこちらをご覧ください： <a target='_blank' href='https://www.jotform.com/privacy/'>Privacy Policy</a> ＆ <a target='_blank' href='https://virufy.org/us/study_consent.pdf'>Consent Form</a>."
+        }
+      },
+      "questionsOthers": {
+        "Question#1": {
+          "numberQuestion": "質問　その１",
+          "questionIdQ": "どうすればもっとVirufyを支援できますか？",
+          "questionIdA": "こちらからチームへの参加方法をご確認ください： <a target='_blank' href='https://virufy.org/join.html'>join page</a> サポーターになる <a target='_blank' href='https://gofundme.com/virufy'>GoFundMe</a>. パートナーになる"
+        },
+        "Question#2": {
+          "numberQuestion": "質問　その２",
+          "questionIdQ": "流通の仕組みと、Virufyの普及について教えてください。",
+          "questionIdA": "このアプリは、低所得国の人々のために提供されるものであり、市場に出てすぐに普及する可能性があります。"
+        },
+        "Question#3": {
+          "numberQuestion": "質問　その３",
+          "questionIdQ": "Virufyのデータ収集は、すでに何カ国で行われているのですか？ラテンアメリカの他に、現在力を入れている分野はありますか？",
+          "questionIdA": "以下に掲載されている国からデータを収集しました。 <a target='_blank' href='https://virufy.org/app.html'>app</a>. 中南米は今、私たちが最も注力している地域です。"
+        },
+        "Question#4": {
+          "numberQuestion": "質問　その４",
+          "questionIdQ": "活動やアプリについて、人々の反応はどうですか？",
+          "questionIdA": "お客様アンケートやメディアの反応を見ても、アプリの存在を非常に高く評価し、私たちの活動に賛同してくれていることがわかります。"
+        },
+        "Question#5": {
+          "numberQuestion": "質問　その５",
+          "questionIdQ": "データ収集のために政府と協力するのでしょうか？もしそうなら、それはどのようなものになるのでしょうか？",
+          "questionIdA": "現在、データ収集に関する政府との連携協定は結んでいません。しかし、マーケティングや臨床的な手段で咳のデータ収集を増やすために、政府とのパートナーシップを受け入れることは可能です。さらに、現地の医療AI企業や大学、研究グループへの紹介やパートナーシップを含む、低所得国でのAI検出アプリの展開の承認を加速させたいと考えています。"
+        },
+        "Question#6": {
+          "numberQuestion": "質問　その６",
+          "questionIdQ": "製品に規制当局の承認（例：FDA）は必要ですか？必要な場合、承認プロセスはどのようなものですか？承認取得のための計画はどのようなもので、どれくらいの時間と費用がかかりますか？",
+          "questionIdA": "私たちは、3大陸にまたがる複数の国のデータプライバシー規制に準拠しています。健康保険の相互運用性と説明責任に関する法律（HIPAA）は、当社には適用されません。\n\n米国内の個人に対して予測を提供するわけではないので、FDAの承認は必要ありません。"
+        },
+        "Question#7": {
+          "numberQuestion": "質問　その７",
+          "questionIdQ": "さらに質問がある場合はどうすればよいですか？",
+          "questionIdA": "さらに質問がある場合はこちらから： <a target='_blank' href='https://www.jotform.com/privacy/'>Privacy Policy</a>, <a target='_blank' href='https://virufy.org/cookie_policy.html'>Cookie ポリシーについて</a>, 同意書について<a target='_blank' href='https://virufy.org/app'>data collection app</a>.\n\nデータ収集調査に関するお問い合わせ： <a href='mailto:study@virufy.org'>study@virufy.org</a>.\nデータに関するお問い合わせ： <a href='mailto:open-data@virufy.org'>open-data@virufy.org</a>.\nその他のお問い合わせ： <a href='mailto:info@virufy.org'>info@virufy.org</a>."
+        }
+      }
+    },
+    "missionCategory": "ミッション",
+    "nonprofitQ": "Virufy は非営利団体なのですか？",
+    "nonprofitA": "Virufy はカリフォルニア州の非営利公益法人として登録されています。しかし、501(c)(3)ステータスの正式な承認は、COVID-19の影響でIRSが滞っているため、2021年半ばまでかかる可能性があります。",
+    "postVaccineQ": "COVID-19プロジェクト後のVirufyの計画は？",
+    "postVaccineA": "低所得国には、国民にワクチンを接種するための財源や医療インフラがなく、特にそれらの国では、パンデミックを抑制するために、迅速で公平なCOVID-19検査が依然として重要であると予想されます。",
+    "postControlQ": "COVID-19が収束した後、Virufyはどのような展開を考えているのですか？",
+    "postControlA": "Virufyは、低所得国において、スマートフォンによる検査を普及させることで、ウイルス感染のリスクを感じたときにいつでも利用を可能にし、さまざまな感染症の蔓延を食い止めることを目的としています。同じ人工知能技術を応用して、風邪やインフルエンザなど他のコロナウイルスも検出できるようになると期待しており、結果としてAIで検出できる病気については、医療システムや化学物質による診断にかかる不要な負担を軽減することができます。",
+    "detectionCategory": "テクノロジー",
+    "distinguishableQ": "なぜCOVID-19の咳を識別できるのですか？",
+    "distinguishableA": "COVID-19は、他の呼吸器疾患と同様に、喉や肺にダメージを与えますが、咳のパターンに決定的な違いを生じさせます。現在、カーネギーメロン大学、MIT、ケンブリッジ大学など、世界的に有名な研究機関によって活発に研究がなされています。例えば、ケンブリッジ大学が行った研究では、単純な2値機械学習分類器により、呼吸音や咳の音からCOVID-19陽性患者を高い精度で分類できることを示しました。同様に、CMUの研究者は、COVID-19陽性患者を区別する18の音声特徴を特定し、COVID-19を高い精度で検出する学術モデルを構築しました。",
+    "diagnosisQ": "VirufyのAIアルゴリズムは、どのようにCOVID-19を検出するのでしょうか。",
+    "diagnosisA": "Virufyは過去の研究をもとに、咳の音の録音から数分以内にCOVID-19感染を正確に予測できるAIアルゴリズムの開発を進めています。ただし、これまでのCOVID-19の咳の研究が米国人を対象としていたのに対し、Virufyは世界中の複数の拠点からデータを収集することを目標としています。Virufyは、数カ国にまたがるボランティアとともに学生が運営するイニシアチブとして、さまざまな民族や地域特有の音韻の違いを含むデータを通じて、より人種的・空間的に包括されたCOVID-19診断モデルの開発を進めています。",
+    "performanceQ": "スマートフォンごとに異なるAIモデルの性能は、影響を受けないのでしょうか？",
+    "performanceA": "理想は、アプリ内の咳の記録方法を説明する指示に従うことです。しかし、必要であれば、データ拡張と呼ばれる技術を使って、あらゆるタイプのシナリオでアルゴリズムを動作させることができます。",
+    "privacyCategory": "データプライバシー",
+    "dataStorageQ": "Virufy はどのように私のデータを安全に保管するのですか？",
+    "dataStorageA": "調査研究データの収集には、JotFormとAmazon Web Services（AWS）を使用しています。JotForm と AWS は、アクセスおよび制御が制限された安全なアプリケーションにデータを保存します。お客様のデータは、弊社がダウンロードするまで JotForm または AWS に保存されます。弊社は、データをアクセス制限のあるデータベースに保存します。JotForm と AWS がお客様のデータをどのように保存しているかについての詳しい情報は、それぞれのプライバシーポリシーをご覧ください： <a target='_blank' href='https://www.jotform.com/privacy/'> https://www.jotform.com/privacy/</a> and <a target='_blank' href='https://aws.amazon.com/en/privacy'>https://aws.amazon.com/en/privacy/</a>.",
+    "privacyThreatsQ": "Virufyに咳を寄付する際、私のプライバシーが漏れることはありませんか？",
+    "privacyThreatsA": "当社の強力な法務および情報セキュリティチームは、お客様のプライバシーに対する潜在的なリスクと脅威に対処するため、DPIAを策定しました。当社は、お客様の個人情報を、お客様を特定できる形で、アクセスが制限された安全なデータベースに最大4ヶ月間保存します。4（4）ヶ月後、当社は、お客様の個人情報（氏名、連絡先など）をすべて削除し、これを他の人の情報と統合することにより、お客様を個人として合理的に識別することができないようにします。ただし、ウイルスやその他の病状に関する将来の研究のために、匿名化された生体情報および咳の記録などの健康データを長期的に保持します。詳細については、Virufyのプライバシーポリシーを参照してください。",
+    "privacyPolicyQ": "Virufy には、プライバシーポリシーとクッキーポリシーがありますか？",
+    "privacyPolicyA": "Virufyは、お客様のプライバシーを真剣に考え、当社の法務チームが詳細なプライバシーポリシーとクッキーポリシーを作成し、当社のウェブサイトの使用、咳止め寄付研究への参加、当社への連絡、およびボランティア応募を通じてお客様が当社と共有する個人情報を保護するように努めています。",
+    "thirdPartiesQ": "私のデータは第三者と共有されるのでしょうか？",
+    "thirdPartiesA": "お客様がご自身の連絡先（Eメールや電話番号など）を当社と共有することに同意された場合、当社は、お客様の明確な同意なしに、研究目的であっても、これらの識別可能な情報をいかなる第三者にも配布いたしません。ただし、COVID-19の大流行やその他の将来の感染拡大を阻止するための世界的な研究活動を加速させるために、あなたの咳の音など、匿名化された情報を第三者と共有することがあります。詳細は、プライバシーポリシーおよびデータ収集研究同意書に記載されています。",
+    "validTechnologyQ": "技術検証は済んでいますか?",
+    "validTechnologyA": "はい、世界中のさまざまなグループが、COVID-19の咳パターンの優位性を検証しています。私たちは、この技術の普及には、時間と協力が鍵だと考えています。論文にあるように、私たちはCOVIDの咳サンプルが大陸間や臨床データセットとクラウドソースデータセット間で一般化されることを独自に示しています。すでに2カ国の病院でIRB承認の臨床試験を行い、現在、民間病院の幹部や政府トップレベルのコネクションを通じて、アフリカ、中南米、南アジアでの臨床試験の承認を求めています。",
+    "financeCategory": "財務情報",
+    "financialContributionQ": "咳の寄付をする際に、金銭的な負担は必要ですか？",
+    "financialContributionA": "金銭の負担は一切ありません。",
+    "appCostQ": "アプリの利用は有料ですか？",
+    "appCostA": "非営利団体である私たちは、特に低所得国において、誰もがこのアプリを無料で利用できるようにすることを意図しています。しかし、十分な資金を集めることができない場合、運営をサポートするためにわずかな手数料を徴収する必要があるかもしれません。",
+    "generalCategory": "一般事項",
+    "moreQuestionsQ": "さらに質問がある場合はどうすればよいですか？",
+    "moreQuestionsA": "詳細は、プライバシーポリシー、クッキーポリシー、およびデータ収集アプリ内の同意書をご覧ください。データ収集調査に関するご質問は、こちらまでメールでお問い合わせください。 <a href='mailto:study@virufy.org'>study@virufy.org</a>. データに関するお問い合わせ： <a href='mailto:open-data@virufy.org'>open-data@virufy.org</a>. その他のお問い合わせ： info@virufy.org."
+  },
+  "footer": {
+    "cookiePolicy": "Cookieポリシー",
+    "cookieSettings": "Cookie設定",
+    "privacyPolicy": "プライバシーポリシー",
+    "dontSellPersonalInfo": "個人情報を販売しない",
+    "copyrightInformation": "©2022 Virufy  |  VIRUFYは、カリフォルニア州の非営利団体The Covid Detection Foundationの商標です。   |  無断転載禁止",
+    "nonprofit": "Virufyは、米国内国歳入庁（IRS）により、内国歳入法第501条（c）（3）に基づく非課税公益法人として認められたカリフォルニア州の非営利法人です。",
+    "email": "info@virufy.org",
+    "address": "",
+    "title": "非営利団体",
+    "navigate": "",
+    "get": "お問い合わせ",
+    "CodeofConduct": "行動規範",
+    "about": "約",
+    "ourtech": "私たちのテクノロジー",
+    "opportunities": "機会",
+    "faqs": "よくある質問",
+    "joinUs": "参加する"
+  },
+  "getInvolved": {
+    "meta": "世界中の人々が力を合わせてVirufyを構築しました。これは、ウイルスの循環を減らすのに役立つ可能性のある優れたCOVID事前スクリーニングです。 もっと詳しく知る。",
+    "title": "あなたはパンデミックを制御するのを手伝うことができます| Virufy",
+    "otherWaysContribute": {
+      "title": "その他の寄付方法",
+      "contribute": "寄付する",
+      "collaborate": "協力する",
+      "tellStory": "あなたの話を聞かせてください"
+    },
+    "joinusContibute": {
+      "title": "今後も数百万人の患者さんを支援するために、皆さんからのご寄付をお願いいたします。",
+      "details": "寄付は、2つの方法からお好きな方を選んでご提供ください。",
+      "buttonDonate": "寄付する"
+    },
+    "availableRoles": {
+      "join": "Virufighterチームに参加する",
+      "fontHeading": "Virufyは、すべてボランティアとプロボノパートナー企業によって運営されています。ミッション主導型のチームで、世界的なパンデミックの広がりを抑制するために、あなたのスキルを活かしてみませんか？",
+      "fontheadingBold": "募集要項は以下をご覧ください。",
+      "jobOpenings": "募集要項",
+      "applyNow": "応募する",
+      "location": "所在地"
+    },
+    "joinusCollaborate": {
+      "joinTitle": "COVID-19との闘いに、私たちと共に参加してください",
+      "details": "人道主義者であれ、専門家であれ、あるいは単にVirufyのミッションに参加したいだけであれ、支援する方法はたくさんあります。",
+      "joinSubTitle": "参加方法",
+      "careers": "キャリア",
+      "becomeaPartner": "パートナーになる",
+      "textcarrers": "ユニークなスキルを組み合わせたミッション主導型のチームで、世界的なパンデミックの拡大を食い止めるために活動を続けています。",
+      "textbecomeaPartner": "私たちは、世界中の医療、テクノロジー、政府、その他の定評ある組織と協力し、Virufyの使命を形にしています。",
+      "joinButtonViewAvailable": "募集中の職種を見る",
+      "joinButtonContactuS": "お問い合わせ"
+    },
+    "joinusTellStory": {
+      "head": "パーソナルストーリーを共有する",
+      "details": "COVID 19がご自身やご家族にどのような影響を与え、どのように病気を克服してきたのか、そのストーリーに多くの人が刺激を受けることでしょう。",
+      "buttonSend": "送信",
+      "yourStory": "あなたのストーリーは送信されました",
+      "thankyou": "信頼を寄せていただき、ありがとうございます。",
+      "learnmore": "私たちについてもっと知る"
+    },
+    "opportunities": {
+      "atras": "戻る",
+      "head": "Virufyは、すべてボランティアとプロボノパートナー企業によって運営されています。 ",
+      "Subhead": "あなたのスキルを、世界的なパンデミックの蔓延を食い止めるために活かしてください。募集要項は以下をご覧ください。",
+      "title": "募集要項",
+      "location": "所在地",
+      "remote": "リモートワーク",
+      "SwissArmy": "Swiss Army Knife",
+      "TextSwissArmy": "非常勤ボランティアとして、「何でも屋」として活躍していただける方を募集しています。",
+      "ProductManager": "プロダクトマネージャー",
+      "TextProductManager": "Virufy開発チームと密接に協力し、製品ロードマップを定義し、開発の進捗を管理し、ステークホルダーと連携して、パートタイムのボランティアベースで貢献していただける方を募集しています。",
+      "buttonApllyNow": "今すぐ応募する"
+    },
+    "donate": {
+      "title": "寄付する",
+      "details": "Virufyの重要な活動である、すべての人に迅速かつ無料の病気検出を提供するために、今すぐ寄付をお願いします。\n\n皆様のご支援がなければ、このような活動はできません。",
+      "寄付ボタン": "私たちの組織を支援するために寄付をする"
+    },
+    "shareCough": {
+      "title": "咳を提供する",
+      "details": "あなたの咳を寄付することで、COVID-19を認識するAIの予測能力を向上させることができます。",
+      "getTheApp": "あなたの咳を寄付する"
+    },
+    "nextSteps": {
+      "contribute": {
+        "title": "パートナーになる",
+        "details": "私たちは、世界中の医療、テクノロジー、政府、その他の定評ある組織と協力し、Virufyのミッションを形作り、達成するために活動しています。",
+        "learnmore": "もっと詳しく知りたい方はこちら",
+        "faq": "よくあるお問い合わせを見る",
+        "question": "パートナーをお探しですか？",
+        "linkText": "お問い合わせ"
+      },
+      "join": {
+        "title": "社員紹介",
+        "details": "Virufyは、医療技術や政府などの分野で使命を果たすため、世界中の確立された機関と連携しています。テクノロジーを駆使した病気の特定分野における非営利団体として、世界のヘルスケアを変革し、支援と投資を喚起することを目的としています。",
+        "linkText": "私たちについて"
+      }
+    }
+  },
+  "index": {
+    "meta": "人工知能を使用した効率的なオンラインCovid-19テストの構築に専念する人々によって2020年3月に設立されたプロジェクトであるVirufyに会いましょう。",
+    "title": "AIを使用したオンラインCovid-19テストの開発| Virufy",
+    "section1": {
+      "header": "オンラインのCovid-19テストが可能です",
+      "pg": "Virufyは、咳のパターンからCOVID-19を特定する人工知能（AI）技術を、スマートフォンを使って迅速かつ無償で開発する非営利の研究機関です。",
+      "coughLink": "咳を寄付する",
+      "donateLink": "今すぐ咳を寄付する",
+      "donateLinkResponsive": "今すぐ寄付する",
+      "learnmore": "もっと詳しく",
+      "whoweare": "私たちについて"
+    },
+    "section2": {
+      "header": "私たちは、共に世界をより良くすることができると信じています。",
+      "pg1": "このような病気と闘うために、世界中の人々が私たちを支援し、協力してくれています。今、私たちにはあなたの協力が必要です。",
+      "pg2": "世界のどこにいても、必要なのはモバイル端末とVirufyアプリだけです。",
+      "learnMoreLink": "もっと詳しく",
+      "donateyourcough": "咳を寄付する"
+    },
+    "section3": {
+      "howItWorks": "オンラインCovid-19テストの仕組み",
+      "header": "Virufyコミュニティ",
+      "sub-header": "AIアルゴリズムの改良のために咳を収集し、3段階の検出プロセスを実施することで、世界各国、特に低所得国のために、迅速かつ容易なCOVID-19診断に貢献できる見通しです。<br>今すぐ咳の寄付をすることで、私たちのビジョンをサポートすることができます。",
+      "header1": "咳を録音する",
+      "header2": "AIが呼吸器のサインを解析",
+      "header3": "咳の収集数",
+      "tryItOutLink": "試してみる",
+      "description": "Virufyは2020年3月に設立されました。現在、5大陸のVirufighterは、革新的な技術によって病気の迅速な検査をを無料で行うことに目指し活動に取り組んでいます。",
+      "numbercollected": "100,000",
+      "joincommunity": "コミュニティーに参加する"
+    },
+    "section4": {
+      "header": "私たちの物語",
+      "pg1": "2020年3月、AIを搭載したCOVID-19検出アプリを世界に先立って開発しました。",
+      "pg2": "現在、5大陸のVirufighterは、革新的な技術によって病気の迅速な検査をを無料で行うことに目指し活動に取り組んでいます。",
+      "knowUsLink": "私たちについてもっと詳しく知る",
+      "header2": "私たちは、次のようなサポートを受けています",
+      "supporter": "サポーターになる"
+    },
+    "section5": {
+      "messagehero": "あなたの咳を録音して、世界を助け、多くの命を救おう",
+      "donatebuttonhero": "今すぐ咳を寄付する"
+    },
+    "faq": {
+      "distinguishableQ": "なぜCOVID-19の咳と区別できるのですか？",
+      "distinguishableA": "COVID-19は、他の呼吸器疾患と同様に、喉や肺にダメージを与え、咳のパターンに検出可能な差異を生じさせます。このアイデアは、カーネギーメロン大学、MIT、ケンブリッジ大学など、世界的に有名な研究機関によって活発に研究されています。例えば、ケンブリッジ大学の研究では、単純な2値機械学習分類器により、呼吸音と咳の音からCOVID-19陽性患者を高い精度で分類できることが示されています。同様に、CMUの研究者は、COVID-19陽性患者を区別する18の音声特徴を特定し、COVID-19を高い精度で検出する学術モデルを構築しました。",
+      "aiQ": "VirufyのAIアルゴリズムは、どのようにCOVID-19を検出するのでしょうか。",
+      "aiA": "Virufyは過去の研究をもとに、咳の音の録音から数分以内にCOVID-19感染を正確に予測できるAIアルゴリズムの開発を進めています。ただし、これまでのCOVID-19の咳の研究が米国人を対象としていたのに対し、Virufyは世界中の複数の拠点からデータを収集することを目標としています。Virufyは、数カ国にまたがるボランティアとともに学生が運営するイニシアチブとして、さまざまな民族や地域特有の音韻の違いを含むデータを通じて、より人種性・地域性を網羅したCOVID-19診断モデルの開発を進めています。"
+    }
+  },
+  "nav": {
+    "home": "ホーム",
+    "dashboard": "ダッシュボード",
+    "ourData": "私たちについて",
+    "our-org": "私たちの組織",
+    "about": "詳細",
+    "ourtech": "私たちのテクノロジー",
+    "getInvolved": "参加する",
+    "techBehind": "技術",
+    "openData": "オープンデータ",
+    "faqs": "よくあるお問い合わせ",
+    "ourVision": "ビジョン",
+    "ourSupporters": "サポーター",
+    "ourTeam": "私たちの仲間",
+    "aboutUs": "私たちについて",
+    "joinUs": "参加する",
+    "technology": "私たちのテクノロジー",
+    "name-1": "ホセ",
+    "name-2": "フィリップ",
+    "name-3": "ソフィー",
+    "profession-1": "64 歳 - 教師",
+    "profession-2": "25 歳 - 配達員",
+    "profession-3": "21 歳 - 看護師",
+    "description-1": "“教えることは、大切な人を支えるために、最も効率的な方法です”",
+    "description-2": "“私の手で、見ず知らずの誰かへ安心・安全を届ける”",
+    "description-3": "“COVIDに悩む人々をサポートしたい”"
+  },
+  "news": {
+    "headers": {
+      "header": "ニュースでのVirufyの紹介",
+      "filter": "国別にニュースを絞り込む"
+    },
+    "news": {
+      "section2": {
+        "date": "2021年2月",
+        "title": "スマホの前で咳をするだけでCovid-19の診断ができることを目指したアプリ",
+        "name": "Forbes",
+        "city": " ",
+        "country": " ",
+        "readMoreLink": "さらに読む..."
+      },
+      "section3": {
+        "date": "2021年1月",
+        "title": "COVID-19: Virufyアプリケーションで、咳の解析によりウイルスを診断することが可能",
+        "name": "MSN",
+        "city": " ",
+        "country": " ",
+        "readMoreLink": "さらに読む..."
+      },
+      "section4": {
+        "date": "2020年10月",
+        "title": "VIRUFY: COVID-19に感染状況を検出するためのプラットフォーム。",
+        "name": "Expreso",
+        "city": "リマ, ",
+        "country": "ペルー",
+        "readMoreLink": "さらに読む..."
+      },
+      "section5": {
+        "date": "2020年5月",
+        "title": "One Young World 日本大使館、AIでCOVID-19を狙う",
+        "name": "One Young World",
+        "city": "東京, ",
+        "country": "日本",
+        "readMoreLink": "さらに読む..."
+      },
+      "section6": {
+        "date": "2020年",
+        "title": "COVID-19対応の最前線に立つ北米の大使達",
+        "name": "One Young World",
+        "city": " ",
+        "country": " ",
+        "readMoreLink": "さらに読む..."
+      },
+      "section7": {
+        "date": "2020年7月",
+        "title": "7月度のアンバサダー",
+        "name": "One Young World",
+        "city": " ",
+        "country": " ",
+        "readMoreLink": "さらに読む..."
+      },
+      "section8": {
+        "date": "2020年7月",
+        "title": "7月に開催されたOYWのグローバル・デジタル・イベントには数千人が参加。見逃しイベントを振り返る",
+        "name": "One Young World",
+        "city": " ",
+        "country": " ",
+        "readMoreLink": "さらに読む..."
+      },
+      "section9": {
+        "date": "2020年",
+        "title": "One Young World　東京2020代表会議",
+        "name": "One Young World",
+        "city": " ",
+        "country": " ",
+        "readMoreLink": "さらに読む..."
+      },
+      "section10": {
+        "date": "2020年",
+        "title": "One Young World 東京2020代表会議でのVirufyによるプレゼンテーション",
+        "name": "One Young World",
+        "city": "東京, ",
+        "country": "日本",
+        "readMoreLink": "ビデオを観る"
+      },
+      "section11": {
+        "date": "2020年",
+        "title": "COVID-19ワークショップの音",
+        "name": "One Young World",
+        "city": " ",
+        "country": " ",
+        "readMoreLink": "さらに読む..."
+      }
+    }
+  },
+  "ourApproach": {
+    "meta": "誰でもどこにいても、Virufyプロジェクトに参加して、AI主導のオンラインCOVID-19テストの作成を支援できる可能性があります。 今日違いを生む。",
+    "title": "オンラインCOVIDスクリーニングを作成するための私たちのアプローチ| Virufy",
+    "topFold": {
+      "ourTech": "私たちの技術",
+      "diagnoseDisease": "Virufyを支えるサイエンス",
+      "healthcare": "人工知能（AI）は、発声パターンの微細な違いを検知し、病気の有無を検出することができます。",
+      "algorithmInfo": " ",
+      "usingTechnology": "AIによる疾患解析",
+      "ourAI": "私たちのAI",
+      "edgeResearch": "COVID-19の臨床症状は非常に多様ですが、ほとんどの症例で乾いた咳が特徴的です。COVID-19は、喉と肺に独特の呼吸サインがあるのが特徴で、湿った咳をする呼吸器感染症とは異なるため、咳の音を解析することでCOVID-19を検出できることが示唆されています。人間の耳には微妙な違いかもしれませんが、AIアルゴリズムは、音声波形から抽出したMFCC係数、ピッチ、スペクトルエネルギー、ゼロクロスなどのさまざまな特徴を用いて、百日咳、喘息、肺炎などさまざまな呼吸器疾患を識別するための咳の音の分類に有望であることを示しています。様々な病気の咳のサンプルは、似たような音に聞こえますが、それぞれ音声の特徴のわずかな違いによって区別できるパターンを有しており、それをAIアルゴリズムが拾い上げることができるのです。COVID以外にも、スマートフォンで録音した音声から、喘鳴やロンカイなど特定の診断用呼吸音をAIが分類できることが実証されています。",
+      "checkOutResearch": "論文",
+      "bottonClose": "を閉じる"
+    },
+    "howItWorks": {
+      "HowIt": "オンラインCovid-19テストの仕組み",
+      "card-one": {
+        "title": "1",
+        "description": "咳を録音する"
+      },
+      "card-two": {
+        "title": "2",
+        "description": "AIがCOVIDのパターンを解析"
+      },
+      "card-three": {
+        "title": "3",
+        "description": "COVIDのリスク状況を報告"
+      },
+      "collectedData": "収集データダッシュボード",
+      "numberofCollected": "収集した咳の数",
+      "yourCoughHelp": "あなたの咳は、COVID-19との闘いに欠かせない予測モデルの改良に役立ちます。私たちの歩みをご覧いただき、ぜひあなたの咳を寄付してください。",
+      "buttonShareCough": "咳を寄付する"
+    },
+    "research": {
+      "resourcestolear": "最新の研究成果を読む",
+      "wantToLearnMore": "もっと知りたい方はこちら",
+      "imperialCollegeLondon": {
+        "title": "インペリアル・カレッジ・ロンドン",
+        "description": "研究内容 \"百日咳の自動診断のための咳に基づくアルゴリズム\" 百日咳の咳、気管支炎や喘息など他の疾患に対応する喘鳴音を含む咳を用いて、百日咳を検出するためにAIに学習させた。このアルゴリズムは、音声記録からすべての百日咳を正常に診断することができ、92%の精度と97%のPPVで個々の咳音を自動検出することに成功。彼らの結果は、呼吸音の区別と診断のための潜在的な候補としてAIの使用を支持するものである。",
+        "source": " "
+      },
+      "carnegieMellonUniversity": {
+        "title": "カーネギーメロン大学(CMU)",
+        "description": "カーネギーメロン大学の研究では、COVIDの診断のためのAIを学習させるために、大量の音声サンプルを収集することを目的としました。この研究の根拠は、以下の通りです。, 呼吸器系に影響を受けると、（言語に関係なく）声の響きや、呼吸や咳の音が変化する。その変化は、はっきりと聞き取れる粗いものから、訓練を受けていないリスナーには聞こえない、微細な変化（マイクロシグネチャーと呼ばれるもの）まで、さまざまである。\"",
+        "source": ""
+      },
+      "MIT": {
+        "title": "マサチューセッツ工科大学(MIT)",
+        "description": "MITがIEEEで審査した研究では、咳だけから無症状のCOVID-19を検出する感度は98％と報告された。",
+        "source": " "
+      },
+      "CornellUniversity": {
+        "title": "ケンブリッジ大学",
+        "description": "咳のサンプルと呼吸を使って、COVID-19の音が喘息の人や健康な対照者とどの程度識別できるかを理解したケンブリッジ大学によるクラウドソース研究です。その結果、単純な2値機械学習分類器でも、健康な音とCOVID-19の音を正しく分類できることがわかりました。我々のモデルは、すべてのタスクで70%を超えるAUCを達成しています。この研究結果は、自動分析された呼吸パターンをCOVID-19の事前検査として使用するために、さらなる調査を促すものとなった。",
+        "source": " "
+      }
+    },
+    "supportourmission": {
+      "title": " ",
+      "description": "私たちは、テクノロジーがこれを現実のものにできると信じています。シリコンバレーで最も権威のある機関の専門家の支援を受け、私たちのチームは、咳の音を分析してCOVID-19陽性患者を98%の精度で検出する最先端のAIアルゴリズムを開発しました。",
+      "buttonDonateCough": "今すぐ咳を寄付する"
+    }
+  },
+  "OYW": {
+    "topbanner": {
+      "header": "About/サポーター紹介",
+      "title": "ミュンヘン2021",
+      "description": "OYW - 毎年開催されるOne Young Worldは、社会的インパクトを加速させるために活動している、各国・各分野の最も優秀な若手人材が集結しました。"
+    },
+    "headers": {
+      "header": "Virufy & One Young World",
+      "topbanner": "私たちの世界は、優れたリーダーシップを必要としています。現代の若者世代は、世界史の中で未だかつてない情報量を持ち、豊かな教育を受け、十分なコネクションを持つ世代の一つです。One Young Worldは、より良い世界、つまりより責任感のある効果的なリーダーシップのある世界を創るために、世界中で最も影響力のある若いリーダーを発掘し、促進し、結びつけます。",
+      "sub-header": "Virufyは、アメリカ大陸や日本など、さまざまなOYWのプラットフォームでその活動の様子紹介されており、OYWとコラボレートし、各地域のアンバサダーとともに活動に取り組んでいます。 ",
+      "buttonJoinUs": "参加する",
+      "help": "Virufyをあなたの近くの病院や地域に届けるために、ご協力ください。一緒に、医療を変え、COVIDの蔓延を食い止めましょう。そして、これは始まりに過ぎません。将来のパンデミックに対する戦いにも参加しましょう！"
+    },
+    "section1": {
+      "header": "2021年7月25日に開催されるOYW2021サミットをご覧ください。:",
+      "sub-header": "COVID-19に対する総会が開かれ、VirufyのオペレーションリードであるYulie Qiaoが講演を行います。",
+      "sub-header2": "デジタル展示会でVirufyを詳しく知る"
+    },
+    "sectionHi": {
+      "header": "Come Say Hi!",
+      "amil": "<b>Amil Khanzada</b> - OYW 日本大使 & Virufy創設者兼CEO",
+      "yulie": "<b>Yulie Qiao</b> - bp 代表, USA & Virufyオペレーション",
+      "ayomide": "<b>Ayomide Owoyemi, MD</b> - Novartis 代表, Nigeria & Virufy ML 臨床統計 ",
+      "shreya": "<b>Shreya Shreeram, MD</b> - Virufy 代表, India & Virufy 臨床研究",
+      "join": "<b>You can be part of the solution!</b> ボランティアの募集 <a target='_blank' href='https://virufy.org/en/available-roles/'>Join Page</a> こちらもご覧ください <a target='_blank' href='https://docs.google.com/document/d/18XFbn6wSY6Ld-oN7UpqUY8GVX7T1wEaoJSn1HD9eBls/edit'>Virufy OYW playbook</a>."
+    },
+    "section2": {
+      "title": "なぜOne Young Worldなのか?",
+      "header": "グローバルなインパクトに焦点をあてる",
+      "sub-header": " データを収集し、世界中の開発途上国の人々のために公平なソリューションを提供する。",
+      "youth": "若者主導",
+      "youth-des": "私たちのチームは、十数カ国から集まった若者たちが率い、世界的なリーダーたちがアドバイスをしてくれることで、成長を続けています。",
+      "ambassador": "アンバサダー・ドリブン",
+      "ambassador-des": "ワン・ヤング・ワールドの組織構成は、ユースアンバサダーが各国での活動をリードし、地域コーディネートアンバサダーがそれに対応する形となっています。",
+      "diverse": "多彩な視点",
+      "diverse-des": "私たちのチームは、25以上の大学、15カ国から代表者が集まり、10人以上のワン・ヤング・ワールドのアンバサダーが参加しています。"
+    },
+    "ambassador": {
+      "header": "Our OYW x Virufy Community",
+      "ambassador-list": {
+        "amil": {
+          "name": "Amil Khanzada",
+          "descriptionOYW": "OYW Ambassador, Japan",
+          "descriptionVirufy": "Virufy Founder & Leader"
+        },
+        "madhav": {
+          "name": "Madhav Datt",
+          "descriptionOYW": "OYW Ambassador, India",
+          "descriptionVirufy": "Virufy Advisor"
+        },
+        "marcos": {
+          "name": "Marcos Deza",
+          "descriptionOYW": "OYW Ambassador, Argentina",
+          "descriptionVirufy": "Virufy Digital Communications"
+        },
+        "yulie": {
+          "name": "Yulie Qiao",
+          "descriptionOYW": "2021 OYW bp Delegate, USA",
+          "descriptionVirufy": "Virufy Operations"
+        },
+        "ayomide": {
+          "name": "Ayomide Owoyemi, MD",
+          "descriptionOYW": "2021 OYW Novartis Delegate, Nigeria",
+          "descriptionVirufy": "Virufy Machine Learning Clinical Statistics"
+        },
+        "shreya": {
+          "name": "Shreya Sreeram, MD",
+          "descriptionOYW": "2021 Virufy Delegate, India",
+          "descriptionVirufy": "Virufy Clinical Research"
+        },
+        "lauravelasquezh": {
+          "name": "Laura Velasquez",
+          "descriptionOYW": "2021 OYW Johnson & Johnson Delegate, Colombia",
+          "descriptionVirufy": "Arkangel AI Co-founder and President & Virufy Partner"
+        },
+        "nathan": {
+          "name": "Nathan Thomas",
+          "descriptionOYW": "OYW Coordinating Ambassador, USA",
+          "descriptionVirufy": " "
+        },
+        "jason": {
+          "name": "Jason Pareja Jauregui",
+          "descriptionOYW": "OYW Coordinating Ambassador LATAM, Peru",
+          "descriptionVirufy": " "
+        },
+        "katherine": {
+          "name": "Katherine Thalia Ortiz León",
+          "descriptionOYW": "OYW Ambassador, Peru",
+          "descriptionVirufy": " "
+        },
+        "gonzalo": {
+          "name": "Gonzalo Roiffe",
+          "descriptionOYW": "OYW Ambassador, Argentina",
+          "descriptionVirufy": " "
+        },
+        "annelisse": {
+          "name": "Annelisse Torrez Daza",
+          "descriptionOYW": "OYW Ambassador, Bolivia",
+          "descriptionVirufy": " "
+        },
+        "veronica": {
+          "name": "Verónica Guzmán Quilaqueo",
+          "descriptionOYW": "OYW Ambassador, Chile",
+          "descriptionVirufy": " "
+        },
+        "sebastian": {
+          "name": "Sebastian Pedraza",
+          "descriptionOYW": "OYW Ambassador, Colombia",
+          "descriptionVirufy": " "
+        },
+        "kenmaru": {
+          "name": "Kenmaru Suedomi",
+          "descriptionOYW": "OYW Ambassador, Japan",
+          "descriptionVirufy": " "
+        },
+        "kapil": {
+          "name": "Kapil Narain, MD",
+          "descriptionOYW": "OYW Ambassador, South Africa",
+          "descriptionVirufy": " "
+        },
+        "leonard": {
+          "name": "Leonard Burhz",
+          "descriptionOYW": "OYW Ambassador, Ireland",
+          "descriptionVirufy": " "
+        },
+        "allana": {
+          "name": "Allana Doyle",
+          "descriptionOYW": "Embajador OYW, EE.UU",
+          "descriptionVirufy": " "
+        },
+        "kavya": {
+          "name": "Kavya Madhavan",
+          "descriptionOYW": "Embajador OYW, EE.UU",
+          "descriptionVirufy": " "
+        }
+      }
+    },
+    "testimonials": {
+      "title": "ボランティア体験談",
+      "intro": "私たちのチームは、スタンフォード大学、プリンストン大学、そしてワン・ヤング・ワールドといった定評ある教育機関の、社会貢献活動に熱心な学生たちによって率いられています。私たちはOne Young Worldのメンバーを強く信頼しており、興味のあるアンバサダーがピッチに参加することを温かく迎えてくれます。",
+      "annelisse": "“私自身、恵まれない国で家族全員と一緒にCOVIDに苦しんだので、Virufyに参加することで、同じ運命に直面する人をなくすことができると即座に思いました”",
+      "sebastian": "“Virufyは、若者の力とテクノロジーを融合し、世界を変えていきます。このソリューションが全世界に届き、特に低所得国の医師を支える存在になることを期待しています。”",
+      "gonzalo": "“Virufyは、ユーザーのバックグラウンドや社会的地位に関係なく、グローバルにインパクトを与えることができます。これこそ、現状を変えるということなのです。”",
+      "marcos": "“Virufyが非常に正確なソリューションを開発し、これが全世界のあらゆる産業で役に立つと思うのです。ですから、皆さんもぜひ時間をとって、私たちと一緒に頑張りましょう。”"
+    }
+  },
+  "paper": {
+    "meta": "COVID-19の感染、制御、検出、および事前スクリーニングのための人工知能の使用に関する最も関連性の高い論文のいくつかを読んでください。",
+    "title": "AIによるCovid-19検出に関する論文| Virufy",
+    "headers": {
+      "header": "論文"
+    },
+    "papers": {
+      "section2": {
+        "date": "2020年11月",
+        "title": "Virufy 咳からCOVID-19を検出するAIのためのクラウドソースと臨床データセットのグローバルな適用可能性",
+        "readMoreLink": "さらに読む..."
+      },
+      "section4": {
+        "date": "2021年9月",
+        "title": "COVID-19咳AIシステムの展開における課題と機会",
+        "readMoreLink": "さらに読む..."
+      },
+      "section5": {
+        "date": "20221年1月",
+        "title": "咳からのCOVID-19分類のための大規模な集約データセットでのディープラーニングの使用",
+        "readMoreLink": "さらに読む..."
+      },
+      "section6": {
+        "date": "20221年1月",
+        "title": "Covid 19 Calculator -- Positive U.S. Socio-Economic Impact",
+        "readMoreLink": "さらに読む...",
+        "calculatorLink": "Calculator"
+      }
+    }
+  },
+  "privacy_policy": {
+    "headers": {
+      "header": "プライバシーポリシー",
+      "sub-header": "お客様が現在お住まいの地域に対応する、以下のプライバシーポリシーをご覧ください。"
+    },
+    "countries": {
+      "argentina": "アルゼンチン",
+      "arg_policy": "Política de Privacidad",
+      "bolivia": "ボリビア",
+      "bol_policy": "Política de Privacidad",
+      "brazil": "ブラジル",
+      "brazil_policy": "Política de Privacidade",
+      "colombia": "コロンビア",
+      "col_policy": "Política de Privacidad",
+      "greece": "ギリシャ",
+      "gre_policy": "Πολιτική απορρήτου",
+      "mexico": "メキシコ",
+      "mex_policy": "Aviso De Privacidad",
+      "peru": "ペルー",
+      "peru_policy": "Política de Privacidad",
+      "us": "アメリカ合衆国",
+      "us_policy": "Privacy Policy",
+      "eu": "ヨーロッパ諸国",
+      "eu_policy": "Privacy Policy",
+      "other": "その他の国々",
+      "other_policy": "Privacy Policy"
+    }
+  },
+  "team": {
+    "supportersSection": {
+      "header": "About/サポーター紹介",
+      "description": "数々の企業や団体が、その豊富な知識で私たちをサポートし、私たちの活動に安心と確実性を与えてくれるのです。",
+      "supporterText": "Virufyは <a target='_blank' rel='noreferrer' href='https://responselab.stanford.edu/projects.html' class='underline'/>スタンフォードCOVID-19レスポンス・イノベーションラボ</a> プロジェクトであり、<a target='_blank' rel='noreferrer' href='https://www.oneyoungworld.com/' class='underline'/>One Young World</a>で取り上げられています。",
+      "buttonSupporter": "サポーターになる"
+    },
+    "teamSection": {
+      "title-ourpeople": "About/私たちの仲間",
+      "weUnite": "COVID-19を倒すために、世界中から集まっています。",
+      "header": " 私たちの仲間",
+      "teamLeadText": "チームリーダー",
+      "advisorText": "アドバイザー",
+      "oyw": "One Young World",
+      "oyw-xs": "OYW",
+      "supportersText": "私たちのサポーター",
+      "leadership": {
+        "amil": {
+          "name": "Amil Khanzada",
+          "description": "MBA / Data Science Student, UC Berkeley Haas\nB.A. Computer Science, UC Berkeley",
+          "title": "Founder & President"
+        },
+        "yulie": {
+          "name": "Yulie Qiao",
+          "description": "Fuels Pricing, bp\nB.B.A. Marketing & Supply Chain Management, UW-Madison",
+          "title": "Operations Team"
+        },
+        "jonatan": {
+          "name": "Jonatan Jaskilioff",
+          "description": "CTO - XOOR\nUniversidad Nacional del Centro de la Provincia de Buenos Aires",
+          "title": "Mobile App Team Lead"
+        },
+        "lu": {
+          "name": "Lu Xu",
+          "description": "MBA - UC Berkeley HAAS business school\nStaff Technical Program Manager - Walmart Global Tech",
+          "title": "Localization Team Lead"
+        },
+        "kristy": {
+          "name": "Kristy Aldridge",
+          "description": "Masters of Industrial and Organizational Psychology, Adler University ",
+          "title": "Human Resources Lead"
+        },
+        "siddhi": {
+          "name": "Siddhi Hegde",
+          "description": "Bachelors of Medicine, Bachelor of Surgery - KVG Medical College Sullia",
+          "title": "India Country Lead, Clinical Research Coordinator"
+        },
+        "shreya": {
+          "name": "Shreya Sreeram",
+          "description": "Bachelors of Medicine - KVG Medical College Sullia",
+          "title": "India Country Lead, Clinical Research Coordinator"
+        },
+        "sabeeta": {
+          "name": "Sabeeta Bidasie - Singh",
+          "description": "Doctorate in Business Administration and Management -Liverpool University",
+          "title": "India Country Manager"
+        },
+        "daniel": {
+          "name": "Daniel Tan",
+          "description": "Artificial Intelligence Researcher\nStanford University",
+          "title": "ML Data Engineering Team Lead"
+        },
+        "zach": {
+          "name": "Zach Lawless",
+          "description": "Software Engineer\nM.A. University of Illinois Urbana-Champaign",
+          "title": "MLOps Team Lead"
+        },
+        "marcos": {
+          "name": "Marcos Deza",
+          "description": "Advertising Representative\nM.A. Public Relations, Ott Educación Superior",
+          "title": "Latin America Digital Communications Lead"
+        },
+        "sandra": {
+          "name": "Sandra Almaguer",
+          "description": "Corporate Project Management and Global Communications Strategist, Northeastern University",
+          "title": "Project Management Office"
+        },
+        "kitan": {
+          "name": "Kitan Fasuyi",
+          "description": "Senior Product Manager,\nMaster’s Health Informatics, Stony Brook University",
+          "title": "Product Manager Lead"
+        },
+        "jadesola": {
+          "name": "Jadesola Surakat",
+          "description": "Senior Product Manager\nMBA, Yale School of Management",
+          "title": "Project Manager Lead"
+        },
+        "tezeswi": {
+          "name": "Tezeswi Madarasu",
+          "description": "M.S. Financial Mathematics, Arizona State University",
+          "title": "MLOps Team Lead-Dashboard"
+        },
+        "jason": {
+          "name": "Jason Pareja Jauregui",
+          "description": "Product Development\nMIT Sloan School of Management",
+          "title": "Peru Community Outreach Manager"
+        },
+        "sebastian": {
+          "name": "Sebastian Pedraza",
+          "description": "Steering Committee Member\nPolitical Science, International University of La Rioja",
+          "title": "Colombia Community Outreach Manager"
+        },
+        "matheus": {
+          "name": "Matheus Galiza",
+          "description": "Youth Development Public Policy\nM.A. International Relations, Universidade Federal da Paraiba",
+          "title": "Brazil Community Outreach Manager"
+        },
+        "colleen": {
+          "name": "Colleen Wang",
+          "description": "High School Student, Palo Alto High\nAuthor of Roses Watered by a Robot’s Tears",
+          "title": "Fundraising Team Lead"
+        },
+        "christiancanham": {
+          "name": "Christian Canham",
+          "description": "Avionics Engineer, Boeing\nM.S. EE, Rensselaer Polytechnic Institute",
+          "title": "Audio Engineering Team Lead"
+        },
+        "ravel": {
+          "name": "Ravel Charles",
+          "description": "Cloud Solutions Engineer, Google\nM.P.S. Data Security, Northeastern University",
+          "title": "Infosec Team Lead"
+        },
+        "amelie": {
+          "name": "Amelie Azim-Khan",
+          "description": "High School Student, Wycombe Abbey",
+          "title": "Youth Ambassador, Europe & UK"
+        },
+        "alfonso": {
+          "name": "Alfonso Assaf",
+          "description": "Former Senior Consultant\nB.A. Economics, Universidad del CEMA",
+          "title": "Global Outreach Manager"
+        },
+        "diego": {
+          "name": "Dr. Diego Carvahalo",
+          "description": "Professor\nUniversidade de Sao Paolo",
+          "title": "Clinical Research Lead"
+        },
+        "wei": {
+          "name": "Wei Chen",
+          "description": "M.S. Computer Engineering, UC Riverside",
+          "title": "ML Data Team Lead"
+        },
+        "lukas": {
+          "name": "Lukas Gubo",
+          "description": "DevOps\nAWS\nCloud Solutions Architect",
+          "title": "MLOps Project Manager"
+        },
+        "sadhi": {
+          "name": "Abhinandan Saini",
+          "description": "Senior Product Manager, Fresh Consulting\nMBA, INSEAD",
+          "title": "Country Lead – India"
+        },
+        "tania": {
+          "name": "Tania Cristina Ferreira",
+          "description": "MBA International Business Relationship, FAAP\nB.E. Electronic Engineering, Instituto Mauá de Tecnologia\nAssociate Degree - Mechatronics, Robotics, Automation",
+          "title": "Global Country Management Lead"
+        },
+        "luiz": {
+          "name": "Luiz Goulart",
+          "description": "MBA Information Systems",
+          "title": "Country Lead – Brazil"
+        },
+        "nutan": {
+          "name": "Nutan Jayavant",
+          "description": "PMI and Google Certified Project Management Professional\nB.E Computer Engineering",
+          "title": "App Product Manager"
+        },
+        "vivek": {
+          "name": "Vivek Krishnani",
+          "description": "Background In Digital Marketing & Recruiting\nStony Brook University",
+          "title": "Director Of Recruitment & Talent Acquisition"
+        },
+        "frederick": {
+          "name": "Frederick Cosper",
+          "description": "MBA Graduate Candidate: California State Polytechnic University–Pomona\nB.S. Management and Human Resources: California State Polytechnic University–Pomona",
+          "title": "Human Resources Lead"
+        }
+      },
+      "advisors": {
+        "amil": {
+          "name": "Amil Khanzada",
+          "description": "MBA / Data Science Student, UC Berkeley Haas\nB.A. Computer Science, UC Berkeley",
+          "title": "Founder & President"
+        },
+        "kara": {
+          "name": "Kara Meister, M.D.",
+          "description": "Clinical Assistant Professor of ENT\nStanford School of Medicine",
+          "title": "Clinical Advisor"
+        },
+        "jure": {
+          "name": "Dr. Jure Leskovec",
+          "description": "Chief Scientist - Pinterest\nAssociate Professor of AI - Stanford",
+          "title": "Artificial Intelligence Advisor"
+        },
+        "melissa": {
+          "name": "Melissa Dyrdahl",
+          "description": "Former CMO - Adobe\nBoard Member - CommonSpirit Health",
+          "title": "Executive Marketing Advisor"
+        },
+        "hugo": {
+          "name": "Hugo Estrada",
+          "description": "CEO & Managing Partner - iwé Consultores\nChairman - Nueva EPS (Health Insurance)",
+          "title": "Colombia Executive Outreach Advisor"
+        },
+        "anais": {
+          "name": "Anaïs Rameau, M.D.",
+          "description": "Assistant Professor of ENT - Cornell University\nDoctor of Medicine - McGill University",
+          "title": "Clinical Advisor"
+        },
+        "madhav": {
+          "name": "Madhav Datt",
+          "description": "Founder - Green the Gene\nFormer Global Representative for Youth - UN EP",
+          "title": "Executive Nonprofit Advisor"
+        },
+        "rafi": {
+          "name": "Rafi Azim-Khan",
+          "description": "Partner, IP/IT & Head Data Privacy Europe\nPillsbury Winthrop Shaw Pittman LLP",
+          "title": "Executive Legal Advisor"
+        },
+        "richardswart": {
+          "name": "Richard Swartzbaugh",
+          "description": "Risk Management - Curaesoft\nJ.D. - University of Iowa",
+          "title": "Executive Advisor"
+        },
+        "ronan": {
+          "name": "Ronan Dunlop",
+          "description": "Form Head of Marketing - Pivotal/VMWare\nVP of Marketing - Cohuman",
+          "title": "Executive Marketing Advisor"
+        },
+        "richard": {
+          "name": "Richard Nall",
+          "description": "CEO - The Brand Garden\nMaster's Organisational Leadership - Henley",
+          "title": "Marketing Advisor"
+        },
+        "mark.haseltine": {
+          "name": "Mark Haseltine",
+          "description": "Former CTO/CPO - edX\nComputer Science alumnus - MIT",
+          "title": "Executive Advisor"
+        },
+        "matt": {
+          "name": "Matt Prusak",
+          "description": "Chief Business Officer - Curative\nMBA - Stanford Graduate School of Business",
+          "title": "Executive Advisor"
+        },
+        "mathijs": {
+          "name": "Mathijs De Vaan",
+          "description": "Management of Organizations\nPhD Sociology - Columbia University",
+          "title": "Assistant Professor - UC Berkeley Haas Business School"
+        },
+        "pedro": {
+          "name": "Pedro Siena",
+          "description": "Founder and CEO - Siena Company\nMentor - Stanford Lean Launchpad",
+          "title": "Brazil Executive Advisor"
+        },
+        "victor": {
+          "name": "Victor Wang",
+          "description": "Founder and Chairman- China Silicon Valley\nMBA - Stanford Graduate School of Business",
+          "title": "Executive Advisor"
+        },
+        "rok": {
+          "name": "Rok Sosic",
+          "description": "Senior Research Engineer\nStanford School of Engineering",
+          "title": "Artificial Intelligence Advisor"
+        },
+        "taisuke": {
+          "name": "Taisuke Fukuno",
+          "description": "Founder - Open Data Japan\nChairman - jig.jp",
+          "title": "Executive IT Advisor"
+        },
+        "tsutomu": {
+          "name": "Tsutomu Ito",
+          "description": "Founder - Tannan FM Radio\nLead Architect, Bullet Train",
+          "title": "Executive Visionary Advisor"
+        },
+        "alfonso": {
+          "name": "Alfonso Assaf",
+          "description": "Former Senior Consultant, Deloitte\nB.A. Economics, Universidad del CEMA",
+          "title": "Global Outreach Manager"
+        },
+        "khwaja": {
+          "name": "Khwaja Shaik",
+          "description": "Advisory Council Member - Harvard Business Review\nResearch Council Thought Leader - Gartner",
+          "title": "Chief Technology Officer - IBM"
+        },
+        "george": {
+          "name": "George Pegelow",
+          "description": "Martial Arts & Philosophy Professor - Stanford University",
+          "title": "Executive Visionary Advisor"
+        },
+        "rich": {
+          "name": "Rich Walcoff",
+          "description": "Sports Director - KGO Radio",
+          "title": "Communications Advisor"
+        },
+        "mansoor": {
+          "name": "Mansoor Ahmed",
+          "description": "Founder & CEO - Cleveland Sleep Research Center\nMBBS - King Edward Medical University",
+          "title": "Clinical Research Advisor"
+        },
+        "mert": {
+          "name": "Mert Pilanci",
+          "description": "Assistant Professor of AI Stanford University Electrical Engineering",
+          "title": "Artificial Intelligence Advisor"
+        }
+      }
+    },
+    "valuesSection": {
+      "meta": "私たちVirufyは、ウイルスの循環を減らすのに役立つAI駆動のCOVID-19テストを構築しています。 それに対する私たちのアプローチについてもっと学びましょう。",
+      "About": "私たちについて",
+      "OurPurpose": "咳一つで世界の健康を変える",
+      "vision": {
+        "ourVision": "私たちのミッション",
+        "ourInnovative": "私たちの革新的なアプローチは、特に低所得国の患者さん、臨床医、政府に対して、優れたCOVID事前スクリーニングを提供することを目的としています。私たちの革新的なアプローチは、特に低所得国の患者さん、臨床医、政府に対して、優れたCOVID事前スクリーニングを提供することを目的としています。私たちは、病気の特定を可能にするAI技術の先駆けとなる非営利団体を目指し、世界のヘルスケアを変革します。私の活動で人々を鼓舞し、共にこのミッションを支援し応援してくれるメンバーを増やしたいと願っています。",
+        "ourCommitment": "個人情報保護への取り組み",
+        "virufyPrivacy": "Virufy は、お客様の個人情報のプライバシーと保護に真剣に取り組んでいます。当社の法務チームについての詳細はこちら： <a target='_blank' href='https://virufy.org/privacy_policy'>Privacy Policy</a> ＆ <a target='_blank' href='https://virufy.org/cookie_policy'>Cookie Policy</a>",
+        "buttonHelpUs": "研究紹介"
+      },
+      "values": {
+        "OurValues": "私たちの価値観",
+        "Transformation": {
+          "title": "トランスフォーメーション",
+          "description": "私たちは、テクノロジーを使って必要な変化を促すことで、高価な医療システムに変革を起こすことを目指しています。"
+        },
+        "Collaboration": {
+          "title": "コラボレーション",
+          "description": "私たちは、バックグラウンドに関係なく、世界中のすべての人が病気の迅速な発見ができるようにすることを約束します。"
+        },
+        "Health": {
+          "title": "健康",
+          "description": "私たちは、常に全世界の人々の健康と幸福を第一に考えることを約束します。"
+        },
+        "Affordability": {
+          "title": "費用対効果",
+          "description": "私たちは、テクノロジーを使って、世界中のすべての人が病気の予防と発見を無料でできるようにすることを目指しています"
+        },
+        "Efficiency": {
+          "title": "効率化",
+          "description": "私たちは、迅速な検出、ウイルスの拡散防止、人命救助を実現する先進技術を創造することにコミットしています。"
+        },
+        "Innovation": {
+          "title": "革新性",
+          "description": "モバイル端末のワンタップで症状を迅速に特定することを目指します。"
+        }
+      },
+      "ourStory": {
+        "title": "私たちの物語",
+        "description": "パンデミック発生時、Virufyの創業者であるアミル・カンザダ氏は、スマートフォンが普及していること、COVIDが鼻、喉、肺に影響を与えることに着目していました。彼は、呼吸音や咳の音を機械学習で分析することで、COVIDのパターンを検出できるのではないかと考え、著名な大学病院で362人の患者を対象とした臨床研究を実施しました。スタンフォード大学の大学院生から始まったVirufyのオリジナルチームは、現在世界中の大学から集まったボランティアに拡大しました。"
+      },
+      "section4": {
+        "header": "私たちのサポーター",
+        "pg1": "Virufyはスタンフォード大学のCOVID-19レスポンス・イノベーションラボのプロジェクトで、One Young Worldでも紹介されています。"
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "meta": "We at Virufy are building an AI driven COVID-19 test that could help decrease the circulation of the virus. Get to learn more about our approach to it.",
+  "title": "Our approach to creating an online COVID screening | Virufy",
+  "topFold": {
+    "ourTech": "Our Technology",
+    "diagnoseDisease": "The science behind Virufy",
+    "healthcare": "Artificial intelligence (AI) is capable of detecting minute differences in vocal patterns to detect disease presence.",
+    "algorithmInfo": " ",
+    "usingTechnology": "Disease analysis with AI",
+    "ourAI": "Our AI",
+    "edgeResearch": "The clinical presentation of COVID-19 can be highly variable, however, a dry cough is a distinctive feature of most cases. Because COVID-19 creates a unique respiratory signature in the throat and lungs, distinct from respiratory infections that produce a wet cough, it has been suggested that cough sounds can be analyzed to detect COVID-19. Though the differences may be subtle to the human ear, AI algorithms have shown promise in classifying cough sounds to identify various respiratory diseases including pertussis, asthma, and pneumonia by using various features extracted from audio waveforms, including MFCC coefficient, pitch, spectral energy, and zero crossing. Although the cough samples from various diseases sound similar, they each have a distinguishable pattern due to small differences in audio features, which AI algorithms are able to pick up on. Beyond COVID, it has been demonstrated that AI can classify certain diagnostic breath sounds, such as wheezing and rhonchi, from smartphone audio recordings.",
+    "checkOutResearch": "Our papers",
+    "bottonClose": "Close"
+  },
+  "howItWorks": {
+    "HowIt": "How our online Covid-19 test works",
+    "card-one": {
+      "title": "1",
+      "description": "Record your cough"
+    },
+    "card-two": {
+      "title": "2",
+      "description": "AI analyzes for COVID patterns"
+    },
+    "card-three": {
+      "title": "3",
+      "description": "COVID risk status reported"
+    },
+    "collectedData": "Collected Data Dashboard",
+    "numberofCollected": "Number of Collected Coughs",
+    "yourCoughHelp": "Your cough helps us improve our predictive model, thus being crucial in the fight against COVID-19. See the progress that we have made and donate your cough!",
+    "buttonShareCough": "Share your Cough"
+  },
+  "research": {
+    "resourcestolear": "Read The Latest Research",
+    "wantToLearnMore": "Want to learn more?",
+
+    "imperialCollegeLondon": {
+      "title": "Imperial College London",
+      "description": "The study \"A Cough-Based Algorithm for Automatic Diagnosis of Pertussis\" uses pertussis cough, croup, and cough containing wheezing sounds corresponding to other diseases such as bronchiolitis and asthma to train AI in order to detect Pertussis. The algorithm is able to diagnose all pertussis successfully from audio recordings, automatically detecting individual cough sounds with 92% accuracy and PPV of 97%. Their result supports the use of AI as a potential candidate for differentiating and diagnosing respiratory sounds.",
+      "source": " "
+    },
+    "carnegieMellonUniversity": {
+      "title": "Carnegie Mellon University (CMU)",
+      "description": "A study by Carnegie Mellon University aimed to collect a large number of voice samples to train AI for diagnosis of COVID. The rationale behind the study is that, \"the sound of our voice (regardless of language), and the sounds we make when we breathe or cough change when our respiratory system is affected. The changes range from coarse, clearly audible changes, to minute changes -- what we call \"micro\" signatures, that are not audible to the untrained listener, but are nevertheless present.\"",
+      "source": ""
+    },
+    "MIT": {
+      "title": "Massachusetts Institute of Technology (MIT)",
+      "description": "MIT's IEEE reviewed research reported sensitivities of 98% for asymptomatic COVID-19 detection from cough alone.",
+      "source": " "
+    },
+    "CornellUniversity": {
+      "title": "University of Cambridge",
+      "description": "A crowdsource research done by University of Cambridge that used cough samples and breathing to understand how discernible COVID-19 sounds are from those in asthma or healthy controls. Their results show that even a simple binary machine learning classifier is able to classify correctly healthy and COVID-19 sounds. Our models achieve an AUC above 70% across all tasks. This work inspires further investigation of how automatically analyzed respiratory patterns could be used as pre-screening signals to aid COVID-19 diagnosis.",
+      "source": " "
+    }
+  },
+  "supportourmission": {
+    "title": " ",
+    "description": "We believe technology can make this a reality. With the support of experts from Silicon Valley’s most prestigious institutions, our team has developed a cutting-edge AI algorithm that detects COVID-19 positive patients with 98% precision analyzing cough sounds.",
+    "buttonDonateCough": "Donate your cough now"
+  }
+}
