@@ -2,8 +2,8 @@
 lang: ja
 page: cookie-policy
 name: essential cookies
-title: Essential Cookies
+title: エッセンシャルクッキー
 ---
 
-The Website may use technical cookies to carry out activities that are strictly necessary for the operation or delivery of services. They include, for example, cookies that allow you to access secure areas of the website. We use this cookie to obtain the required consent to process data.
+これらのクッキーはサービスの運用または提供に不可欠なクッキーです。たとえば、Webサイトの安全な領域にアクセスできるようにするクッキーが含まれます。このクッキーを使用して、データを処理するために必要な同意を取得します。
 

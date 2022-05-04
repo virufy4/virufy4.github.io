@@ -2,8 +2,8 @@
 lang: ja
 page: cookie-policy
 name: preference cookies
-title: Preference Cookies
+title: プリファレンスクッキー
 ---
 
-These cookies enable a website to remember information that changes the way the website behaves or looks, like preferred language or the region that you are in.
+これらのクッキーを使用すると、Webサイトは、優先言語や現在の地域など、Webサイトの動作や外観を変更する情報を記憶できます。
 

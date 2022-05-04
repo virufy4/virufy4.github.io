@@ -2,10 +2,10 @@
 lang: ja
 page: cookie-policy
 name: marketing cookies
-title: Marketing Cookies
+title:  マーケティングクッキー
 ---
 
-These cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. 
+これらのクッキーは、Webサイト全体の訪問者を追跡するために使用されます。その意図は、個々のユーザーにとって関連性があり魅力的な広告を表示することであり、それによってパブリッシャーや第三者サービスの広告主にとってより価値のあるものになります。
 
-* These cookies can be deleted or blocked by adjusting your browser settings (see Section 4, <a href="#control-cookies"> How can you control Cookies</a>, below).<br>Alternatively, please follow the links below to opt-out:
+*これらのクッキーは、ブラウザの設定を調整することで削除またはブロックできます（以下のセクション4、<a href="#control-cookies"> Cookieを制御する方法</a>を参照）。<br>または、以下に従ってください。オプトアウトするには、以下のリンクをご覧ください。
 Google Analytics: https://tools.google.com/dlpage/gaoptout

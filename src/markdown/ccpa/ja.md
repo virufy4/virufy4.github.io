@@ -2,17 +2,17 @@
 lang: "ja"
 page: "ccpa"
 ---
-# California Consumer Privacy Act Rights
-<p class="mt-4 mb-8"> California consumers have a right to knowledge, access, and deletion of their personal information under the California Consumer Privacy Act. California consumers also have a right to opt out of the sale of their personal information by a business and a right not to be discriminated against for exercising one of their California privacy rights. Virufy does not sell the personal information of California consumers and does not discriminate in response to privacy rights requests.</p>
+# カリフォルニア州消費者プライバシー法の権利
+<p class="mt-4 mb-8"> カリフォルニア州の消費者は、カリフォルニア州消費者プライバシー法に基づき、個人情報を知り、アクセスし、削除する権利を有します。カリフォルニア州の消費者には、企業による個人情報の販売をオプトアウトする権利と、カリフォルニア州のプライバシー権の1つを行使したことで差別的待遇を受けない権利があります。 Virufyは、カリフォルニア州の消費者の個人情報を販売したり、プライバシー権の要求に応じて差別的対応をすることはありん。</p>
 
-## Virufy provides notice of our privacy practices in our Privacy Policy
-<p class="mt-4 mb-8">The Privacy Policy includes what personal information and data is collected, the source of the personal information and data collected, how personal information and data is processed and stored, and the purposes of use of personal information. Virufy also discloses what personal information and if so, the categories of third parties to whom data and personal information is disclosed. More information about how Virufy handles personal information in connection with specific Virufy services is presented in service-specific notices at or before your first use of the Virufy web app and available at any time. To view a copy of the latest versions of the service-specific privacy notices and the California-specific disclosures, please see our <a href="/privacy_policy">Privacy Policy</a>.</p>
+Virufyは、プライバシーポリシーにおけるプライバシー慣行について通知します。
+<p class="mt-4 mb-8">プライバシーポリシーには、収集される個人情報とデータ、収集される個人情報とデータのソース、個人情報とデータの処理方法と保存方法、および個人情報の使用目的が含まれます。 Virufyが個人情報を開示する場合には、データおよび個人情報が開示される第三者機関のカテゴリーを開示します。 Virufyが特定のVirufyサービスに関連して個人情報を処理する方法の詳細は、Virufy Webアプリを初めて使用するときまたはその前に、サービス固有の通知に記載されており、いつでも利用できます。サービス固有のプライバシー通知およびカリフォルニア州独自の情報開示に関する最新バージョンのコピーを確認するには、プライバシーポリシーを参照してください <a href="/privacy_policy">Privacy Policy</a>.</p>
 
-## How to Exercise the Above Rights
-<p class="mt-4 mb-8">California consumers can exercise their rights to access or delete their information directly or through an authorized agent by contacting Virufy at <a href="mailto:study@virufy.org">study@virufy.org</a>. Virufy will ask you for information which we consider necessary to verify your identity for security and to prevent fraud. This information may include name, contact information, and information related to your relationship with Virufy, but the specific information requested may differ depending on the circumstances of your request for your security and to protect privacy rights. If we delete your personal information, we will both render certain personal information about you permanently unrecoverable and also de-identify certain personal information.</p>
+## 上記の権利を行使する方法
+<p class="mt-4 mb-8">カリフォルニア州の消費者は、<a href="mailto:study@virufy.org">study@virufy.org</a>でVirufyに連絡することにより、直接または認定代理店を通じて情報にアクセスまたは削除する権利を行使できます。 Virufyは、セキュリティのために本人確認を行い、詐欺を防止するために必要と思われる情報をお伺いします。この情報には、名前、連絡先情報、およびVirufyとの関係に関連する情報が含まれる場合がありますが、要求される具体的な情報は、セキュリティおよびプライバシー権を保護するための要求の状況によって異なる場合があります。当社がお客様の個人情報を削除した場合、お客様に関する特定の個人情報を永久に回復不能にするだけでなく、特定の個人情報の匿名化も行います。</p>
 
-## Direct Marketing and Do Not Track
-<p class="mt-4 mb-8">Virufy does not track its customers over time and across third party websites to provide targeted advertising and therefore does not respond to web browsers “do not track” signals. If you arrive at our website by way of a link from a third party site that does respond to “do not track” requests, the recognition of any “do not track” request you have initiated will end as soon as you reach our website. Third parties cannot collect any other personally identifiable information from Virufy’s websites unless you provide it to them directly. This is also described in our <a href="/privacy_policy">Privacy Policy</a>.</p>
+## ダイレクトマーケティングとトラッキング
+<p class="mt-4 mb-8">Virufyは、Webブラウザの「追跡しない」信号には応答しません。ですが、アプリ使用者を経時的もしくはターゲット広告を提供する第三者サービスのWebサイトを通して利用者を追跡することはありません。「追跡しない」リクエストに応答する第三者サービスのサイトからのリンクを経由して当社のウェブサイトにアクセスした場合、お客様が開始した「追跡しない」リクエストの認識は、当社のウェブサイトに到達するとすぐに終了します。第三者サービスは、直接提供しない限り、VirufyのWebサイトからその他の個人を特定できる情報を収集することはできません。これは、 <a href="/privacy_policy">プライバシーポリシー</a>にも記載されています。</p>
 
-## Notice for Minors
-<p class="mt-4 mb-8">We do not knowingly collect online information from children under the age of 18. If we are notified that we have collected personal information, as defined by the Children’s Online Privacy Protection Act (“COPPA”), of a child under the age of 13, we will delete the information as expeditiously as possible. We never sell the personal information of minors under 18 years of age and would not do so in the future without affirmative authorization of the consumer if between 13 to 16 years of age, or the parent or guardian of a consumer less than 13 years of age.</p>
+## 未成年者への通知
+<p class="mt-4 mb-8">18歳未満の未成年者から故意にオンライン情報を収集することはありません。児童オンラインプライバシー保護法で定義されているように、13歳未満の未成年者の個人情報を収集したことが通知された場合（「 COPPA」）、可能な限り迅速に情報を削除します。 18歳未満の未成年者の個人情報を販売することはありません。また、利用者が13〜16歳であれば本人の同意なしに、または13歳未満の利用者の場合保護者の同意なしに情報を販売することはありません。</p>

@@ -2,6 +2,6 @@
 lang: ja
 page: cookie-policy
 name: performance cookies
-title: Performance Cookies
+title: パフォーマンスクッキー
 ---
-Also known as analytics cookies, these cookies may be used to collect information about your use of the Website and make the Website more user-friendly. Usage of analytic cookies includes but is not limited to distinguishing users and understanding overall patterns of usage of the Website. We use this information in aggregate form to improve the way our Website works.
+分析クッキーとも呼ばれるこれらのクッキーは、Webサイトの使用に関する情報を収集し、Webサイトをよりユーザーフレンドリーにするために使用される場合があります。分析クッキーの使用には、ユーザーの識別とWebサイトの使用の全体的なパターンの理解が含まれますが、これらに限定されません。当社は、この情報を集約した形で使用してWebサイトの動作改善に活用します。
