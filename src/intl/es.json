@@ -1029,11 +1029,7 @@
       "advisors": {
         "amil": {
           "name": "Amil Khanzada",
-<<<<<<< HEAD
           "description": "MBA / MEng (AI), \nUC Berkeley Haas, \nB.A. Computer Science, \nUC Berkeley",
-=======
-          "description": "MBA / MEng (AI), UC Berkeley Haas\nB.A. Computer Science, UC Berkeley",
->>>>>>> 6bfa3c2f174a42f0a125ec5ff759b8cf253a22e7
           "title": "Founder & President"
         },
         "kara": {
