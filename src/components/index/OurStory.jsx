@@ -38,11 +38,8 @@ export default function OurStory() {
         <h2 className="text-center mb-6 xs:mx-6">
           {intl.formatMessage({ id: "index.section4.header2" })}
         </h2>
-        <div className="w-full flex items-center justify-center flex-row flex-wrap pt-8">
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
-          >
+        <div className="grid grid-cols-5 gap-8 xs:grid-cols-2 pt-8">
+          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
             <a href={supporter_links.stanford} target="_blank">
               <GatsbyImage
                 imgStyle={{ objectFit: "contain" }}
@@ -51,10 +48,7 @@ export default function OurStory() {
               />
             </a>
           </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
-          >
+          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
             <a href={supporter_links.aws} target="_blank">
               <GatsbyImage
                 imgStyle={{ objectFit: "contain" }}
@@ -65,7 +59,7 @@ export default function OurStory() {
           </div>
           <div
             style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
+            className="min-w-250 p-14 max-w-full"
           >
             <a href={supporter_links.nuevaEPS} target="_blank">
               <GatsbyImage
@@ -77,7 +71,7 @@ export default function OurStory() {
           </div>
           <div
             style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
+            className="min-w-250 p-12 max-w-full"
           >
             <a href={supporter_links.oneYoungWorld} target="_blank">
               <GatsbyImage
@@ -89,7 +83,7 @@ export default function OurStory() {
           </div>
           <div
             style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
+            className="min-w-250 p-12 max-w-full"
           >
             <a href={supporter_links.pillsbury} target="_blank">
               <GatsbyImage
@@ -101,7 +95,7 @@ export default function OurStory() {
           </div>
           <div
             style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
+            className="min-w-250 p-12 max-w-full"
           >
             <a href={supporter_links.idimi} target="_blank">
               <GatsbyImage
@@ -113,7 +107,7 @@ export default function OurStory() {
           </div>
           <div
             style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
+            className="min-w-250 p-14 max-w-full"
           >
             <a href={supporter_links.littler} target="_blank">
               <GatsbyImage
@@ -125,7 +119,7 @@ export default function OurStory() {
           </div>
           <div
             style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
+            className="min-w-250 p-12 max-w-full"
           >
             <a href={supporter_links.xoor} target="_blank">
               <GatsbyImage
@@ -135,10 +129,7 @@ export default function OurStory() {
               />
             </a>
           </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
-          >
+          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
             <a href={supporter_links.serviceBots} target="_blank">
               <GatsbyImage
                 imgStyle={{ objectFit: "contain" }}
@@ -161,7 +152,7 @@ export default function OurStory() {
           </div>
           <div
             style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
+            className="min-w-250 p-12 max-w-full"
           >
             <a href={supporter_links.nuvu} target="_blank">
               <GatsbyImage
@@ -173,7 +164,7 @@ export default function OurStory() {
           </div>
           <div
             style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
+            className="min-w-250 p-14 max-w-full"
           >
             <a href={supporter_links.spi} target="_blank">
               <GatsbyImage
@@ -196,10 +187,7 @@ export default function OurStory() {
             </a>
           </div>
 
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
-          >
+          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
             <a href={supporter_links.cccadv} target="_blank">
               <GatsbyImage
                 imgStyle={{ objectFit: "contain" }}
@@ -208,10 +196,7 @@ export default function OurStory() {
               />
             </a>
           </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
-          >
+          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
             <a href={supporter_links.parrolabs} target="_blank">
               <GatsbyImage
                 imgStyle={{ objectFit: "contain" }}
@@ -220,10 +205,7 @@ export default function OurStory() {
               />
             </a>
           </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
-          >
+          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
             <a href={supporter_links.arkangel} target="_blank">
               <GatsbyImage
                 imgStyle={{ objectFit: "contain" }}
@@ -232,10 +214,7 @@ export default function OurStory() {
               />
             </a>
           </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
-          >
+          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
             <a href={supporter_links.lockedJar} target="_blank">
               <GatsbyImage
                 imgStyle={{ objectFit: "contain" }}
@@ -244,10 +223,7 @@ export default function OurStory() {
               />
             </a>
           </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
-          >
+          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
             <a href={supporter_links.Cleveland} target="_blank">
               <GatsbyImage
                 imgStyle={{ objectFit: "contain" }}
@@ -256,10 +232,7 @@ export default function OurStory() {
               />
             </a>
           </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
-          >
+          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
             <a href={supporter_links.responseLab} target="_blank">
               <GatsbyImage
                 imgStyle={{ objectFit: "contain" }}
