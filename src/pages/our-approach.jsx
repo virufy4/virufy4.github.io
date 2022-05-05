@@ -106,8 +106,8 @@ export default function OurApproach({ data }) {
       {/* The usingTechnology */}
       <div className="md:pt-12 md:py-14 mx-8 xs:py-8">
         <div className="grid grid-cols-1  lg:grid-cols-2 gap-6">
-          <div className=" whitespace-pre-line  md:p-4 xs:pt-4">
-            <h2>
+          <div className=" md:p-4 xs:pt-4">
+            {/* <h2>
               {intl.formatMessage({
                 id: "ourApproach.topFold.usingTechnology",
               })}
@@ -121,7 +121,7 @@ export default function OurApproach({ data }) {
               {intl.formatMessage({
                 id: `ourApproach.topFold.edgeResearch`,
               })}
-            </p>
+            </p> */}
             <ButtonLink
               to="/paper"
               className="vf-btn-primary mx-auto my-4 px-6  border-2 border-blue"
@@ -131,13 +131,13 @@ export default function OurApproach({ data }) {
               })}
             </ButtonLink>
           </div>
-          <div className="md:p-2 md:shadow-lg rounded-lg  ">
+          {/* <div className="md:p-2 md:shadow-lg rounded-lg  ">
             <Img
               className="md:h-full"
               fluid={findImage("thetecnology")}
               imgStyle={{ objectFit: "contain" }}
             />
-          </div>
+          </div> */}
         </div>
       </div>
 
