@@ -363,6 +363,8 @@
       "buttonDonate": "Doe"
     },
     "availableRoles": {
+      "ourMission": "Our Mission",
+      "ourMissionDescription": "Virufy, a nonprofit research consortium of researchers, innovators, and scientists, has united volunteers from 25+ countries to develop a smartphone app for the detection of COVID-19. Initially developed as a Stanford University COVID-19 Response Innovation Lab project, Virufy’s artificial intelligence (AI) COVID-19 diagnostic solution fights the pandemic through widespread, accessible, and free testing. ",
       "title": "Junte-se à equipe Virufighter",
       "details": "Virufy é inteiramente administrado por voluntários e empresas parceiras pro bono. Junte-se à nossa equipe veloz e voltada para a missão para colocar suas habilidades em prática para conter a propagação da pandemia globalmente.",
       "donateButton": "Tem o que é preciso? Confira as oportunidades abaixo!",
