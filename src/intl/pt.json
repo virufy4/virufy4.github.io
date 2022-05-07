@@ -175,7 +175,7 @@
         "Question#7": {
           "numberQuestion": "Pergunta #7",
           "questionIdQ": "Qual foi a principal dificuldade na coleta e processamento de dados? Houve alguma região onde a inteligência artificial foi menos precisa, por exemplo?",
-          "questionIdA": "O processo é lento e complicado ao coletar em hospitais, exigindo formulários de estudos clínicos e aprovações de IRB. Com a supervisão de consultores médicos de Stanford, passamos por esse processo em dois hospitais no sul da Ásia e atualmente estamos em discussões com hospitais na América do Sul e África. \n\nPara coletar diretamente dos usuários, investimos esforços significativos com advogados especializados pro bono para garantir a conformidade com as leis de privacidade de dados, incluindo LGPD. \n\nComo descrito em nosso <a target='_blank' href='https://virify.org/paper</a> research paper, algumas das dificuldades que encontramos no processamento de dados incluíam ruídos de fundo excessivos e gravações de tosse incorretas enviadas pelos usuários, o que exigia que os desenvolvedores de IA limpassem manualmente as amostras de áudio antes de treinar IA modelos."
+          "questionIdA": "O processo é lento e complicado ao coletar em hospitais, exigindo formulários de estudos clínicos e aprovações de IRB. Com a supervisão de consultores médicos de Stanford, passamos por esse processo em dois hospitais no sul da Ásia e atualmente estamos em discussões com hospitais na América do Sul e África. Para coletar diretamente dos usuários, investimos esforços significativos com advogados especializados pro bono para garantir a conformidade com as leis de privacidade de dados, incluindo LGPD. Como descrito em nosso research paper, algumas das dificuldades que encontramos no processamento de dados incluíam ruídos de fundo excessivos e gravações de tosse incorretas enviadas pelos usuários, o que exigia que os desenvolvedores de IA limpassem manualmente as amostras de áudio antes de treinar IA modelos.."
         },
         "Question#8": {
           "numberQuestion": "Pergunta #8",
@@ -363,8 +363,6 @@
       "buttonDonate": "Doe"
     },
     "availableRoles": {
-      "ourMission": "Our Mission",
-      "ourMissionDescription": "Virufy, a nonprofit research consortium of researchers, innovators, and scientists, has united volunteers from 25+ countries to develop a smartphone app for the detection of COVID-19. Initially developed as a Stanford University COVID-19 Response Innovation Lab project, Virufy’s artificial intelligence (AI) COVID-19 diagnostic solution fights the pandemic through widespread, accessible, and free testing. ",
       "title": "Junte-se à equipe Virufighter",
       "details": "Virufy é inteiramente administrado por voluntários e empresas parceiras pro bono. Junte-se à nossa equipe veloz e voltada para a missão para colocar suas habilidades em prática para conter a propagação da pandemia globalmente.",
       "donateButton": "Tem o que é preciso? Confira as oportunidades abaixo!",
@@ -1024,7 +1022,7 @@
         },
         "frederick": {
           "name": "Frederick Cosper",
-          "description": "MBA Graduate Candidate: California State Polytechnic University–Pomona\nB.S. Management and Human Resources: California State Polytechnic University–Pomona",
+          "description": "MBA Graduate Candidate: California State Polytechnic University Pomona\nB.S. Management and Human Resources: California State Polytechnic University–Pomona",
           "title": "Human Resources Lead"
         }
       },

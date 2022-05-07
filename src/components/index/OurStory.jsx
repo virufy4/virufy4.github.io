@@ -38,210 +38,239 @@ export default function OurStory() {
         <h2 className="text-center mb-6 xs:mx-6">
           {intl.formatMessage({ id: "index.section4.header2" })}
         </h2>
-        <div className="grid grid-cols-5 gap-8 xs:grid-cols-2 pt-8">
-          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
-            <a href={supporter_links.stanford} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["stanford-logo-color"]}
-              />
-            </a>
-          </div>
-          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
-            <a href={supporter_links.aws} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["aws-logo-color"]}
-              />
-            </a>
-          </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-14 max-w-full"
-          >
-            <a href={supporter_links.nuevaEPS} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["nueva-logo-color"]}
-              />
-            </a>
-          </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-12 max-w-full"
-          >
-            <a href={supporter_links.oneYoungWorld} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["oneyoungworld-logo-color"]}
-              />
-            </a>
-          </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-12 max-w-full"
-          >
-            <a href={supporter_links.pillsbury} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["pillsbury-logo-color"]}
-              />
-            </a>
-          </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-12 max-w-full"
-          >
-            <a href={supporter_links.idimi} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["idimi-logo-color"]}
-              />
-            </a>
-          </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-14 max-w-full"
-          >
-            <a href={supporter_links.littler} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["littler-logo-color"]}
-              />
-            </a>
-          </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-12 max-w-full"
-          >
-            <a href={supporter_links.xoor} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["xoor-logo-color"]}
-              />
-            </a>
-          </div>
-          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
-            <a href={supporter_links.serviceBots} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["serviceBots-logo-color"]}
-              />
-            </a>
-          </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
-          >
-            <a href={supporter_links.sherlock} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["sherlock-logo-color"]}
-              />
-            </a>
-          </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-12 max-w-full"
-          >
-            <a href={supporter_links.nuvu} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["nuvu-logo-color"]}
-              />
-            </a>
-          </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-14 max-w-full"
-          >
-            <a href={supporter_links.spi} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["spi-logo-color"]}
-              />
-            </a>
-          </div>
-          <div
-            style={{ flex: "0 1 20%" }}
-            className="min-w-250 p-10 max-w-full"
-          >
-            <a href={supporter_links.fenwick} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["fenwick-logo-color"]}
-              />
-            </a>
-          </div>
+        <>
+          <div className="grid grid-cols-5 pt-4 gap-4 mx-6 items-center">
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 mdmax-w-full "
+            >
+              <a href={supporter_links.stanford} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full md:p-10 max-h-24"
+                  fluid={images["stanford-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-8 max-w-full"
+            >
+              <a href={supporter_links.aws} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["aws-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-14 max-w-full"
+            >
+              <a href={supporter_links.nuevaEPS} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["nueva-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-14 max-w-full"
+            >
+              <a href={supporter_links.oneYoungWorld} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["oneyoungworld-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-14 max-w-full"
+            >
+              <a href={supporter_links.pillsbury} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["pillsbury-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-14 max-w-full"
+            >
+              <a href={supporter_links.idimi} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["idimi-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-14 max-w-full"
+            >
+              <a href={supporter_links.littler} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["littler-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-14 max-w-full"
+            >
+              <a href={supporter_links.xoor} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["xoor-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-8 max-w-full"
+            >
+              <a href={supporter_links.serviceBots} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["serviceBots-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-8 max-w-full"
+            >
+              <a href={supporter_links.sherlock} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["sherlock-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-12 max-w-full"
+            >
+              <a href={supporter_links.nuvu} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["nuvu-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-12 max-w-full"
+            >
+              <a href={supporter_links.spi} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["spi-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-8 max-w-full"
+            >
+              <a href={supporter_links.fenwick} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["fenwick-logo-color"]}
+                />
+              </a>
+            </div>
 
-          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
-            <a href={supporter_links.cccadv} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["cccadv-logo-color"]}
-              />
-            </a>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-8 max-w-full"
+            >
+              <a href={supporter_links.cccadv} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["cccadv-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-8 max-w-full"
+            >
+              <a href={supporter_links.parrolabs} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["parrolabs-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-8 max-w-full"
+            >
+              <a href={supporter_links.arkangel} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["arkangel-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-8 max-w-full"
+            >
+              <a href={supporter_links.lockedJar} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["lockedJar-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-8 max-w-full"
+            >
+              <a href={supporter_links.Cleveland} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["Cleveland-color-logo"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-8 max-w-full"
+            >
+              <a href={supporter_links.responseLab} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
+                  fluid={images["responselab-logo-color"]}
+                />
+              </a>
+            </div>
           </div>
-          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
-            <a href={supporter_links.parrolabs} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["parrolabs-logo-color"]}
-              />
-            </a>
-          </div>
-          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
-            <a href={supporter_links.arkangel} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["arkangel-logo-color"]}
-              />
-            </a>
-          </div>
-          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
-            <a href={supporter_links.lockedJar} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["lockedJar-logo-color"]}
-              />
-            </a>
-          </div>
-          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
-            <a href={supporter_links.Cleveland} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["Cleveland-color-logo"]}
-              />
-            </a>
-          </div>
-          <div style={{ flex: "0 1 20%" }} className="min-w-250 p-6 max-w-full">
-            <a href={supporter_links.responseLab} target="_blank">
-              <GatsbyImage
-                imgStyle={{ objectFit: "contain" }}
-                className="h-full max-h-24"
-                fluid={images["responselab-logo-color"]}
-              />
-            </a>
-          </div>
-        </div>
+        </>
 
         <div className="flex flex-col items-center">
           <Link
