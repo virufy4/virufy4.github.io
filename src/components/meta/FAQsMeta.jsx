@@ -10,6 +10,15 @@ function FAQsMeta() {
         name="description"
         content={intl.formatMessage({ id: `faqstext.meta` })}
       />
+      <link
+        rel="alternate"
+        hreflang="x-default"
+        href="https://virufy.org/en/FAQs/"
+      />
+      <link rel="alternate" hreflang="en" href="https://virufy.org/en/FAQs/" />
+      <link rel="alternate" hreflang="es" href="https://virufy.org/es/FAQs/" />
+      <link rel="alternate" hreflang="pt" href="https://virufy.org/pt/FAQs/" />
+      <link rel="alternate" hreflang="ja" href="https://virufy.org/ja/FAQs/" />
     </Helmet>
   );
 }
