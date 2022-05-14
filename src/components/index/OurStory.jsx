@@ -39,15 +39,15 @@ export default function OurStory() {
           {intl.formatMessage({ id: "index.section4.header2" })}
         </h2>
         <>
-          <div className="grid grid-cols-5 pt-4 gap-4 mx-6 items-center">
+          <div className="grid grid-cols-5 xs:grid-cols-4  xs:gap-6 pt-4 gap-4 mx-6 items-center">
             <div
               style={{ flex: "0 1 20%" }}
-              className="md:min-w-250 mdmax-w-full "
+              className="md:min-w-250 max-w-full "
             >
               <a href={supporter_links.stanford} target="_blank">
                 <GatsbyImage
                   imgStyle={{ objectFit: "contain" }}
-                  className="h-full md:p-10 max-h-24"
+                  className="h-full  max-h-24"
                   fluid={images["stanford-logo-color"]}
                 />
               </a>
