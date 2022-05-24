@@ -63,7 +63,7 @@ export default ({ images }) => {
         </div>
       </div>
       <div className="hidden md:block col-span-8">
-        {constructImage("map-comunity", "w-full")}
+        {constructImage("map-update", "w-full")}
       </div>
     </section>
   );
