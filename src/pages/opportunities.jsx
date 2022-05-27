@@ -60,21 +60,24 @@ export default function Opportunities({ data }) {
 
       <div className="xs:hidden">
         <BackgroundImage
-          className="py-4 px-8"
+          className="py-4 px-8 "
           imgStyle={{ objectFit: "contain" }}
           fluid={findImage("background-opportunities")}
         >
-          <h1 className="text-white text-center font-medium mt-28 md:pt-32 mb-20">
+          <div className="w-full h-96 my-10"></div>
+        </BackgroundImage>
+        <div className="flex justify-center items-center w-full h-60 bg-blue-600">
+          <h1 className="text-white text-center font-medium  md:px-64">
             {intl.formatMessage({
               id: `getInvolved.opportunities.head`,
             })}
           </h1>
-        </BackgroundImage>
-        <p className="md:pt-8 mx-8">
+        </div>
+        {/* <p className="md:pt-8 mx-8">
           {intl.formatMessage({
             id: `getInvolved.opportunities.Subhead`,
           })}
-        </p>
+        </p> */}
       </div>
       {/* JOB OPENINGS */}
       <div className="rounded-2xl shadow-md md:mx-8">
