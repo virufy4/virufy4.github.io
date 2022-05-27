@@ -120,14 +120,17 @@ function associateDataScientist() {
           {" "}
           <li className="flex items-start gap-2">
             <GoPrimitiveDot className="mt-1" />
-            Reach out to{" "}
-            <a
-              href="mailto:vivek.krishnani@virufy.org"
-              className="text-blue-600 cursor-pointer"
-            >
-              vivek.krishnani@virufy.org
-            </a>{" "}
-            and we will get back to you promptly.
+
+            <span>
+              Reach out to{" "}
+              <a
+                href="mailto:vivek.krishnani@virufy.org"
+                className="text-blue-600 cursor-pointer"
+              >
+                vivek.krishnani@virufy.org
+              </a>{" "}
+              and we will get back to you promptly.
+            </span>
           </li>
         </ul>
         <button
