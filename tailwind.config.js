@@ -104,6 +104,7 @@ module.exports = {
       },
       screens: {
         xs: { max: "640px" },
+        xl: "1092px",
         "2xl": "1440px",
         "3xl": "1680px",
         "4xl": "1920px",
@@ -142,6 +143,9 @@ module.exports = {
       animation: {
         bannermove: "bannermove 42s linear infinite",
         bannermove_oyw: "bannermove_oyw 42s linear infinite",
+      },
+      width: {
+        md: "1200px",
       },
     },
   },
