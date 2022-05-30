@@ -184,12 +184,6 @@ export const leadership = [
 
 export const advisors = [
   {
-    mediaLink: "https://www.linkedin.com/in/amilkhanzada",
-    id: "amil",
-    defaultName: "Amil Khanzada",
-    imageName: "amil",
-  },
-  {
     mediaLink: "https://www.linkedin.com/in/kara-meister-200335110/",
     id: "kara",
     defaultName: "Kara Meister, M.D.",

@@ -47,7 +47,7 @@ export default function NotFound() {
 
   return (
     <>
-      <SEO title="404: Not found | Virufy" />
+      <SEO title=": Not found | Virufy" />
       <a
         className="my-8 mx-8 flex items-center justify-between py-3 px-6"
         href="/"

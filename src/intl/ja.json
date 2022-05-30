@@ -80,23 +80,23 @@
         },
         "Question#4": {
           "numberQuestion": "質問　その４",
-          "questionIdQ": "このアプリをスタートアップで展開する予定はありますか？",
+          "questionIdQ": "このアプリをにスタートアップへ展開する予定はありますか？",
           "questionIdA": "Virufyは非営利団体です。人々のためになるアプリの展開を加速させるため、必要に応じて企業と提携することがあります。"
         },
         "Question#5": {
           "numberQuestion": "質問　その５",
           "questionIdQ": "私の国では、いつからアプリが使えるようになりますか？",
-          "questionIdA": "Virufyは、国ごとに異なるデータプライバシー法の遵守に努めています。データプライバシーに精通するプロボノ弁護士の協力のもと当社のプライバシーポリシーと同意書を精査できれば、順次あなたの国に拡大することが可能になります。"
+          "questionIdA": "Virufyは、国によって異なるデータプライバシー法の遵守に努めています。無償のデータプライバシー弁護士と接続できる場合、当社のプライバシーポリシーと同意書を確認し、順次あなたの国に拡大することが可能になります。"
         },
         "Question#6": {
           "numberQuestion": "質問　その６",
           "questionIdQ": "Virufyアプリのビジョンについて教えてください。",
-          "questionIdA": "Virufyは当初、検査を補完する目的で作られました。そして、人々が病気を蔓延させることのないよう、自分の健康状態を簡単に知ることができるような未来を思い描いています。"
+          "questionIdA": "Virufyは当初、検査を補完する目的で作られました。そして、人々が自分の健康状態を簡単に知ることができ、病気を蔓延させることのない未来を描いています。"
         },
         "Question#7": {
           "numberQuestion": "質問　その７",
           "questionIdQ": "テスト結果にアクセスできる人は限られていますか？どのようにしてプライバシーは守られているのでしょうか。テスト結果はどこに保存されるのですか？",
-          "questionIdA": "予測アプリの意図としては、感染している（陽性）という結果には多くの懸念が伴うため、ユーザーだけが検査結果を見ることができるようにしたいと考えています。検査結果や収集されたデータは、安全なサーバーに保存されます。"
+          "questionIdA": "予測アプリの意図としては、ポジティブな結果には多くの恐怖があるため、ユーザーだけが検査結果を見ることができるようにしたいと考えています。検査結果やデータ収集のデータは、安全なサーバーに保存されます。"
         }
       },
       "questionsAboutVirufy": {
@@ -107,8 +107,8 @@
         },
         "Question#2": {
           "numberQuestion": "質問　その２",
-          "questionIdQ": "Virufyは何をしようとしている組織なのか?",
-          "questionIdA": "Virufyの目標は、何百万人もの人々の咳データをもとに共通の敵であるCOVIDと戦うムーブメントを起こすことによって、世界最大のCOVID-19の咳のデータセットを構築することです。501(c)(3)の非営利スタートアップであり、組織的な官僚的形式主義がなく、20か国にまたがる多様なチームを擁しているため、これを実現するのに適した立場にあります。公衆衛生当局に承認されれば、低所得国において、迅速かつ無料のCOVID検査のためのスマートフォンアプリがリリースされる予定です。このアプリは、大規模かつ匿名での検査を可能にし、ウイルスの拡散を遅らせるために、非常に役に立ちます。COVIDを阻止するために、国境を越えて人々が団結できる、グローバルに連携した新しいパラダイムを創り出したいと考えています。スマートフォンアプリで病気の早期発見を可能にし、感染症の広がりが大幅に減少する未来を、ともに創りましょう。"
+          "questionIdQ": "Virufyは何をする組織なのか？",
+          "questionIdA": "Virufyの目標は、何百万人もの人々が咳データを提供し、共通の敵であるCOVIDと戦うムーブメントを起こすことによって、世界最大のデータセットを構築することです。地元の公衆衛生当局に承認されると、低所得国において、迅速かつ無料のCOVID検査のためのスマートフォンアプリがリリースされる予定です。このアプリは、大規模かつ匿名での検査を可能にし、ウイルスの拡散を遅らせるために、非常に役に立ちます。COVIDを阻止するために、国境を越えて人々を団結させ、グローバルな協力の新しいパラダイムを創り出したいと考えています。スマートフォンアプリで病気の早期発見を可能にし、感染症の広がりが大幅に減少する未来を、ともに創りましょう。"
         },
         "Question#3": {
           "numberQuestion": "質問　その３",
@@ -123,7 +123,7 @@
         "Question#5": {
           "numberQuestion": "質問　その５",
           "questionIdQ": "他のプロジェクトと比較して、Virufyの特徴は何ですか？",
-          "questionIdA": "私たちは15カ国、25大学から集まった多様でグローバルな若い世代のチームで構成されています。私たちは、世界中の大学、非営利団体、企業からの専門家アドバイザーに指導を受けています。私たちの学際的なチームは、データプライバシー、機械学習、医療、情報セキュリティ、モバイルアプリ開発などの専門知識を備えています。ワン・ヤング・ワールドのネットワークにより、各国の信頼できるパートナーとのつながりがあります。 私たちは、あらゆる人材を受け入れボランティアで運営される501(c)(3)非営利団体なので、独立性が高く、官僚的な形式主義も少なくなります。また、適切なプロジェクト展開のための法律や個人情報保護に関してプロボノ弁護士よりアドバイスを受けています。"
+          "questionIdA": "私たちは若者が運営し、15カ国、25大学から集まった多様でグローバルなチームで構成されています。私たちは、世界中の大学、非営利団体、企業からの専門家アドバイザーに指導を受けています。私たちの学際的なチームは、データプライバシー、機械学習、医療、情報セキュリティ、モバイルアプリ開発などの専門知識を備えています。ワン・ヤング・ワールドのネットワークにより、各国の信頼できるパートナーとのつながりがあります。\n\n私たちは、ボランティアで運営される501(c)(3)非営利団体なので、独立性が高く、お役所仕事も少なくなります。また、法律や個人情報保護に関するアドバイスも無償で受けられるので、適切な展開が可能です。"
         },
         "Question#6": {
           "numberQuestion": "質問　その６",
@@ -175,7 +175,7 @@
         "Question#7": {
           "numberQuestion": "質問　その７",
           "questionIdQ": "データの収集プロセスの過程で苦労した点は？例えば、人工知能の精度が低い国や地域などはありましたか？",
-          "questionIdA": "病院から収集する場合は、臨床試験の書式やIRBからの承認が必要であり、プロセスに時間がかかります。スタンフォード大学のメディカルアドバイザーの指導のもと、南アジアの2病院を対象にこのプロセスを進め、現在、南米とアフリカの病院と協議中です。また、ユーザーから直接収集する場合、LGPDを含むデータプライバシー法の遵守のため、プロボノの専門弁護士と多大な労力を費やしました。 研究論文にあるように, データ処理で苦労した点として、過剰な背景雑音や誤った種類の咳の録音などがあり、AI開発者がAIモデルの学習前に手動で音声サンプルをクリーニングする必要がありました。"
+          "questionIdA": "病院から収集する場合は、臨床試験の書式やIRBからの承認が必要であり、プロセスに時間がかかります。スタンフォード大学のメディカルアドバイザーの指導のもと、南アジアの2病院を対象にこのプロセスを進め、現在、南米とアフリカの病院と協議中です。また、ユーザーから直接収集する場合、LGPDを含むデータプライバシー法の遵守のため、プロボノの専門弁護士と多大な労力を費やしました。\n <a target='_blank' href='https://virufy.org/paper'>研究論文</a>にあるように, 研究論文にあるように、データ処理で苦労した点として、過剰な背景雑音や誤った種類の咳の録音などがあり、AI開発者がAIモデルの学習前に手動で音声サンプルをクリーニングする必要がありました。"
         },
         "Question#8": {
           "numberQuestion": "質問　その８",
@@ -217,7 +217,7 @@
         "Question#3": {
           "numberQuestion": "質問　その３",
           "questionIdQ": "咳の症状がないと寄付はできないのでしょうか？",
-          "questionIdA": "いいえ、意識的に出した咳でも寄付いただけます。"
+          "questionIdA": "無症状の陽性者の方でも咳を寄付いただけます。"
         },
         "Question#4": {
           "numberQuestion": "質問　その４",
@@ -249,7 +249,7 @@
         "Question#3": {
           "numberQuestion": "質問　その３",
           "questionIdQ": "Virufy には、プライバシーポリシーとクッキーポリシーがありますか？",
-          "questionIdA": "Virufyは、お客様のプライバシーと個人情報の保護に真摯に取り組んでいます。当社の法務チームは、当社のウェブサイトの使用、咳の寄付での研究への参加、当社への連絡、およびボランティア応募を通じてお客様が当社と共有する個人情報を保護するために、詳細なプライバシーポリシーとクッキーポリシーを作成しました。"
+          "questionIdA": "Virufyは、お客様のプライバシーと個人情報の保護に真剣に取り組んでいます。当社の法務チームは、当社のウェブサイトの使用、咳止め寄付研究への参加、当社への連絡、およびボランティア応募を通じてお客様が当社と共有する個人情報を保護するために、詳細なプライバシーポリシーとクッキーポリシーを作成しました。"
         },
         "Question#4": {
           "numberQuestion": "質問　その４",
@@ -271,7 +271,7 @@
         "Question#3": {
           "numberQuestion": "質問　その３",
           "questionIdQ": "Virufyのデータ収集は、すでに何カ国で行われているのですか？ラテンアメリカの他に、現在力を入れている分野はありますか？",
-          "questionIdA": "アプリ内に提示されている国からデータを収集しました。中南米は今、私たちが最も注力している地域です。"
+          "questionIdA": "以下に掲載されている国からデータを収集しました。 <a target='_blank' href='https://virufy.org/app.html'>app</a>. 中南米は今、私たちが最も注力している地域です。"
         },
         "Question#4": {
           "numberQuestion": "質問　その４",
@@ -434,8 +434,8 @@
     "meta": "人工知能を使用した効率的なオンラインCovid-19テストの構築に専念する人々によって2020年3月に設立されたプロジェクトであるVirufyに会いましょう。",
     "title": "AIを使用したオンラインCovid-19テストの開発| Virufy",
     "section1": {
-      "header": "COVID-19の検査をオンラインで",
-      "pg": "Virufyは、咳と声のパターン分析を通じてCOVID-19の感染の有無をすばやく特定する迅速かつ無償のAIスマートフォンアプリを開発している、非営利の研究組織です。",
+      "header": "オンラインのCovid-19テストが可能です",
+      "pg": "Virufyは、咳のパターンからCOVID-19を特定する人工知能（AI）技術を、スマートフォンを使って迅速かつ無償で開発する非営利の研究機関です。",
       "coughLink": "咳を寄付する",
       "donateLink": "今すぐ咳を寄付する",
       "donateLinkResponsive": "今すぐ寄付する",
@@ -457,7 +457,7 @@
       "header2": "AIが呼吸器のサインを解析",
       "header3": "咳の収集数",
       "tryItOutLink": "試してみる",
-      "description": "Virufyは2020年3月に設立されました。現在、５大陸にまたがるVirufitersは、革新的なテクノロジーを通して病気を迅速に無料でスクリーニングできるよう目指し取り組んでいます。",
+      "description": "Virufyは2020年3月に設立されました。現在、5大陸のVirufighterは、革新的な技術によって病気の迅速な検査をを無料で行うことに目指し活動に取り組んでいます。",
       "numbercollected": "100,000",
       "joincommunity": "コミュニティーに参加する"
     },
@@ -485,7 +485,7 @@
     "dashboard": "ダッシュボード",
     "ourData": "私たちについて",
     "our-org": "私たちの組織",
-    "about": "詳細", 
+    "about": "詳細",
     "ourtech": "私たちのテクノロジー",
     "getInvolved": "参加する",
     "techBehind": "技術",
@@ -822,12 +822,12 @@
         "readMoreLink": "さらに読む..."
       },
       "section5": {
-        "date": "2022年1月",
+        "date": "20221年1月",
         "title": "咳からのCOVID-19分類のための大規模な集約データセットでのディープラーニングの使用",
         "readMoreLink": "さらに読む..."
       },
       "section6": {
-        "date": "2022年1月",
+        "date": "20221年1月",
         "title": "Covid 19 Calculator -- Positive U.S. Socio-Economic Impact",
         "readMoreLink": "さらに読む...",
         "calculatorLink": "Calculator"
@@ -863,11 +863,46 @@
     }
   },
   "team": {
+    "meta": "Whoever and wherever you are you may be able to join Virufy project and help create an AI driven online COVID-19 test. Make a difference today.",
+    "title": "Read Amil’s Story",
     "supportersSection": {
       "header": "About/サポーター紹介",
       "description": "数々の企業や団体が、その豊富な知識で私たちをサポートし、私たちの活動に安心と確実性を与えてくれるのです。",
       "supporterText": "Virufyは <a target='_blank' rel='noreferrer' href='https://responselab.stanford.edu/projects.html' class='underline'/>スタンフォードCOVID-19レスポンス・イノベーションラボ</a> プロジェクトであり、<a target='_blank' rel='noreferrer' href='https://www.oneyoungworld.com/' class='underline'/>One Young World</a>で取り上げられています。",
       "buttonSupporter": "サポーターになる"
+    },
+    "ourFounder": {
+      "subtitleOurFounder": "Meet Our Founder",
+      "title-advisors": "Advisors",
+      "amil": {
+        "name": "Amil Khanzada",
+        "email": "amil@berkeley.edu",
+        "description1": "MBA Candidate, Haas School of Business \nMaster of Engineering Candidate, \nDepartment of Electrical Engineering and \nComputer Sciences",
+        "description2": "University of California, Berkeley 253 Cory Hall, Berkeley, CA",
+        "title": "Founder & President"
+      },
+      "titleAmilStory": "Amil’s Story",
+      "amilStory": {
+        "firstParagraph": {
+          "one": "Born and raised in the Silicon Valley, Amil has worked since his father’s untimely passing when he was 18 with his first job as a software consultant developing optical mark recognition (OMR) software for automated grading of tests in K-12 schools.",
+          "two": "After receiving his B.A. in Computer Science from University of California, Berkeley in 2012, Amil joined Hewlett-Packard (HP) in Silicon Valley to work full-time as a software engineer developing security log standardization software for the ArcSight, Security Information and Event Management System (SIEM).",
+          "three": "In 2014, Amil transferred to HP’s Tokyo headquarters to take on a role as cybersecurity consultant, in which he traveled across Hong Kong, Tokyo, and Australia to deploy SIEM solutions at customer sites in the banking industry."
+        },
+        "secondParagraph": "In 2016, Amil returned to Silicon Valley to join Pivotal Software as a software engineer working primarily on the Postgres-based open source Greenplum OLAP database. In Pivotal’s extreme programming (XP) environment, Amil practiced several software development practices, including daily pair programming, test-driven development (TDD), and weekly retroactive meetings, while rotating across several teams, including DevOps, database backend, and workload management tooling.",
+        "thirdParagraph": "In 2018, Amil took leave from work to move to the countryside of Japan. Living in Eiheiji town, the birthplace of Soto Zen, Amil meditated daily and learned Zen philosophy, while giving back teaching agile programming to young adults and children. Soon, Amil was appointed Evolution Ambassador of the town and sent to the One Young World conference in the Netherlands to represent Japan, amongst other young social impact leaders, country heads, and Nobel Laureates from 195 countries.",
+        "fourthParagraph": {
+          "one": "In early 2020, Amil left his job to pursue graduate studies in Artificial Intelligence at Stanford University, taking his first courses with Coursera founder Dr. Andrew Ng and ImageNet creator Dr. Fei-Fei Li. When the pandemic hit, Amil committed himself to pandemic relief efforts and soon founded Virufy.",
+          "two": "Virufy is a nonprofit organization developing a smartphone app to prescreen for COVID-19 instantly through AI-powered analysis of voice and cough recordings. As of February 2022, the organization operates in a dozen countries with more than 200 volunteers and 30 partner organizations, including Amazon Web Services, Stanford COVID-19 Response Innovation Lab, and Pillsbury Winthrop Shaw Pittman Law."
+        },
+        "Amil-Publications": "Amil’s Publications",
+        "fifthParagraph": {
+          "one": "2022. Using Deep Learning with Large Aggregated Datasets for COVID-19 Classification from Cough. arXiv: 2201.01669",
+          "two": "2021. Using a Novel COVID-19 Calculator to Measure Positive U.S. Socio-Economic Impact of a COVID-19 Pre-Screening Solution (AI/ML). arXiv: 2201.11109",
+          "three": "2020. Virufy: Global Applicability of AI Detection for COVID-19 from Cough Recordings. arXiv: 2011.13320 ",
+          "four": "2020. Fusical: Multimodal Fusion for Video Sentiment. ACM ICMI; DOI: 3382507.3417966",
+          "five": "2020. Facial Expression Recognition with Deep Learning. arXiv: 2004.11823"
+        }
+      }
     },
     "teamSection": {
       "title-ourpeople": "About/私たちの仲間",
