@@ -10,6 +10,7 @@ export default {
   fenwick: "https://www.fenwick.com/",
   nuvu: "https://www.nuvu.cc/",
   parrolabs: "https://www.parrolabs.com/",
+  devlights: "https://www.devlights.com/",
   arkangel: "https://arkangel.ai/en",
   pillsbury: "https://www.pillsburylaw.com/en/",
   aws: "https://aws.amazon.com/",
