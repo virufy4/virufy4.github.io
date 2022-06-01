@@ -44,7 +44,7 @@ export default function Teams({ images }) {
           <p className="md:mb-2 text-black md:pr-36 md:pt-4 xs:pb-4">
             {intl.formatMessage({ id: "team.ourFounder.amil.description2" })}
           </p>
-          <div className="flex rounded-xl pt-6">
+          <div className="flex rounded-xl pt-6 xs:justify-center">
             <ButtonLink
               to="/Founder"
               className="md:px-6 md:text-lg xs:text-center xs:text-sm"
