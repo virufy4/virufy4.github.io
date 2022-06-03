@@ -228,11 +228,6 @@
 <url> <loc>https://virufy.org/es/roles/data-privacy-manager/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/pt/roles/data-privacy-manager/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/ja/roles/data-privacy-manager/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/roles/data-processing-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/en/roles/data-processing-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/es/roles/data-processing-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/pt/roles/data-processing-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/ja/roles/data-processing-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/roles/data-visualizaiton-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/en/roles/data-visualizaiton-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/es/roles/data-visualizaiton-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -258,6 +253,11 @@
 <url> <loc>https://virufy.org/es/roles/infosec-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/pt/roles/infosec-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/ja/roles/infosec-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/roles/ml-engineer-models/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/en/roles/ml-engineer-models/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/es/roles/ml-engineer-models/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/pt/roles/ml-engineer-models/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/ja/roles/ml-engineer-models/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/roles/ml-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/en/roles/ml-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/es/roles/ml-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
