@@ -130,9 +130,9 @@ function Modal({ triggerRef, scale, children, show, onClose }) {
 
   return (
     <Overlay active={show} onClick={closeIfModalWasNotTarget}>
-      <div className="md:mx-80 md:px-4 md:py-80 xs:py-80">
+      <div className="flex justify-center mt-80 md:mt-96">
         <div
-          className="fixed xs:absolute bg-white p-4 shadow-2xl overflow-y-auto md:w-2/4 md:h-1/5"
+          className="fixed w-[90%] xs:absolute bg-white py-8 px-12 shadow-2xl overflow-y-auto md:w-[60%]"
           ref={modalRef}
         >
           {children}

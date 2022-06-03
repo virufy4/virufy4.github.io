@@ -48,17 +48,17 @@ const Role = ({ description, location, title, slug, intl }) => {
         scale={0.5}
         onClose={handleClose}
       >
-        <h4 className="py-2 text-center ">
-          Do you understand this is a part-time, unpaid, voluntier position?
-        </h4>
+        <p className="text-md py-2 text-center ">
+          Do you understand this is a part-time, unpaid, volunteer position?
+        </p>
 
         <div className="flex justify-center min-w-max">
-          <button className="vf-btn-primary mx-4 px-6 py-2 mt-4 text-blue border-2 border-blue ">
+          <button className="bg-blue-600 w-20 mx-4 px-5 py-1 mt-4 text-white border-2 border-blue hover:bg-blue-500 ">
             <Link to={`/roles/${slug}`}>YES</Link>
           </button>
 
           <button
-            className="vf-btn-primary mx-4 px-6 py-2 mt-4 text-blue border-2 border-blue "
+            className="w-20 mx-4 px-5 py-1 mt-4 text-blue border-2 border-blue hover:bg-gray-300"
             onClick={handleClose}
           >
             No
