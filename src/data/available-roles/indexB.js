@@ -3,69 +3,71 @@ export const newRoles = {
     title: "Engineering",
     roles: [
       {
-        title: "Audio Signal Processing Engineer",
-        slug: "audio-engineer",
+        title: "Software Engineer",
+        slug: "software-engineer",
         description:
           "Our team of part-time volunteers works with machine learning, deep learning, and signal analysis for audio analysis in a medical setting. We welcome individuals with professional experience in these domains to apply. The candidate will be immersed in a collaborative environment alongside AI engineers and mentors.",
         responsabilities: [
-          "Contribute to design and optimize the cough sound audio processing.",
-          "Audio restoration of poor-quality audio.",
-          "Engage engineers to troubleshoot issues with deliverables.",
+          "Assist in scaling our state-of-the-art ML approaches for detecting COVID from coughs.",
+          "Train, build, and deploy AI models into production.",
           "Produce clean code and APIs to facilitate understanding within the team.",
           "Collaborate with product management and leadership to deliver on expectations.",
-          "Distill results into academic formats, e.g. research paper.",
+          "Build data ingest and data transformation infrastructure.",
+          "Process and feature extract from a wide array of input data types.",
+          "Identify transfer learning opportunities and auxiliary training datasets",
         ],
         requirements: [
-          "1-2 years of experience working in audio processing.",
-          "Experience with ML frameworks in modeling with audio data and audio feature extraction.",
-          "Bachelor or above degree in computer science, computer engineering, or electrical engineering.",
-          "Familiar with audio libraries and digital audio formats.",
-          "Familiarity with audio production workflows.",
-          "Hands-on AI programming experience working on (ideally) enterprise products.",
-          "Passionate and committed to the Virufy mission, communicate effectively, and share learnings with the team.",
+          "1-2 years of experience working with frameworks and open source technologies in an SDE role.",
+          "Passionate and committed to the Virufy mission. Show up to stand-up meetings on time, communicate effectively, and share learnings with the team",
+          "Strong Python programming experience with toolkits such as Pandas, NumPy, Librosa",
+          "Bonus: Experience in training models with frameworks like Scikit-learn, Tensorflow, Pytorch, Keras",
+          "Bonus: Hands-on AI programming experience working on (ideally) enterprise products",
+          "Bonus Experience using AI for healthcare in clinical research studies and solving real-world problems",
         ],
         desired_skills: [],
         minimun_qualification: [],
         location: "Remote",
-        time_commitment: "10-15 hours per week for a 6 month period",
+        time_commitment:
+          "Minimum 15-20 hours per week, including stand-up, sprint review, and other meetings",
         url:
-          "https://docs.google.com/document/d/1hjYdhzFu9FBpl5he7BQn1dBskqtWTvjmvZBG3O6mgXs",
+          "https://docs.google.com/document/d/1MuIagdfF3PO6zhndfCQHjf7N8YEtMoPNbtds7q0SHTg", // added for link , start from there
       },
       {
-        title: "DevOps Engineer (Infrastructure)",
-        slug: "devops-engineer",
+        title: "Machine Learning Engineer",
+        slug: "ml-engineer",
         description:
-          "Seeking a part-time volunteer to work with machine learning, deep learning, and signal processing for audio analysis in a medical setting. We welcome students and professionals with experience in these domains. The candidate will be immersed in a highly collaborative environment alongside senior AI engineers and mentors.",
+          "Our team of part-time volunteers works with machine learning, deep learning, and signal analysis for audio analysis in a medical setting. We welcome individuals with professional experience in these domains to apply. The candidate will be immersed in a collaborative environment alongside AI engineers and mentors.",
         responsabilities: [
-          "Build scalable web services in the AWS environment",
-          "Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc",
-          "Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources",
-          "Collaborate with other engineers and ML experts, taking learning and leadership opportunities that will arise every single day",
-          "Keep data separated and secure across national boundaries through strict adherence to information security protocols and policies",
-          "Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative world leader",
-          "Assess the quality of the data from both internal and external data sources to build our world class datasets",
+          "Maintaining the ETL Pipeline For Data.",
+          "Pre-process data for for machine learning models.",
+          "Attend Weekly Team Meetings To Discuss Progress & Status Updates.",
+          "Perform any other administrative duties as needed for the Machine Learning team.",
         ],
-        requirements: [
-          "Passionate and committed to the Virufy project mission. Show up to stand-up meetings on time, communicate effectively, and share learnings with the team",
-          "Experience with AWS and/or Google Cloud Platform",
-          "Strong background working with Python and Jupyter Notebooks",
-          "Experience in training models on platforms such as Keras and TensorFlow",
-        ],
+        requirements: [],
         desired_skills: [
-          "5+ years of paid work experience",
-          "1 year of experience building APIs in Flask, Bottle, or Django frameworks",
-          "Hands-on programming experience working on audio databases",
+          "Experience With Python & Pandas or similar data libraries.",
+          "Experience With AWS S3 or similar data storage systems.",
+          "Experience In Writing Non Trivial Bash Scripts or similar automation",
+          "Code versioning (Git)",
+          "Ability To Program Independently",
+          "Knowledge of efficient, scalable ETL pipelines",
+          "Leadership attitude ( self starter )",
         ],
-        minimun_qualification: [],
+        minimun_qualification: [
+          "Age 18 or over",
+          "Legally authorized to work in the United States ( We do not sponsor Visas )",
+          "High School Graduate or College Degree",
+          "Valid Photo ID ( Drivers License or Passport )",
+        ],
         location: "Remote",
         time_commitment:
-          "10-20 hours per week, including stand-up, sprint review, and other meetings",
+          "The position lasts for 6 months. You are requested to invest between 10-15  hours per week in your development of your role within this organization.",
         url:
-          "https://docs.google.com/document/d/1au9s2wrUXlXx_tdK7q7EbB9xL0ZZ2NRdlDUgTwtjlW0",
+          "https://docs.google.com/document/d/1cwcST8vefBJLaKjd_7Rj1bAcqV5rvyIcnwbJsEhfqIY",
       },
       {
-        title: "Machine Learning Engineer(Models)",
-        slug: "ml-engineer",
+        title: "Machine Learning Engineer(Modelling Team)",
+        slug: "ml-engineer-models",
         description:
           "Our team of part-time volunteers works with machine learning, deep learning, and signal analysis for audio analysis in a medical setting. We welcome individuals with professional experience in these domains to apply. The candidate will be immersed in a collaborative environment alongside AI engineers and mentors.",
         responsabilities: [
@@ -96,34 +98,89 @@ export const newRoles = {
           "https://docs.google.com/document/u/2/d/1yiFgIpXez3m7qfnokLZ8t2iOdDZX7kx_zJHGOLEdyAo",
       },
       {
-        title: "Software Engineer (Machine Learning)",
-        slug: "software-engineer",
+        title: "Audio Signal Processing Engineer",
+        slug: "audio-engineer",
         description:
           "Our team of part-time volunteers works with machine learning, deep learning, and signal analysis for audio analysis in a medical setting. We welcome individuals with professional experience in these domains to apply. The candidate will be immersed in a collaborative environment alongside AI engineers and mentors.",
         responsabilities: [
-          "Assist in scaling our state-of-the-art ML approaches for detecting COVID from coughs.",
-          "Train, build, and deploy AI models into production.",
+          "Contribute to design and optimize the cough sound audio processing.",
+          "Audio restoration of poor-quality audio.",
+          "Engage engineers to troubleshoot issues with deliverables.",
           "Produce clean code and APIs to facilitate understanding within the team.",
           "Collaborate with product management and leadership to deliver on expectations.",
-          "Build data ingest and data transformation infrastructure.",
-          "Process and feature extract from a wide array of input data types.",
-          "Identify transfer learning opportunities and auxiliary training datasets",
+          "Distill results into academic formats, e.g. research paper.",
         ],
         requirements: [
-          "1-2 years of experience working with frameworks and open source technologies in an SDE role.",
-          "Passionate and committed to the Virufy mission. Show up to stand-up meetings on time, communicate effectively, and share learnings with the team",
-          "Strong Python programming experience with toolkits such as Pandas, NumPy, Librosa",
-          "Bonus: Experience in training models with frameworks like Scikit-learn, Tensorflow, Pytorch, Keras",
-          "Bonus: Hands-on AI programming experience working on (ideally) enterprise products",
-          "Bonus Experience using AI for healthcare in clinical research studies and solving real-world problems",
+          "1-2 years of experience working in audio processing.",
+          "Experience with ML frameworks in modeling with audio data and audio feature extraction.",
+          "Bachelor or above degree in computer science, computer engineering, or electrical engineering.",
+          "Familiar with audio libraries and digital audio formats.",
+          "Familiarity with audio production workflows.",
+          "Hands-on AI programming experience working on (ideally) enterprise products.",
+          "Passionate and committed to the Virufy mission, communicate effectively, and share learnings with the team.",
         ],
         desired_skills: [],
         minimun_qualification: [],
         location: "Remote",
-        time_commitment:
-          "Minimum 15-20 hours per week, including stand-up, sprint review, and other meetings",
+        time_commitment: "10-15 hours per week for a 6 month period",
         url:
-          "https://docs.google.com/document/d/1MuIagdfF3PO6zhndfCQHjf7N8YEtMoPNbtds7q0SHTg", // added for link , start from there
+          "https://docs.google.com/document/d/1hjYdhzFu9FBpl5he7BQn1dBskqtWTvjmvZBG3O6mgXs",
+      },
+      {
+        title: "Data Visualization Engineer",
+        slug: "data-visualizaiton-engineer",
+        description:
+          "Our team of part-time volunteers works with machine learning, deep learning, and signal analysis for audio analysis in a medical setting. We welcome individuals with professional experience in these domains to apply. The candidate will be immersed in a collaborative environment alongside AI engineers and mentors.",
+        responsabilities: [
+          "Ability to see raw data, understand how it can best be reported or visualized on a case-by-case basis, and bring it to life in an intuitive and detailed format.",
+          "Ability to write custom calculations (or queries) within the data visualization tool.",
+          "This role will require collaboration with end users, project stakeholders, and support partners to identify needs, goals, metric measurements, and  business models which will result in easy to understand interfaces and enable end users to quickly identify key themes within the data.",
+        ],
+        requirements: [
+          "A Bachelors or Masters degree in Computer Science or Data Science.",
+          "Experience with visualization tools/toolsets. Tableau is preferred.",
+          "Experience with SQL.",
+          "Experience in building Integration of visualization tools with various data sources like Redshift, Athena, Excel, Mysql and Postgres.",
+          "Strong communication skills.",
+        ],
+        desired_skills: [],
+        minimun_qualification: [],
+        location: "Remote",
+        time_commitment: "15-20 hours per week for a 6 month period",
+        url:
+          "https://docs.google.com/document/d/17PyTh4hZNiLQaRliZ2vxFXwIFPsdcbNz_QGrf4aPmxE",
+      },
+      {
+        title: "DevOps Engineer",
+        slug: "devops-engineer",
+        description:
+          "Seeking a part-time volunteer to work with machine learning, deep learning, and signal processing for audio analysis in a medical setting. We welcome students and professionals with experience in these domains. The candidate will be immersed in a highly collaborative environment alongside senior AI engineers and mentors.",
+        responsabilities: [
+          "Build scalable web services in the AWS environment",
+          "Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc",
+          "Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources",
+          "Collaborate with other engineers and ML experts, taking learning and leadership opportunities that will arise every single day",
+          "Keep data separated and secure across national boundaries through strict adherence to information security protocols and policies",
+          "Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative world leader",
+          "Assess the quality of the data from both internal and external data sources to build our world class datasets",
+        ],
+        requirements: [
+          "Passionate and committed to the Virufy project mission. Show up to stand-up meetings on time, communicate effectively, and share learnings with the team",
+          "Experience with AWS and/or Google Cloud Platform",
+          "Strong background working with Python and Jupyter Notebooks",
+          "Experience in training models on platforms such as Keras and TensorFlow",
+        ],
+        desired_skills: [
+          "5+ years of paid work experience",
+          "1 year of experience building APIs in Flask, Bottle, or Django frameworks",
+          "Hands-on programming experience working on audio databases",
+        ],
+        minimun_qualification: [],
+        location: "Remote",
+        time_commitment:
+          "10-20 hours per week, including stand-up, sprint review, and other meetings",
+        url:
+          "https://docs.google.com/document/d/1au9s2wrUXlXx_tdK7q7EbB9xL0ZZ2NRdlDUgTwtjlW0",
       },
 
       {
@@ -158,98 +215,11 @@ export const newRoles = {
         url:
           "https://docs.google.com/document/d/13aFvZWmW3xBsO-IVvCdt2dhfcZvFFy1aBsMd1BZ52Ak",
       },
-      {
-        title: "Data Visualization Engineer",
-        slug: "data-visualizaiton-engineer",
-        description:
-          "Our team of part-time volunteers works with machine learning, deep learning, and signal analysis for audio analysis in a medical setting. We welcome individuals with professional experience in these domains to apply. The candidate will be immersed in a collaborative environment alongside AI engineers and mentors.",
-        responsabilities: [
-          "Ability to see raw data, understand how it can best be reported or visualized on a case-by-case basis, and bring it to life in an intuitive and detailed format.",
-          "Ability to write custom calculations (or queries) within the data visualization tool.",
-          "This role will require collaboration with end users, project stakeholders, and support partners to identify needs, goals, metric measurements, and business models which will result in easy to understand interfaces and enable end users to quickly identify key themes within the data.",
-        ],
-        requirements: [
-          "A Bachelors or Masters degree in Computer Science or Data Science.",
-          "Experience with visualization tools/toolsets. Tableau is preferred.",
-          "Experience with SQL.",
-          "Experience in building Integration of visualization tools with various data sources like Redshift, Athena, Excel, Mysql and Postgres.",
-          "Strong communication skills.",
-        ],
-        desired_skills: [],
-        minimun_qualification: [],
-        location: "Remote",
-        time_commitment: "15-20 hours per week for a 6 month period",
-        url:
-          "https://docs.google.com/document/d/17PyTh4hZNiLQaRliZ2vxFXwIFPsdcbNz_QGrf4aPmxE",
-      },
-      {
-        title: "Data Processing Engineer (Machine Learning)",
-        slug: "data-processing-engineer",
-        description:
-          "Our team of part-time volunteers works with machine learning, deep learning, and signal analysis for audio analysis in a medical setting. We welcome individuals with professional experience in these domains to apply. The candidate will be immersed in a collaborative environment alongside AI engineers and mentors.",
-        responsabilities: [
-          "Maintaining the ETL Pipeline For Data.",
-          "Pre-process data for for machine learning models.",
-          "Attend Weekly Team Meetings To Discuss Progress & Status Updates.",
-          "Perform any other administrative duties as needed for the Machine Learning team.",
-        ],
-        requirements: [],
-        desired_skills: [
-          "Experience With Python & Pandas or similar data libraries.",
-          "Experience With AWS S3 or similar data storage systems.",
-          "Experience In Writing Non Trivial Bash Scripts or similar automation",
-          "Code versioning (Git)",
-          "Ability To Program Independently",
-          "Knowledge of efficient, scalable ETL pipelines",
-          "Leadership attitude ( self starter )",
-        ],
-        minimun_qualification: [
-          "Age 18 or over",
-          "Legally authorized to work in the United States ( We do not sponsor Visas )",
-          "High School Graduate or College Degree",
-          "Valid Photo ID ( Drivers License or Passport )",
-        ],
-        location: "Remote",
-        time_commitment:
-          "The position lasts for 6 months. You are requested to invest between 10-15  hours per week in your development of your role within this organization.",
-        url:
-          "https://docs.google.com/document/d/1cwcST8vefBJLaKjd_7Rj1bAcqV5rvyIcnwbJsEhfqIY",
-      },
     ],
   },
   data: {
     title: "Data",
     roles: [
-      {
-        title: "Associate Data Scientist",
-        slug: "associate-data-scientist",
-        description:
-          "Our team of part-time volunteers works with machine learning, deep learning, and signal analysis for audio analysis in a medical setting. We welcome individuals with professional experience in these domains to apply. The candidate will be immersed in a collaborative environment alongside AI engineers and mentors.",
-        responsabilities: [
-          "Deeply research and identify state-of-the-art ML approaches for detecting COVID from coughs.",
-          "Train, build, and deploy AI models into production.",
-          "Produce clean code and APIs to facilitate understanding within the team.",
-          "Collaborate with product management and leadership to deliver on expectations.",
-          "Build data ingest and data transformation infrastructure.",
-          "Process and feature extract from a wide array of input data types.",
-          "Identify transfer learning opportunities and auxiliary training datasets.",
-          "Distill results into academic formats, e.g. research paper.",
-        ],
-        requirements: [
-          "1-2 years of experience of CS/ML coursework and prior internship experience.",
-          "Passionate and committed to the Virufy mission, communicate effectively, and share learnings with the team.",
-          "Strong Python programming experience with toolkits such as Pandas, NumPy, Librosa.",
-          "Experience in training models with frameworks like Scikit-learn, Tensorflow, Pytorch, Keras.",
-          "Hands-on AI programming experience working on (ideally) enterprise products.",
-          "Experience using AI for healthcare in clinical research studies and solving real-world problems.",
-        ],
-        desired_skills: [],
-        minimun_qualification: [],
-        location: "Remote",
-        time_commitment: "5-15 hours per week",
-        url:
-          "https://docs.google.com/document/d/1JICTQHP3k_34Arr4SDnmEDpc3qNYuphzc-PkOTCQpUU",
-      },
       {
         title: "Data Privacy Intern",
         slug: "data-privacy-intern",
@@ -311,7 +281,7 @@ export const newRoles = {
           "https://docs.google.com/document/d/1v86sEXJYMiWLoFIqC12QCnqbJu2KIOKWlbs35aC7Acc",
       },
       {
-        title: "Director of Data Science (Volunteer)",
+        title: "Director of Data Science",
         slug: "director-data-science",
         description:
           "Our team of part-time volunteers works with machine learning, deep learning, and signal analysis for audio analysis in a medical setting. We welcome individuals with professional experience in these domains to apply. The candidate will be immersed in a collaborative environment alongside AI engineers and mentors.",
@@ -341,6 +311,36 @@ export const newRoles = {
         time_commitment: "5-15 hours per week",
         url:
           "https://docs.google.com/document/d/1cwcST8vefBJLaKjd_7Rj1bAcqV5rvyIcnwbJsEhfqIY",
+      },
+      {
+        title: "Associate Data Scientist",
+        slug: "associate-data-scientist",
+        description:
+          "Our team of part-time volunteers works with machine learning, deep learning, and signal analysis for audio analysis in a medical setting. We welcome individuals with professional experience in these domains to apply. The candidate will be immersed in a collaborative environment alongside AI engineers and mentors.",
+        responsabilities: [
+          "Deeply research and identify state-of-the-art ML approaches for detecting COVID from coughs.",
+          "Train, build, and deploy AI models into production.",
+          "Produce clean code and APIs to facilitate understanding within the team.",
+          "Collaborate with product management and leadership to deliver on expectations.",
+          "Build data ingest and data transformation infrastructure.",
+          "Process and feature extract from a wide array of input data types.",
+          "Identify transfer learning opportunities and auxiliary training datasets.",
+          "Distill results into academic formats, e.g. research paper.",
+        ],
+        requirements: [
+          "1-2 years of experience of CS/ML coursework and prior internship experience.",
+          "Passionate and committed to the Virufy mission, communicate effectively, and share learnings with the team.",
+          "Strong Python programming experience with toolkits such as Pandas, NumPy, Librosa.",
+          "Experience in training models with frameworks like Scikit-learn, Tensorflow, Pytorch, Keras.",
+          "Hands-on AI programming experience working on (ideally) enterprise products.",
+          "Experience using AI for healthcare in clinical research studies and solving real-world problems.",
+        ],
+        desired_skills: [],
+        minimun_qualification: [],
+        location: "Remote",
+        time_commitment: "5-15 hours per week",
+        url:
+          "https://docs.google.com/document/d/1JICTQHP3k_34Arr4SDnmEDpc3qNYuphzc-PkOTCQpUU",
       },
     ],
   },
@@ -452,7 +452,7 @@ export const newRoles = {
           "https://docs.google.com/document/d/124lK1uwh7fgaMD-J974jbLXO9iQEDl7pFiIbxigCcyI",
       },
       {
-        title: "Technical Recruiter (AI)",
+        title: "Technical Recruiter",
         slug: "tech-recruiter",
         description:
           "Communicate with HR and Virufy leadership for the available positions and their requirements.",

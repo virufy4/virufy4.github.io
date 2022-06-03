@@ -146,6 +146,16 @@ function dataPrivacyManager() {
             </span>
           </li>
         </ul>
+        <p className="mt-10 italic">
+          Virufy complies with the Immigration Reform and Control Act (IRAC).
+          Virufy is an equal opportunity, volunteer-run, 501(c)(3) non-profit
+          organization, and all qualified applicants will receive consideration
+          for a volunteer opportunity without regard to race, color, religion,
+          age, sex, national origin, disability status, genetics, protected
+          veteran status, sexual orientation, gender identity or expression, or
+          any other characteristic protected by any applicable Federal, State,
+          local, or international laws.{" "}
+        </p>
         <button
           className="w-full text-white font-bold mt-10 px-6 py-2 bg-blue-600 md:w-64"
           onClick={() =>
