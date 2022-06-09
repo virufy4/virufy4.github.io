@@ -77,11 +77,11 @@ export default function AvailableRoles() {
       <SEO title="Available Roles | Virufy" />
 
       <div className="">
-        <h1 className="my-8  font-heading xs:text-center">
+        <h2 className="my-8  font-heading xs:text-center">
           {intl.formatMessage({
             id: `getInvolved.availableRoles.ourMissionTitle`,
           })}
-        </h1>
+        </h2>
         <p>
           {intl.formatMessage({
             id: `getInvolved.availableRoles.ourMission`,

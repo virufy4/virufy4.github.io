@@ -181,7 +181,7 @@ export default function News({ data }) {
             })}
         </div>
 
-        <h1>Videos</h1>
+        <h2>Videos</h2>
         <div
           style={{
             display: "flex",

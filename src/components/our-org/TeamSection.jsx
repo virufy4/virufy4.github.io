@@ -16,9 +16,9 @@ export default function Teams({ images }) {
   return (
     <section className="p-8">
       <div className="md:pb-12">
-        <h1 className="text-left md:mb-2 text-black xs:pt-4 xs:pb-8">
+        <h2 className="text-left md:mb-2 text-black xs:pt-4 xs:pb-8">
           {intl.formatMessage({ id: "team.teamSection.header" })}
-        </h1>
+        </h2>
       </div>
       <h2 className="text-center md:mb-2 text-black xs:pt-4 xs:pb-8">
         {intl.formatMessage({ id: "team.ourFounder.subtitleOurFounder" })}
