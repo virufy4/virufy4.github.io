@@ -24,7 +24,7 @@ function associateDataScientist() {
             <button
               className="text-white font-bold px-6 py-2 bg-blue-600"
               onClick={() =>
-                window.open("https://forms.gle/jCX1dRs26c1Vw1tv7", "_blank")
+                window.open("https://forms.gle/zLCTZzNUMXZid9Vh6", "_blank")
               }
             >
               APPLY TO THIS ROLE
@@ -158,7 +158,7 @@ function associateDataScientist() {
         <button
           className="text-white font-bold mt-10 px-6 py-2 bg-blue-600"
           onClick={() =>
-            window.open("https://forms.gle/jCX1dRs26c1Vw1tv7", "_blank")
+            window.open("https://forms.gle/zLCTZzNUMXZid9Vh6", "_blank")
           }
         >
           APPLY TO THIS ROLE
