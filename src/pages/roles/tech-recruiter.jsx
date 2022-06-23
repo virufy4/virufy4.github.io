@@ -59,7 +59,7 @@ function techRecruiter() {
         <button
           className="w-full text-white font-bold mt-4 px-6 py-2 bg-blue-600 visible md:invisible"
           onClick={() =>
-            window.open("https://forms.gle/nqz2rrq1Y7WvZ5TD6", "_blank")
+            window.open("https://forms.gle/zLCTZzNUMXZid9Vh6", "_blank")
           }
         >
           APPLY TO THIS ROLE
@@ -171,7 +171,7 @@ function techRecruiter() {
         <button
           className="w-full text-white font-bold mt-10 px-6 py-2 bg-blue-600 md:w-64"
           onClick={() =>
-            window.open("https://forms.gle/nqz2rrq1Y7WvZ5TD6", "_blank")
+            window.open("https://forms.gle/zLCTZzNUMXZid9Vh6", "_blank")
           }
         >
           APPLY TO THIS ROLE
