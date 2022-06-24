@@ -34,15 +34,17 @@ const Role = ({ description, location, title, slug, intl }) => {
 
         <button
           className="w-full text-center font-heading no-underline bg-blue text-white px-6 py-2 inline-block md:text-md mt-2 md:mt-0"
-          onClick={handleClick}
-          ref={triggerRef}
+          // onClick={handleClick}
+          // ref={triggerRef}
         >
-          {intl.formatMessage({
-            id: `getInvolved.availableRoles.applyNow`,
-          })}
+          <Link to={`/roles/${slug}`}>
+            {intl.formatMessage({
+              id: `getInvolved.availableRoles.applyNow`,
+            })}
+          </Link>
         </button>
       </div>
-      <Modal
+      {/* <Modal
         show={open}
         triggerRef={triggerRef}
         scale={0.5}
@@ -64,7 +66,7 @@ const Role = ({ description, location, title, slug, intl }) => {
             No
           </button>
         </div>
-      </Modal>
+      </Modal> */}
     </>
   );
 };
