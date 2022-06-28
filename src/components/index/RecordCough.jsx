@@ -26,7 +26,10 @@ export default ({ images }) => {
 
   function constructImage(id, className, width = "60vw") {
     return (
-      <div className="flex justify-center items-center" style={{ width }}>
+      <div
+        className="flex justify-center items-center xs:ml-12"
+        style={{ width }}
+      >
         <GatsbyImage
           className={className}
           fluid={images[id].childImageSharp.fluid}
@@ -62,7 +65,7 @@ export default ({ images }) => {
           </div>
         </div>
       </div>
-      <div className="hidden md:block col-span-8">
+      <div className=" md:block col-span-8">
         {constructImage("map-update", "w-full")}
       </div>
     </section>

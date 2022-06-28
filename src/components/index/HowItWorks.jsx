@@ -9,7 +9,7 @@ import worksCards from "../../data/our-approach/works-Cards";
 function Card({ title, icon, description }) {
   return (
     <div>
-      <div className="md:h-96 md:pt-10 md:px-10 mx-8">
+      <div className="md:h-96 md:pt-10 md:px-10 md:mx-8">
         <h2 className="text-center md:pb-4 xs:mb-8">{title}</h2>
         <Img
           className="h-28 px-6 pb-3"
@@ -17,7 +17,7 @@ function Card({ title, icon, description }) {
           imgStyle={{ objectFit: "contain" }}
           aria-hidden
         />
-        <p className="text-center pt-8">{description}</p>
+        <p className="text-center pt-8 xs:text-md">{description}</p>
       </div>
     </div>
   );
@@ -41,13 +41,13 @@ const HowItWorks = ({ images }) => {
   );
 
   return (
-    <section className="py-10">
+    <section className="md:py-10">
       <h2 className="mb-8 text-center">
         {intl.formatMessage({
           id: "ourApproach.howItWorks.HowIt",
         })}
       </h2>
-      <div className="grid grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
+      <div className="grid grid-cols-3 gap-2 max-w-5xl mx-auto">
         {worksCards.map((info, index) => {
           const cardIcon = findImage(info.imageName);
           return (
