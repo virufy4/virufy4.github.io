@@ -8,8 +8,9 @@ export default () => {
         id="Cookiebot"
         src="https://consent.cookiebot.com/uc.js"
         data-cbid="fb5fec28-28e3-45e9-baa6-51f9f62f936b"
-        data-blockingmode="auto"
         type="text/javascript"
+        // data-blockingmode="auto"
+        async
       ></script>
       <script
         id="CookieDeclaration"
