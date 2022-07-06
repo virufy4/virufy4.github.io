@@ -48,20 +48,20 @@ export default function Papers({ data }) {
         </div>
         <div className="lg:w-2/3 mx-10">
           <p className="mb-8">
-            {intl.formatMessage({ id: `paper.papers.section2.date` })}
+            {intl.formatMessage({ id: `paper.papers.section5.date` })}
           </p>
           <h2 className="mb-8 font-bold text-2xl">
-            {intl.formatMessage({ id: `paper.papers.section2.title` })}
+            {intl.formatMessage({ id: `paper.papers.section5.title` })}
           </h2>
 
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://ui.adsabs.harvard.edu/abs/2020arXiv201113320C/abstract"
+            href="https://arxiv.org/abs/2201.01669"
             className="text-black"
           >
             <u>
-              {intl.formatMessage({ id: `paper.papers.section2.readMoreLink` })}
+              {intl.formatMessage({ id: `paper.papers.section5.readMoreLink` })}
             </u>
           </a>
         </div>
@@ -135,20 +135,20 @@ export default function Papers({ data }) {
         </div>
         <div className="lg:w-2/3 mx-10">
           <p className="mb-8">
-            {intl.formatMessage({ id: `paper.papers.section5.date` })}
+            {intl.formatMessage({ id: `paper.papers.section2.date` })}
           </p>
           <h2 className="mb-8 font-bold text-2xl">
-            {intl.formatMessage({ id: `paper.papers.section5.title` })}
+            {intl.formatMessage({ id: `paper.papers.section2.title` })}
           </h2>
 
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://arxiv.org/abs/2201.01669"
+            href="https://ui.adsabs.harvard.edu/abs/2020arXiv201113320C/abstract"
             className="text-black"
           >
             <u>
-              {intl.formatMessage({ id: `paper.papers.section5.readMoreLink` })}
+              {intl.formatMessage({ id: `paper.papers.section2.readMoreLink` })}
             </u>
           </a>
         </div>
