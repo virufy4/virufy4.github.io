@@ -96,7 +96,7 @@ export default function Founder({ data }) {
                 id: "team.ourFounder.amilStory.firstParagraph.two",
               })}
             </p>
-            <p className="md:pr-6 text-black  xs:pt-4 xs:pb-8">
+            <p className="md:mb-2 pr-6 text-black  xs:pt-4 xs:pb-8">
               {intl.formatMessage({
                 id: "team.ourFounder.amilStory.firstParagraph.three",
               })}
@@ -118,7 +118,7 @@ export default function Founder({ data }) {
               fluid={findImage("AmilFirstImg")}
             />
           </div>
-          <div className="md:col-span-2 xs:m-6 md:px-8 md:mr-10 ">
+          <div className="md:col-span-2 xs:m-6 md:px-8 md:mr-10 md:mt-10 ">
             <p className="text-black  xs:pt-4 xs:pb-8">
               {intl.formatMessage({
                 id: "team.ourFounder.amilStory.thirdParagraph",
@@ -147,7 +147,18 @@ export default function Founder({ data }) {
             </p>
           </div>
         </div>
-
+        <div className="xs:mx-6 md:mx-12 ">
+          <p className="md:mr-16  mb-2 xs:pb-8">
+            {intl.formatMessage({
+              id: "team.ourFounder.amilStory.fivethParagraph",
+            })}
+          </p>
+          <p className="md:mr-16 xs:pb-8">
+            {intl.formatMessage({
+              id: "team.ourFounder.amilStory.sixthParagraph",
+            })}
+          </p>
+        </div>
         <div className="xs:mx-6 md:m-12">
           <h2 className="md:mb-6 text-bold text-center text-black  p-8">
             {intl.formatMessage({
