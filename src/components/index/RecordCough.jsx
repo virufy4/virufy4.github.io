@@ -1,45 +1,39 @@
-import React from "react";
-import { Link } from "gatsby";
+import React, { useCallback, useState } from "react";
+import { graphql, Link, useStaticQuery } from "gatsby";
 import { useIntl } from "gatsby-plugin-intl";
-import GatsbyImage from "gatsby-image";
+import GatsbyImg from "gatsby-image";
 
-export default ({ images }) => {
+export default () => {
   const intl = useIntl();
+  const data = useStaticQuery(graphql`
+      {
+        allFile(
+          filter: { relativePath: { regex: "/images\\/home\\/.*\\.((png)|(jpg)|(jpeg))/"} }
+        )
+         {
+          edges {
+            node {
+              name
+              childImageSharp {
+                fluid(maxWidth: 1900, quality: 80) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+      }
+    `);
+  const images = {};
 
-  function constructHeader(num) {
-    return (
-      <div className="flex w-full">
-        <div
-          style={{ position: "relative", top: "-5px" }}
-          className="bg-black mr-4 text-white test-white text-lg rounded-full font-header w-8 h-8 flex justify-center items-center flex-shrink-0"
-        >
-          {num}
-        </div>
-        <h2 className="text-black text-md text-xl font-bold">
-          {intl.formatMessage({
-            id: `index.section3.header${num}`,
-          })}
-        </h2>
-      </div>
-    );
-  }
-
-  function constructImage(id, className) {
-    return (
-      <div className="flex justify-center items-center xs:w-80 w-full">
-        <GatsbyImage
-          className={className}
-          fluid={images[id].childImageSharp.fluid}
-          imgStyle={{ objectFit: "fill" }}
-        />
-      </div>
-    );
-  }
+  data.allFile.edges.forEach(
+    (edge) => (images[edge.node.name] = edge.node.childImageSharp.fluid)
+  );
 
   return (
-    <section className="grid grid-cols-12 items-center">
-      <div className="w-5/6 flex flex-col mx-auto items-start col-span-12 lg:col-span-4">
-        <h2 className="my-10">
+    <section className="grid grid-cols-2 xs:grid-cols-1 items-center">
+      <div className="mx-12 ">
+        <h2 className="my-4">
           {intl.formatMessage({ id: "index.section3.header" })}
         </h2>
         <div className="flex flex-col items-center w-full mb-6">
@@ -62,8 +56,12 @@ export default ({ images }) => {
           </div>
         </div>
       </div>
-      <div className=" md:block md:col-span-8">
-        {constructImage("map-update", "w-full")}
+      <div>
+        <GatsbyImg
+          imgStyle={{ objectFit: "" }}
+          className="w-full xs:w-60 md:mr-6 xs:ml-8"
+          fluid={images["map-update"]}
+        />
       </div>
     </section>
   );
