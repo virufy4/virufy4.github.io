@@ -26,7 +26,10 @@ export default ({ images }) => {
 
   function constructImage(id, className, width = "60vw") {
     return (
-      <div className="flex justify-center items-center xs:w-80 w-full ">
+      <div
+        className="flex justify-center items-center xs:ml-10"
+        style={{ width }}
+      >
         <GatsbyImage
           className={className}
           fluid={images[id].childImageSharp.fluid}
