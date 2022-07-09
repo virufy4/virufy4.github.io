@@ -24,11 +24,11 @@ export default ({ images }) => {
     );
   }
 
-  function constructImage(id, className, width = "60vw") {
+  function constructImage(id, className, width = "50vw") {
     return (
       <div
-        className="flex justify-center items-center xs:ml-10"
-        style={{ width }}
+        className="flex justify-center items-center xs:mr-4"
+        //style={{ width }}
       >
         <GatsbyImage
           className={className}
@@ -40,9 +40,9 @@ export default ({ images }) => {
   }
 
   return (
-    <section className="grid grid-cols-12 items-center">
-      <div className="w-5/6 flex flex-col mx-auto items-start col-span-12 lg:col-span-4">
-        <h2 className="my-10">
+    <section className="grid grid-cols-2 xs:grid-cols-1 items-center">
+      <div className="md:mx-12 xs:mx-6 ">
+        <h2 className="my-4">
           {intl.formatMessage({ id: "index.section3.header" })}
         </h2>
         <div className="flex flex-col items-center w-full mb-6">
@@ -65,9 +65,7 @@ export default ({ images }) => {
           </div>
         </div>
       </div>
-      <div className=" md:block md:col-span-8">
-        {constructImage("map-update", "w-full")}
-      </div>
+      <div className="md:mr-10">{constructImage("map-update", "w-full")}</div>
     </section>
   );
 };
