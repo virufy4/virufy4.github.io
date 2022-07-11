@@ -435,7 +435,7 @@
     "title": "Desenvolvendo um teste de COVID online com IA | Virufy",
     "section1": {
       "header": "Um teste de Covid-19 online é possível",
-      "pg": "Virufy é uma organização de pesquisa sem fins lucrativos que desenvolve tecnologia de inteligência artificial (IA) para detectar COVID-19 a partir de padrões da tosse por meio do uso de um smartphone, de maneira rápida e sem nenhum custo.",
+      "pg": "Virufy é uma organização de pesquisa sem fins lucrativos que desenvolve tecnologia com inteligência artificial para detectar a Covid-19 a partir da tosse. Por meio de um smartphone, será possível fazer um teste online de Covid-19 rapidamente e sem sair de casa.",
       "coughLink": "CONTRIBUA O SEU TOSSE",
       "donateLink": "Doe sua tosse agora",
       "donateLinkResponsive": "Doe agora",
@@ -444,7 +444,7 @@
     },
     "section2": {
       "header": "Acreditamos que juntos podemos ajudar a melhorar o mundo",
-      "pg1": "Pessoas em todo o mundo apóiam e trabalham conosco para combater esse tipo de doença, mas muitas pessoas como você também podem nos ajudar",
+      "pg1": "Pessoas em todo o mundo apoiam e trabalham conosco para combater a Covid-19. Você também pode fazer parte dessa transformação.",
       "pg2": "Não importa onde você esteja no mundo, tudo o que você precisa é de um dispositivo móvel e do aplicativo Virufy.",
       "learnMoreLink": "Saiba mais",
       "donateyourcough": "Doe sua tosse"
@@ -457,7 +457,7 @@
       "header2": "AI analisa a assinatura respiratória",
       "header3": "Número de tosses coletadas",
       "tryItOutLink": "EXPERIMENTE",
-      "description": "Virufy foi fundada em março de 2020. Hoje, Virufighters em cinco continentes estão empenhados em tornar o rastreamento de doenças em modo instantâneo e gratuito por meio da inovação em tecnologia.",
+      "description": "Virufy foi fundada em março de 2020. Hoje, Virufighters em cinco continentes estão empenhados em tornar a detecção de doenças algo rápido e gratuito com a ajuda da tecnologia.",
       "numbercollected": "100.000",
       "joincommunity": "Junte-se à nossa comunidade"
     },
@@ -611,15 +611,15 @@
       "HowIt": "Como nosso teste de Covid-19 online funciona",
       "card-one": {
         "title": "1",
-        "description": "Grave sua tosse"
+        "description": "Abra o aplicativo e grave a sua tosse"
       },
       "card-two": {
         "title": "2",
-        "description": "Análises de IA para padrões COVID"
+        "description": "A IA irá analisar se a sua tosse tem os padrões da Covid-19"
       },
       "card-three": {
         "title": "3",
-        "description": "Status de risco COVID relatado"
+        "description": "Você terá o resultado na tela do seu smartphone"
       },
       "collectedData": "Painel de Dados Coletados",
       "numberofCollected": "Número de tosses coletadas",
