@@ -434,8 +434,8 @@
     "meta": "Conoce Virufy, un proyecto fundado en marzo de 2020 por personas dedicadas a construir una prueba en línea de Covid-19 con Inteligencia Artificial.",
     "title": "Desarrollando una prueba de Covid-19 en línea con IA | Virufy",
     "section1": {
-      "header": "La identificación de patrones de Covid-19 desde su Smartphone es posible",
-      "pg": "Virufy es una organización de investigación sin fines de lucro que desarrolla tecnología de inteligencia artificial (IA) para identificar los patrones del COVID-19 en la tos rápidamente y sin costo mediante el uso de un teléfono inteligente.",
+      "header": "Una prueba de Covid-19 en línea es posible",
+      "pg": "Virufy es una organización de investigación sin fines de lucro que desarrolla tecnología de inteligencia artificial (IA) para detectar el COVID-19 en los patrones de tos, rápidamente y sin costo mediante el uso de un teléfono inteligente.",
       "coughLink": "DONA TU TOS",
       "donateLink": "Dona tu tos ahora",
       "donateLinkResponsive": "Dona ahora",
@@ -457,7 +457,7 @@
       "header2": "AI analiza el patron respiratorio",
       "header3": "Número de toses recopiladas",
       "tryItOutLink": "PRUEBA",
-      "description": "Virufy se fundó en marzo de 2020. Hoy, Virufighters en los cinco continentes se comprometen para hacer que la lucha contra enfermedades sea instantánea y gratuita a través de tecnología innovadora.",
+      "description": "Virufy se fundó en marzo de 2020. Hoy, Virufighters en los cinco continentes se comprometen para hacer que la detección de enfermedades sea instantánea y gratuita a través de tecnología innovadora.",
       "numbercollected": "100.000",
       "joincommunity": "Únete a nuestra comunidad"
     },
