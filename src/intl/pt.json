@@ -435,7 +435,7 @@
     "title": "Desenvolvendo um teste de COVID online com IA | Virufy",
     "section1": {
       "header": "Um teste de Covid-19 online é possível",
-      "pg": "Virufy é uma organização de pesquisa sem fins lucrativos que desenvolve tecnologia de inteligência artificial (IA) para detectar COVID-19 a partir de padrões da tosse por meio do uso de um smartphone, de maneira rápida e sem nenhum custo.",
+      "pg": "Virufy é uma organização de pesquisa sem fins lucrativos que desenvolve tecnologia com inteligência artificial para detectar a Covid-19 a partir da tosse. Por meio de um smartphone, será possível fazer um teste online de Covid-19 rapidamente e sem sair de casa.",
       "coughLink": "CONTRIBUA O SEU TOSSE",
       "donateLink": "Doe sua tosse agora",
       "donateLinkResponsive": "Doe agora",
@@ -444,7 +444,7 @@
     },
     "section2": {
       "header": "Acreditamos que juntos podemos ajudar a melhorar o mundo",
-      "pg1": "Pessoas em todo o mundo apóiam e trabalham conosco para combater esse tipo de doença, mas muitas pessoas como você também podem nos ajudar",
+      "pg1": "Pessoas em todo o mundo apoiam e trabalham conosco para combater a Covid-19. Você também pode fazer parte dessa transformação.",
       "pg2": "Não importa onde você esteja no mundo, tudo o que você precisa é de um dispositivo móvel e do aplicativo Virufy.",
       "learnMoreLink": "Saiba mais",
       "donateyourcough": "Doe sua tosse"
@@ -457,7 +457,7 @@
       "header2": "AI analisa a assinatura respiratória",
       "header3": "Número de tosses coletadas",
       "tryItOutLink": "EXPERIMENTE",
-      "description": "Virufy foi fundada em março de 2020. Hoje, Virufighters em cinco continentes estão empenhados em tornar o rastreamento de doenças em modo instantâneo e gratuito por meio da inovação em tecnologia.",
+      "description": "Virufy foi fundada em março de 2020. Hoje, Virufighters em cinco continentes estão empenhados em tornar a detecção de doenças algo rápido e gratuito com a ajuda da tecnologia.",
       "numbercollected": "100.000",
       "joincommunity": "Junte-se à nossa comunidade"
     },
@@ -611,15 +611,15 @@
       "HowIt": "Como nosso teste de Covid-19 online funciona",
       "card-one": {
         "title": "1",
-        "description": "Grave sua tosse"
+        "description": "Abra o aplicativo e grave a sua tosse"
       },
       "card-two": {
         "title": "2",
-        "description": "Análises de IA para padrões COVID"
+        "description": "A IA irá analisar se a sua tosse tem os padrões da Covid-19"
       },
       "card-three": {
         "title": "3",
-        "description": "Status de risco COVID relatado"
+        "description": "Você terá o resultado na tela do seu smartphone"
       },
       "collectedData": "Painel de Dados Coletados",
       "numberofCollected": "Número de tosses coletadas",
@@ -882,23 +882,21 @@
       "titleAmilStory": "Amil’s Story",
       "amilStory": {
         "firstParagraph": {
-          "one": "Virufy was formed in March 2020, when Amil committed himself to combat the pandemic and garnered the support of top-tier domain experts globally, aligned under the common mission: To stop COVID-19 in support of the public good.",
-          "two": "When the COVID-19 pandemic hit, in the midst of lockdowns, uncertainty, overflowing hospitals, and lacking test kits, Amil committed himself to pandemic relief efforts. Taking inspiration from the teachings of his Stanford University professors, he came up with the idea of using artificial intelligence to combat the pandemic.",
-          "three": "Supported by several Stanford faculty members and student groups, Amil founded Virufy—a nonprofit organization developing a smartphone app to prescreen for COVID-19 instantly through AI-powered analysis of voice and cough recordings."
+          "one": "Born and raised in the Silicon Valley, Amil has worked since his father’s untimely passing when he was 18 with his first job as a software consultant developing optical mark recognition (OMR) software for automated grading of tests in K-12 schools.",
+          "two": "After receiving his B.A. in Computer Science from University of California, Berkeley in 2012, Amil joined Hewlett-Packard (HP) in Silicon Valley to work full-time as a software engineer developing security log standardization software for the ArcSight, a Security Information and Event Management System (SIEM).",
+          "three": "In 2014, Amil transferred to HP’s Tokyo headquarters to take on a role as cybersecurity consultant, in which he traveled across Hong Kong, Tokyo, and Australia to deploy SIEM solutions at customer sites in the banking industry."
         },
-        "secondParagraph": "Amil’s passion for social service started from an early age. His father instilled in him the spirit of social service, where they volunteered together in soup kitchens and nursing homes. In middle school, Amil developed a love for programming as a means to help others.",
-        "thirdParagraph": "During his first New Year’s holiday at UC Berkeley, when Amil was 18 years old, his father was struck and killed while assisting at a highway accident, saving another’s life. Having lost his greatest role model, Amil struggled immensely. However, in his heart, he had never lost his father’s spirit of giving back.",
+        "secondParagraph": "In 2016, Amil returned to Silicon Valley to join Pivotal Software as a software engineer working primarily on the Postgres-based open source Greenplum OLAP database. In Pivotal’s extreme programming (XP) environment, Amil practiced several software development practices, including daily pair programming, test-driven development (TDD), and weekly retroactive meetings, while rotating across several teams, including DevOps, database backend, and workload management tooling.",
+        "thirdParagraph": "In 2018, moved to the countryside of Japan. Living in Eiheiji town, the birthplace of Soto Zen, Amil meditated daily and learned Zen philosophy, while giving back teaching agile pair programming to young adults and children. Soon, Amil was appointed Evolution Ambassador of the town and sent to the One Young World conference in the Netherlands to represent Japan, amongst other young social impact leaders, country heads, and Nobel Laureates from 195 countries.",
         "fourthParagraph": {
-          "one": "Amil resolved to stand up in the face of his grief and loss, and worked part-time to pay tuition while commuting 2.5 hours daily to stay with his mom and learned to value public service and the underprivileged while honing his software knowledge and skills.",
-          "two": "When Amil moved to the countryside of Japan, he taught agile pair programming to the young adults and children there. Later, Amil was appointed Evolution Ambassador of the town and sent to the One Young World conference in the Netherlands to represent Japan, amongst other young social impact leaders, country heads, and Nobel Laureates from 195 countries. At One Young World, Amil acquired a sense of urgency for broader, worldwide social impact."
+          "one": "In late 2019, Amil left his job and pursued graduate studies in Artificial Intelligence at Stanford University, taking his first courses with Coursera founder Dr. Andrew Ng and ImageNet creator Dr. Fei-Fei Li. When the pandemic hit, Amil committed himself to pandemic relief efforts and soon founded Virufy.",
+          "two": "Virufy is a nonprofit organization developing a smartphone app to prescreen for COVID-19 instantly through AI-powered analysis of voice and cough recordings. As of February 2022, the organization operates in a dozen countries with more than 200 volunteers and 30 partner organizations, including Amazon Web Services, Stanford COVID-19 Response Innovation Lab, and Pillsbury Winthrop Shaw Pittman Law."
         },
-        "fivethParagraph": "Through Amil’s strong technical background, resolve to give back, and outstanding leadership, combined with the tens of thousands of hours contributed by volunteers and firms, Virufy has grown to operate in a dozen countries with more than 200 volunteers and 30 partner organizations, including Amazon Web Services, Stanford COVID-19 Response Innovation Lab, and Pillsbury Winthrop Shaw Pittman Law as of June 2022.",
-        "sixthParagraph": "“United behind a common cause to end pandemics, our energy is unstoppable as we work across borders for the common good.” - Amil Khanzada",
         "Amil-Publications": "Amil’s Publications",
         "fifthParagraph": {
           "one": "2022. Using Deep Learning with Large Aggregated Datasets for COVID-19 Classification from Cough. arXiv: 2201.01669",
           "two": "2021. Using a Novel COVID-19 Calculator to Measure Positive U.S. Socio-Economic Impact of a COVID-19 Pre-Screening Solution (AI/ML). arXiv: 2201.11109",
-          "three": "2020. Virufy: Global Applicability of AI Detection for COVID-19 from Cough Recordings. arXiv: 2011.13320",
+          "three": "2020. Virufy: Global Applicability of AI Detection for COVID-19 from Cough Recordings. arXiv: 2011.13320 ",
           "four": "2020. Fusical: Multimodal Fusion for Video Sentiment. ACM ICMI; DOI: 3382507.3417966",
           "five": "2020. Facial Expression Recognition with Deep Learning. arXiv: 2004.11823"
         }
