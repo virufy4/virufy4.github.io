@@ -322,4 +322,10 @@ export const advisors = [
     defaultName: "Tsutomu Ito",
     imageName: "ito",
   },
+  {
+    mediaLink: "https://www.linkedin.com/in/manujaggarwal/",
+    id: "manuj",
+    defaultName: "Manuj Aggarwal",
+    imageName: "manuj",
+  },
 ];
