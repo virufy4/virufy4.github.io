@@ -72,6 +72,18 @@ export default function OurStory() {
                 <GatsbyImage
                   imgStyle={{ objectFit: "contain" }}
                   className="h-full max-h-24"
+                  fluid={images["drive-logo-color"]}
+                />
+              </a>
+            </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-14 max-w-full"
+            >
+              <a href={supporter_links.nuevaEPS} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-full max-h-24"
                   fluid={images["nueva-logo-color"]}
                 />
               </a>
