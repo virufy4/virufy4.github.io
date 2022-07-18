@@ -862,7 +862,7 @@
   },
   "team": {
     "meta": "Whoever and wherever you are you may be able to join Virufy project and help create an AI driven online COVID-19 test. Make a difference today.",
-    "title": "Read Amil’s Story",
+    "title": "Leia a história do Amil",
     "supportersSection": {
       "header": "Sobre / Nossos apoiadores",
       "description": "As empresas e organizações apoiam-nos com o seu amplo conhecimento e proporcionam-nos segurança e certeza no que fazemos.",
@@ -870,7 +870,7 @@
       "buttonSupporter": "Torne-se um apoiador"
     },
     "ourFounder": {
-      "subtitleOurFounder": "Meet Our Founder",
+      "subtitleOurFounder": "Conheça o nosso fundador",
       "title-advisors": "Advisors",
       "amil": {
         "name": "Amil Khanzada",
@@ -906,8 +906,8 @@
     },
     "teamSection": {
       "title-ourpeople": "About / Our People",
-      "weUnite": "Unimo-nos de diferentes partes do mundo por uma única causa",
-      "header": "Nossa gente",
+      "weUnite": "Unimos pessoas de todo o mundo por uma única causa",
+      "header": "Nossas pessoas",
       "teamLeadText": "Líderes de equipe",
       "advisorText": "Consultores",
       "oyw": "One Young World",
@@ -1199,9 +1199,9 @@
       "OurPurpose": "Transformando a saúde do mundo, uma tosse de cada vez.",
       "vision": {
         "ourVision": "Nossa visão e objetivo",
-        "ourInnovative": "Nossa abordagem inovadora visa oferecer uma detecção de COVID de alto nível para pacientes, médicos e governos em países de baixa renda. Aspiramos ser a organização sem fins lucrativos líder em identificação de doenças através da tecnologia, transformando a saúde global e inspirando outros a apoiar e investir nessa missão conosco.",
+        "ourInnovative": "Nossa abordagem inovadora visa oferecer uma detecção de Covid-19 de alto nível para pacientes, médicos e governos em países de baixa renda. Almejamos ser a organização sem fins lucrativos líder em identificação de doenças através da tecnologia. A partir desse sonho, queremos transformar a saúde global e inspirar cada vez mais pessoas a apoiar e investir nesta missão conosco.",
         "ourCommitment": "Nosso compromisso com a privacidade",
-        "virufyPrivacy": "Virufy leva a sério a privacidade e a proteção de suas informações pessoais. Nossa equipe jurídica preparou uma Política de Privacidade e Política de Cookies detalhada para proteger as informações pessoais que você compartilha conosco através do uso de nosso site",
+        "virufyPrivacy": "Nós da Virufy levamos a sério a sua privacidade e a proteção de suas informações pessoais. Nossa equipe jurídica preparou uma Política de Privacidade e Política de Cookies detalhada para proteger as informações pessoais que você compartilha conosco ao usar o nosso site.",
         "buttonHelpUs": "Nossa Pesquisa"
       },
       "values": {
@@ -1233,7 +1233,7 @@
       },
       "ourStory": {
         "title": "Nossa História",
-        "description": "Quando a pandemia atingiu, o fundador do Virufy, Amil Khanzada, sabia que os smartphones eram onipresentes e que o COVID afetava o nariz, a garganta e os pulmões. Ele levantou a hipótese de que os sons da respiração e da tosse poderiam ser analisados ​​com aprendizado de máquina para detectar os padrões do COVID. Querendo causar um impacto positivo, ele orquestrou um estudo clínico com 362 pacientes em um conceituado hospital universitário. A equipe original de Virufy, começando com estudantes de IA de Stanford, expandiu-se para voluntários de universidades em todo o mundo. "
+        "description": "Quando a pandemia da Covid-19 começou, o fundador da Virufy, Amil Khanzada, sabia que os smartphones eram onipresentes e que essa doença afetava o nariz, a garganta e os pulmões. Ele levantou a hipótese de que os sons da respiração e da tosse poderiam ser analisados ​​com aprendizado de máquina para detectar os padrões da Covid-19. A fim de causar um impacto positivo, ele iniciou um estudo clínico com 362 pacientes em um conceituado hospital universitário. A equipe original da Virufy começou com estudantes de inteligência artificial de Stanford e se expandiu para voluntários de universidades em todo o mundo."
       },
       "section4": {
         "header": "Nossos apoiadores",
