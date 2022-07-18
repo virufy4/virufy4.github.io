@@ -202,12 +202,6 @@ export const advisors = [
     imageName: "melissa",
   },
   {
-    mediaLink: "https://www.linkedin.com/in/hugoestradan/",
-    id: "hugo",
-    defaultName: "Hugo Estrada",
-    imageName: "hugo",
-  },
-  {
     mediaLink: "https://weillcornell.org/anais-rameau-md",
     id: "anais",
     defaultName: "Anaïs Rameau",
