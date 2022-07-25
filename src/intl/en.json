@@ -892,7 +892,8 @@
         "thirdParagraph": "During his first New Year’s holiday at UC Berkeley, when Amil was 18 years old, his father was struck and killed while assisting at a highway accident, saving another’s life. Having lost his greatest role model, Amil struggled immensely. However, in his heart, he had never lost his father’s spirit of giving back.",
         "fourthParagraph": {
           "one": "Amil resolved to stand up in the face of his grief and loss, and worked part-time to pay tuition while commuting 2.5 hours daily to stay with his mom and learned to value public service and the underprivileged while honing his software knowledge and skills.",
-          "two": "When Amil moved to the countryside of Japan, he taught agile pair programming to the young adults and children there. Later, Amil was appointed Evolution Ambassador of the town and sent to the One Young World conference in the Netherlands to represent Japan, amongst other young social impact leaders, country heads, and Nobel Laureates from 195 countries. At One Young World, Amil acquired a sense of urgency for broader, worldwide social impact."
+          "two": "When Amil moved to the countryside of Japan, he taught agile pair programming to the young adults and children there. Later, Amil was appointed Evolution Ambassador of the town and sent to the One Young World",
+          "three": "conference in the Netherlands to represent Japan, amongst other young social impact leaders, country heads, and Nobel Laureates from 195 countries. At One Young World, Amil acquired a sense of urgency for broader, worldwide social impact."
         },
         "fivethParagraph": "Through Amil’s strong technical background, resolve to give back, and outstanding leadership, combined with the tens of thousands of hours contributed by volunteers and firms, Virufy has grown to operate in a dozen countries with more than 200 volunteers and 30 partner organizations, including Amazon Web Services, Stanford COVID-19 Response Innovation Lab, and Pillsbury Winthrop Shaw Pittman Law as of June 2022.",
         "sixthParagraph": "“United behind a common cause to end pandemics, our energy is unstoppable as we work across borders for the common good.” - Amil Khanzada",
@@ -1088,6 +1089,11 @@
           "description": "Former CMO - Adobe\nBoard Member - CommonSpirit Health",
           "title": "Executive Marketing Advisor"
         },
+        "hugo": {
+          "name": "Hugo Estrada",
+          "description": "CEO & Managing Partner - iwé Consultores\nChairman - Nueva EPS (Health Insurance)",
+          "title": "Colombia Executive Outreach Advisor"
+        },
         "anais": {
           "name": "Anaïs Rameau, M.D.",
           "description": "Assistant Professor of ENT - Cornell University\nDoctor of Medicine - McGill University",
@@ -1157,11 +1163,6 @@
           "name": "Tsutomu Ito",
           "description": "Founder - Tannan FM Radio\nLead Architect, Bullet Train",
           "title": "Executive Visionary Advisor"
-        },
-        "manuj": {
-          "name": "Manuj Aggarwal ",
-          "description": "Chief Innovation Officer - TetraNoodle Technologies",
-          "title": "Executive AI, Strategy And Marketing Advisor"
         },
         "alfonso": {
           "name": "Alfonso Assaf",

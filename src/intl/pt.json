@@ -435,7 +435,7 @@
     "title": "Desenvolvendo um teste de COVID online com IA | Virufy",
     "section1": {
       "header": "Um teste de Covid-19 online é possível",
-      "pg": "Virufy é uma organização de pesquisa sem fins lucrativos que desenvolve tecnologia com inteligência artificial para detectar a Covid-19 a partir da tosse. Por meio de um smartphone, será possível fazer um teste online de Covid-19 rapidamente e sem sair de casa.",
+      "pg": "Virufy é uma organização de pesquisa sem fins lucrativos que desenvolve tecnologia de inteligência artificial (IA) para detectar COVID-19 a partir de padrões da tosse por meio do uso de um smartphone, de maneira rápida e sem nenhum custo.",
       "coughLink": "CONTRIBUA O SEU TOSSE",
       "donateLink": "Doe sua tosse agora",
       "donateLinkResponsive": "Doe agora",
@@ -444,7 +444,7 @@
     },
     "section2": {
       "header": "Acreditamos que juntos podemos ajudar a melhorar o mundo",
-      "pg1": "Pessoas em todo o mundo apoiam e trabalham conosco para combater a Covid-19. Você também pode fazer parte dessa transformação.",
+      "pg1": "Pessoas em todo o mundo apóiam e trabalham conosco para combater esse tipo de doença, mas muitas pessoas como você também podem nos ajudar",
       "pg2": "Não importa onde você esteja no mundo, tudo o que você precisa é de um dispositivo móvel e do aplicativo Virufy.",
       "learnMoreLink": "Saiba mais",
       "donateyourcough": "Doe sua tosse"
@@ -457,7 +457,7 @@
       "header2": "AI analisa a assinatura respiratória",
       "header3": "Número de tosses coletadas",
       "tryItOutLink": "EXPERIMENTE",
-      "description": "Virufy foi fundada em março de 2020. Hoje, Virufighters em cinco continentes estão empenhados em tornar a detecção de doenças algo rápido e gratuito com a ajuda da tecnologia.",
+      "description": "Virufy foi fundada em março de 2020. Hoje, Virufighters em cinco continentes estão empenhados em tornar o rastreamento de doenças em modo instantâneo e gratuito por meio da inovação em tecnologia.",
       "numbercollected": "100.000",
       "joincommunity": "Junte-se à nossa comunidade"
     },
@@ -611,15 +611,15 @@
       "HowIt": "Como nosso teste de Covid-19 online funciona",
       "card-one": {
         "title": "1",
-        "description": "Abra o aplicativo e grave a sua tosse"
+        "description": "Grave sua tosse"
       },
       "card-two": {
         "title": "2",
-        "description": "A IA irá analisar se a sua tosse tem os padrões da Covid-19"
+        "description": "Análises de IA para padrões COVID"
       },
       "card-three": {
         "title": "3",
-        "description": "Você terá o resultado na tela do seu smartphone"
+        "description": "Status de risco COVID relatado"
       },
       "collectedData": "Painel de Dados Coletados",
       "numberofCollected": "Número de tosses coletadas",
@@ -862,7 +862,7 @@
   },
   "team": {
     "meta": "Whoever and wherever you are you may be able to join Virufy project and help create an AI driven online COVID-19 test. Make a difference today.",
-    "title": "Leia a história do Amil",
+    "title": "Read Amil’s Story",
     "supportersSection": {
       "header": "Sobre / Nossos apoiadores",
       "description": "As empresas e organizações apoiam-nos com o seu amplo conhecimento e proporcionam-nos segurança e certeza no que fazemos.",
@@ -870,7 +870,7 @@
       "buttonSupporter": "Torne-se um apoiador"
     },
     "ourFounder": {
-      "subtitleOurFounder": "Conheça o nosso fundador",
+      "subtitleOurFounder": "Meet Our Founder",
       "title-advisors": "Advisors",
       "amil": {
         "name": "Amil Khanzada",
@@ -890,13 +890,14 @@
         "thirdParagraph": "During his first New Year’s holiday at UC Berkeley, when Amil was 18 years old, his father was struck and killed while assisting at a highway accident, saving another’s life. Having lost his greatest role model, Amil struggled immensely. However, in his heart, he had never lost his father’s spirit of giving back.",
         "fourthParagraph": {
           "one": "Amil resolved to stand up in the face of his grief and loss, and worked part-time to pay tuition while commuting 2.5 hours daily to stay with his mom and learned to value public service and the underprivileged while honing his software knowledge and skills.",
-          "two": "When Amil moved to the countryside of Japan, he taught agile pair programming to the young adults and children there. Later, Amil was appointed Evolution Ambassador of the town and sent to the One Young World conference in the Netherlands to represent Japan, amongst other young social impact leaders, country heads, and Nobel Laureates from 195 countries. At One Young World, Amil acquired a sense of urgency for broader, worldwide social impact."
+          "two": "When Amil moved to the countryside of Japan, he taught agile pair programming to the young adults and children there. Later, Amil was appointed Evolution Ambassador of the town and sent to the One Young World",
+          "three": "conference in the Netherlands to represent Japan, amongst other young social impact leaders, country heads, and Nobel Laureates from 195 countries. At One Young World, Amil acquired a sense of urgency for broader, worldwide social impact."
         },
         "fivethParagraph": "Through Amil’s strong technical background, resolve to give back, and outstanding leadership, combined with the tens of thousands of hours contributed by volunteers and firms, Virufy has grown to operate in a dozen countries with more than 200 volunteers and 30 partner organizations, including Amazon Web Services, Stanford COVID-19 Response Innovation Lab, and Pillsbury Winthrop Shaw Pittman Law as of June 2022.",
         "sixthParagraph": "“United behind a common cause to end pandemics, our energy is unstoppable as we work across borders for the common good.” - Amil Khanzada",
         "Amil-Publications": "Amil’s Publications",
         "fifthParagraph": {
-          "one": "2022. Using Deep Learning with Large Aggregated Datasets for COVID-19 Classification from Cough. arXiv: 2201.01669",
+          "one": "2022. Using Deep Learning with Large Aggregated Datasets for COVID-19 Classification from Cough. arXiv: 2201.01669 ",
           "two": "2021. Using a Novel COVID-19 Calculator to Measure Positive U.S. Socio-Economic Impact of a COVID-19 Pre-Screening Solution (AI/ML). arXiv: 2201.11109",
           "three": "2020. Virufy: Global Applicability of AI Detection for COVID-19 from Cough Recordings. arXiv: 2011.13320",
           "four": "2020. Fusical: Multimodal Fusion for Video Sentiment. ACM ICMI; DOI: 3382507.3417966",
@@ -906,8 +907,8 @@
     },
     "teamSection": {
       "title-ourpeople": "About / Our People",
-      "weUnite": "Unimos pessoas de todo o mundo por uma única causa",
-      "header": "Nossas pessoas",
+      "weUnite": "Unimo-nos de diferentes partes do mundo por uma única causa",
+      "header": "Nossa gente",
       "teamLeadText": "Líderes de equipe",
       "advisorText": "Consultores",
       "oyw": "One Young World",
@@ -1086,6 +1087,11 @@
           "description": "Former CMO - Adobe\nBoard Member - CommonSpirit Health",
           "title": "Executive Marketing Advisor"
         },
+        "hugo": {
+          "name": "Hugo Estrada",
+          "description": "CEO & Managing Partner - iwé Consultores\nChairman - Nueva EPS (Health Insurance)",
+          "title": "Colombia Executive Outreach Advisor"
+        },
         "anais": {
           "name": "Anaïs Rameau, M.D.",
           "description": "Assistant Professor of ENT - Cornell University\nDoctor of Medicine - McGill University",
@@ -1156,11 +1162,6 @@
           "description": "Founder - Tannan FM Radio\nLead Architect, Bullet Train",
           "title": "Executive Visionary Advisor"
         },
-        "manuj": {
-          "name": "Manuj Aggarwal ",
-          "description": "TetraNoodle Technologies",
-          "title": "Executive AI, Strategy And Marketing Advisor"
-        },
         "alfonso": {
           "name": "Alfonso Assaf",
           "description": "Former Senior Consultant, Deloitte\nB.A. Economics, Universidad del CEMA",
@@ -1199,9 +1200,9 @@
       "OurPurpose": "Transformando a saúde do mundo, uma tosse de cada vez.",
       "vision": {
         "ourVision": "Nossa visão e objetivo",
-        "ourInnovative": "Nossa abordagem inovadora visa oferecer uma detecção de Covid-19 de alto nível para pacientes, médicos e governos em países de baixa renda. Almejamos ser a organização sem fins lucrativos líder em identificação de doenças através da tecnologia. A partir desse sonho, queremos transformar a saúde global e inspirar cada vez mais pessoas a apoiar e investir nesta missão conosco.",
+        "ourInnovative": "Nossa abordagem inovadora visa oferecer uma detecção de COVID de alto nível para pacientes, médicos e governos em países de baixa renda. Aspiramos ser a organização sem fins lucrativos líder em identificação de doenças através da tecnologia, transformando a saúde global e inspirando outros a apoiar e investir nessa missão conosco.",
         "ourCommitment": "Nosso compromisso com a privacidade",
-        "virufyPrivacy": "Nós da Virufy levamos a sério a sua privacidade e a proteção de suas informações pessoais. Nossa equipe jurídica preparou uma Política de Privacidade e Política de Cookies detalhada para proteger as informações pessoais que você compartilha conosco ao usar o nosso site.",
+        "virufyPrivacy": "Virufy leva a sério a privacidade e a proteção de suas informações pessoais. Nossa equipe jurídica preparou uma Política de Privacidade e Política de Cookies detalhada para proteger as informações pessoais que você compartilha conosco através do uso de nosso site",
         "buttonHelpUs": "Nossa Pesquisa"
       },
       "values": {
@@ -1233,7 +1234,7 @@
       },
       "ourStory": {
         "title": "Nossa História",
-        "description": "Quando a pandemia da Covid-19 começou, o fundador da Virufy, Amil Khanzada, sabia que os smartphones eram onipresentes e que essa doença afetava o nariz, a garganta e os pulmões. Ele levantou a hipótese de que os sons da respiração e da tosse poderiam ser analisados ​​com aprendizado de máquina para detectar os padrões da Covid-19. A fim de causar um impacto positivo, ele iniciou um estudo clínico com 362 pacientes em um conceituado hospital universitário. A equipe original da Virufy começou com estudantes de inteligência artificial de Stanford e se expandiu para voluntários de universidades em todo o mundo."
+        "description": "Quando a pandemia atingiu, o fundador do Virufy, Amil Khanzada, sabia que os smartphones eram onipresentes e que o COVID afetava o nariz, a garganta e os pulmões. Ele levantou a hipótese de que os sons da respiração e da tosse poderiam ser analisados ​​com aprendizado de máquina para detectar os padrões do COVID. Querendo causar um impacto positivo, ele orquestrou um estudo clínico com 362 pacientes em um conceituado hospital universitário. A equipe original de Virufy, começando com estudantes de IA de Stanford, expandiu-se para voluntários de universidades em todo o mundo. "
       },
       "section4": {
         "header": "Nossos apoiadores",

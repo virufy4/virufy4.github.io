@@ -55,7 +55,6 @@ export default function MissionSupporte({}) {
             <a
               className="no-underline font-normal rounded-xl text-white bg-primary px-4 py-2 xs:text-sm  mt-24"
               target="_blank"
-              href={links.donateLink}
             >
               {intl.formatMessage({
                 id: "index.section1.donateLinkResponsive",

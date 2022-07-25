@@ -140,11 +140,22 @@ export default function Founder({ data }) {
                 id: "team.ourFounder.amilStory.fourthParagraph.one",
               })}
             </p>
-            <p className="md:mb-2 md:mr-4 text-black  xs:pt-4 xs:pb-8">
+            <a
+              className="md:mb-2 md:mr-4 text-black  xs:pt-4 xs:pb-8 text-lg"
+              href="https://www.oneyoungworld.com/"
+            >
               {intl.formatMessage({
                 id: "team.ourFounder.amilStory.fourthParagraph.two",
               })}
-            </p>
+            </a>
+            <a
+              className="md:mb-2 md:mr-4 text-black  xs:pt-4 xs:pb-8 text-lg"
+              href="https://oywj.org/"
+            >
+              {intl.formatMessage({
+                id: "team.ourFounder.amilStory.fourthParagraph.three",
+              })}
+            </a>
           </div>
         </div>
         <div className="xs:mx-6 md:mx-12 ">
@@ -165,31 +176,64 @@ export default function Founder({ data }) {
               id: "team.ourFounder.amilStory.Amil-Publications",
             })}
           </h2>
-          <p className="md:mb-8  text-black  xs:pt-4 xs:pb-8">
-            {intl.formatMessage({
-              id: "team.ourFounder.amilStory.fifthParagraph.one",
-            })}
-          </p>
-          <p className="md:mb-8  text-black  xs:pt-4 xs:pb-8">
-            {intl.formatMessage({
-              id: "team.ourFounder.amilStory.fifthParagraph.two",
-            })}
-          </p>
-          <p className="md:mb-8  text-black  xs:pt-4 xs:pb-8">
-            {intl.formatMessage({
-              id: "team.ourFounder.amilStory.fifthParagraph.three",
-            })}
-          </p>
-          <p className="md:mb-8  text-black  xs:pt-4 xs:pb-8">
-            {intl.formatMessage({
-              id: "team.ourFounder.amilStory.fifthParagraph.four",
-            })}
-          </p>
-          <p className="md:mb-8  text-black  xs:pt-4 xs:pb-8">
-            {intl.formatMessage({
-              id: "team.ourFounder.amilStory.fifthParagraph.five",
-            })}
-          </p>
+          <div className="my-4">
+            <a
+              className="md:mb-8 pb-10 text-black  text-lg  xs:pt-4 xs:pb-8"
+              target="_blank"
+              href="https://arxiv.org/abs/2201.01669"
+            >
+              {intl.formatMessage({
+                id: "team.ourFounder.amilStory.fifthParagraph.one",
+              })}
+            </a>
+          </div>
+          <div className="my-4">
+            <a
+              className="md:mb-8  text-black  xs:pt-4 xs:pb-8"
+              target="_blank"
+              href="https://arxiv.org/abs/2201.11109"
+            >
+              {intl.formatMessage({
+                id: "team.ourFounder.amilStory.fifthParagraph.two",
+              })}
+            </a>
+          </div>
+
+          <div className="my-4">
+            <a
+              className="md:mb-8  text-black  xs:pt-4 xs:pb-8"
+              target="_blank"
+              href="https://ui.adsabs.harvard.edu/abs/2020arXiv201113320C/abstract"
+            >
+              {intl.formatMessage({
+                id: "team.ourFounder.amilStory.fifthParagraph.three",
+              })}
+            </a>
+          </div>
+
+          <div className="my-4">
+            <a
+              className="md:mb-8  text-black  xs:pt-4 xs:pb-8"
+              target="_blank"
+              href="https://dl.acm.org/doi/abs/10.1145/3382507.3417966"
+            >
+              {intl.formatMessage({
+                id: "team.ourFounder.amilStory.fifthParagraph.four",
+              })}
+            </a>
+          </div>
+
+          <div className="my-4">
+            <a
+              className="md:mb-8  text-black  xs:pt-4 xs:pb-8"
+              target="_blank"
+              href="https://arxiv.org/abs/2004.11823"
+            >
+              {intl.formatMessage({
+                id: "team.ourFounder.amilStory.fifthParagraph.five",
+              })}
+            </a>
+          </div>
         </div>
       </section>
 
