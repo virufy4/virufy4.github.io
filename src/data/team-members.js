@@ -322,4 +322,10 @@ export const advisors = [
     defaultName: "Manuj Aggarwal",
     imageName: "manuj",
   },
+  {
+    mediaLink: "https://people.ece.uw.edu/atlas/",
+    id: "atlas",
+    defaultName: "Dr. Les Atlas",
+    imageName: "atlas",
+  },
 ];
