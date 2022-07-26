@@ -1,6 +1,13 @@
 const news = [
   {
     mediaLink:
+      "https://docs.google.com/document/d/1QRUP_8Mmr2t9lS48iAckzWR3pOV3v53e/edit",
+    id: "section1",
+    imageName: "Virufy-Award-article",
+    country: " ",
+  },
+  {
+    mediaLink:
       "https://www.forbes.com.mx/emprendedores-app-diagnostico-covid-19-toser-telefono/",
     id: "section2",
     imageName: "forbes-article",

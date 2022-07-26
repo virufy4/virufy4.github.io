@@ -513,6 +513,14 @@
       "filter": "国別にニュースを絞り込む"
     },
     "news": {
+      "section1": {
+        "date": "July 2022",
+        "title": "Virufy Awarded US Health Department Contract with BARDA",
+        "name": " ",
+        "city": " ",
+        "country": " ",
+        "readMoreLink": "Read more..."
+      },
       "section2": {
         "date": "2021年2月",
         "title": "スマホの前で咳をするだけでCovid-19の診断ができることを目指したアプリ",
