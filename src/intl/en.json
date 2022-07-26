@@ -513,6 +513,14 @@
       "filter": "Filter News by Country"
     },
     "news": {
+      "section1": {
+        "date": "July 2022",
+        "title": "Virufy Awarded US Health Department Contract with BARDA",
+        "name": " ",
+        "city": " ",
+        "country": " ",
+        "readMoreLink": "Read more..."
+      },
       "section2": {
         "date": "February 2021",
         "title": "Esta app busca diagnosticar Covid-19 con sólo toser frente al teléfono",
