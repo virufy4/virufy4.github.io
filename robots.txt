@@ -1,2 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://virufy.org/sitemap.xml
+Host: https://virufy.org
 User-agent: ia_archiver
-Disallow: /
