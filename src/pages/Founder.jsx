@@ -140,22 +140,14 @@ export default function Founder({ data }) {
                 id: "team.ourFounder.amilStory.fourthParagraph.one",
               })}
             </p>
-            <a
-              className="md:mb-2 md:mr-4 text-black  xs:pt-4 xs:pb-8 text-lg"
-              href="https://www.oneyoungworld.com/"
-            >
-              {intl.formatMessage({
-                id: "team.ourFounder.amilStory.fourthParagraph.two",
-              })}
-            </a>
-            <a
-              className="md:mb-2 md:mr-4 text-black  xs:pt-4 xs:pb-8 text-lg"
-              href="https://oywj.org/"
-            >
-              {intl.formatMessage({
-                id: "team.ourFounder.amilStory.fourthParagraph.three",
-              })}
-            </a>
+            <p
+              classname="text-black"
+              dangerouslySetInnerHTML={{
+                __html: intl.formatMessage({
+                  id: "team.ourFounder.amilStory.fourthParagraph.two",
+                }),
+              }}
+            />
           </div>
         </div>
         <div className="xs:mx-6 md:mx-12 ">
@@ -178,7 +170,7 @@ export default function Founder({ data }) {
           </h2>
           <div className="my-4">
             <a
-              className="md:mb-8 pb-10 text-black  text-lg  xs:pt-4 xs:pb-8"
+              className="md:mb-8 pb-10 text-blue underline text-lg  xs:pt-4 xs:pb-8"
               target="_blank"
               href="https://arxiv.org/abs/2201.01669"
             >
@@ -189,7 +181,7 @@ export default function Founder({ data }) {
           </div>
           <div className="my-4">
             <a
-              className="md:mb-8  text-black  xs:pt-4 xs:pb-8"
+              className="md:mb-8  text-blue underline    xs:pt-4 xs:pb-8"
               target="_blank"
               href="https://arxiv.org/abs/2201.11109"
             >
@@ -201,7 +193,7 @@ export default function Founder({ data }) {
 
           <div className="my-4">
             <a
-              className="md:mb-8  text-black  xs:pt-4 xs:pb-8"
+              className="md:mb-8 text-blue underline  xs:pt-4 xs:pb-8"
               target="_blank"
               href="https://ui.adsabs.harvard.edu/abs/2020arXiv201113320C/abstract"
             >
@@ -213,7 +205,7 @@ export default function Founder({ data }) {
 
           <div className="my-4">
             <a
-              className="md:mb-8  text-black  xs:pt-4 xs:pb-8"
+              className="md:mb-8 text-blue underline  xs:pt-4 xs:pb-8"
               target="_blank"
               href="https://dl.acm.org/doi/abs/10.1145/3382507.3417966"
             >
@@ -225,7 +217,7 @@ export default function Founder({ data }) {
 
           <div className="my-4">
             <a
-              className="md:mb-8  text-black  xs:pt-4 xs:pb-8"
+              className="md:mb-8  text-blue underline xs:pt-4 xs:pb-8"
               target="_blank"
               href="https://arxiv.org/abs/2004.11823"
             >
