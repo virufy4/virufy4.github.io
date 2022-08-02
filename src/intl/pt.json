@@ -1198,6 +1198,16 @@
           "name": "Mert Pilanci",
           "description": "Assistant Professor of AI Stanford University Electrical Engineering",
           "title": "Artificial Intelligence Advisor"
+        },
+        "manuj": {
+          "name": "Manuj Aggarwal ",
+          "description": "Chief Innovation Officer - TetraNoodle Technologies",
+          "title": "Executive AI, Strategy And Marketing Advisor"
+        },
+        "atlas": {
+          "name": "Dr. Les Atlas",
+          "description": "Professor of Electrical and Computer Engineering - University of Washington\nPh.D. Electrical Engineering, Stanford",
+          "title": "Audio and Machine Learning Advisor"
         }
       }
     },
