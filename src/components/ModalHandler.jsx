@@ -33,12 +33,12 @@ const ModalHandler = ({ children }) => {
         onRequestClose={closeModal}
         onClose={closeModal}
         style={modalStyles}
-        className="absolute bg-transparent top-0 z-1 mt-5"
+        className="absolute bg-transparent top-0 z-1 mt-5 "
         shouldFocusAfterRender={true}
       >
-        <div className="md:absolute w-screen h-8 pr-72 xs:pr-8">
+        <div className=" w-screen h-8 m-auto xs:pr-8 flex justify-center items-center z-50">
           <button
-            className="relative left-full text-white text-lg md:mt-3"
+            className="relative md:left-64 left-44 md:top-10 top-16 text-white text-lg md:mt-3 z-50"
             onClick={closeModal}
           >
             &#x2715;

@@ -72,5 +72,12 @@ const buttonJoinUs = [
     btnStyle: true,
     classes: "text-white bg-blue py-2 px-6",
   },
+  {
+    intlId: "nav.donate",
+    defMsg: "Donate",
+    path: "",
+    btnStyle: true,
+    classes: "text-white bg-blue py-2 px-6",
+  },
 ];
 export { navLinks, buttonJoinUs, mobileNavLinks };

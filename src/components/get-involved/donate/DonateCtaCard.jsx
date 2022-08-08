@@ -12,9 +12,9 @@ const DonateCtaCard = () => {
   const intl = useIntl();
 
   return (
-    <div className="background-image min-h-225px xl:w-cta lg:w-cta md:w-ctaTablet sm:w-ctaMobile max-h-60 bg-white bg-cover bg-no-repeat bg-center relative m-auto rounded-2xl lg:p-3 md:p-6 p-3 z-50">
+    <div className="background-image min-h-225px xl:w-cta lg:w-cta md:w-ctaTablet sm:w-ctaMobile max-h-60 bg-white bg-cover bg-no-repeat bg-center relative m-auto rounded-t-2xl lg:p-3 md:p-6 p-3 z-40">
       <img
-        className="block object-contain h-6 w-16"
+        className="block object-contain pl-4 h-6 w-16 mt-6"
         src={virufyLogo}
         alt="logo"
       />
@@ -24,7 +24,7 @@ const DonateCtaCard = () => {
           defaultMessage: "Help us fight to end Covid 19",
         })}
       </h4>
-      <p className="custom-paragraph font-normal lg:w-4/6 lg:pb-0 pb-4 pr-8 pl-4 ">
+      <p className="custom-paragraph font-normal lg:w-4/6 lg:pb-0 pb-4 pr-8 pl-4 mb-8">
         {intl.formatMessage({
           id: "donate.callToAction.paragraph",
           defaultMessage:
