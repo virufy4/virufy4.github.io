@@ -11,10 +11,10 @@ const PaymentCard = () => {
   return (
     // lg:h-1/2 50% large screen
 
-    <div className=" h-ctaBtm lg:w-cta xl:w-cta md:w-ctaTablet sm:w-ctaMobile xxs:h-64 bg-white m-auto rounded-2xl lg:p-9 md:p-10 sm:p-10 p-3 mt-2 z-50">
+    <div className=" h-ctaBtm lg:w-cta xl:w-cta md:w-ctaTablet sm:w-ctaMobile xxs:h-64 bg-white m-auto rounded-b-2xl lg:p-9 md:p-10 sm:p-10 p-3 z-40">
       {
         <div>
-          <h4 className="my-1 xs:px-4">
+          <h4 className="my-1 xs:px-4 text-center mb-6">
             {intl.formatMessage({
               id: "donate.paymentTitles.paymentOption",
               defaultMessage: "Help us fight to end Covid 19",
