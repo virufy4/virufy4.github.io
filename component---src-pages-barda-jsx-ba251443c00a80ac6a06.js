@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[5575],{7939:function(e,n,t){t.r(n),t.d(n,{default:function(){return u}});var c=t(7294);function u(){return(0,c.useEffect)((function(){window.location.replace("https://docs.google.com/document/d/1dVq0nnvs2m2FiKIyqJVwQVvA7qlOfCFS/edit")})),c.createElement("p",null,"Redirecting...")}}}]);
-//# sourceMappingURL=component---src-pages-barda-jsx-ba251443c00a80ac6a06.js.map
