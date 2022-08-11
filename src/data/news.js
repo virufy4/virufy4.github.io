@@ -1,7 +1,6 @@
 const news = [
   {
-    mediaLink:
-      "https://docs.google.com/document/d/1QRUP_8Mmr2t9lS48iAckzWR3pOV3v53e/edit",
+    mediaLink: "/barda-press-release",
     id: "section1",
     imageName: "Virufy-Award-article",
     country: " ",
