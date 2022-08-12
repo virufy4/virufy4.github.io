@@ -21,7 +21,7 @@ const PaymentCard = () => {
             })}
           </h4>
           <div className="relative text-center">
-            <div className="flex justify-center items-center p-2 bg-gray-200 rounded-lg  h-16 hover:bg-blue">
+            <div className="flex justify-center items-center p-2 bg-gray-200 rounded-lg  h-16 hover:bg-lightBlue">
               <a
                 href="https://www.paypal.com/us/fundraiser/charity/4348461"
                 className="w-full text-center m-0"
@@ -33,7 +33,7 @@ const PaymentCard = () => {
                 />
               </a>
             </div>
-            <div className="flex justify-center items-center p-2 bg-gray-200 rounded-lg mt-5 h-16 hover:bg-blue">
+            <div className="flex justify-center items-center p-2 bg-gray-200 rounded-lg mt-5 h-16 hover:bg-lightBlue">
               <a
                 href="https://www.gofundme.com/f/virufy-covid19"
                 className="w-full text-center m-0"

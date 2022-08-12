@@ -14,8 +14,12 @@ export default function Paper() {
           src={bgWave}
           alt="waves"
         />
-        <h1>INTERNAL AND EXTERNAL PRESS RELEASE</h1>
-        <h1>THE COVID-19 DETECTION FOUNDATION (dba VIRUFY)</h1>
+        <h1 className="text-2xl md:text-4xl">
+          INTERNAL AND EXTERNAL PRESS RELEASE
+        </h1>
+        <h1 className="text-2xl md:text-4xl">
+          THE COVID-19 DETECTION FOUNDATION (dba VIRUFY)
+        </h1>
         <p className="mt-4 mb-8">July 22, 2022</p>
         <p className="font-bold mt-4">
           THE COVID-19 DETECTION FOUNDATION (dba VIRUFY) AND BARDA ANNOUNCE
