@@ -35,9 +35,9 @@ export default function Teams({ images }) {
           <p className="md:mb-2 font-bold text-black  xs:pt-4 xs:pb-4">
             {intl.formatMessage({ id: "team.ourFounder.amil.name" })}
           </p>
-          <p className="md:mb-2 text-blue md:pt-4 xs:pb-8">
+          {/* <p className="md:mb-2 text-blue md:pt-4 xs:pb-8">
             {intl.formatMessage({ id: "team.ourFounder.amil.email" })}
-          </p>
+          </p> */}
           <p className="md:mb-2 text-black md:pr-24 md:pt-4 xs:pb-4">
             {intl.formatMessage({ id: "team.ourFounder.amil.description1" })}
           </p>
