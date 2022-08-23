@@ -880,7 +880,7 @@
     },
     "ourFounder": {
       "subtitleOurFounder": "Conheça o nosso fundador",
-      "title-advisors": "Advisors",
+      "title-advisors": "Conselheiros",
       "amil": {
         "name": "Amil Khanzada",
         "email": "amil@berkeley.edu",
@@ -1082,18 +1082,18 @@
         },
         "kara": {
           "name": "Kara Meister, M.D.",
-          "description": "Clinical Assistant Professor of ENT\nStanford School of Medicine",
-          "title": "Clinical Advisor"
+          "description": "Professora Assistente Clínica de Otorrinolaringologia\nEscola de Medicina de Stanford",
+          "title": "Conselheira Clínica"
         },
         "jure": {
           "name": "Dr. Jure Leskovec",
-          "description": "Chief Scientist - Pinterest\nAssociate Professor of AI - Stanford",
-          "title": "Artificial Intelligence Advisor"
+          "description": "Cientista Chefe - Pinterest\nProfessor Associado de IA - Stanford",
+          "title": "Consultor de Inteligência Artificial"
         },
         "melissa": {
           "name": "Melissa Dyrdahl",
-          "description": "Former CMO - Adobe\nBoard Member - CommonSpirit Health",
-          "title": "Executive Marketing Advisor"
+          "description": "Ex-CMO - Adobe\nMembro do Conselho - CommonSpirit Health",
+          "title": "Assessora Executiva de Marketing"
         },
         "hugo": {
           "name": "Hugo Estrada",
@@ -1102,28 +1102,28 @@
         },
         "anais": {
           "name": "Anaïs Rameau, M.D.",
-          "description": "Assistant Professor of ENT - Cornell University\nDoctor of Medicine - McGill University",
-          "title": "Clinical Advisor"
+          "description": "Professora Assistente de Otorrinolaringologia - Cornell University\nDoutora em Medicina - Universidade McGill",
+          "title": "Consultora Clínica"
         },
         "madhav": {
           "name": "Madhav Datt",
-          "description": "Founder - Green the Gene\nFormer Global Representative for Youth - UN EP",
-          "title": "Executive Nonprofit Advisor"
+          "description": "Fundador - Green the Gene\nEx-Representante Global para a Juventude - UN EP",
+          "title": "Conselheiro Executivo Sem Fins Lucrativos"
         },
         "rafi": {
           "name": "Rafi Azim-Khan",
-          "description": "Partner, IP/IT & Head Data Privacy Europe\nPillsbury Winthrop Shaw Pittman LLP",
-          "title": "Executive Legal Advisor"
+          "description": "Parceiro, IP/TI e Head Data Privacy Europe\nPillsbury Winthrop Shaw Pittman LLP",
+          "title": "Assessor Jurídico Executivo"
         },
         "richardswart": {
           "name": "Richard Swartzbaugh",
-          "description": "Risk Management - Curaesoft\nJ.D. - University of Iowa",
-          "title": "Executive Advisor"
+          "description": "Gestão de Riscos - Curaesoft\nJ.D. - Universidade de Iowa",
+          "title": "Assessor Executivo"
         },
         "ronan": {
           "name": "Ronan Dunlop",
-          "description": "Form Head of Marketing - Pivotal/VMWare\nVP of Marketing - Cohuman",
-          "title": "Executive Marketing Advisor"
+          "description": "Head de Marketing - Pivotal/VMWare\nVP de Marketing - Cohuman",
+          "title": "Assessor Executivo de Marketing"
         },
         "richard": {
           "name": "Richard Nall",
@@ -1132,8 +1132,8 @@
         },
         "mark.haseltine": {
           "name": "Mark Haseltine",
-          "description": "Former CTO/CPO - edX\nComputer Science alumnus - MIT",
-          "title": "Executive Advisor"
+          "description": "Ex-CTO/CPO - edX\nEx-aluno de Ciência da Computação - MIT",
+          "title": "Consultor Executivo"
         },
         "matt": {
           "name": "Matt Prusak",
@@ -1152,13 +1152,13 @@
         },
         "victor": {
           "name": "Victor Wang",
-          "description": "Founder and Chairman- China Silicon Valley\nMBA - Stanford Graduate School of Business",
-          "title": "Executive Advisor"
+          "description": "Fundador e Presidente do Silicon Valley da China\nMBA - Stanford Graduate School of Business",
+          "title": "Consultor Executivo"
         },
         "rok": {
           "name": "Rok Sosic",
-          "description": "Senior Research Engineer\nStanford School of Engineering",
-          "title": "Artificial Intelligence Advisor"
+          "description": "Engenheiro de Pesquisa Sênior\nEscola de Engenharia de Stanford",
+          "title": "Consultor de Inteligência Artificial"
         },
         "taisuke": {
           "name": "Taisuke Fukuno",
@@ -1192,13 +1192,13 @@
         },
         "mansoor": {
           "name": "Mansoor Ahmed",
-          "description": "Founder & CEO - Cleveland Sleep Research Center\nMBBS - King Edward Medical University",
-          "title": "Clinical Research Advisor"
+          "description": "Fundador e CEO - Centro de Pesquisa do Sono de Cleveland\nMBBS - Universidade Médica King Edward",
+          "title": "Assessor de Pesquisa Clínica"
         },
         "mert": {
           "name": "Mert Pilanci",
-          "description": "Assistant Professor of AI Stanford University Electrical Engineering",
-          "title": "Artificial Intelligence Advisor"
+          "description": "Professor Assistente de IA na Universidade de Stanford de Engenharia Elétrica",
+          "title": "Consultor de Inteligência Artificial "
         },
         "manuj": {
           "name": "Manuj Aggarwal ",
@@ -1215,7 +1215,7 @@
     "valuesSection": {
       "meta": "Pessoas de todo o mundo uniram forças para construir o Virufy, uma pré-triagem de COVID-19 que pode ajudar a diminuir a circulação do vírus. Saiba mais.",
       "About": "Sobre Nós",
-      "OurPurpose": "Transformando a saúde do mundo, uma tosse de cada vez.",
+      "OurPurpose": "Transformando a saúde do mundo, uma tosse por vez",
       "vision": {
         "ourVision": "Nossa visão e objetivo",
         "ourInnovative": "Nossa abordagem inovadora visa oferecer uma detecção de Covid-19 de alto nível para pacientes, médicos e governos em países de baixa renda. Almejamos ser a organização sem fins lucrativos líder em identificação de doenças através da tecnologia. A partir desse sonho, queremos transformar a saúde global e inspirar cada vez mais pessoas a apoiar e investir nesta missão conosco.",
