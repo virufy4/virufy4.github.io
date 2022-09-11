@@ -55,7 +55,8 @@ const news = [
     country: " ",
   },
   {
-    mediaLink: "https://www.sdgscaucus.com/speakers.html",
+    mediaLink:
+      "https://www.oneyoungworld.com/event/one-young-world-tokyo-caucus-2020",
     id: "section9",
     imageName: "OYW_white_rgb",
     country: " ",
