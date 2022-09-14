@@ -103,7 +103,7 @@
         "Question#1": {
           "numberQuestion": "Pregunta #1",
           "questionIdQ": "¿Cómo se creó esta iniciativa?",
-          "questionIdA": "Cuando ocurrió la pandemia, el fundador de Virufy, Amil, sabía que los teléfonos inteligentes eran omnipresentes y que el COVID afectaba la nariz, la garganta y los pulmones. Él planteó la hipótesis de que los sonidos de la respiración y la tos podrían analizarse con el aprendizaje automático para detectar patrones de COVID. Para lograr un impacto positivo, orquestó un estudio clínico con 362 pacientes en un prestigioso hospital universitario. El equipo original de Virufy, que comenzó con estudiantes graduados en IA de Stanford, se expandió a voluntarios de universidades de todo el mundo. \n\nComo <un objetivo = '_ blank' href = 'https: //www.oneyoungworld.com/'> Embajador de One Young World Japan </a> que ha viajado a más de una docena de países, Amil comprende la perspectiva global y cómo una solución basada en teléfonos inteligentes puede ser utilizado por personas de todo el mundo ."
+          "questionIdA": "Cuando ocurrió la pandemia, el fundador de Virufy, Amil, sabía que los teléfonos inteligentes eran omnipresentes y que el COVID afectaba la nariz, la garganta y los pulmones. Él planteó la hipótesis de que los sonidos de la respiración y la tos podrían analizarse con el aprendizaje automático para identificar patrones de COVID. Para lograr un impacto positivo, orquestó un estudio clínico con 362 pacientes en un prestigioso hospital universitario. El equipo original de Virufy, que comenzó con estudiantes graduados en IA de Stanford, se expandió a voluntarios de universidades de todo el mundo. \n\nComo <un objetivo = '_ blank' href = 'https: //www.oneyoungworld.com/'> Embajador de One Young World Japan </a> que ha viajado a más de una docena de países, Amil comprende la perspectiva global y cómo una solución basada en teléfonos inteligentes puede ser utilizado por personas de todo el mundo ."
         },
         "Question#2": {
           "numberQuestion": "Pregunta #2",
@@ -145,12 +145,12 @@
         "Question#1": {
           "numberQuestion": "Pregunta #1",
           "questionIdQ": "¿Por qué se distingue la tos de COVID-19?",
-          "questionIdA": "Al igual que otras enfermedades respiratorias, COVID-19 daña la garganta y los pulmones, creando diferencias detecables en los patrones de tos. En consecuencia, los sonidos de la tos se pueden analizar para detectar COVID-19. A nivel mundial, esta idea se está investigando activamente por varias instituciones prestigiosas, incluidas Carnegie Mellon (CMU), MIT y Cambridge. Por ejemplo, una investigación realizada por la Universidad de Cambridge mostró que un clasificador binario de aprendizaje automático simple puede clasificar a los pacientes con COVID-19 positivos a través de la respiración y los sonidos de tos con altos precisión. De manera similar, los investigadores de CMU identificaron 18 características de voz que distinguen a los pacientes positivos con COVID-19 y entrenaron un modelo académico para detectar COVID-19 con alta precisión ."
+          "questionIdA": "Al igual que otras enfermedades respiratorias, COVID-19 daña la garganta y los pulmones, creando diferencias notables en los patrones de tos. En consecuencia, los sonidos de la tos se pueden analizar para detectar COVID-19. A nivel mundial, esta idea se está investigando activamente por varias instituciones prestigiosas, incluidas Carnegie Mellon (CMU), MIT y Cambridge. Por ejemplo, una investigación realizada por la Universidad de Cambridge mostró que un clasificador binario de aprendizaje automático simple puede clasificar a los pacientes con COVID-19 positivos a través de la respiración y los sonidos de tos con altos precisión. De manera similar, los investigadores de CMU identificaron 18 características de voz que distinguen a los pacientes positivos con COVID-19 y entrenaron un modelo académico para detectar COVID-19 con alta precisión ."
         },
         "Question#2": {
           "numberQuestion": "Pregunta #2",
-          "questionIdQ": "¿Cómo detectará el algoritmo de inteligencia artificial de Virufy COVID-19?",
-          "questionIdA": "Basado en investigaciones anteriores, Virufy está desarrollando un algoritmo de inteligencia artificial que se puede utilizar para predecir con precisión una infección por COVID-19 en cuestión de minutos según las grabaciones de los sonidos de la tos. Sin embargo, a diferencia de la investigación previa de COVID-19 sobre la tos dirigida en la población de EE. UU., Virufy tiene como objetivo recopilar datos de varios sitios en todo el mundo. Como una iniciativa dirigida por estudiantes con voluntarios en varios países, Virufy está desarrollando un modelo de diagnóstico de COVID-19 con mayor inclusión racial y espacial a través de datos que incluyen una variedad de etnias y diferencias fonológicas específicas de la comunidad ."
+          "questionIdQ": "¿Cómo identificará el algoritmo de inteligencia artificial de Virufy COVID-19?",
+          "questionIdA": "Basado en investigaciones anteriores, Virufy está desarrollando un algoritmo de inteligencia artificial que se puede utilizar para predecir con precisión una infección por COVID-19 en cuestión de minutos según las grabaciones de los sonidos de la tos. Sin embargo, a diferencia de la investigación previa de COVID-19 sobre la tos dirigida en la población de EE. UU., Virufy tiene como objetivo recopilar datos de varios sitios en todo el mundo. Como una iniciativa dirigida por estudiantes con voluntarios en varios países, Virufy está desarrollando un modelo de predicción del estado de COVID-19 con mayor inclusión racial y espacial a través de datos que incluyen una variedad de etnias y diferencias fonológicas específicas de la comunidad ."
         },
         "Question#3": {
           "numberQuestion": "Pregunta #3",
@@ -164,7 +164,7 @@
         },
         "Question#5": {
           "numberQuestion": "Pregunta #5",
-          "questionIdQ": "¿Son los micrófonos de los teléfonos inteligentes lo suficientemente fiables como para utilizarlos en la detección?",
+          "questionIdQ": "¿Son los micrófonos de los teléfonos inteligentes lo suficientemente fiables como para utilizarlos en la identificación?",
           "questionIdA": "Sí, los resultados de 3500 personas de 20 países con muchos teléfonos inteligentes diferentes muestran que los micrófonos son capaces de capturar firmas COVID-19."
         },
         "Question#6": {
@@ -199,8 +199,8 @@
         },
         "Question#12": {
           "numberQuestion": "Pregunta #12",
-          "questionIdQ": "¿Cuáles son sus planes para Virufy después de que COVID-19 esté bajo control?",
-          "questionIdA": "Virufy tiene como objetivo poner fin a la propagación de diversas enfermedades transmisibles en países de bajos ingresos mediante pruebas generalizadas basadas en teléfonos inteligentes que se pueden utilizar siempre que una comunidad se sienta en riesgo de propagación del virus. la tecnología de inteligencia se puede adaptar para detectar otros coronavirus, incluidos el resfriado común y la influenza. Esto puede reducir la carga innecesaria en los sistemas de salud y el diagnóstico basado en químicos para enfermedades que pueden ser detectadas por la IA ."
+          "questionIdQ": "¿Cuáles son los planes de Virufy después de que COVID-19 esté bajo control?",
+          "questionIdA": "Virufy tiene como objetivo poner fin a la propagación de diversas enfermedades transmisibles en países de bajos ingresos mediante pruebas generalizadas basadas en teléfonos inteligentes que se pueden utilizar siempre que una comunidad se sienta en riesgo de propagación del virus. la tecnología de inteligencia artificial se puede adaptar para identificar otros coronavirus, incluidos el resfriado común y la influenza. Esto puede reducir la carga innecesaria en los sistemas de salud y el diagnóstico basado en químicos para enfermedades que pueden ser detectadas por la IA ."
         }
       },
       "questionsFinances": {
@@ -435,7 +435,7 @@
     "title": "Desarrollando una prueba de Covid-19 en línea con IA | Virufy",
     "section1": {
       "header": "Una prueba de Covid-19 en línea es posible",
-      "pg": "Virufy es una organización de investigación sin fines de lucro que desarrolla tecnología de inteligencia artificial (IA) para detectar el COVID-19 en los patrones de tos, rápidamente y sin costo mediante el uso de un teléfono inteligente.",
+      "pg": "Virufy es una organización de investigación sin fines de lucro que desarrolla tecnología de inteligencia artificial (IA) para predecir el COVID - 19 en los patrones de tos, rápidamente y sin costo mediante el uso de un teléfono inteligente.",
       "coughLink": "DONA TU TOS",
       "donateLink": "Dona tu tos ahora",
       "donateLinkResponsive": "Dona ahora",
@@ -457,7 +457,7 @@
       "header2": "AI analiza el patron respiratorio",
       "header3": "Número de toses recopiladas",
       "tryItOutLink": "PRUEBA",
-      "description": "Virufy se fundó en marzo de 2020. Hoy, Virufighters en los cinco continentes se comprometen para hacer que la detección de enfermedades sea instantánea y gratuita a través de tecnología innovadora.",
+      "description": "Virufy se fundó en marzo de 2020. Hoy, Virufighters en los cinco continentes se comprometen para hacer que la lucha contra enfermedades sea instantánea y gratuita a través de tecnología innovadora.",
       "numbercollected": "100.000",
       "joincommunity": "Únete a nuestra comunidad"
     },
@@ -475,7 +475,7 @@
     },
     "faq": {
       "distinguishableQ": "¿Por qué se distinguen las toses de COVID-19?",
-      "distinguishableA": "Al igual que otras enfermedades respiratorias, COVID-19 daña la garganta y los pulmones, creando diferencias detectables en los patrones de tos. En consecuencia, los sonidos de la tos pueden analizarse para detectar COVID-19. A nivel mundial, esta idea se está investigando activamente por varias instituciones prestigiosas, incluidas Carnegie Mellon (CMU), MIT y Cambridge. Por ejemplo, una investigación realizada por la Universidad de Cambridge mostró que un clasificador binario simple de aprendizaje automático puede clasificar a los pacientes con COVID-19 positivos a través de sonidos respiratorios y de tos de manera muy precisa, los investigadores de CMU identificaron 18 características de voz que distinguen a los pacientes positivos con COVID-19 y desarrollaron un modelo académico para detectar COVID-19 con alta precisión. ",
+      "distinguishableA": "Al igual que otras enfermedades respiratorias, COVID-19 daña la garganta y los pulmones, creando diferencias notables en los patrones de tos. En consecuencia, los sonidos de la tos pueden analizarse para detectar COVID-19. A nivel mundial, esta idea se está investigando activamente por varias instituciones prestigiosas, incluidas Carnegie Mellon (CMU), MIT y Cambridge. Por ejemplo, una investigación realizada por la Universidad de Cambridge mostró que un clasificador binario simple de aprendizaje automático puede clasificar a los pacientes con COVID-19 positivos a través de sonidos respiratorios y de tos de manera muy precisa, los investigadores de CMU identificaron 18 características de voz que distinguen a los pacientes positivos con COVID-19 y desarrollaron un modelo académico para detectar COVID-19 con alta precisión. ",
       "aiQ": "¿Cómo detectará COVID-19 el algoritmo de inteligencia artificial de Virufy?",
       "aiA": "Basado en investigaciones anteriores, Virufy está desarrollando un algoritmo de inteligencia artificial que se puede utilizar para predecir con precisión una infección por COVID-19 en cuestión de minutos según las grabaciones de los sonidos de la tos. Sin embargo, a diferencia de la investigación previa de COVID-19 sobre la tos dirigida en la población de EE. UU., Virufy tiene como objetivo recopilar datos de varios sitios en todo el mundo. Como una iniciativa dirigida por estudiantes con voluntarios en varios países, Virufy está desarrollando un modelo de diagnóstico de COVID-19 con mayor inclusión racial y espacial a través de datos que incluyen una variedad de etnias y diferencias fonológicas específicas de la comunidad"
     }
@@ -1218,7 +1218,7 @@
       "OurPurpose": "Transformando la salud del mundo, una tos a la vez",
       "vision": {
         "ourVision": "Nuestra misión",
-        "ourInnovative": "Nuestro enfoque innovador tiene como objetivo ofrecer una detección previa de COVID superior para pacientes, médicos y gobiernos, especialmente en países de bajos ingresos. Aspiramos a ser la organización sin fines de lucro líder en la identificación de enfermedades con tecnología; transformando la atención médica global e inspirar a otros para apoyar e invertir en nuestra misión.",
+        "ourInnovative": "Nuestro enfoque innovador tiene como objetivo ofrecer una predicción de COVID superior para pacientes, médicos y gobiernos, especialmente en países de bajos ingresos. Aspiramos a ser la organización sin fines de lucro líder en la identificación de enfermedades con tecnología; transformando la atención médica global e inspirar a otros para apoyar e invertir en nuestra misión.",
         "ourCommitment": "Nuestro compromiso con la privacidad",
         "virufyPrivacy": "Virufy se toma muy en serio la privacidad y la protección de su información personal. Nuestro equipo legal ha preparado una <a target='_blank' href='https://virufy.org/privacy_policy'> Política de privacidad </ a detallada > y <a target='_blank' href='https://virufy.org/cookie_policy'> Política de cookies </a> para proteger la información personal que comparten con nosotros a través del uso de nuestro sitio web",
         "buttonHelpUs": "Nuestra Investigación"
@@ -1231,7 +1231,7 @@
         },
         "Collaboration": {
           "title": "Colaboración",
-          "description": "Nos comprometemos a hacer que la detección rápida de enfermedades esté disponible para todas las personas en el mundo, independientemente de sus antecedentes"
+          "description": "Nos comprometemos a hacer que la identificación rápida de enfermedades esté disponible para todas las personas en el mundo, independientemente de sus antecedentes"
         },
         "Health": {
           "title": "Salud",
@@ -1239,20 +1239,20 @@
         },
         "Affordability": {
           "title": "Conveniencia",
-          "description": "Nuestro objetivo es utilizar la tecnología para que la prevención y detección de enfermedades sea gratuita para todas las personas en todo el mundo"
+          "description": "Nuestro objetivo es utilizar la tecnología para que la prevención e identificación de enfermedades sea gratuita para todas las personas en todo el mundo"
         },
         "Efficiency": {
           "title": "Eficiencia",
-          "description": "Nos comprometemos a crear tecnología intuitiva que ofrezca una detección rápida, detenga la propagación de virus y salve vidas"
+          "description": "Nos comprometemos a crear tecnología intuitiva que ofrezca una identificación rápida, detenga la propagación de virus y salve vidas"
         },
         "Innovation": {
           "title": "Innovación",
-          "description": "Nuestro objetivo es garantizar la detección rápida de enfermedades con un solo toque en un dispositivo móvil"
+          "description": "Nuestro objetivo es garantizar la identificación rápida de enfermedades con un solo toque en un dispositivo móvil"
         }
       },
       "ourStory": {
         "title": "Nuestra Historia",
-        "description": "Cuando llegó la pandemia, el fundador de Virufy Amil Khanzada, sabía que los teléfonos inteligentes eran omnipresentes y que el COVID afectaba la nariz, la garganta y los pulmones. Él planteó la hipótesis de que los sonidos de la respiración y la tos podrían analizarse con el aprendizaje automático para detectar patrones de COVID. Queriendo tener un impacto positivo, orquestó un estudio clínico con 362 pacientes en un prestigioso hospital universitario. El equipo original de Virufy, comenzando con estudiantes graduados en IA de Stanford y que se extendió a voluntarios de universidades de todo el mundo"
+        "description": "Cuando llegó la pandemia, el fundador de Virufy Amil Khanzada, sabía que los teléfonos inteligentes eran omnipresentes y que el COVID afectaba la nariz, la garganta y los pulmones. Él planteó la hipótesis de que los sonidos de la respiración y la tos podrían analizarse con el aprendizaje automático para identificar patrones de COVID. Queriendo tener un impacto positivo, orquestó un estudio clínico con 362 pacientes en un prestigioso hospital universitario. El equipo original de Virufy, comenzando con estudiantes graduados en IA de Stanford y que se extendió a voluntarios de universidades de todo el mundo"
       },
       "section4": {
         "header": "Nuestros seguidores",
