@@ -5,7 +5,7 @@
     "header": "An online Covid-19 test is possible",
     "pg": "Virufy is a nonprofit research organization developing artificial intelligence (AI) technology to screen for COVID-19 from cough patterns, rapidly and at no cost through use of a smartphone.",
     "coughLink": "CONTRIBUTE YOUR COUGH",
-    "donateLink": "Donate your cough now",
+    "donateLink": "Share your cough now",
     "donateLinkResponsive": "Donate now",
     "learnmore": "Learn More",
     "whoweare": "Who we are"
@@ -15,7 +15,7 @@
     "pg1": "People all over the world support and work with us to combat this type of disease, but many people like you can help us too",
     "pg2": "No matter where you are in the world, all you will need is a mobile device and the Virufy app.",
     "learnMoreLink": "Learn More",
-    "donateyourcough": "Donate your cough"
+    "donateyourcough": "Share your cough"
   },
   "section3": {
     "howItWorks": "How our online Covid-19 test works",
@@ -39,7 +39,7 @@
   },
   "section5": {
     "messagehero": "Let’s help the world and save many lives by recording your cough",
-    "donatebuttonhero": "Donate your cough now"
+    "donatebuttonhero": "Share your cough now"
   },
   "faq": {
     "distinguishableQ": "Why are COVID-19 coughs distinguishable?",

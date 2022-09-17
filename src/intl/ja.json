@@ -434,7 +434,7 @@
     "meta": "人工知能を使用した効率的なオンラインCovid-19テストの構築に専念する人々によって2020年3月に設立されたプロジェクトであるVirufyに会いましょう。",
     "title": "AIを使用したオンラインCovid-19テストの開発| Virufy",
     "section1": {
-      "header": "Covid-19事前スクリーニングアプリ",
+      "header": "オンラインのCovid-19テストが可能です",
       "pg": "Virufyは、咳のパターンからCOVID-19を特定する人工知能（AI）技術を、スマートフォンを使って迅速かつ無償で開発する非営利の研究機関です。",
       "coughLink": "咳を寄付する",
       "donateLink": "今すぐ咳を寄付する",
@@ -496,7 +496,6 @@
     "ourTeam": "私たちの仲間",
     "aboutUs": "私たちについて",
     "joinUs": "参加する",
-    "donate": "寄付する",
     "technology": "私たちのテクノロジー",
     "name-1": "ホセ",
     "name-2": "フィリップ",
@@ -514,14 +513,6 @@
       "filter": "国別にニュースを絞り込む"
     },
     "news": {
-      "section1": {
-        "date": "July 2022",
-        "title": "Virufy Awarded US Health Department Contract with BARDA",
-        "name": " ",
-        "city": " ",
-        "country": " ",
-        "readMoreLink": "Read more..."
-      },
       "section2": {
         "date": "2021年2月",
         "title": "スマホの前で咳をするだけでCovid-19の診断ができることを目指したアプリ",
@@ -882,7 +873,7 @@
     },
     "ourFounder": {
       "subtitleOurFounder": "Meet Our Founder",
-      "title-advisors": "アドバイザー",
+      "title-advisors": "Advisors",
       "amil": {
         "name": "Amil Khanzada",
         "email": "amil@berkeley.edu",
@@ -1211,16 +1202,6 @@
           "name": "Mert Pilanci",
           "description": "Assistant Professor of AI Stanford University Electrical Engineering",
           "title": "Artificial Intelligence Advisor"
-        },
-        "manuj": {
-          "name": "Manuj Aggarwal ",
-          "description": "Chief Innovation Officer - TetraNoodle Technologies",
-          "title": "Executive AI, Strategy And Marketing Advisor"
-        },
-        "atlas": {
-          "name": "Dr. Les Atlas",
-          "description": "Professor of Electrical and Computer Engineering - University of Washington\nPh.D. Electrical Engineering, Stanford",
-          "title": "Audio and Machine Learning Advisor"
         }
       }
     },

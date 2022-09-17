@@ -435,7 +435,7 @@
     "title": "Desenvolvendo um teste de COVID online com IA | Virufy",
     "section1": {
       "header": "Um teste de Covid-19 online é possível",
-      "pg": "Virufy é uma organização de pesquisa sem fins lucrativos que desenvolve tecnologia com inteligência artificial para detectar a Covid-19 a partir da tosse. Por meio de um smartphone, será possível fazer um teste online de Covid-19 rapidamente e sem sair de casa.",
+      "pg": "Virufy é uma organização de pesquisa sem fins lucrativos que desenvolve tecnologia de inteligência artificial (IA) para detectar COVID-19 a partir de padrões da tosse por meio do uso de um smartphone, de maneira rápida e sem nenhum custo.",
       "coughLink": "CONTRIBUA O SEU TOSSE",
       "donateLink": "Doe sua tosse agora",
       "donateLinkResponsive": "Doe agora",
@@ -444,7 +444,7 @@
     },
     "section2": {
       "header": "Acreditamos que juntos podemos ajudar a melhorar o mundo",
-      "pg1": "Pessoas em todo o mundo apoiam e trabalham conosco para combater a Covid-19. Você também pode fazer parte dessa transformação.",
+      "pg1": "Pessoas em todo o mundo apóiam e trabalham conosco para combater esse tipo de doença, mas muitas pessoas como você também podem nos ajudar",
       "pg2": "Não importa onde você esteja no mundo, tudo o que você precisa é de um dispositivo móvel e do aplicativo Virufy.",
       "learnMoreLink": "Saiba mais",
       "donateyourcough": "Doe sua tosse"
@@ -457,7 +457,7 @@
       "header2": "AI analisa a assinatura respiratória",
       "header3": "Número de tosses coletadas",
       "tryItOutLink": "EXPERIMENTE",
-      "description": "Virufy foi fundada em março de 2020. Hoje, Virufighters em cinco continentes estão empenhados em tornar a detecção de doenças algo rápido e gratuito com a ajuda da tecnologia.",
+      "description": "Virufy foi fundada em março de 2020. Hoje, Virufighters em cinco continentes estão empenhados em tornar o rastreamento de doenças em modo instantâneo e gratuito por meio da inovação em tecnologia.",
       "numbercollected": "100.000",
       "joincommunity": "Junte-se à nossa comunidade"
     },
@@ -495,7 +495,6 @@
     "ourSupporters": "Nossos apoiadores",
     "ourTeam": "Nosso pessoal",
     "joinUs": "Junte-se a nós",
-    "donate": "Doe",
     "name-1": "Jose",
     "name-2": "Phillipe",
     "name-3": "Sophie",
@@ -512,14 +511,6 @@
       "filter": "Filter News by Country"
     },
     "news": {
-      "section1": {
-        "date": "July 2022",
-        "title": "Virufy Awarded US Health Department Contract with BARDA",
-        "name": " ",
-        "city": " ",
-        "country": " ",
-        "readMoreLink": "Read more..."
-      },
       "section2": {
         "date": "February 2021",
         "title": "Esta app busca diagnosticar Covid-19 con sólo toser frente al teléfono",
@@ -620,15 +611,15 @@
       "HowIt": "Como nosso teste de Covid-19 online funciona",
       "card-one": {
         "title": "1",
-        "description": "Abra o aplicativo e grave a sua tosse"
+        "description": "Grave sua tosse"
       },
       "card-two": {
         "title": "2",
-        "description": "A IA irá analisar se a sua tosse tem os padrões da Covid-19"
+        "description": "Análises de IA para padrões COVID"
       },
       "card-three": {
         "title": "3",
-        "description": "Você terá o resultado na tela do seu smartphone"
+        "description": "Status de risco COVID relatado"
       },
       "collectedData": "Painel de Dados Coletados",
       "numberofCollected": "Número de tosses coletadas",
@@ -871,7 +862,7 @@
   },
   "team": {
     "meta": "Whoever and wherever you are you may be able to join Virufy project and help create an AI driven online COVID-19 test. Make a difference today.",
-    "title": "Leia a história do Amil",
+    "title": "Read Amil’s Story",
     "supportersSection": {
       "header": "Sobre / Nossos apoiadores",
       "description": "As empresas e organizações apoiam-nos com o seu amplo conhecimento e proporcionam-nos segurança e certeza no que fazemos.",
@@ -879,8 +870,8 @@
       "buttonSupporter": "Torne-se um apoiador"
     },
     "ourFounder": {
-      "subtitleOurFounder": "Conheça o nosso fundador",
-      "title-advisors": "Conselheiros",
+      "subtitleOurFounder": "Meet Our Founder",
+      "title-advisors": "Advisors",
       "amil": {
         "name": "Amil Khanzada",
         "email": "amil@berkeley.edu",
@@ -888,35 +879,35 @@
         "description2": "University of California, Berkeley 253 Cory Hall, Berkeley, CA",
         "title": "Founder & President"
       },
-      "titleAmilStory": "A História do Amil",
+      "titleAmilStory": "Amil’s Story",
       "amilStory": {
         "firstParagraph": {
-          "one": "A Virufy foi formada em março de 2020, quando o Amil se comprometeu a combater a pandemia e conquistou o apoio global de especialistas de alto nível, alinhados sob a missão comum: parar a COVID-19 em prol do bem público.",
-          "two": "Quando a pandemia da COVID-19 atingiu, em meio a confinamentos, incertezas, hospitais transbordando e falta de kits de teste, Amil se comprometeu com os esforços de alívio da pandemia. Inspirando-se nos ensinamentos de seus professores da Universidade de Stanford, ele teve a idéia de usar inteligência artificial para combater a pandemia.",
-          "three": "Apoiado por vários membros do corpo docente e grupos de estudantes de Stanford, Amil fundou a Virufy - uma organização sem fins lucrativos que desenvolve um aplicativo para smartphone para pré-selecionar a COVID-19 instantaneamente por meio de análises de voz e gravações de tosse alimentadas por IA."
+          "one": "Virufy was formed in March 2020, when Amil committed himself to combat the pandemic and garnered the support of top-tier domain experts globally, aligned under the common mission: To stop COVID-19 in support of the public good.",
+          "two": "When the COVID-19 pandemic hit, in the midst of lockdowns, uncertainty, overflowing hospitals, and lacking test kits, Amil committed himself to pandemic relief efforts. Taking inspiration from the teachings of his Stanford University professors, he came up with the idea of using artificial intelligence to combat the pandemic.",
+          "three": "Supported by several Stanford faculty members and student groups, Amil founded Virufy—a nonprofit organization developing a smartphone app to prescreen for COVID-19 instantly through AI-powered analysis of voice and cough recordings."
         },
-        "secondParagraph": "A paixão de Amil pelo serviço social começou cedo. Seu pai incutiu nele o espírito do serviço social, onde se voluntariaram juntos em cozinhas de sopa e casas de repouso. No ensino médio, Amil desenvolveu um amor pela programação como um meio de ajudar os outros.",
-        "thirdParagraph": "Durante seu primeiro feriado de Ano Novo na Universidade de Berkeley, quando Amil tinha 18 anos, seu pai foi atropelado e faleceu enquanto ajudava em um acidente rodoviário, salvando a vida de outra pessoa. Tendo perdido seu maior modelo, Amil sofreu imensamente. No entanto, em seu coração, ele nunca havia perdido o espírito de retribuição de seu pai.",
+        "secondParagraph": "Amil’s passion for social service started from an early age. His father instilled in him the spirit of social service, where they volunteered together in soup kitchens and nursing homes. In middle school, Amil developed a love for programming as a means to help others.",
+        "thirdParagraph": "During his first New Year’s holiday at UC Berkeley, when Amil was 18 years old, his father was struck and killed while assisting at a highway accident, saving another’s life. Having lost his greatest role model, Amil struggled immensely. However, in his heart, he had never lost his father’s spirit of giving back.",
         "fourthParagraph": {
-          "one": "Amil resolveu se levantar diante de sua dor e perda, e trabalhou meio período para pagar as mensalidades enquanto viajava 2,5 horas por dia para ficar com sua mãe e aprendeu a valorizar o serviço público e os desprivilegiados enquanto aperfeiçoava seus conhecimentos e habilidades de software.",
-          "two": "Quando Amil se mudou para o interior do Japão, ele ensinou programação ágil de pares para os jovens e crianças de lá. Mais tarde, Amil foi nomeado Embaixador da Evolução da cidade e enviado para a conferência <a target='_blank' rel='noreferrer' href='https://www.oneyoungworld.com/' class='underline text-blue'/>One Young World</a>, na Holanda, para representar o <a target='_blank' rel='noreferrer' href='https://oywj.org/' class='underline text-blue'/>Japão</a>, dentre outros jovens líderes de impacto social, chefes de país e Prêmios Nobel de 195 países. No One Young World, a Amil adquiriu um senso de urgência para um impacto social mundial mais amplo."
+          "one": "Amil resolved to stand up in the face of his grief and loss, and worked part-time to pay tuition while commuting 2.5 hours daily to stay with his mom and learned to value public service and the underprivileged while honing his software knowledge and skills.",
+          "two": "When Amil moved to the countryside of Japan, he taught agile pair programming to the young adults and children there. Later, Amil was appointed Evolution Ambassador of the town and sent to the <a target='_blank' rel='noreferrer' href='https://www.oneyoungworld.com/' class='underline text-blue'/>One Young World</a> conference in the Netherlands to represent <a target='_blank' rel='noreferrer' href='https://oywj.org/' class='underline text-blue'/> Japan </a>, amongst other young social impact leaders, country heads, and Nobel Laureates from 195 countries. At One Young World, Amil acquired a sense of urgency for broader, worldwide social impact."
         },
-        "fivethParagraph": "Através da forte formação técnica do Amil, da determinação em retribuir e da liderança excepcional, combinada com as dezenas de milhares de horas contribuídas por voluntários e empresas, a Virufy cresceu para operar em uma dúzia de países com mais de 200 voluntários e 30 organizações parceiras, incluindo Amazon Web Services, Stanford COVID-19 Response Innovation Lab e Pillsbury Winthrop Shaw Pittman Law a partir de Junho de 2022.",
-        "sixthParagraph": "“Unidos por trás de uma causa comum para acabar com pandemias, nossa energia é imparável à medida que trabalhamos além fronteiras para o bem comum.” - Amil Khanzada",
-        "Amil-Publications": "Publicações do Amil",
+        "fivethParagraph": "Through Amil’s strong technical background, resolve to give back, and outstanding leadership, combined with the tens of thousands of hours contributed by volunteers and firms, Virufy has grown to operate in a dozen countries with more than 200 volunteers and 30 partner organizations, including Amazon Web Services, Stanford COVID-19 Response Innovation Lab, and Pillsbury Winthrop Shaw Pittman Law as of June 2022.",
+        "sixthParagraph": "“United behind a common cause to end pandemics, our energy is unstoppable as we work across borders for the common good.” - Amil Khanzada",
+        "Amil-Publications": "Amil’s Publications",
         "fifthParagraph": {
-          "one": "2022. Usando Aprendizado Profundo com Grandes Conjuntos de Dados Agregados para Classificação COVID-19 a partir da Tosse. arXiv: 2201.01669 ",
-          "two": "2021. Usando uma nova calculadora COVID-19 para medir o impacto socioeconômico positivo dos EUA de uma solução de pré-triagem COVID-19 (AI/ML). arXiv: 2201.11109",
+          "one": "2022. Using Deep Learning with Large Aggregated Datasets for COVID-19 Classification from Cough. arXiv: 2201.01669 ",
+          "two": "2021. Using a Novel COVID-19 Calculator to Measure Positive U.S. Socio-Economic Impact of a COVID-19 Pre-Screening Solution (AI/ML). arXiv: 2201.11109",
           "three": "2020. Virufy: Global Applicability of AI Detection for COVID-19 from Cough Recordings. arXiv: 2011.13320",
-          "four": "2020. Fusical: Fusão Multimodal para Vídeo Sentimento. ACM ICMI; DOI: 3382507.3417966",
-          "five": "2020. Reconhecimento de Expressão Facial com Aprendizagem Profunda. arXiv: 2004.11823"
+          "four": "2020. Fusical: Multimodal Fusion for Video Sentiment. ACM ICMI; DOI: 3382507.3417966",
+          "five": "2020. Facial Expression Recognition with Deep Learning. arXiv: 2004.11823"
         }
       }
     },
     "teamSection": {
       "title-ourpeople": "About / Our People",
-      "weUnite": "Unimos pessoas de todo o mundo por uma única causa",
-      "header": "Nossas pessoas",
+      "weUnite": "Unimo-nos de diferentes partes do mundo por uma única causa",
+      "header": "Nossa gente",
       "teamLeadText": "Líderes de equipe",
       "advisorText": "Consultores",
       "oyw": "One Young World",
@@ -1082,18 +1073,18 @@
         },
         "kara": {
           "name": "Kara Meister, M.D.",
-          "description": "Professora Assistente Clínica de Otorrinolaringologia\nEscola de Medicina de Stanford",
-          "title": "Conselheira Clínica"
+          "description": "Clinical Assistant Professor of ENT\nStanford School of Medicine",
+          "title": "Clinical Advisor"
         },
         "jure": {
           "name": "Dr. Jure Leskovec",
-          "description": "Cientista Chefe - Pinterest\nProfessor Associado de IA - Stanford",
-          "title": "Consultor de Inteligência Artificial"
+          "description": "Chief Scientist - Pinterest\nAssociate Professor of AI - Stanford",
+          "title": "Artificial Intelligence Advisor"
         },
         "melissa": {
           "name": "Melissa Dyrdahl",
-          "description": "Ex-CMO - Adobe\nMembro do Conselho - CommonSpirit Health",
-          "title": "Assessora Executiva de Marketing"
+          "description": "Former CMO - Adobe\nBoard Member - CommonSpirit Health",
+          "title": "Executive Marketing Advisor"
         },
         "hugo": {
           "name": "Hugo Estrada",
@@ -1102,73 +1093,73 @@
         },
         "anais": {
           "name": "Anaïs Rameau, M.D.",
-          "description": "Professora Assistente de Otorrinolaringologia - Cornell University\nDoutora em Medicina - Universidade McGill",
-          "title": "Consultora Clínica"
+          "description": "Assistant Professor of ENT - Cornell University\nDoctor of Medicine - McGill University",
+          "title": "Clinical Advisor"
         },
         "madhav": {
           "name": "Madhav Datt",
-          "description": "Fundador - Green the Gene\nEx-Representante Global para a Juventude - UN EP",
-          "title": "Conselheiro Executivo Sem Fins Lucrativos"
+          "description": "Founder - Green the Gene\nFormer Global Representative for Youth - UN EP",
+          "title": "Executive Nonprofit Advisor"
         },
         "rafi": {
           "name": "Rafi Azim-Khan",
-          "description": "Parceiro, IP/TI e Head Data Privacy Europe\nPillsbury Winthrop Shaw Pittman LLP",
-          "title": "Assessor Jurídico Executivo"
+          "description": "Partner, IP/IT & Head Data Privacy Europe\nPillsbury Winthrop Shaw Pittman LLP",
+          "title": "Executive Legal Advisor"
         },
         "richardswart": {
           "name": "Richard Swartzbaugh",
-          "description": "Gestão de Riscos - Curaesoft\nJ.D. - Universidade de Iowa",
-          "title": "Assessor Executivo"
+          "description": "Risk Management - Curaesoft\nJ.D. - University of Iowa",
+          "title": "Executive Advisor"
         },
         "ronan": {
           "name": "Ronan Dunlop",
-          "description": "Head de Marketing - Pivotal/VMWare\nVP de Marketing - Cohuman",
-          "title": "Assessor Executivo de Marketing"
+          "description": "Form Head of Marketing - Pivotal/VMWare\nVP of Marketing - Cohuman",
+          "title": "Executive Marketing Advisor"
         },
         "richard": {
           "name": "Richard Nall",
-          "description": "CEO - The Brand Garden\nMestrado em Liderança Organizacional - Henley",
-          "title": "Consultor de Marketing"
+          "description": "CEO - The Brand Garden\nMaster's Organisational Leadership - Henley",
+          "title": "Marketing Advisor"
         },
         "mark.haseltine": {
           "name": "Mark Haseltine",
-          "description": "Ex-CTO/CPO - edX\nEx-aluno de Ciência da Computação - MIT",
-          "title": "Consultor Executivo"
+          "description": "Former CTO/CPO - edX\nComputer Science alumnus - MIT",
+          "title": "Executive Advisor"
         },
         "matt": {
           "name": "Matt Prusak",
-          "description": "Diretor de Negócios - Curativo\nMBA - Stanford Graduate School of Business",
-          "title": "Consultor Executivo"
+          "description": "Chief Business Officer - Curative\nMBA - Stanford Graduate School of Business",
+          "title": "Executive Advisor"
         },
         "mathijs": {
           "name": "Mathijs De Vaan",
-          "description": "Gestão de Organizações\nDoutorado em Sociologia - Columbia University",
-          "title": "Professor Assistente - UC Berkeley Haas Business School"
+          "description": "Management of Organizations\nPhD Sociology - Columbia University",
+          "title": "Assistant Professor - UC Berkeley Haas Business School"
         },
         "pedro": {
           "name": "Pedro Siena",
-          "description": "Fundador e CEO - Siena Company\nMentor - Stanford Lean Launchpad",
-          "title": "Consultor Executivo Brasil"
+          "description": "Founder and CEO - Siena Company\nMentor - Stanford Lean Launchpad",
+          "title": "Brazil Executive Advisor"
         },
         "victor": {
           "name": "Victor Wang",
-          "description": "Fundador e Presidente do Silicon Valley da China\nMBA - Stanford Graduate School of Business",
-          "title": "Consultor Executivo"
+          "description": "Founder and Chairman- China Silicon Valley\nMBA - Stanford Graduate School of Business",
+          "title": "Executive Advisor"
         },
         "rok": {
           "name": "Rok Sosic",
-          "description": "Engenheiro de Pesquisa Sênior\nEscola de Engenharia de Stanford",
-          "title": "Consultor de Inteligência Artificial"
+          "description": "Senior Research Engineer\nStanford School of Engineering",
+          "title": "Artificial Intelligence Advisor"
         },
         "taisuke": {
           "name": "Taisuke Fukuno",
-          "description": "Fundador - Open Data Japan\nChairman - jig.jp",
-          "title": "Consultor Executivo de TI"
+          "description": "Founder - Open Data Japan\nChairman - jig.jp",
+          "title": "Executive IT Advisor"
         },
         "tsutomu": {
           "name": "Tsutomu Ito",
-          "description": "Fundador - Rádio Tannan FM\nArquiteto líder, trem bala",
-          "title": "Assessor Visionário Executivo"
+          "description": "Founder - Tannan FM Radio\nLead Architect, Bullet Train",
+          "title": "Executive Visionary Advisor"
         },
         "alfonso": {
           "name": "Alfonso Assaf",
@@ -1177,50 +1168,40 @@
         },
         "khwaja": {
           "name": "Khwaja Shaik",
-          "description": "MOSH, Vice-Presidente, Membro do Conselho\nMembro do Conselho - University of North Florida Computing",
-          "title": "Diretor de Tecnologia - IBM"
+          "description": "MOSH, Vice Chair, Board Member\nBoard Member - University of North Florida Computing",
+          "title": "Chief Technology Officer - IBM"
         },
         "george": {
           "name": "George Pegelow",
-          "description": "Professor de Artes Marciais e Filosofia - Universidade de Stanford",
-          "title": "Assessor Visionário Executivo"
+          "description": "Martial Arts & Philosophy Professor - Stanford University",
+          "title": "Executive Visionary Advisor"
         },
         "rich": {
           "name": "Rich Walcoff",
-          "description": "Diretor de Esportes - Rádio KGO",
-          "title": "Assessor de Comunicação"
+          "description": "Sports Director - KGO Radio",
+          "title": "Communications Advisor"
         },
         "mansoor": {
           "name": "Mansoor Ahmed",
-          "description": "Fundador e CEO - Centro de Pesquisa do Sono de Cleveland\nMBBS - Universidade Médica King Edward",
-          "title": "Assessor de Pesquisa Clínica"
+          "description": "Founder & CEO - Cleveland Sleep Research Center\nMBBS - King Edward Medical University",
+          "title": "Clinical Research Advisor"
         },
         "mert": {
           "name": "Mert Pilanci",
-          "description": "Professor Assistente de IA na Universidade de Stanford de Engenharia Elétrica",
-          "title": "Consultor de Inteligência Artificial "
-        },
-        "manuj": {
-          "name": "Manuj Aggarwal ",
-          "description": "Chief Innovation Officer - TetraNoodle Technologies",
-          "title": "Executive AI, Strategy And Marketing Advisor"
-        },
-        "atlas": {
-          "name": "Dr. Les Atlas",
-          "description": "Professor of Electrical and Computer Engineering - University of Washington\nPh.D. Electrical Engineering, Stanford",
-          "title": "Audio and Machine Learning Advisor"
+          "description": "Assistant Professor of AI Stanford University Electrical Engineering",
+          "title": "Artificial Intelligence Advisor"
         }
       }
     },
     "valuesSection": {
       "meta": "Pessoas de todo o mundo uniram forças para construir o Virufy, uma pré-triagem de COVID-19 que pode ajudar a diminuir a circulação do vírus. Saiba mais.",
       "About": "Sobre Nós",
-      "OurPurpose": "Transformando a saúde do mundo, uma tosse por vez",
+      "OurPurpose": "Transformando a saúde do mundo, uma tosse de cada vez.",
       "vision": {
         "ourVision": "Nossa visão e objetivo",
-        "ourInnovative": "Nossa abordagem inovadora visa oferecer uma detecção de Covid-19 de alto nível para pacientes, médicos e governos em países de baixa renda. Almejamos ser a organização sem fins lucrativos líder em identificação de doenças através da tecnologia. A partir desse sonho, queremos transformar a saúde global e inspirar cada vez mais pessoas a apoiar e investir nesta missão conosco.",
+        "ourInnovative": "Nossa abordagem inovadora visa oferecer uma detecção de COVID de alto nível para pacientes, médicos e governos em países de baixa renda. Aspiramos ser a organização sem fins lucrativos líder em identificação de doenças através da tecnologia, transformando a saúde global e inspirando outros a apoiar e investir nessa missão conosco.",
         "ourCommitment": "Nosso compromisso com a privacidade",
-        "virufyPrivacy": "Nós da Virufy levamos a sério a sua privacidade e a proteção de suas informações pessoais. Nossa equipe jurídica preparou uma Política de Privacidade e Política de Cookies detalhada para proteger as informações pessoais que você compartilha conosco ao usar o nosso site.",
+        "virufyPrivacy": "Virufy leva a sério a privacidade e a proteção de suas informações pessoais. Nossa equipe jurídica preparou uma Política de Privacidade e Política de Cookies detalhada para proteger as informações pessoais que você compartilha conosco através do uso de nosso site",
         "buttonHelpUs": "Nossa Pesquisa"
       },
       "values": {
@@ -1252,7 +1233,7 @@
       },
       "ourStory": {
         "title": "Nossa História",
-        "description": "Quando a pandemia da Covid-19 começou, o fundador da Virufy, Amil Khanzada, sabia que os smartphones eram onipresentes e que essa doença afetava o nariz, a garganta e os pulmões. Ele levantou a hipótese de que os sons da respiração e da tosse poderiam ser analisados ​​com aprendizado de máquina para detectar os padrões da Covid-19. A fim de causar um impacto positivo, ele iniciou um estudo clínico com 362 pacientes em um conceituado hospital universitário. A equipe original da Virufy começou com estudantes de inteligência artificial de Stanford e se expandiu para voluntários de universidades em todo o mundo. "
+        "description": "Quando a pandemia atingiu, o fundador do Virufy, Amil Khanzada, sabia que os smartphones eram onipresentes e que o COVID afetava o nariz, a garganta e os pulmões. Ele levantou a hipótese de que os sons da respiração e da tosse poderiam ser analisados ​​com aprendizado de máquina para detectar os padrões do COVID. Querendo causar um impacto positivo, ele orquestrou um estudo clínico com 362 pacientes em um conceituado hospital universitário. A equipe original de Virufy, começando com estudantes de IA de Stanford, expandiu-se para voluntários de universidades em todo o mundo. "
       },
       "section4": {
         "header": "Nossos apoiadores",
