@@ -154,6 +154,20 @@ export default function PrivacyPolicy({ data }) {
             </a>
           </p>
           <h4 className="font-bold mt-6">
+            {intl.formatMessage({ id: "privacy_policy.countries.ja" })}
+          </h4>
+          <p>
+            <a
+              className="text-black underline"
+              target="_blank"
+              href="https://drive.google.com/file/d/11RTMmnHW4SqHNf7htr3xuSi-o2v2vWlp/view"
+            >
+              {intl.formatMessage({
+                id: "privacy_policy.countries.ja_policy",
+              })}
+            </a>
+          </p>
+          <h4 className="font-bold mt-6">
             {intl.formatMessage({ id: "privacy_policy.countries.other" })}
           </h4>
           <p>
