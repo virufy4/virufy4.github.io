@@ -342,7 +342,7 @@
     "navigate": "",
     "get": "お問い合わせ",
     "CodeofConduct": "行動規範",
-    "about": "約",
+    "about": "詳細",
     "ourtech": "私たちのテクノロジー",
     "opportunities": "機会",
     "faqs": "よくある質問",
@@ -708,98 +708,98 @@
       "header": "Our OYW x Virufy Community",
       "ambassador-list": {
         "amil": {
-          "name": "Amil Khanzada",
-          "descriptionOYW": "OYW Ambassador, Japan",
-          "descriptionVirufy": "Virufy Founder & Leader"
+          "name": "アミル・カンザダ",
+          "descriptionOYW": "OYM 日本大使",
+          "descriptionVirufy": "Virufy 創業者兼代表"
         },
         "madhav": {
-          "name": "Madhav Datt",
-          "descriptionOYW": "OYW Ambassador, India",
-          "descriptionVirufy": "Virufy Advisor"
+          "name": "マダヴ・ダット",
+          "descriptionOYW": "OYM インド大使",
+          "descriptionVirufy": "Virufy アドバイザー"
         },
         "marcos": {
-          "name": "Marcos Deza",
-          "descriptionOYW": "OYW Ambassador, Argentina",
-          "descriptionVirufy": "Virufy Digital Communications"
+          "name": "マルコス・デザ",
+          "descriptionOYW": "OYM アルゼンチン大使",
+          "descriptionVirufy": "Virufy デジタルコミュニケーション"
         },
         "yulie": {
-          "name": "Yulie Qiao",
-          "descriptionOYW": "2021 OYW bp Delegate, USA",
-          "descriptionVirufy": "Virufy Operations"
+          "name": "ユリ・チャオ",
+          "descriptionOYW": "2021年OYW bp代表 -米国",
+          "descriptionVirufy": "Virufy オペレーション"
         },
         "ayomide": {
-          "name": "Ayomide Owoyemi, MD",
-          "descriptionOYW": "2021 OYW Novartis Delegate, Nigeria",
-          "descriptionVirufy": "Virufy Machine Learning Clinical Statistics"
+          "name": "アヨミデ・オウォエミ医学博士",
+          "descriptionOYW": "2021 OYW ノバルティス代表（ナイジェリア）",
+          "descriptionVirufy": "Virufy 機械学習・臨床統計"
         },
         "shreya": {
-          "name": "Shreya Sreeram, MD",
-          "descriptionOYW": "2021 Virufy Delegate, India",
-          "descriptionVirufy": "Virufy Clinical Research"
+          "name": "シュレーヤ・スリーラム医学博士",
+          "descriptionOYW": "2021年 Virufyインド代表",
+          "descriptionVirufy": "Virufy 臨床研究"
         },
         "lauravelasquezh": {
-          "name": "Laura Velasquez",
-          "descriptionOYW": "2021 OYW Johnson & Johnson Delegate, Colombia",
-          "descriptionVirufy": "Arkangel AI Co-founder and President & Virufy Partner"
+          "name": "ローラ・ヴェラスケス",
+          "descriptionOYW": "2021 OYW ジョンソン・エンド・ジョンソン 代表（コロンビア）",
+          "descriptionVirufy": "Arkangel AI 共同創業者兼社長 & Virufy パートナー"
         },
         "nathan": {
-          "name": "Nathan Thomas",
-          "descriptionOYW": "OYW Coordinating Ambassador, USA",
+          "name": "ネイサン・トーマス",
+          "descriptionOYW": "OYWコーディネート・アンバサダー （米国）",
           "descriptionVirufy": " "
         },
         "jason": {
-          "name": "Jason Pareja Jauregui",
-          "descriptionOYW": "OYW Coordinating Ambassador LATAM, Peru",
+          "name": "ジェイソン・パレハ・ハウレギ",
+          "descriptionOYW": "OYWコーディネート・アンバサダー（ペルー）",
           "descriptionVirufy": " "
         },
         "katherine": {
-          "name": "Katherine Thalia Ortiz León",
-          "descriptionOYW": "OYW Ambassador, Peru",
+          "name": "キャサリン・タリア・オルティス・レオン",
+          "descriptionOYW": "OYWペルー大使",
           "descriptionVirufy": " "
         },
         "gonzalo": {
-          "name": "Gonzalo Roiffe",
-          "descriptionOYW": "OYW Ambassador, Argentina",
+          "name": "ゴンザロ・ロイフェ",
+          "descriptionOYW": "OYWアルゼンチン大使",
           "descriptionVirufy": " "
         },
         "annelisse": {
-          "name": "Annelisse Torrez Daza",
-          "descriptionOYW": "OYW Ambassador, Bolivia",
+          "name": "アンネリーゼ・トーレス・ダーサ",
+          "descriptionOYW": "OYWボリビア大使",
           "descriptionVirufy": " "
         },
         "veronica": {
-          "name": "Verónica Guzmán Quilaqueo",
-          "descriptionOYW": "OYW Ambassador, Chile",
+          "name": "ベロニカ・グズマン・クィラクエオ",
+          "descriptionOYW": "OYWチリ大使",
           "descriptionVirufy": " "
         },
         "sebastian": {
-          "name": "Sebastian Pedraza",
-          "descriptionOYW": "OYW Ambassador, Colombia",
+          "name": "セバスチャン・ペドラサ",
+          "descriptionOYW": "OYWコロンビア大使",
           "descriptionVirufy": " "
         },
         "kenmaru": {
-          "name": "Kenmaru Suedomi",
-          "descriptionOYW": "OYW Ambassador, Japan",
+          "name": "末冨健丸",
+          "descriptionOYW": "OYW日本大使",
           "descriptionVirufy": " "
         },
         "kapil": {
-          "name": "Kapil Narain, MD",
-          "descriptionOYW": "OYW Ambassador, South Africa",
+          "name": "カピル・ナライン医学博士",
+          "descriptionOYW": "OYW南アフリカ大使",
           "descriptionVirufy": " "
         },
         "leonard": {
-          "name": "Leonard Burhz",
-          "descriptionOYW": "OYW Ambassador, Ireland",
+          "name": "レオナルド・バーズ",
+          "descriptionOYW": "OYWアイルランド大使",
           "descriptionVirufy": " "
         },
         "allana": {
-          "name": "Allana Doyle",
-          "descriptionOYW": "Embajador OYW, EE.UU",
+          "name": "アレーナ・ドイル",
+          "descriptionOYW": "OYW米国大使",
           "descriptionVirufy": " "
         },
         "kavya": {
-          "name": "Kavya Madhavan",
-          "descriptionOYW": "Embajador OYW, EE.UU",
+          "name": "カブヤ・マドハバン",
+          "descriptionOYW": "OYW米国大使",
           "descriptionVirufy": " "
         }
       }
@@ -837,9 +837,9 @@
       },
       "section6": {
         "date": "20221年1月",
-        "title": "Covid 19 Calculator -- Positive U.S. Socio-Economic Impact",
+        "title": "Covid 19 計算機 -- 米国の社会・経済にもたらす好影響",
         "readMoreLink": "さらに読む...",
-        "calculatorLink": "Calculator"
+        "calculatorLink": "計算機"
       }
     }
   },
@@ -873,7 +873,7 @@
   },
   "team": {
     "meta": "Whoever and wherever you are you may be able to join Virufy project and help create an AI driven online COVID-19 test. Make a difference today.",
-    "title": "Read Amil’s Story",
+    "title": "アミルについて",
     "supportersSection": {
       "header": "About/サポーター紹介",
       "description": "数々の企業や団体が、その豊富な知識で私たちをサポートし、私たちの活動に安心と確実性を与えてくれるのです。",
@@ -881,16 +881,16 @@
       "buttonSupporter": "サポーターになる"
     },
     "ourFounder": {
-      "subtitleOurFounder": "Meet Our Founder",
+      "subtitleOurFounder": "創業者",
       "title-advisors": "アドバイザー",
       "amil": {
-        "name": "Amil Khanzada",
+        "name": "アミル・カンザダ",
         "email": "amil@berkeley.edu",
-        "description1": "MBA Candidate, Haas School of Business \nMaster of Engineering Candidate, \nDepartment of Electrical Engineering and \nComputer Sciences",
+        "description1": "HaasビジネススクールMBA課程、電気工学・コンピュータサイエンス学科修士課程在学中 ",
         "description2": "University of California, Berkeley 253 Cory Hall, Berkeley, CA",
         "title": "Founder & President"
       },
-      "titleAmilStory": "Amil’s Story",
+      "titleAmilStory": "アミルのストーリー",
       "amilStory": {
         "firstParagraph": {
           "one": "Virufy was formed in March 2020, when Amil committed himself to combat the pandemic and garnered the support of top-tier domain experts globally, aligned under the common mission: To stop COVID-19 in support of the public good.",
@@ -1093,19 +1093,19 @@
           "title": "Founder & President"
         },
         "kara": {
-          "name": "Kara Meister, M.D.",
-          "description": "Clinical Assistant Professor of ENT\nStanford School of Medicine",
-          "title": "Clinical Advisor"
+          "name": "カーラ・マイスター医学博士",
+          "description": "スタンフォード医科大学\n耳鼻咽喉科臨床助教授",
+          "title": "クリニカル・アドバイザー"
         },
         "jure": {
-          "name": "Dr. Jure Leskovec",
-          "description": "Chief Scientist - Pinterest\nAssociate Professor of AI - Stanford",
-          "title": "Artificial Intelligence Advisor"
+          "name": "ユレ・レスコベック博士",
+          "description": "Pinterest チーフサイエンティスト\nスタンフォード大学 AI准教授",
+          "title": "人工知能アドバイザー"
         },
         "melissa": {
-          "name": "Melissa Dyrdahl",
-          "description": "Former CMO - Adobe\nBoard Member - CommonSpirit Health",
-          "title": "Executive Marketing Advisor"
+          "name": "メリッサ・ディルダール",
+          "description": "Adobe 元CMO\nCommonSpirit Health 取締役",
+          "title": "エグゼクティブ・マーケティング・アドバイザー"
         },
         "hugo": {
           "name": "Hugo Estrada",
@@ -1113,39 +1113,39 @@
           "title": "Colombia Executive Outreach Advisor"
         },
         "anais": {
-          "name": "Anaïs Rameau, M.D.",
-          "description": "Assistant Professor of ENT - Cornell University\nDoctor of Medicine - McGill University",
-          "title": "Clinical Advisor"
+          "name": "アナイス・ラモー医学博士",
+          "description": "コーネル大学耳鼻咽喉科 助教授\nマギル大学 医学博士",
+          "title": "クリニカル・アドバイザー"
         },
         "madhav": {
-          "name": "Madhav Datt",
-          "description": "Founder - Green the Gene\nFormer Global Representative for Youth - UN EP",
-          "title": "Executive Nonprofit Advisor"
+          "name": "マダヴ・ダット",
+          "description": "Green the Gene 創設者\n国連EP 元ユース世界代表",
+          "title": "エグゼクティブ・NPOアドバイザー"
         },
         "rafi": {
-          "name": "Rafi Azim-Khan",
-          "description": "Partner, IP/IT & Head Data Privacy Europe\nPillsbury Winthrop Shaw Pittman LLP",
-          "title": "Executive Legal Advisor"
+          "name": "ラフィ・アジム=カーン",
+          "description": "IP/IT パートナー兼\nデータプライバシー ヨーロッパ統括\nPillsbury Winthrop Shaw Pittman LLP",
+          "title": "エグゼクティブ・法務アドバイザー"
         },
         "richardswart": {
-          "name": "Richard Swartzbaugh",
-          "description": "Risk Management - Curaesoft\nJ.D. - University of Iowa",
-          "title": "Executive Advisor"
+          "name": "リチャード・スウォーツボー",
+          "description": "Curaesoft リスクマネジメント\nアイオワ大学 法務博士",
+          "title": "エグゼクティブ・アドバイザー"
         },
         "ronan": {
-          "name": "Ronan Dunlop",
-          "description": "Form Head of Marketing - Pivotal/VMWare\nVP of Marketing - Cohuman",
-          "title": "Executive Marketing Advisor"
+          "name": "ローナン・ダンロップ",
+          "description": "Pivotal/VMWare 前マーケティング統括\nCohuman マーケティング部門責任者",
+          "title": "エグゼクティブ・マーケティング・\nアドバイザー"
         },
         "richard": {
-          "name": "Richard Nall",
-          "description": "CEO - The Brand Garden\nMaster's Organisational Leadership - Henley",
-          "title": "Marketing Advisor"
+          "name": "リチャード・ノール",
+          "description": "The Brand Garden - CEO\nHenleyビジネススクール - 組織リーダーシップ修士号",
+          "title": "マーケティングアドバイザー"
         },
         "mark.haseltine": {
-          "name": "Mark Haseltine",
-          "description": "Former CTO/CPO - edX\nComputer Science alumnus - MIT",
-          "title": "Executive Advisor"
+          "name": "マーク・ハーゼルティン",
+          "description": "edX 元CTO/CPO\nMITコンピュータサイエンス卒業生",
+          "title": "エグゼクティブ・アドバイザー"
         },
         "matt": {
           "name": "Matt Prusak",
@@ -1153,34 +1153,34 @@
           "title": "Executive Advisor"
         },
         "mathijs": {
-          "name": "Mathijs De Vaan",
-          "description": "Management of Organizations\nPhD Sociology - Columbia University",
-          "title": "Assistant Professor - UC Berkeley Haas Business School"
+          "name": "マティス・デ・ヴァーン",
+          "description": "組織マネジメント\nコロンビア大学社会学博士号",
+          "title": "カリフォルニア大学バークレー校Haasビジネススクール 助教授"
         },
         "pedro": {
-          "name": "Pedro Siena",
-          "description": "Founder and CEO - Siena Company\nMentor - Stanford Lean Launchpad",
-          "title": "Brazil Executive Advisor"
+          "name": "ペドロ・シエナ",
+          "description": "シエナカンパニー - 創業者兼CEO\nスタンフォード・リーン・ローンチパッドメンター",
+          "title": "ブラジル エグゼクティブアドバイザー"
         },
         "victor": {
-          "name": "Victor Wang",
-          "description": "Founder and Chairman- China Silicon Valley\nMBA - Stanford Graduate School of Business",
-          "title": "Executive Advisor"
+          "name": "ビクター・ワン",
+          "description": "China Silicon Valley 創業者兼会長\nスタンフォード大学院 MBA修了",
+          "title": "エグゼクティブ・アドバイザー"
         },
         "rok": {
-          "name": "Rok Sosic",
-          "description": "Senior Research Engineer\nStanford School of Engineering",
-          "title": "Artificial Intelligence Advisor"
+          "name": "ロク・ソシッチ",
+          "description": "シニアリサーチエンジニア\nスタンフォード大学工学部",
+          "title": "人工知能アドバイザー"
         },
         "taisuke": {
-          "name": "Taisuke Fukuno",
-          "description": "Founder - Open Data Japan\nChairman - jig.jp",
-          "title": "Executive IT Advisor"
+          "name": "福野 泰介",
+          "description": "オープンデータ・ジャパン 創業者\nJig.jp - 会長",
+          "title": "エグゼクティブITアドバイザー"
         },
         "tsutomu": {
-          "name": "Tsutomu Ito",
-          "description": "Founder - Tannan FM Radio\nLead Architect, Bullet Train",
-          "title": "Executive Visionary Advisor"
+          "name": "伊東勤",
+          "description": "タンナンFMラジオ創設者\n東海道新幹線保守設計",
+          "title": "エグゼクティブ・ビジョナリー・アドバイザー"
         },
         "alfonso": {
           "name": "Alfonso Assaf",
@@ -1188,39 +1188,39 @@
           "title": "Global Outreach Manager"
         },
         "khwaja": {
-          "name": "Khwaja Shaik",
-          "description": "Advisory Council Member - Harvard Business Review\nResearch Council Thought Leader - Gartner",
-          "title": "Chief Technology Officer - IBM"
+          "name": "クワジャ・シェイク",
+          "description": "ハーバード・ビジネス・レビュー - 顧問委員会メンバー\nGartner 研究評議会ソートリーダー",
+          "title": "IBM - チーフ・テクノロジー・オフィサー"
         },
         "george": {
-          "name": "George Pegelow",
-          "description": "Martial Arts & Philosophy Professor - Stanford University",
-          "title": "Executive Visionary Advisor"
+          "name": "ジョージ・ペゲロー",
+          "description": "スタンフォード大学 武道哲学科教授",
+          "title": "エグゼクティブ・ビジョナリー・アドバイザー"
         },
         "rich": {
-          "name": "Rich Walcoff",
-          "description": "Sports Director - KGO Radio",
-          "title": "Communications Advisor"
+          "name": "リッチ・ウォルコフ",
+          "description": "KGOラジオ - スポーツディレクター",
+          "title": "コミュニケーション・アドバイザー"
         },
         "mansoor": {
-          "name": "Mansoor Ahmed",
-          "description": "Founder & CEO - Cleveland Sleep Research Center\nMBBS - King Edward Medical University",
-          "title": "Clinical Research Advisor"
+          "name": "マンスール・アハメド",
+          "description": "Cleveland睡眠研究センター 創設者兼CEO\nキング・エドワード医科大学 - 医学学士、外科学士",
+          "title": "クリニカルリサーチアドバイザー"
         },
         "mert": {
-          "name": "Mert Pilanci",
-          "description": "Assistant Professor of AI Stanford University Electrical Engineering",
-          "title": "Artificial Intelligence Advisor"
+          "name": "マート・ピランチ",
+          "description": "スタンフォード大学電気工学部AI学科助教授",
+          "title": "人工知能アドバイザー"
         },
         "manuj": {
-          "name": "Manuj Aggarwal ",
-          "description": "Chief Innovation Officer - TetraNoodle Technologies",
-          "title": "Executive AI, Strategy And Marketing Advisor"
+          "name": "マヌジ・アガーワル",
+          "description": "TetraNoodle Technologies - チーフ・イノベーション・オフィサー",
+          "title": "エグゼクティブAI、戦略・マーケティングアドバイザー"
         },
         "atlas": {
-          "name": "Dr. Les Atlas",
-          "description": "Professor of Electrical and Computer Engineering - University of Washington\nPh.D. Electrical Engineering, Stanford",
-          "title": "Audio and Machine Learning Advisor"
+          "name": "レス・アトラス博士",
+          "description": "ワシントン大学 電気・コンピュータ工学科 教授\nスタンフォード大学電気工学博士号",
+          "title": "オーディオ・機械学習アドバイザー"
         }
       }
     },
