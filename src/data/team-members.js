@@ -269,12 +269,6 @@ export const advisors = [
     imageName: "richard",
   },
   {
-    mediaLink: "https://www.linkedin.com/in/matthewprusak/",
-    id: "matt",
-    defaultName: "Matt Prusak",
-    imageName: "matt",
-  },
-  {
     mediaLink: "https://haas.berkeley.edu/faculty/de-vaan-mathijs/",
     id: "mathijs",
     defaultName: "Mathijs De Vaan",
