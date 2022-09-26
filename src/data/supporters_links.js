@@ -20,6 +20,7 @@ export default {
   nuevaEPS: "https://www.nuevaeps.com.co/",
   spi: "https://spiamericas.com/en/home/",
   idimi: "https://idime.com.co/",
+  cj: "https://www.cj-partners.com/",
   serviceBots: "https://www.servicebots.net/sas.html",
   lockedJar: "https://www.lockedjar.com/",
   Cleveland: "https://clevelandibnsina.com/",

@@ -222,7 +222,7 @@ export default function Supporters() {
                   style={{ flex: "0 1 20%" }}
                   className="md:min-w-250 md:p-14 max-w-full"
                 >
-                  <a href={supporter_links.idimi} target="_blank">
+                  <a href={supporter_links.cj} target="_blank">
                     <GatsbyImage
                       imgStyle={{ objectFit: "contain" }}
                       className="h-full max-h-24"
