@@ -435,7 +435,7 @@
     "title": "Desenvolvendo um teste de COVID online com IA | Virufy",
     "section1": {
       "header": "Um teste de Covid-19 online é possível",
-      "pg": "Virufy é uma organização de pesquisa sem fins lucrativos que desenvolve tecnologia de inteligência artificial (IA) para detectar COVID-19 a partir de padrões da tosse por meio do uso de um smartphone, de maneira rápida e sem nenhum custo.",
+      "pg": "Virufy é uma organização de pesquisa sem fins lucrativos que desenvolve tecnologia com inteligência artificial para detectar a Covid-19 a partir da tosse. Por meio de um smartphone, será possível fazer um teste online de Covid-19 rapidamente e sem sair de casa.",
       "coughLink": "CONTRIBUA O SEU TOSSE",
       "donateLink": "Doe sua tosse agora",
       "donateLinkResponsive": "Doe agora",
@@ -444,7 +444,7 @@
     },
     "section2": {
       "header": "Acreditamos que juntos podemos ajudar a melhorar o mundo",
-      "pg1": "Pessoas em todo o mundo apóiam e trabalham conosco para combater esse tipo de doença, mas muitas pessoas como você também podem nos ajudar",
+      "pg1": "Pessoas em todo o mundo apoiam e trabalham conosco para combater a Covid-19. Você também pode fazer parte dessa transformação.",
       "pg2": "Não importa onde você esteja no mundo, tudo o que você precisa é de um dispositivo móvel e do aplicativo Virufy.",
       "learnMoreLink": "Saiba mais",
       "donateyourcough": "Doe sua tosse"
@@ -457,7 +457,7 @@
       "header2": "AI analisa a assinatura respiratória",
       "header3": "Número de tosses coletadas",
       "tryItOutLink": "EXPERIMENTE",
-      "description": "Virufy foi fundada em março de 2020. Hoje, Virufighters em cinco continentes estão empenhados em tornar o rastreamento de doenças em modo instantâneo e gratuito por meio da inovação em tecnologia.",
+      "description": "Virufy foi fundada em março de 2020. Hoje, Virufighters em cinco continentes estão empenhados em tornar a detecção de doenças algo rápido e gratuito com a ajuda da tecnologia.",
       "numbercollected": "100.000",
       "joincommunity": "Junte-se à nossa comunidade"
     },
@@ -611,15 +611,15 @@
       "HowIt": "Como nosso teste de Covid-19 online funciona",
       "card-one": {
         "title": "1",
-        "description": "Grave sua tosse"
+        "description": "Abra o aplicativo e grave a sua tosse"
       },
       "card-two": {
         "title": "2",
-        "description": "Análises de IA para padrões COVID"
+        "description": "A IA irá analisar se a sua tosse tem os padrões da Covid-19"
       },
       "card-three": {
         "title": "3",
-        "description": "Status de risco COVID relatado"
+        "description": "Você terá o resultado na tela do seu smartphone"
       },
       "collectedData": "Painel de Dados Coletados",
       "numberofCollected": "Número de tosses coletadas",
@@ -864,7 +864,7 @@
   },
   "team": {
     "meta": "Whoever and wherever you are you may be able to join Virufy project and help create an AI driven online COVID-19 test. Make a difference today.",
-    "title": "Read Amil’s Story",
+    "title": "Leia a história do Amil",
     "supportersSection": {
       "header": "Sobre / Nossos apoiadores",
       "description": "As empresas e organizações apoiam-nos com o seu amplo conhecimento e proporcionam-nos segurança e certeza no que fazemos.",
@@ -872,7 +872,7 @@
       "buttonSupporter": "Torne-se um apoiador"
     },
     "ourFounder": {
-      "subtitleOurFounder": "Meet Our Founder",
+      "subtitleOurFounder": "Conheça o nosso fundador",
       "title-advisors": "Advisors",
       "amil": {
         "name": "Amil Khanzada",
@@ -908,8 +908,8 @@
     },
     "teamSection": {
       "title-ourpeople": "About / Our People",
-      "weUnite": "Unimo-nos de diferentes partes do mundo por uma única causa",
-      "header": "Nossa gente",
+      "weUnite": "Unimos pessoas de todo o mundo por uma única causa",
+      "header": "Nossas pessoas",
       "teamLeadText": "Líderes de equipe",
       "advisorText": "Consultores",
       "oyw": "One Young World",
@@ -1120,8 +1120,8 @@
         },
         "richard": {
           "name": "Richard Nall",
-          "description": "CEO - The Brand Garden\nMaster's Organisational Leadership - Henley",
-          "title": "Marketing Advisor"
+          "description": "CEO - The Brand Garden\nMestrado em Liderança Organizacional - Henley",
+          "title": "Consultor de Marketing"
         },
         "mark.haseltine": {
           "name": "Mark Haseltine",
@@ -1130,13 +1130,13 @@
         },
         "mathijs": {
           "name": "Mathijs De Vaan",
-          "description": "Management of Organizations\nPhD Sociology - Columbia University",
-          "title": "Assistant Professor - UC Berkeley Haas Business School"
+          "description": "Gestão de Organizações\nDoutorado em Sociologia - Columbia University",
+          "title": "Professor Assistente - UC Berkeley Haas Business School"
         },
         "pedro": {
           "name": "Pedro Siena",
-          "description": "Founder and CEO - Siena Company\nMentor - Stanford Lean Launchpad",
-          "title": "Brazil Executive Advisor"
+          "description": "Fundador e CEO - Siena Company\nMentor - Stanford Lean Launchpad",
+          "title": "Consultor Executivo Brasil"
         },
         "victor": {
           "name": "Victor Wang",
@@ -1150,13 +1150,13 @@
         },
         "taisuke": {
           "name": "Taisuke Fukuno",
-          "description": "Founder - Open Data Japan\nChairman - jig.jp",
-          "title": "Executive IT Advisor"
+          "description": "Fundador - Open Data Japan\nChairman - jig.jp",
+          "title": "Consultor Executivo de TI"
         },
         "tsutomu": {
           "name": "Tsutomu Ito",
-          "description": "Founder - Tannan FM Radio\nLead Architect, Bullet Train",
-          "title": "Executive Visionary Advisor"
+          "description": "Fundador - Rádio Tannan FM\nArquiteto líder, trem bala",
+          "title": "Assessor Visionário Executivo"
         },
         "alfonso": {
           "name": "Alfonso Assaf",
@@ -1165,13 +1165,13 @@
         },
         "khwaja": {
           "name": "Khwaja Shaik",
-          "description": "MOSH, Vice Chair, Board Member\nBoard Member - University of North Florida Computing",
-          "title": "Chief Technology Officer - IBM"
+          "description": "MOSH, Vice-Presidente, Membro do Conselho\nMembro do Conselho - University of North Florida Computing",
+          "title": "Diretor de Tecnologia - IBM"
         },
         "george": {
           "name": "George Pegelow",
-          "description": "Martial Arts & Philosophy Professor - Stanford University",
-          "title": "Executive Visionary Advisor"
+          "description": "Professor de Artes Marciais e Filosofia - Universidade de Stanford",
+          "title": "Assessor Visionário Executivo"
         },
         "rich": {
           "name": "Rich Walcoff",
@@ -1206,9 +1206,9 @@
       "OurPurpose": "Transformando a saúde do mundo, uma tosse de cada vez.",
       "vision": {
         "ourVision": "Nossa visão e objetivo",
-        "ourInnovative": "Nossa abordagem inovadora visa oferecer uma detecção de COVID de alto nível para pacientes, médicos e governos em países de baixa renda. Aspiramos ser a organização sem fins lucrativos líder em identificação de doenças através da tecnologia, transformando a saúde global e inspirando outros a apoiar e investir nessa missão conosco.",
+        "ourInnovative": "Nossa abordagem inovadora visa oferecer uma detecção de Covid-19 de alto nível para pacientes, médicos e governos em países de baixa renda. Almejamos ser a organização sem fins lucrativos líder em identificação de doenças através da tecnologia. A partir desse sonho, queremos transformar a saúde global e inspirar cada vez mais pessoas a apoiar e investir nesta missão conosco.",
         "ourCommitment": "Nosso compromisso com a privacidade",
-        "virufyPrivacy": "Virufy leva a sério a privacidade e a proteção de suas informações pessoais. Nossa equipe jurídica preparou uma Política de Privacidade e Política de Cookies detalhada para proteger as informações pessoais que você compartilha conosco através do uso de nosso site",
+        "virufyPrivacy": "Nós da Virufy levamos a sério a sua privacidade e a proteção de suas informações pessoais. Nossa equipe jurídica preparou uma Política de Privacidade e Política de Cookies detalhada para proteger as informações pessoais que você compartilha conosco ao usar o nosso site.",
         "buttonHelpUs": "Nossa Pesquisa"
       },
       "values": {
@@ -1227,7 +1227,7 @@
         },
         "Affordability": {
           "title": "Acessibilidade",
-          "description": "Nosso objetivo é usar a tecnologia para tornar a prevenção e detecção de doenças gratuita para todas as pessoas ao redor do mundo"
+          "description": "Nosso objetivo é usar a tecnologia para tornar a prevenção e a detecção de doenças algo gratuito para todas as pessoas do mundo."
         },
         "Efficiency": {
           "title": "Eficiência",
@@ -1240,7 +1240,7 @@
       },
       "ourStory": {
         "title": "Nossa História",
-        "description": "Quando a pandemia atingiu, o fundador do Virufy, Amil Khanzada, sabia que os smartphones eram onipresentes e que o COVID afetava o nariz, a garganta e os pulmões. Ele levantou a hipótese de que os sons da respiração e da tosse poderiam ser analisados ​​com aprendizado de máquina para detectar os padrões do COVID. Querendo causar um impacto positivo, ele orquestrou um estudo clínico com 362 pacientes em um conceituado hospital universitário. A equipe original de Virufy, começando com estudantes de IA de Stanford, expandiu-se para voluntários de universidades em todo o mundo. "
+        "description": "Quando a pandemia da Covid-19 começou, o fundador da Virufy, Amil Khanzada, sabia que os smartphones eram onipresentes e que essa doença afetava o nariz, a garganta e os pulmões. Ele levantou a hipótese de que os sons da respiração e da tosse poderiam ser analisados ​​com aprendizado de máquina para detectar os padrões da Covid-19. A fim de causar um impacto positivo, ele iniciou um estudo clínico com 362 pacientes em um conceituado hospital universitário. A equipe original da Virufy começou com estudantes de inteligência artificial de Stanford e se expandiu para voluntários de universidades em todo o mundo. "
       },
       "section4": {
         "header": "Nossos apoiadores",
