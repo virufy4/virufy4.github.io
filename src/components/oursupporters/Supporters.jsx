@@ -331,6 +331,19 @@ export default function Supporters() {
                   style={{ flex: "0 1 20%" }}
                   className="md:min-w-250 md:p-8 max-w-full"
                 >
+                  <a href={supporter_links.dgaAbogados} target="_blank">
+                    <GatsbyImage
+                      imgStyle={{ objectFit: "contain" }}
+                      className="h-full max-h-24"
+                      fluid={images["dg&a-logo"]}
+                    />
+                  </a>
+                </div>
+
+                <div
+                  style={{ flex: "0 1 20%" }}
+                  className="md:min-w-250 md:p-8 max-w-full"
+                >
                   <a href={supporter_links.cccadv} target="_blank">
                     <GatsbyImage
                       imgStyle={{ objectFit: "contain" }}

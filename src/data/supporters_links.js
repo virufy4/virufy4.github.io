@@ -25,4 +25,5 @@ export default {
   lockedJar: "https://www.lockedjar.com/",
   Cleveland: "https://clevelandibnsina.com/",
   drive: "https://drive.hhs.gov/",
+  dgaAbogados: "https://col-law.com/home-2/",
 };
