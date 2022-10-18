@@ -240,7 +240,7 @@ export default function OurStory() {
               <a href={supporter_links.dgaAbogados} target="_blank">
                 <GatsbyImage
                   imgStyle={{ objectFit: "contain" }}
-                  className="h-full max-h-24"
+                  className="h-4/6 max-h-16"
                   fluid={images["dg&a-logo"]}
                 />
               </a>
