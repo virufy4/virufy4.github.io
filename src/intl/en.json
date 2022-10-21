@@ -353,12 +353,12 @@
     "title": "You can help control the pandemic | Virufy",
     "otherWaysContribute": {
       "title": "Other Ways To Contribute",
-      "contribute": "Contribute",
-      "collaborate": "Collaborate",
+      "contribute": "Donate",
+      "collaborate": "Join The Team",
       "tellStory": "Tell Your Story"
     },
     "joinusContibute": {
-      "title": "We need your contribution to be able to continue helping millions of people in the fight against covid",
+      "title": "We need your contribution to be able to continue helping millions of people in the fight against COVID-19",
       "details": "We have two ways to contribute – choose the one you want, and donate now.",
       "buttonDonate": "Donate"
     },
@@ -435,7 +435,7 @@
     "title": "Developing an online Covid-19 test with AI | Virufy",
     "section1": {
       "header": "An online Covid-19 test is possible",
-      "pg": "Virufy is a nonprofit research organization developing artificial intelligence (AI) technology to screen for COVID-19 from cough patterns, rapidly and at no cost through use of a smartphone.",
+      "pg": "Virufy is a nonprofit research organization developing artificial intelligence (AI) technology to rapidly screen for COVID-19 from cough patterns, through use of a smartphone at no cost.",
       "coughLink": "CONTRIBUTE YOUR COUGH",
       "donateLink": "Share your cough now",
       "donateLinkResponsive": "Donate now",
@@ -444,7 +444,7 @@
     },
     "section2": {
       "header": "We believe that together we can help improve the world",
-      "pg1": "People all over the world support and work with us to combat this type of disease, but many people like you can help us too",
+      "pg1": "We have people from all over the world who support and work with us to combat this type of disease, and many people like you can help us too!",
       "pg2": "No matter where you are in the world, all you will need is a mobile device and the Virufy app.",
       "learnMoreLink": "Learn More",
       "donateyourcough": "Share your cough"
@@ -470,7 +470,7 @@
       "supporter": "Become a Supporter"
     },
     "section5": {
-      "messagehero": "Let’s help the world and save many lives by recording your cough",
+      "messagehero": "Help us save the world and many lives by recording your cough",
       "donatebuttonhero": "Share your cough now"
     },
     "faq": {
@@ -495,7 +495,7 @@
     "ourSupporters": "Our Supporters",
     "ourTeam": "Our People",
     "aboutUs": "About Us",
-    "joinUs": "Join Us",
+    "joinUs": "Get Involved",
     "technology": "Our Technology",
     "name-1": "Jose",
     "name-2": "Phillipe",
