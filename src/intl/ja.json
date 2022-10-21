@@ -886,19 +886,19 @@
       "titleAmilStory": "アミルのストーリー",
       "amilStory": {
         "firstParagraph": {
-          "one": "Virufy was formed in March 2020, when Amil committed himself to combat the pandemic and garnered the support of top-tier domain experts globally, aligned under the common mission: To stop COVID-19 in support of the public good.",
-          "two": "When the COVID-19 pandemic hit, in the midst of lockdowns, uncertainty, overflowing hospitals, and lacking test kits, Amil committed himself to pandemic relief efforts. Taking inspiration from the teachings of his Stanford University professors, he came up with the idea of using artificial intelligence to combat the pandemic.",
-          "three": "Supported by several Stanford faculty members and student groups, Amil founded Virufy—a nonprofit organization developing a smartphone app to prescreen for COVID-19 instantly through AI-powered analysis of voice and cough recordings."
+          "one": "　",
+          "two": "Virufyは、2020年3月、”公益のために、COVID-19を阻止する”というミッションのもと、アミル・カンザダ氏とこれに賛同する世界トップクラスの専門家たちの支持により結成されました。",
+          "three": "COVID-19が大流行したとき、街のロックダウン、逼迫する医療機関、ワクチン不足など、様々な問題が人々の生活を不安に貶める中、カンザダ氏は救援活動に身を投じ始めました。スタンフォード大学の教授の教えからヒントを得て、人工知能を使ってパンデミックに対抗することを思いついた彼は、有志達と共に非営利団体「Virufy」を設立し、咳の音声をAIで解析しCOVID-19の事前スクリーニングが瞬時に行えるスマートフォンアプリを開発することにしました。"
         },
-        "secondParagraph": "Amil’s passion for social service started from an early age. His father instilled in him the spirit of social service, where they volunteered together in soup kitchens and nursing homes. In middle school, Amil developed a love for programming as a means to help others.",
-        "thirdParagraph": "During his first New Year’s holiday at UC Berkeley, when Amil was 18 years old, his father was struck and killed while assisting at a highway accident, saving another’s life. Having lost his greatest role model, Amil struggled immensely. However, in his heart, he had never lost his father’s spirit of giving back.",
+        "secondParagraph": "カンザダ氏の社会奉仕の精神は、父親の影響を受け、幼少期から始まりました。幼い頃から父親と共に炊き出しや老人ホームでボランティア活動に従事し、中学時代になると、人を助けるための手段としてプログラミングに興味を持つようになりました。",
+        "thirdParagraph": "カリフォルニア大学バークレー校に入学して初めての正月休み、カンザダ氏が18歳のとき、高速道路で事故が発生し、人命救助にあたった父親がはねられ、命を落としました。最大のロールモデルを失った後、大変な苦労をしましたが、彼の心の中には、父親が持っていた「奉仕」の精神は失われていませんでした。",
         "fourthParagraph": {
-          "one": "Amil resolved to stand up in the face of his grief and loss, and worked part-time to pay tuition while commuting 2.5 hours daily to stay with his mom and learned to value public service and the underprivileged while honing his software knowledge and skills.",
-          "two": "When Amil moved to the countryside of Japan, he taught agile pair programming to the young adults and children there. Later, Amil was appointed Evolution Ambassador of the town and sent to the <a target='_blank' rel='noreferrer' href='https://www.oneyoungworld.com/' class='underline text-blue'/>One Young World</a> conference in the Netherlands to represent <a target='_blank' rel='noreferrer' href='https://oywj.org/' class='underline text-blue'/> Japan </a>, amongst other young social impact leaders, country heads, and Nobel Laureates from 195 countries. At One Young World, Amil acquired a sense of urgency for broader, worldwide social impact."
+          "one": "悲しみと喪失感の中で立ち上がることを決意し、残された母親と共に過ごし支えるために、毎日2時間半かけて学校に通いながら、学費を払うためのアルバイトをし、そして、ソフトウェアの知識と技術を磨きながら、公共サービスや恵まれない人々のことを思いやることの重要性を身をもって学びました。",
+          "two": "また、カンザダ氏は、日本の田舎で生活を送ったこともありました。そこでは、日本の若者や子供たちにアジャイル開発・ペアプログラミングを教えていました。その後、町のエボリューション大使に任命され、オランダで開催された<a target='_blank' rel='noreferrer' href='https://www.oneyoungworld.com/' class='underline text-blue'/>One Young World</a>に<a target='_blank' rel='noreferrer' href='https://oywj.org/' class='underline text-blue'/>日本</a>の代表として派遣されるまでに至りました。そうして、195カ国の若きソーシャルインパクトリーダーや各国の首脳、ノーベル賞受賞者たちと肩を並べる中で、より広範で世界的なソーシャルインパクトへの急務感を抱くこととなったのです。"
         },
-        "fivethParagraph": "Through Amil’s strong technical background, resolve to give back, and outstanding leadership, combined with the tens of thousands of hours contributed by volunteers and firms, Virufy has grown to operate in a dozen countries with more than 200 volunteers and 30 partner organizations, including Amazon Web Services, Stanford COVID-19 Response Innovation Lab, and Pillsbury Winthrop Shaw Pittman Law as of June 2022.",
-        "sixthParagraph": "“United behind a common cause to end pandemics, our energy is unstoppable as we work across borders for the common good.” - Amil Khanzada",
-        "Amil-Publications": "Amil’s Publications",
+        "fivethParagraph": "カンザダ氏の豊富な技術的バックグラウンド、奉仕の心、卓越したリーダーシップ、そしてボランティアや企業から提供された何万時間という時間を経て、Virufyは2022年6月現在、Amazon Web Services、Stanford COVID-19 Response Innovation Lab、Pillsbury Winthrop Shaw Pittman Lawなど30社のパートナー企業と、200名を超えるボランティアとともに、12カ国で事業を行うまでに成長しました。",
+        "sixthParagraph": "「パンデミックを終わらせるという共通の目的のもとに団結し、助けを必要とする人々のために国境を越えて活動する私達は止められない。」 —アミル・カンザダ",
+        "Amil-Publications": "アミルの研究論文",
         "fifthParagraph": {
           "one": "2022. Using Deep Learning with Large Aggregated Datasets for COVID-19 Classification from Cough. arXiv: 2201.01669",
           "two": "2021. Using a Novel COVID-19 Calculator to Measure Positive U.S. Socio-Economic Impact of a COVID-19 Pre-Screening Solution (AI/ML). arXiv: 2201.11109",

@@ -877,7 +877,7 @@
       "amil": {
         "name": "Amil Khanzada",
         "email": "amil@berkeley.edu",
-        "description1": "MBA Candidate, Haas School of Business \nMaster of Engineering Candidate, \nDepartment of Electrical Engineering and \nComputer Sciences",
+        "description1": "Candidato a MBA, Haas School of Business Candidato a Mestrado em Engenharia,\nDepartamento de Engenharia Elétrica e Ciências da Computação.",
         "description2": "University of California, Berkeley 253 Cory Hall, Berkeley, CA",
         "title": "Founder & President"
       },
@@ -1175,8 +1175,8 @@
         },
         "rich": {
           "name": "Rich Walcoff",
-          "description": "Sports Director - KGO Radio",
-          "title": "Communications Advisor"
+          "description": "Diretor de Esportes - Rádio KGO",
+          "title": "Assessor de Comunicação"
         },
         "mansoor": {
           "name": "Mansoor Ahmed",
