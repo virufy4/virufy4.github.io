@@ -881,28 +881,28 @@
         "description2": "University of California, Berkeley 253 Cory Hall, Berkeley, CA",
         "title": "Founder & President"
       },
-      "titleAmilStory": "Amil’s Story",
+      "titleAmilStory": "História do Amil",
       "amilStory": {
         "firstParagraph": {
-          "one": "Virufy was formed in March 2020, when Amil committed himself to combat the pandemic and garnered the support of top-tier domain experts globally, aligned under the common mission: To stop COVID-19 in support of the public good.",
-          "two": "When the COVID-19 pandemic hit, in the midst of lockdowns, uncertainty, overflowing hospitals, and lacking test kits, Amil committed himself to pandemic relief efforts. Taking inspiration from the teachings of his Stanford University professors, he came up with the idea of using artificial intelligence to combat the pandemic.",
-          "three": "Supported by several Stanford faculty members and student groups, Amil founded Virufy—a nonprofit organization developing a smartphone app to prescreen for COVID-19 instantly through AI-powered analysis of voice and cough recordings."
+          "one": "A Virufy foi formada em março de 2020, quando o Amil se comprometeu a combater a pandemia e conquistou o apoio global de especialistas de alto nível, alinhados sob a missão comum: parar a COVID-19 em prol do bem público.",
+          "two": "Quando a pandemia da COVID-19 atingiu, em meio a confinamentos, incertezas, hospitais transbordando e falta de kits de teste, Amil se comprometeu com os esforços de alívio da pandemia. Inspirando-se nos ensinamentos de seus professores da Universidade de Stanford, ele teve a idéia de usar inteligência artificial para combater a pandemia.",
+          "three": "Apoiado por vários membros do corpo docente e grupos de estudantes de Stanford, Amil fundou a Virufy - uma organização sem fins lucrativos que desenvolve um aplicativo para smartphone para pré-selecionar a COVID-19 instantaneamente por meio de análises de voz e gravações de tosse alimentadas por IA."
         },
-        "secondParagraph": "Amil’s passion for social service started from an early age. His father instilled in him the spirit of social service, where they volunteered together in soup kitchens and nursing homes. In middle school, Amil developed a love for programming as a means to help others.",
-        "thirdParagraph": "During his first New Year’s holiday at UC Berkeley, when Amil was 18 years old, his father was struck and killed while assisting at a highway accident, saving another’s life. Having lost his greatest role model, Amil struggled immensely. However, in his heart, he had never lost his father’s spirit of giving back.",
+        "secondParagraph": "A paixão de Amil pelo serviço social começou cedo. Seu pai incutiu nele o espírito do serviço social, onde se voluntariaram juntos em cozinhas de sopa e casas de repouso. No ensino médio, Amil desenvolveu um amor pela programação como um meio de ajudar os outros.",
+        "thirdParagraph": "Durante seu primeiro feriado de Ano Novo na Universidade de Berkeley, quando Amil tinha 18 anos, seu pai foi atropelado e faleceu enquanto ajudava em um acidente rodoviário, salvando a vida de outra pessoa. Tendo perdido seu maior modelo, Amil sofreu imensamente. No entanto, em seu coração, ele nunca havia perdido o espírito de retribuição de seu pai.",
         "fourthParagraph": {
-          "one": "Amil resolved to stand up in the face of his grief and loss, and worked part-time to pay tuition while commuting 2.5 hours daily to stay with his mom and learned to value public service and the underprivileged while honing his software knowledge and skills.",
-          "two": "When Amil moved to the countryside of Japan, he taught agile pair programming to the young adults and children there. Later, Amil was appointed Evolution Ambassador of the town and sent to the <a target='_blank' rel='noreferrer' href='https://www.oneyoungworld.com/' class='underline text-blue'/>One Young World</a> conference in the Netherlands to represent <a target='_blank' rel='noreferrer' href='https://oywj.org/' class='underline text-blue'/> Japan </a>, amongst other young social impact leaders, country heads, and Nobel Laureates from 195 countries. At One Young World, Amil acquired a sense of urgency for broader, worldwide social impact."
+          "one": "Amil resolveu se levantar diante de sua dor e perda, e trabalhou meio período para pagar as mensalidades enquanto viajava 2,5 horas por dia para ficar com sua mãe e aprendeu a valorizar o serviço público e os desprivilegiados enquanto aperfeiçoava seus conhecimentos e habilidades de software.",
+          "two": "Quando Amil se mudou para o interior do Japão, ele ensinou programação ágil de pares para os jovens e crianças de lá. Mais tarde, Amil foi nomeado Embaixador da Evolução da cidade e enviado para a conferência <a target='_blank' rel='noreferrer' href='https://www.oneyoungworld.com/' class='underline text-blue'/>One Young World</a>, na Holanda, para representar o <a target='_blank' rel='noreferrer' href='https://oywj.org/' class='underline text-blue'/>Japão</a>, dentre outros jovens líderes de impacto social, chefes de país e Prêmios Nobel de 195 países. No One Young World, a Amil adquiriu um senso de urgência para um impacto social mundial mais amplo."
         },
-        "fivethParagraph": "Through Amil’s strong technical background, resolve to give back, and outstanding leadership, combined with the tens of thousands of hours contributed by volunteers and firms, Virufy has grown to operate in a dozen countries with more than 200 volunteers and 30 partner organizations, including Amazon Web Services, Stanford COVID-19 Response Innovation Lab, and Pillsbury Winthrop Shaw Pittman Law as of June 2022.",
-        "sixthParagraph": "“United behind a common cause to end pandemics, our energy is unstoppable as we work across borders for the common good.” - Amil Khanzada",
-        "Amil-Publications": "Amil’s Publications",
+        "fivethParagraph": "Através da forte formação técnica do Amil, da determinação em retribuir e da liderança excepcional, combinada com as dezenas de milhares de horas contribuídas por voluntários e empresas, a Virufy cresceu para operar em uma dúzia de países com mais de 200 voluntários e 30 organizações parceiras, incluindo Amazon Web Services, Stanford COVID-19 Response Innovation Lab e Pillsbury Winthrop Shaw Pittman Law a partir de Junho de 2022.",
+        "sixthParagraph": "“Unidos por trás de uma causa comum para acabar com pandemias, nossa energia é imparável à medida que trabalhamos além fronteiras para o bem comum.” - Amil Khanzada",
+        "Amil-Publications": "Publicações do Amil",
         "fifthParagraph": {
-          "one": "2022. Using Deep Learning with Large Aggregated Datasets for COVID-19 Classification from Cough. arXiv: 2201.01669 ",
-          "two": "2021. Using a Novel COVID-19 Calculator to Measure Positive U.S. Socio-Economic Impact of a COVID-19 Pre-Screening Solution (AI/ML). arXiv: 2201.11109",
+          "one": "2022. Usando Aprendizado Profundo com Grandes Conjuntos de Dados Agregados para Classificação COVID-19 a partir da Tosse. arXiv: 2201.01669",
+          "two": "2021. Usando uma nova calculadora COVID-19 para medir o impacto socioeconômico positivo dos EUA de uma solução de pré-triagem COVID-19 (AI/ML). arXiv: 2201.11109",
           "three": "2020. Virufy: Global Applicability of AI Detection for COVID-19 from Cough Recordings. arXiv: 2011.13320",
-          "four": "2020. Fusical: Multimodal Fusion for Video Sentiment. ACM ICMI; DOI: 3382507.3417966",
-          "five": "2020. Facial Expression Recognition with Deep Learning. arXiv: 2004.11823"
+          "four": "2020. Fusical: Fusão Multimodal para Vídeo Sentimento. ACM ICMI; DOI: 3382507.3417966",
+          "five": "2020. Reconhecimento de Expressão Facial com Aprendizagem Profunda. arXiv: 2004.11823"
         }
       }
     },
