@@ -1,2 +1,0 @@
-(this["webpackJsonpvirufy-study"]=this["webpackJsonpvirufy-study"]||[]).push([[42],{338:function(t,u,s){"use strict";s.r(u);var i=s(361);s.d(u,"default",(function(){return i.default}))}}]);
-//# sourceMappingURL=42.f7b14215.chunk.js.map
