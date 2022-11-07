@@ -1,1 +1,0 @@
-{"version":3,"sources":["containers/SubmitSteps/RecordingsSteps/Introduction/Record/index.ts"],"names":[],"mappings":"qGACA","file":"static/js/15.f9fe2690.chunk.js","sourcesContent":["export type { RecordType } from './Record';\nexport { default } from './Record';\n"],"sourceRoot":""}
