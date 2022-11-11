@@ -810,7 +810,7 @@
     },
     "papers": {
       "section2": {
-        "date": "Noviembre 2020",
+        "date": "noviembre 2020",
         "title": "Virufy: Global Applicability of Crowdsourced and Clinical Datasets for AI Detection of COVID-19 from Cough",
         "readMoreLink": "Leer más..."
       },
@@ -829,6 +829,11 @@
         "title": "Covid 19 Calculator -- Positive U.S. Socio-Economic Impact",
         "readMoreLink": "Leer más...",
         "calculatorLink": "Calculator"
+      },
+      "section7": {
+        "date": "octubre 2022",
+        "title": "Hierarchical Multi-modal Transformer for Automatic Detection of COVID-19",
+        "readMoreLink": "Read more..."
       }
     }
   },
@@ -898,6 +903,7 @@
         "sixthParagraph": "“Unidos tras una causa común para acabar con las pandemias, nuestra energía es imparable mientras trabajamos más allá de las fronteras por el bien común”. - Amil Khanzada",
         "Amil-Publications": "Sus publicaciones",
         "fifthParagraph": {
+          "zero": "2022. Hierarchical Multi-modal Transformer for Automatic Detection of COVID-19. ACM SPML; DOI: 3556384.3556414",
           "one": "2022. Using Deep Learning with Large Aggregated Datasets for COVID-19 Classification from Cough. arXiv: 2201.01669",
           "two": "2021. Using a Novel COVID-19 Calculator to Measure Positive U.S. Socio-Economic Impact of a COVID-19 Pre-Screening Solution (AI/ML). arXiv: 2201.11109",
           "three": "2020. Virufy: Global Applicability of AI Detection for COVID-19 from Cough Recordings. arXiv: 2011.13320",

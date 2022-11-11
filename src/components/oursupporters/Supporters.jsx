@@ -326,7 +326,6 @@ export default function Supporters() {
                     />
                   </a>
                 </div>
-
                 <div
                   style={{ flex: "0 1 20%" }}
                   className="md:min-w-250 md:p-8 max-w-full"
@@ -339,7 +338,6 @@ export default function Supporters() {
                     />
                   </a>
                 </div>
-
                 <div
                   style={{ flex: "0 1 20%" }}
                   className="md:min-w-250 md:p-8 max-w-full"
@@ -349,18 +347,6 @@ export default function Supporters() {
                       imgStyle={{ objectFit: "contain" }}
                       className="h-full max-h-24"
                       fluid={images["cccadv-logo-color"]}
-                    />
-                  </a>
-                </div>
-                <div
-                  style={{ flex: "0 1 20%" }}
-                  className="md:min-w-250 md:p-8 max-w-full"
-                >
-                  <a href={supporter_links.parrolabs} target="_blank">
-                    <GatsbyImage
-                      imgStyle={{ objectFit: "contain" }}
-                      className="h-full max-h-24"
-                      fluid={images["parrolabs-logo-color"]}
                     />
                   </a>
                 </div>

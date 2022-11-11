@@ -172,6 +172,17 @@ export default function Founder({ data }) {
             <a
               className="md:mb-8 pb-10 text-blue underline text-lg  xs:pt-4 xs:pb-8"
               target="_blank"
+              href="https://dl.acm.org/doi/10.1145/3556384.3556414"
+            >
+              {intl.formatMessage({
+                id: "team.ourFounder.amilStory.fifthParagraph.zero",
+              })}
+            </a>
+          </div>
+          <div className="my-4">
+            <a
+              className="md:mb-8 pb-10 text-blue underline text-lg  xs:pt-4 xs:pb-8"
+              target="_blank"
               href="https://arxiv.org/abs/2201.01669"
             >
               {intl.formatMessage({

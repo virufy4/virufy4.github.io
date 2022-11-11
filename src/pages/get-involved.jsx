@@ -78,6 +78,7 @@ export default function GetInvolved({ data }) {
             })}
           </h1>
           <div className="text-center md:ml-28 xs:text-xs xs:px-16 xs:mx-4 md:pb-10">
+            {/* Deprecated 11-10-2022, commented out just in case we need this again in the future */}
             <button
               onClick={() => setSelectedTab(tabs.contribute)}
               className={`${
@@ -100,7 +101,7 @@ export default function GetInvolved({ data }) {
                 selectedTab === tabs.collaborate
                   ? selectedTabClasses
                   : unselectedTabClasses
-              } md:mr-16 pb-2`}
+              } md:mr-16 pb-2 xs:px-8`}
             >
               <h2>
                 <small>
@@ -128,6 +129,7 @@ export default function GetInvolved({ data }) {
             </button>
           </div>
 
+          {/* Deprecated 11-10-2022, commented out just in case we need this again in the future */}
           {/* contribute*/}
           {selectedTab === tabs.contribute && (
             <div className="grid grid-cols-1  lg:grid-cols-2 ">

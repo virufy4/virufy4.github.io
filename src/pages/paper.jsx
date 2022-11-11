@@ -35,14 +35,40 @@ export default function Papers({ data }) {
       <SEO title={intl.formatMessage({ id: `paper.title` })} />
       <PaperMeta />
       <div className="wrapper lg:flex items-center justify-between md:py-4">
-        <h1 classNmae="font-bold text-4xl">
+        <h1 className="font-bold text-4xl">
           {intl.formatMessage({ id: "paper.headers.header" })}
         </h1>
       </div>
       <section className="wrapper md:flex">
         <div className="lg:w-2/5">
           <GatsbyImage
-            className="mx-auto w-1\/2"
+            className="mx-auto w-1/2"
+            fluid={images["ads"].childImageSharp.fluid}
+          />
+        </div>
+        <div className="lg:w-2/3 mx-10">
+          <p className="mb-8">
+            {intl.formatMessage({ id: `paper.papers.section7.date` })}
+          </p>
+          <h2 className="mb-8 font-bold text-2xl">
+            {intl.formatMessage({ id: `paper.papers.section7.title` })}
+          </h2>
+
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://dl.acm.org/doi/10.1145/3556384.3556414"
+            className="text-black"
+          >
+            <u>
+              {intl.formatMessage({ id: `paper.papers.section7.readMoreLink` })}
+            </u>
+          </a>
+        </div>
+
+        <div className="lg:w-2/5">
+          <GatsbyImage
+            className="mx-auto w-1/2"
             fluid={images["ads"].childImageSharp.fluid}
           />
         </div>
@@ -68,7 +94,7 @@ export default function Papers({ data }) {
 
         <div className="lg:w-2/5">
           <GatsbyImage
-            className="mx-auto w-1\/2"
+            className="mx-auto w-1/2"
             fluid={images["ads"].childImageSharp.fluid}
           />
         </div>
@@ -103,7 +129,7 @@ export default function Papers({ data }) {
       <section className="wrapper md:flex">
         <div className="lg:w-2/5">
           <GatsbyImage
-            className="mx-auto w-1\/2"
+            className="mx-auto w-1/2"
             fluid={images["ads"].childImageSharp.fluid}
           />
         </div>
@@ -129,7 +155,7 @@ export default function Papers({ data }) {
 
         <div className="lg:w-2/5">
           <GatsbyImage
-            className="mx-auto w-1\/2"
+            className="mx-auto w-1/2"
             fluid={images["ads"].childImageSharp.fluid}
           />
         </div>
