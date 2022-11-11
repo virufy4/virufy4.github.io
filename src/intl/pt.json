@@ -829,6 +829,11 @@
         "title": "Covid 19 Calculator -- Positive U.S. Socio-Economic Impact",
         "readMoreLink": "Read more...",
         "calculatorLink": "Calculator"
+      },
+      "section7": {
+        "date": "October 2022",
+        "title": "Hierarchical Multi-modal Transformer for Automatic Detection of COVID-19",
+        "readMoreLink": "Read more..."
       }
     }
   },
@@ -898,6 +903,7 @@
         "sixthParagraph": "“Unidos por trás de uma causa comum para acabar com pandemias, nossa energia é imparável à medida que trabalhamos além fronteiras para o bem comum.” - Amil Khanzada",
         "Amil-Publications": "Publicações do Amil",
         "fifthParagraph": {
+          "zero": "2022. Hierarchical Multi-modal Transformer for Automatic Detection of COVID-19. ACM SPML; DOI: 3556384.3556414",
           "one": "2022. Usando Aprendizado Profundo com Grandes Conjuntos de Dados Agregados para Classificação COVID-19 a partir da Tosse. arXiv: 2201.01669",
           "two": "2021. Usando uma nova calculadora COVID-19 para medir o impacto socioeconômico positivo dos EUA de uma solução de pré-triagem COVID-19 (AI/ML). arXiv: 2201.11109",
           "three": "2020. Virufy: Aplicabilidade Global da Detecção de IA para COVID-19 através de Gravações de Tosse. arXiv: 2011.13320",

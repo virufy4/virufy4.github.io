@@ -822,15 +822,20 @@
         "readMoreLink": "さらに読む..."
       },
       "section5": {
-        "date": "20221年1月",
+        "date": "2022年1月",
         "title": "咳からのCOVID-19分類のための大規模な集約データセットでのディープラーニングの使用",
         "readMoreLink": "さらに読む..."
       },
       "section6": {
-        "date": "20221年1月",
+        "date": "2022年1月",
         "title": "Covid 19 計算機 -- 米国の社会・経済にもたらす好影響",
         "readMoreLink": "さらに読む...",
         "calculatorLink": "計算機"
+      },
+      "section7": {
+        "date": "2022年10月",
+        "title": "Hierarchical Multi-modal Transformer for Automatic Detection of COVID-19",
+        "readMoreLink": "Read more..."
       }
     }
   },
@@ -900,6 +905,7 @@
         "sixthParagraph": "「パンデミックを終わらせるという共通の目的のもとに団結し、助けを必要とする人々のために国境を越えて活動する私達のエネルギーは止められない。」 —アミル・カンザダ",
         "Amil-Publications": "アミルの研究論文",
         "fifthParagraph": {
+          "zero": "2022. Hierarchical Multi-modal Transformer for Automatic Detection of COVID-19. ACM SPML; DOI: 3556384.3556414",
           "one": "2022. Using Deep Learning with Large Aggregated Datasets for COVID-19 Classification from Cough. arXiv: 2201.01669",
           "two": "2021. Using a Novel COVID-19 Calculator to Measure Positive U.S. Socio-Economic Impact of a COVID-19 Pre-Screening Solution (AI/ML). arXiv: 2201.11109",
           "three": "2020. Virufy: Global Applicability of AI Detection for COVID-19 from Cough Recordings. arXiv: 2011.13320",
