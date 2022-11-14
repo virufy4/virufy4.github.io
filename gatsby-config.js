@@ -32,6 +32,15 @@ module.exports = {
         sv: 6,
       },
     },
+    {
+      resolve: `gatsby-plugin-netlify`,
+      options: {
+        headers: {
+          "/*": ["Referrer-Policy: same-origin"],
+        },
+      },
+    },
+    "gatsby-plugin-csp",
     "gatsby-plugin-postcss",
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",

@@ -37,9 +37,9 @@ export default function GetInvolved({ data }) {
   const images = data.allFile.edges;
   const intl = useIntl();
   const breakpoints = useBreakpoint();
-  const [selectedTab, setSelectedTab] = useState("contribute");
+  const [selectedTab, setSelectedTab] = useState("collaborate");
   const tabs = {
-    contribute: "contribute",
+    // contribute: "contribute",
     collaborate: "collaborate",
     tellStory: "tell your story",
   };
@@ -79,7 +79,7 @@ export default function GetInvolved({ data }) {
           </h1>
           <div className="text-center md:ml-28 xs:text-xs xs:px-16 xs:mx-4 md:pb-10">
             {/* Deprecated 11-10-2022, commented out just in case we need this again in the future */}
-            <button
+            {/* <button
               onClick={() => setSelectedTab(tabs.contribute)}
               className={`${
                 selectedTab === tabs.contribute
@@ -94,7 +94,7 @@ export default function GetInvolved({ data }) {
                   })}
                 </small>
               </h2>
-            </button>
+            </button> */}
             <button
               onClick={() => setSelectedTab(tabs.collaborate)}
               className={`${
