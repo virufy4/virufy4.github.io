@@ -250,6 +250,12 @@ export const advisors = [
     imageName: "mert",
   },
   {
+    mediaLink: "https://www.facebook.com/nakatani.yukitoshi",
+    id: "nakatani",
+    defaultName: "Yukitoshi Nakatani",
+    imageName: "nakatani",
+  },
+  {
     mediaLink: "https://www.linkedin.com/in/executivestanfordvictorwang/",
     id: "victor",
     defaultName: "Victor Wang",
@@ -291,12 +297,6 @@ export const advisors = [
     id: "george",
     defaultName: "George Pagelow",
     imageName: "george",
-  },
-  {
-    mediaLink: "https://www.linkedin.com/in/richwalcoff",
-    id: "rich",
-    defaultName: "Rich Walcoff",
-    imageName: "rich",
   },
   {
     mediaLink: "https://www.linkedin.com/in/taisuke-fukuno-a3b3415",
