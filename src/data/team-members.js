@@ -275,12 +275,6 @@ export const advisors = [
     imageName: "richard",
   },
   {
-    mediaLink: "https://haas.berkeley.edu/faculty/de-vaan-mathijs/",
-    id: "mathijs",
-    defaultName: "Mathijs De Vaan",
-    imageName: "mathijs",
-  },
-  {
     mediaLink: "https://www.linkedin.com/in/pedrosiena/",
     id: "pedro",
     defaultName: "Pedro Siena",
