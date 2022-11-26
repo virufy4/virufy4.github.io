@@ -67,5 +67,10 @@
   {
     "fromPath": "study/welcome/step-5",
     "toPath": "/study"
+  },
+
+  {
+    "fromPath": "ja/join-jp",
+    "toPath": "https://forms.gle/nxGbL1pd1R8Q27qe7"
   }
 ]

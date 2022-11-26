@@ -434,8 +434,8 @@
     "meta": "人工知能を使用した効率的なオンラインCovid-19テストの構築に専念する人々によって2020年3月に設立されたプロジェクトであるVirufyに会いましょう。",
     "title": "AIを使用したオンラインCovid-19テストの開発| Virufy",
     "section1": {
-      "header": "オンラインのCovid-19テストが可能です",
-      "pg": "Virufyは、咳のパターンからCOVID-19を特定する人工知能（AI）技術を、スマートフォンを使って迅速かつ無償で開発する非営利の研究機関です。",
+      "header": " ",
+      "pg": "咳の音声が、COVID-19に罹患している患者さんの咳と類似しているか否かを知ることができるアプリを開発する非営利活動法人Virufyは、このアプリの日本展開に向けて日本人の咳の音を収集するための臨床研究（AI学習のための音声収集）を計画しています。",
       "coughLink": "咳を寄付する",
       "donateLink": "今すぐ咳を寄付する",
       "donateLinkResponsive": "今すぐ寄付する",
@@ -610,18 +610,18 @@
       "bottonClose": "を閉じる"
     },
     "howItWorks": {
-      "HowIt": "オンラインCovid-19テストの仕組み",
+      "HowIt": " ",
       "card-one": {
         "title": "1",
         "description": "咳を録音する"
       },
       "card-two": {
         "title": "2",
-        "description": "AIがCOVIDのパターンを解析"
+        "description": "AIが咳を分析する"
       },
       "card-three": {
         "title": "3",
-        "description": "COVIDのリスク状況を報告"
+        "description": "COVID-19の咳の類似を表示する"
       },
       "collectedData": "収集データダッシュボード",
       "numberofCollected": "収集した咳の数",
@@ -1150,11 +1150,6 @@
           "name": "マーク・ハーゼルティン",
           "description": "edX 元CTO/CPO\nMITコンピュータサイエンス卒業生",
           "title": "エグゼクティブ・アドバイザー"
-        },
-        "mathijs": {
-          "name": "マティス・デ・ヴァーン",
-          "description": "組織マネジメント\nコロンビア大学社会学博士号",
-          "title": "カリフォルニア大学バークレー校Haasビジネススクール 助教授"
         },
         "pedro": {
           "name": "ペドロ・シエナ",
