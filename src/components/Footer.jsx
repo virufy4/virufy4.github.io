@@ -19,7 +19,7 @@ const socialLinks = [
   {
     name: "Instagram",
     logo: instagramLogo,
-    address: "https://www.instagram.com/virufyorg/",
+    address: "https://www.instagram.com/virufy/",
   },
   {
     name: "Twitter",
