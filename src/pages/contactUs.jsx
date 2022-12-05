@@ -8,53 +8,15 @@ function ContactUs() {
   const triggerRef = React.useRef(null);
 
   const intl = useIntl();
-  const [name, setName] = useState("");
-  const [email, setEmail] = useState("");
-  const [message, setMessage] = useState("");
-  const [loading, setLoading] = useState(false);
-  const [errorMessage, setErrorMessage] = useState("");
 
-  const [data, setData] = useState({
-    name: "",
-    email: "",
-    message: "",
-  });
-
-  const handleInputChange = (event) => {
-    console.log(event.target.name);
-    console.log(event.target.value);
-    setData({
-      ...data,
-      [event.target.name]: event.target.value,
-    });
-  };
-
-  const sendData = (event) => {
-    event.preventDefault();
-    console.log(
-      "enviando datos..." + data.name + " " + data.email + " " + data.message
-    );
-  };
-
-  async function handleSignIn(event) {
-    event.preventDefault();
-    setErrorMessage("");
-    setLoading(true);
-
-    try {
-      setErrorMessage("There was an error");
-      setLoading(false);
-    } catch (err) {
-      setErrorMessage("There was an error");
-      setLoading(false);
-    }
-  }
   function handleClick() {
     setOpen(true);
   }
+
   function handleClose() {
     setOpen(false);
   }
+
   return (
     <>
       <SEO title="Contact-Us | Virufy" />
@@ -85,50 +47,49 @@ function ContactUs() {
         </div>
 
         <div className="flex flex-col items-center justify-center text-center text-black">
-          <form className="m-8 md:px-6" onSubmit={sendData} autoComplete="off">
+          <form
+            className="m-8 md:px-6"
+            action="https://docs.google.com/forms/d/e/1FAIpQLScEla6lpxn12t7xoDSNPSJFHlMyU4xRrBMyK0hGP4jQA5sWmA/formResponse"
+            target="_blank"
+            autoComplete="off"
+          >
             <input
+              name="entry.754199290"
               type="text"
               className="mt-2 w-full p-2 border-gray-500 shadow-lg focus:border-blue"
               required
               placeholder={intl.formatMessage({
                 id: "becomeaSupporter.inputname",
               })}
-              // value={name}
-              onChange={handleInputChange}
             ></input>
 
             <input
+              name="entry.1513725803"
               type="email"
               className="mt-2 w-full p-2 border-gray-500 shadow-lg focus:border-blue"
               required
               placeholder={intl.formatMessage({
                 id: "becomeaSupporter.inputemail",
               })}
-              // value={email}
-              onChange={handleInputChange}
             ></input>
 
             <textarea
+              name="entry.1150067396"
               type="text"
               className="mt-2 w-full p-2 border-gray-500 shadow-lg focus:border-blue h-36"
               required
               placeholder={intl.formatMessage({
                 id: "becomeaSupporter.inputmessage",
               })}
-              // value={message}
-              onChange={handleInputChange}
             ></textarea>
             <button
+              type="submit"
               className={`
-            bg-blue border rounded-xl text-white px-12 py-4 hover:bg-blue 
-            ${loading ? "bg-blue animate-pulse" : ""}
+            bg-blue border rounded-xl text-white px-12 py-4 hover:bg-blue
           `}
-              disabled={loading}
-              onClick={handleSignIn}
             >
               {intl.formatMessage({ id: "becomeaSupporter.button" })}
             </button>
-            <p className="text-blue">{errorMessage}</p>
           </form>
         </div>
       </Modal>
