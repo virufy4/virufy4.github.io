@@ -1210,6 +1210,16 @@
           "name": "Dr. Les Atlas",
           "description": "Professor of Electrical and Computer Engineering - University of Washington\nPh.D. Electrical Engineering, Stanford",
           "title": "Audio and Machine Learning Advisor"
+        },
+        "ozawa": {
+          "name": "Nobuyoshi Ozawa",
+          "description": "Clinical Development Department Group Manager, CRO",
+          "title": "Japan Clinical Development Lead"
+        },
+        "hirofumi": {
+          "name": "Hirofumi Yoshikoshi",
+          "description": "Senior Manager Clinical Development, CRO",
+          "title": "Japan Clinical Development Lead"
         }
       }
     },

@@ -322,4 +322,16 @@ export const advisors = [
     defaultName: "Dr. Les Atlas",
     imageName: "atlas",
   },
+  {
+    mediaLink: " ",
+    id: "ozawa",
+    defaultName: "Nobuyoshi Ozawa",
+    imageName: "ozawa",
+  },
+  {
+    mediaLink: " ",
+    id: "hirofumi",
+    defaultName: "Hirofumi Yoshikoshi",
+    imageName: "hirofumi",
+  },
 ];
