@@ -244,6 +244,12 @@ export const advisors = [
     imageName: "mansoor",
   },
   {
+    mediaLink: "https://www.linkedin.com/in/doccheema/",
+    id: "cheema",
+    defaultName: "Faisal Cheema",
+    imageName: "cheema",
+  },
+  {
     mediaLink: "https://stanford.edu/~pilanci/",
     id: "mert",
     defaultName: "Mert Pilanci",

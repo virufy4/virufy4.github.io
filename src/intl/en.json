@@ -1197,9 +1197,14 @@
           "title": "Artificial Intelligence Advisor"
         },
         "manuj": {
-          "name": "Manuj Aggarwal ",
+          "name": "Manuj Aggarwal",
           "description": "Chief Innovation Officer - TetraNoodle Technologies",
           "title": "Executive AI, Strategy And Marketing Advisor"
+        },
+        "cheema": {
+          "name": "Faisal Cheema",
+          "description": "Associate Professor of Biomedical & Clinical Sciences, Tilman J. Fertitta College of Medicine, University of Houston",
+          "title": "Executive Clinical Advisor"
         },
         "atlas": {
           "name": "Dr. Les Atlas",
