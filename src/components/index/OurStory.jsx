@@ -233,6 +233,18 @@ export default function OurStory() {
                 />
               </a>
             </div>
+            <div
+              style={{ flex: "0 1 20%" }}
+              className="md:min-w-250 md:p-8 max-w-full"
+            >
+              <a href={supporter_links.olartemoure} target="_blank">
+                <GatsbyImage
+                  imgStyle={{ objectFit: "contain" }}
+                  className="h-4/6 max-h-16"
+                  fluid={images["OlarteMoure-logo"]}
+                />
+              </a>
+            </div>
 
             <div
               style={{ flex: "0 1 20%" }}
