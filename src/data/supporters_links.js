@@ -26,4 +26,5 @@ export default {
   Cleveland: "https://clevelandibnsina.com/",
   drive: "https://drive.hhs.gov/",
   dgaAbogados: "https://col-law.com/home-2/",
+  olartemoure: "https://www.olartemoure.com/",
 };
