@@ -1,2 +1,0 @@
-(this.webpackJsonpclinre=this.webpackJsonpclinre||[]).push([[59],{387:function(e,t,n){"use strict";n.r(t);var c=n(6),r=n.n(c),a=n(480),i=n(299);test("renders learn react link",(function(){var e=(0,Object(a.a)(r.a.createElement(i.default,null)).getByText)(/learn react/i);expect(e).toBeInTheDocument()}))}}]);
-//# sourceMappingURL=59.14086af2.chunk.js.map
