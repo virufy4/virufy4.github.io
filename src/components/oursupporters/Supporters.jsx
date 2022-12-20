@@ -334,7 +334,7 @@ export default function Supporters() {
                     <GatsbyImage
                       imgStyle={{ objectFit: "contain" }}
                       className="h-4/6 max-h-16"
-                      fluid={images["OlarteMoure-logo"]}
+                      fluid={images["olartemoure"]}
                     />
                   </a>
                 </div>
