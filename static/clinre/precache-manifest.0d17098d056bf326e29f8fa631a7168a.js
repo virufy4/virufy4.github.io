@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "767cbf5836e30993f4126598c71dc385",
+    "revision": "a076aacc4ff8a4c2af25006908ec3586",
     "url": "https://virufy.org/clinre/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/clinre/static/js/17.db252942.chunk.js"
   },
   {
-    "revision": "719526ea5eabf2ee7777",
-    "url": "https://virufy.org/clinre/static/js/18.d9e4aff5.chunk.js"
+    "revision": "55949d1af090a39321b2",
+    "url": "https://virufy.org/clinre/static/js/18.67acb04b.chunk.js"
   },
   {
     "revision": "d4b68578ca4a13b8c8b3",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/clinre/static/js/20.a2e58613.chunk.js"
   },
   {
-    "revision": "937df0dcc345e02868e3",
-    "url": "https://virufy.org/clinre/static/js/21.fec8caf2.chunk.js"
+    "revision": "4ce27e97f968207c9219",
+    "url": "https://virufy.org/clinre/static/js/21.2b7ee88a.chunk.js"
   },
   {
     "revision": "40b9d43adcf9842de6a9",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/clinre/static/js/24.bc86ea02.chunk.js"
   },
   {
-    "revision": "61c06110e3ef182a4488",
-    "url": "https://virufy.org/clinre/static/js/25.d4f928cd.chunk.js"
+    "revision": "471ea74daf9a1b821477",
+    "url": "https://virufy.org/clinre/static/js/25.dc3003b3.chunk.js"
   },
   {
     "revision": "8cdc4cefc5c9bbf35750",
@@ -104,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/clinre/static/js/28.93adfa5c.chunk.js"
   },
   {
-    "revision": "cbd4c84b30bbede156bf",
-    "url": "https://virufy.org/clinre/static/js/29.44818b54.chunk.js"
+    "revision": "1deff2f7575f56c0e925",
+    "url": "https://virufy.org/clinre/static/js/29.3386636d.chunk.js"
   },
   {
     "revision": "2b39e642cf758df85b57",
@@ -168,16 +168,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/clinre/static/js/41.edbaab28.chunk.js"
   },
   {
-    "revision": "ffa334e46b25063bf5b9",
-    "url": "https://virufy.org/clinre/static/js/42.d526612a.chunk.js"
+    "revision": "6cb0c492ff2e9c56cf81",
+    "url": "https://virufy.org/clinre/static/js/42.8b610e03.chunk.js"
   },
   {
     "revision": "6e4801d64cd5677e977179501d49a9ce",
-    "url": "https://virufy.org/clinre/static/js/42.d526612a.chunk.js.LICENSE.txt"
+    "url": "https://virufy.org/clinre/static/js/42.8b610e03.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f62e1cf6a9857609faad",
-    "url": "https://virufy.org/clinre/static/js/43.ff30f4d5.chunk.js"
+    "revision": "1bc0fc3f5ac2c2fa07e0",
+    "url": "https://virufy.org/clinre/static/js/43.fcbd19cf.chunk.js"
   },
   {
     "revision": "efc069045ae36f435c39",
@@ -192,8 +192,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/clinre/static/js/46.181fcf3a.chunk.js"
   },
   {
-    "revision": "05d969fb65b290131d94",
-    "url": "https://virufy.org/clinre/static/js/47.48e48aea.chunk.js"
+    "revision": "810cf508dbe1a6fbd001",
+    "url": "https://virufy.org/clinre/static/js/47.f2aaa986.chunk.js"
   },
   {
     "revision": "ee77328ebe8ff8adb941",
@@ -204,16 +204,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/clinre/static/js/49.9a8f7056.chunk.js"
   },
   {
-    "revision": "0fa31c546be405722c14",
-    "url": "https://virufy.org/clinre/static/js/5.aa4c89e8.chunk.js"
+    "revision": "15a4e11abb8dfca054ee",
+    "url": "https://virufy.org/clinre/static/js/5.161b5351.chunk.js"
   },
   {
     "revision": "3c36dab29419ba62b1a9",
     "url": "https://virufy.org/clinre/static/js/50.e8ee84a3.chunk.js"
   },
   {
-    "revision": "c38f2c12a3de7cb45595",
-    "url": "https://virufy.org/clinre/static/js/51.927a5d4f.chunk.js"
+    "revision": "0da88c73ac482e15248a",
+    "url": "https://virufy.org/clinre/static/js/51.78292f76.chunk.js"
   },
   {
     "revision": "a2e8c61bb372e69dbf04",
@@ -280,12 +280,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/clinre/static/js/67.6fa0c302.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4565b34839561ca59723",
-    "url": "https://virufy.org/clinre/static/js/68.c0b03785.chunk.js"
+    "revision": "714935b9381c824df2a4",
+    "url": "https://virufy.org/clinre/static/js/68.657d29d8.chunk.js"
   },
   {
     "revision": "9a73b17d3f74e8a595e1554cd96c873a",
-    "url": "https://virufy.org/clinre/static/js/68.c0b03785.chunk.js.LICENSE.txt"
+    "url": "https://virufy.org/clinre/static/js/68.657d29d8.chunk.js.LICENSE.txt"
   },
   {
     "revision": "3a4638b7d58c994592af",
@@ -304,12 +304,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/clinre/static/js/9.7c7a3158.chunk.js"
   },
   {
-    "revision": "513682019eba6ea96a3b",
-    "url": "https://virufy.org/clinre/static/js/main.e5606049.chunk.js"
+    "revision": "58af447ee8d19f8e0af9",
+    "url": "https://virufy.org/clinre/static/js/main.daa94c37.chunk.js"
   },
   {
-    "revision": "af6bbfa1af8b022cac51",
-    "url": "https://virufy.org/clinre/static/js/runtime-main.a5072a1a.js"
+    "revision": "5be6329d892e6df97937",
+    "url": "https://virufy.org/clinre/static/js/runtime-main.6353c9a8.js"
   },
   {
     "revision": "74682ec33acb1a883ae7d81e961610ce",
