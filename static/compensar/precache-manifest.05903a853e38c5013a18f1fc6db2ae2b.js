@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc855372b74edf0dcf3ec668dce61f96",
+    "revision": "45b29b092ef85fd3f292c89b55e1d2e6",
     "url": "https://virufy.org/compensar/index.html"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/compensar/static/js/11.133906dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2243c1771bbfae915ccf",
-    "url": "https://virufy.org/compensar/static/js/12.ee1bbe75.chunk.js"
+    "revision": "c5e8614a9017d1fc5028",
+    "url": "https://virufy.org/compensar/static/js/12.2d7d9f70.chunk.js"
   },
   {
     "revision": "180c111413d337885fc3",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/compensar/static/js/2.6737969d.chunk.js"
   },
   {
-    "revision": "e71b356d840398643ab9",
-    "url": "https://virufy.org/compensar/static/js/20.ba41defe.chunk.js"
+    "revision": "bb0cd85ae7bca0094ae2",
+    "url": "https://virufy.org/compensar/static/js/20.39ebea82.chunk.js"
   },
   {
     "revision": "c3bb2ad44cec84ced4e3",
@@ -132,20 +132,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/compensar/static/js/33.c6148eaa.chunk.js"
   },
   {
-    "revision": "0a3158756686974ef056",
-    "url": "https://virufy.org/compensar/static/js/34.1f2f946c.chunk.js"
+    "revision": "b130f0eec87d78099c6b",
+    "url": "https://virufy.org/compensar/static/js/34.f5353cff.chunk.js"
   },
   {
     "revision": "6e4801d64cd5677e977179501d49a9ce",
-    "url": "https://virufy.org/compensar/static/js/34.1f2f946c.chunk.js.LICENSE.txt"
+    "url": "https://virufy.org/compensar/static/js/34.f5353cff.chunk.js.LICENSE.txt"
   },
   {
     "revision": "7dc7e01a2fcbbb788be1",
     "url": "https://virufy.org/compensar/static/js/35.be345348.chunk.js"
   },
   {
-    "revision": "ab8b3b76da74b2d0938c",
-    "url": "https://virufy.org/compensar/static/js/36.c701e4e4.chunk.js"
+    "revision": "d5d455d680dae121f3b0",
+    "url": "https://virufy.org/compensar/static/js/36.27d964da.chunk.js"
   },
   {
     "revision": "7aab5db207e2abb88306",
@@ -160,8 +160,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/compensar/static/js/39.2db8177c.chunk.js"
   },
   {
-    "revision": "5a548351107de1a15642",
-    "url": "https://virufy.org/compensar/static/js/4.2cc40c98.chunk.js"
+    "revision": "3b2f33479887433e54e7",
+    "url": "https://virufy.org/compensar/static/js/4.6f4116fb.chunk.js"
   },
   {
     "revision": "92fa83c278065df00393",
@@ -224,12 +224,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/compensar/static/js/54.e76b21f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "548e11335f1868a5482b",
-    "url": "https://virufy.org/compensar/static/js/55.2c744dfa.chunk.js"
+    "revision": "4e1ff4e0c175365eb1d9",
+    "url": "https://virufy.org/compensar/static/js/55.f87308e2.chunk.js"
   },
   {
     "revision": "9a73b17d3f74e8a595e1554cd96c873a",
-    "url": "https://virufy.org/compensar/static/js/55.2c744dfa.chunk.js.LICENSE.txt"
+    "url": "https://virufy.org/compensar/static/js/55.f87308e2.chunk.js.LICENSE.txt"
   },
   {
     "revision": "9232fc86b29170e64fe3",
@@ -252,12 +252,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/compensar/static/js/9.b40878b2.chunk.js"
   },
   {
-    "revision": "703bd10dfff24aa04a83",
-    "url": "https://virufy.org/compensar/static/js/main.be3807f7.chunk.js"
+    "revision": "ae03c04009e93e7e1dbd",
+    "url": "https://virufy.org/compensar/static/js/main.ead1d992.chunk.js"
   },
   {
-    "revision": "0b08dd19a1694af7f934",
-    "url": "https://virufy.org/compensar/static/js/runtime-main.d533a4f4.js"
+    "revision": "3908c239cf5f5f4afda1",
+    "url": "https://virufy.org/compensar/static/js/runtime-main.fb4905c1.js"
   },
   {
     "revision": "74682ec33acb1a883ae7d81e961610ce",
