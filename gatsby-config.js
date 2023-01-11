@@ -7,12 +7,6 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "gatsby-plugin-google-gtag",
-      options: {
-        trackingIds: ["G-7PW8HS67TW", "G-8NL5MSXJPZ"],
-      },
-    },
-    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `GatsbyJS`,
@@ -22,14 +16,6 @@ module.exports = {
         theme_color: `#a2466c`,
         display: `standalone`,
         icon: "src/images/icons/favicon.png",
-      },
-    },
-    {
-      resolve: `gatsby-plugin-hotjar`,
-      options: {
-        includeInDevelopment: true, // optional parameter to include script in development
-        id: 1878866,
-        sv: 6,
       },
     },
     "gatsby-plugin-postcss",
