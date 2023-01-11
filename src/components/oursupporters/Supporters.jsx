@@ -150,6 +150,18 @@ export default function Supporters() {
                   style={{ flex: "0 1 20%" }}
                   className="md:min-w-250  md:2 max-w-full"
                 >
+                  <a href={supporter_links.lswInstitute} target="_blank">
+                    <GatsbyImage
+                      imgStyle={{ objectFit: "contain" }}
+                      className="h-full max-h-24"
+                      fluid={images["lswinstitute"]}
+                    />
+                  </a>
+                </div>
+                <div
+                  style={{ flex: "0 1 20%" }}
+                  className="md:min-w-250  md:2 max-w-full"
+                >
                   <a href={supporter_links.aws} target="_blank">
                     <GatsbyImage
                       imgStyle={{ objectFit: "contain" }}
