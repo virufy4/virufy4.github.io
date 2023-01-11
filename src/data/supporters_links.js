@@ -27,4 +27,5 @@ export default {
   drive: "https://drive.hhs.gov/",
   dgaAbogados: "https://col-law.com/home-2/",
   olartemoure: "https://www.olartemoure.com/",
+  lswInstitute: "https://www.lswinstitute.org/",
 };
