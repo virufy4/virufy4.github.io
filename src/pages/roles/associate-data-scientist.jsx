@@ -136,10 +136,10 @@ function associateDataScientist() {
             <span>
               Reach out to{" "}
               <a
-                href="mailto:vivek.krishnani@virufy.org"
+                href="mailto:frederick.cosper@virufy.org"
                 className="text-blue-600 cursor-pointer"
               >
-                vivek.krishnani@virufy.org
+                frederick.cosper@virufy.org
               </a>{" "}
               and we will get back to you promptly.
             </span>
