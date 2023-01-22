@@ -114,7 +114,7 @@ export default function Papers({ data }) {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://docs.google.com/spreadsheets/d/1kgKk9HfIj6Q0EDnrVcknIYAjvscLcI35rnPn3j7OYko/edit"
+            href="https://arxiv.org/abs/2201.11109"
             className="text-black"
           >
             <u>
@@ -144,7 +144,7 @@ export default function Papers({ data }) {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://pubmed.ncbi.nlm.nih.gov/34610883/"
+            href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8421112/"
             className="text-black"
           >
             <u>

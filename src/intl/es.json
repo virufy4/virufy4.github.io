@@ -145,11 +145,11 @@
         "Question#1": {
           "numberQuestion": "Pregunta #1",
           "questionIdQ": "¿Por qué se distingue la tos de COVID-19?",
-          "questionIdA": "Al igual que otras enfermedades respiratorias, COVID-19 daña la garganta y los pulmones, creando diferencias detecables en los patrones de tos. En consecuencia, los sonidos de la tos se pueden analizar para identificar patrones del COVID-19. A nivel mundial, esta idea se está investigando activamente por varias instituciones prestigiosas, incluidas Carnegie Mellon (CMU), MIT y Cambridge. Por ejemplo, una investigación realizada por la Universidad de Cambridge mostró que un clasificador binario de aprendizaje automático simple puede clasificar a los pacientes con COVID-19 positivos a través de la respiración y los sonidos de tos con altos precisión. De manera similar, los investigadores de CMU identificaron 18 características de voz que distinguen a los pacientes positivos con COVID-19 y entrenaron un modelo académico para detectar COVID-19 con alta precisión ."
+          "questionIdA": "Al igual que otras enfermedades respiratorias, COVID-19 daña la garganta y los pulmones, creando diferencias notables en los patrones de tos. En consecuencia, los sonidos de la tos se pueden analizar para identificar patrones del COVID-19. A nivel mundial, esta idea se está investigando activamente por varias instituciones prestigiosas, incluidas Carnegie Mellon (CMU), MIT y Cambridge. Por ejemplo, una investigación realizada por la Universidad de Cambridge mostró que un clasificador binario de aprendizaje automático simple puede clasificar a los pacientes con COVID-19 positivos a través de la respiración y los sonidos de tos con altos precisión. De manera similar, los investigadores de CMU identificaron 18 características de voz que distinguen a los pacientes positivos con COVID-19 y entrenaron un modelo académico para detectar COVID-19 con alta precisión ."
         },
         "Question#2": {
           "numberQuestion": "Pregunta #2",
-          "questionIdQ": "¿Cómo identificará el algoritmo de inteligencia artificial de Virufy COVID-19?",
+          "questionIdQ": "¿Cómo identificará el algoritmo de inteligencia artificial de Virufy el COVID-19?",
           "questionIdA": "Basado en investigaciones anteriores, Virufy está desarrollando un algoritmo de inteligencia artificial que se puede utilizar para predecir con precisión una infección por COVID-19 en cuestión de minutos según las grabaciones de los sonidos de la tos. Sin embargo, a diferencia de la investigación previa de COVID-19 sobre la tos dirigida en la población de EE. UU., Virufy tiene como objetivo recopilar datos de varios sitios en todo el mundo. Como una iniciativa dirigida por estudiantes con voluntarios en varios países, Virufy está desarrollando un modelo de predicción del estado de COVID-19 con mayor inclusión racial y espacial a través de datos que incluyen una variedad de etnias y diferencias fonológicas específicas de la comunidad ."
         },
         "Question#3": {
@@ -199,7 +199,7 @@
         },
         "Question#12": {
           "numberQuestion": "Pregunta #12",
-          "questionIdQ": "¿Cuáles son sus planes para Virufy después de que COVID-19 esté bajo control?",
+          "questionIdQ": "¿Cuáles son los planes de Virufy después de que COVID-19 esté bajo control?",
           "questionIdA": "Virufy tiene como objetivo poner fin a la propagación de diversas enfermedades transmisibles en países de bajos ingresos mediante pruebas generalizadas basadas en teléfonos inteligentes que se pueden utilizar siempre que una comunidad se sienta en riesgo de propagación del virus. la tecnología de inteligencia artificial se puede adaptar para identificar otros coronavirus, incluidos el resfriado común y la influenza. Esto puede reducir la carga innecesaria en los sistemas de salud y el diagnóstico basado en químicos para enfermedades que pueden ser detectadas por la IA."
         }
       },
@@ -305,7 +305,7 @@
     "DetectionCategory": "Tecnología",
     "distinguishableQ": "¿Por qué se distinguen las toses de COVID-19?",
     "distinguishableA": "Similar a otras enfermedades respiratorias, COVID-19 crea una firma respiratoria única en la garganta y los pulmones que es distinta de otras infecciones respiratorias que producen tos húmeda. En consecuencia, se ha sugerido que los sonidos de la tos se pueden analizar para detectar COVID-19. A nivel mundial, esta idea está siendo investigada activamente por varias instituciones prestigiosas, incluidas CMU [8], MIT y Cambridge. Por ejemplo, una investigación de crowdsource realizada por la Universidad de Cambridge mostró que un clasificador binario simple de aprendizaje automático puede clasificar a los pacientes positivos para COVID-19 a través de sonidos respiratorios y de tos con alta precisión (AUC = 0,7) [7]. De manera similar, los investigadores de CMU identificaron 18 características de voz que distinguen a los pacientes positivos para COVID-19 y entrenaron un modelo para diagnosticar COVID- 19 con una precisión del 89,1%. ",
-    "diagnosisQ": "¿Cómo identificará el algoritmo de inteligencia artificial de Virufy COVID-19?",
+    "diagnosisQ": "¿Cómo identificará el algoritmo de inteligencia artificial de Virufy el COVID-19?",
     "diagnosisA": "Basado en esta investigación anterior, Virufy está desarrollando un algoritmo de inteligencia artificial que puede usarse para predecir con precisión una infección por COVID-19 en minutos basándose en grabaciones de sonidos de tos. Sin embargo, a diferencia de la investigación previa de COVID-19 sobre la tos que dirigido a la población de EE. UU., Virufy tiene como objetivo recopilar datos de varios sitios en todo el mundo. Como una iniciativa dirigida por estudiantes con voluntarios en varios países, Virufy está desarrollando un modelo de predicción del estado de COVID-19 con mayor inclusión racial y espacial a través de datos que incluyen un rango de etnias y diferencias fonológicas específicas de la comunidad. ",
     "performanceQ": "¿El rendimiento del modelo de IA en diferentes teléfonos inteligentes no se verá afectado?",
     "performanceA": "Idealmente, quisiéramos que los usuarios siguieran las instrucciones en la aplicación que explican cómo registrar su tos. Sin embargo, podemos usar una técnica llamada aumento de datos para hacer que el algoritmo funcione en todo tipo de escenarios si es necesario",
@@ -364,7 +364,7 @@
     },
     "availableRoles": {
       "ourMissionTitle": "Nuestra Misión",
-      "ourMission": "Virufy, un consorcio de investigación sin fines de lucro de investigadores, innovadores y científicos, ha unido a voluntarios de más de 25 países para desarrollar una aplicación para teléfonos inteligentes para la detección de COVID-19. Inicialmente desarrollada como un proyecto del laboratorio de innovación de respuesta COVID-19 de la Universidad de Stanford, la solución de diagnóstico COVID-19 de inteligencia artificial (IA) de Virufy combate la pandemia a través de pruebas generalizadas, accesibles y gratuitas.",
+      "ourMission": "Virufy, un consorcio de investigación sin fines de lucro de investigadores, innovadores y científicos, ha unido a voluntarios de más de 25 países para desarrollar una aplicación para teléfonos inteligentes para la lucha de COVID-19. Inicialmente desarrollada como un proyecto del laboratorio de innovación de respuesta COVID-19 de la Universidad de Stanford, la solución para la predicción del estado de COVID-19 de inteligencia artificial (IA) de Virufy combate la pandemia a través de pruebas generalizadas, accesibles y gratuitas.",
       "join": "Únete al equipo Virufighter",
       "fontHeading": "Virufy está completamente formado de voluntarios y empresas asociadas pro bono. Únete a nuestro equipo acelerado e impulsado por la misión para poner en práctica sus habilidades para frenar la propagación de la pandemia a nivel mundial.",
       "fontheadingBold": "¿Tienes lo que se necesita? ¡Consulta nuestras oportunidades a continuación!",
@@ -599,7 +599,7 @@
     "topFold": {
       "ourTech": "Nuestra Tecnologia",
       "diagnoseDisease": "La ciencia detrás de Virufy",
-      "healthcare": "La inteligencia artificial (IA) es capaz de detectar diferencias mínimas entre los patrones vocales, para detectar la presencia de enfermedades.",
+      "healthcare": "La inteligencia artificial (IA) es capaz de identificar diferencias mínimas entre los patrones vocales, para identificar la presencia de enfermedades.",
       "algorithmInfo": " ",
       "usingTechnology": "Análisis de enfermedades con IA",
       "ourAI": "Nuestra AI",
@@ -631,22 +631,22 @@
       "wantToLearnMore": "Deseas obtener más información?",
       "imperialCollegeLondon": {
         "title": "Imperial College London",
-        "description": "El estudio \" Un algoritmo basado en la tos para el diagnóstico automático de tos ferina \" utiliza tos ferina, crup y tos que contiene sibilancias correspondientes a otras enfermedades como la bronquiolitis y el asma para entrenar a la IA a fin de detectar la tos ferina. El algoritmo es capaz de diagnosticar con éxito toda la tos ferina a partir de grabaciones de audio, detectando automáticamente los sonidos individuales de la tos con una precisión del 92% y un VPP del 97%. Su resultado respalda el uso de la IA como un candidato potencial para diferenciar y diagnosticar los sonidos respiratorios.",
+        "description": "El estudio \" Un algoritmo basado en la tos para la identificación automática de tos ferina \" utiliza tos ferina, crup y tos que contiene sibilancias correspondientes a otras enfermedades como la bronquiolitis y el asma para entrenar a la IA a fin de identificar la tos ferina. El algoritmo es capaz de identificar con éxito toda la tos ferina a partir de grabaciones de audio, identificando automáticamente los sonidos individuales de la tos con una precisión del 92% y un VPP del 97%. Su resultado respalda el uso de la IA como un candidato potencial para diferenciar y identificar los sonidos respiratorios.",
         "source": " "
       },
       "carnegieMellonUniversity": {
         "title": "Carnegie Mellon University (CMU)",
-        "description": "Un estudio de la Universidad Carnegie Mellon tenía como objetivo recopilar una gran cantidad de muestras de voz para entrenar a la IA en el diagnóstico de COVID. El fundamento del estudio es que, \" el sonido de nuestra voz (independientemente del idioma) y los sonidos que hacemos al respirar o toser cambian cuando nuestro sistema respiratorio se ve afectado. Los cambios van desde cambios burdos y claramente audibles hasta cambios mínimos, lo que llamamos firmas \"micro\", que no son audibles para el oyente inexperto, pero que sin embargo están presentes. \"",
+        "description": "Un estudio de la Universidad Carnegie Mellon tenía como objetivo recopilar una gran cantidad de muestras de voz para entrenar a la IA en la predicción del estado de COVID. El fundamento del estudio es que, \" el sonido de nuestra voz (independientemente del idioma) y los sonidos que hacemos al respirar o toser cambian cuando nuestro sistema respiratorio se ve afectado. Los cambios van desde cambios burdos y claramente audibles hasta cambios mínimos, lo que llamamos firmas \"micro\", que no son audibles para el oyente inexperto, pero que sin embargo están presentes. \"",
         "source": ""
       },
       "MIT": {
         "title": "Massachusetts Institute of Technology (MIT)",
-        "description": "La investigación revisada por IEEE del MIT informó sensibilidades del 98% para la detección asintomática de COVID-19 solo por tos.",
+        "description": "La investigación revisada por IEEE del MIT informó sensibilidades del 98% para la lucha asintomática de COVID-19 solo por tos.",
         "source": " "
       },
       "CornellUniversity": {
         "title": "University of Cambridge",
-        "description": "Una investigación de colaboración colectiva realizada por la Universidad de Cambridge que utilizó muestras de tos y respiración para comprender qué tan discernibles son los sonidos de COVID-19 de aquellos en asma o controles sanos. Sus resultados muestran que incluso un simple clasificador binario de aprendizaje automático es capaz de clasificar correctamente los sonidos sanos y COVID-19. Nuestros modelos alcanzan un AUC superior al 70% en todas las tareas. Este trabajo inspira una mayor investigación de cómo los patrones respiratorios analizados automáticamente se pueden utilizar como señales de preselección para ayudar al diagnóstico de COVID-19.",
+        "description": "Una investigación de colaboración colectiva realizada por la Universidad de Cambridge que utilizó muestras de tos y respiración para comprender qué tan discernibles son los sonidos de COVID-19 de aquellos en asma o controles sanos. Sus resultados muestran que incluso un simple clasificador binario de aprendizaje automático es capaz de clasificar correctamente los sonidos sanos y COVID-19. Nuestros modelos alcanzan un AUC superior al 70% en todas las tareas. Este trabajo inspira una mayor investigación de cómo los patrones respiratorios analizados automáticamente se pueden utilizar como señales de preselección para ayudar la predicción del estado de COVID-19.",
         "source": " "
       }
     },
@@ -890,7 +890,7 @@
       "amilStory": {
         "firstParagraph": {
           "one": "Virufy fue formada en marzo de 2020, cuando Amil se comprometió a combatir la pandemia y consiguió el apoyo de expertos reconocidos a nivel mundial, alineados bajo una misión común: Detener el COVID-19 en apoyo del bien público.",
-          "two": "Con la llegada de la pandemia por COVID-19, en medio de los cierres por la cuarentena, la incertidumbre, los hospitales desbordados y la falta de pruebas de diagnóstico, Amil se comprometió con los nuevos esfuerzos por combatir la pandemia. Inspirándose en las enseñanzas de sus profesores de la Universidad de Stanford, le surgió la idea de utilizar la Inteligencia Artificial (IA) con ese fin.",
+          "two": "Con la llegada de la pandemia por COVID-19, en medio de los cierres por la cuarentena, la incertidumbre, los hospitales desbordados y la falta de pruebas de predicción del estado de COVID-19, Amil se comprometió con los nuevos esfuerzos por combatir la pandemia. Inspirándose en las enseñanzas de sus profesores de la Universidad de Stanford, le surgió la idea de utilizar la Inteligencia Artificial (IA) con ese fin.",
           "three": "Con el apoyo de varios profesores y grupos de estudiantes de Stanford, Amil fundó Virufy, una organización sin ánimo de lucro que está desarrollando una aplicación para teléfonos inteligentes que permite detectar el COVID-19 de forma instantánea mediante el análisis de grabaciones de voz y tos con ayuda de la IA."
         },
         "secondParagraph": "La pasión de Amil por el servicio social comenzó a una edad temprana, inculcado por su padre, quienes trabajaron juntos como voluntarios en comedores sociales y residencias de ancianos. En la escuela secundaria, Amil se aficionó a la programación como medio para ayudar a los demás.",
