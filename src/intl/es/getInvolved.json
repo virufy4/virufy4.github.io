@@ -8,13 +8,13 @@
     "tellStory": "Cuéntanos Tu Historia"
   },
   "joinusContibute": {
-    "title": "Necesitamos tu contribución para poder seguir ayudando a millones de personas en la lucha contra el Covid",
+    "title": "Necesitamos de tu contribución para apoyar a millones de personas en todo el mundo en la lucha contra el COVID-19.",
     "details": "Tenemos dos formas de contribuir - elige la que prefieras y haz tu donación ahora.",
     "buttonDonate": "Donar"
   },
   "availableRoles": {
     "ourMissionTitle": "Nuestra Misión",
-    "ourMission": "Virufy, un consorcio de investigación sin fines de lucro de investigadores, innovadores y científicos, ha unido a voluntarios de más de 25 países para desarrollar una aplicación para teléfonos inteligentes para la detección de COVID-19. Inicialmente desarrollada como un proyecto del laboratorio de innovación de respuesta COVID-19 de la Universidad de Stanford, la solución de diagnóstico COVID-19 de inteligencia artificial (IA) de Virufy combate la pandemia a través de pruebas generalizadas, accesibles y gratuitas.",
+    "ourMission": "Virufy, un consorcio de investigación sin fines de lucro de investigadores, innovadores y científicos, ha unido a voluntarios de más de 25 países para desarrollar una aplicación para teléfonos inteligentes para la lucha de COVID-19. Inicialmente desarrollada como un proyecto del laboratorio de innovación de respuesta COVID-19 de la Universidad de Stanford, la solución para la identificación del estado de COVID-19 de inteligencia artificial (IA) de Virufy combate la pandemia a través de pruebas generalizadas, accesibles y gratuitas.",
     "join": "Únete al equipo Virufighter",
     "fontHeading": "Virufy está completamente formado de voluntarios y empresas asociadas pro bono. Únete a nuestro equipo acelerado e impulsado por la misión para poner en práctica sus habilidades para frenar la propagación de la pandemia a nivel mundial.",
     "fontheadingBold": "¿Tienes lo que se necesita? ¡Consulta nuestras oportunidades a continuación!",
@@ -56,7 +56,7 @@
   },
   "donate": {
     "title": "Hacer una donación",
-    "details": "Haz tu donación ahora para ayudar a Virufy a realizar su trabajo vital de llevar la detección de enfermedades rápida y gratuita a todos. \n\n Todo ayuda; no podríamos hacerlo sin el apoyo financiero de colaboradores como usted.",
+    "details": "Haz tu donación ahora para ayudar a Virufy a realizar su trabajo vital de llevar la identificación de patrones de enfermedades rápida y gratuita a todos. \n\n Todo ayuda; no podríamos hacerlo sin el apoyo financiero de colaboradores como usted.",
     "donateButton": "Done para apoyar nuestra organización"
   },
   "shareCough": {
@@ -75,7 +75,7 @@
     },
     "join": {
       "title": "Conoce nuestra gente",
-      "details": "Virufy trabaja con instituciones establecidas en todo el mundo para cumplir con su misión en las áreas de tecnología médica, gobierno y otras áreas. Como organización sin fines de lucro en el campo de la identificación de enfermedades con tecnología, nuestro objetivo es transformar la atención médica global e inspirar apoyo e inversión.",
+      "details": "Virufy trabaja con instituciones establecidas en todo el mundo para cumplir con su misión en las áreas de tecnología médica, gobierno y otras áreas. Como organización sin fines de lucro en el campo de la identificación de patrones de enfermedades con tecnología, nuestro objetivo es transformar la atención médica global e inspirar apoyo e inversión.",
       "linkText": "Quiénes somos"
     }
   }

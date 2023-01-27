@@ -1,5 +1,6 @@
 const url =
   "https://spreadsheets.google.com/feeds/cells/1PnsTLMpNN9WsffMnmmTMp-Na7zZlbc1kihDsh7m0mLo/7/public/full?alt=json";
+
 export async function getData() {
   try {
     const response = await fetch(url);

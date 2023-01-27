@@ -20,19 +20,19 @@
   "section3": {
     "howItWorks": "Cómo funciona nuestra prueba de Covid-19 en línea",
     "header": "La comunidad Virufy",
-    "subencabezado": "Estamos recolectando toses para mejorar nuestro algoritmo de IA e implementaremos un proceso de detección de tres pasos que ayudará a contribuir a un diagnóstico de COVID-19 rápido y fácil para el beneficio de países de todo el mundo, especialmente los países de bajos ingresos. <br> Ayude a apoyar nuestra visión donando una tos hoy.",
+    "subencabezado": "Estamos recolectando toses para mejorar nuestro algoritmo de IA e implementaremos un proceso de identificación de patrones de enfermedades tres pasos que ayudará a contribuir a un diagnóstico de COVID-19 rápido y fácil para el beneficio de países de todo el mundo, especialmente los países de bajos ingresos. <br> Ayude a apoyar nuestra visión donando una tos hoy.",
     "header1": "Graba tu tos",
     "header2": "AI analiza el patron respiratorio",
     "header3": "Número de toses recopiladas",
     "tryItOutLink": "PRUEBA",
-    "description": "Virufy se fundó en marzo de 2020. Hoy, Virufighters en los cinco continentes se comprometen para hacer que la detección de enfermedades sea instantánea y gratuita a través de tecnología innovadora.",
+    "description": "Virufy se fundó en marzo de 2020. Hoy, Virufighters en los cinco continentes se comprometen para hacer que la lucha contra enfermedades sea instantánea y gratuita a través de tecnología innovadora.",
     "numbercollected": "100.000",
     "joincommunity": "Únete a nuestra comunidad"
   },
   "section4": {
     "header": "Nuestra historia",
-    "pg1": "En marzo de 2020, fuimos pioneros en una aplicación móvil impulsada por IA para detectar COVID-19",
-    "pg2": "Ahora, los Virufighters en los cinco continentes están comprometidos a hacer que la detección de enfermedades sea instantánea y gratuita a través de la innovación tecnológica",
+    "pg1": "En marzo de 2020, fuimos pioneros en una aplicación móvil impulsada por IA para identificar patrones de COVID-19",
+    "pg2": "Ahora, los Virufighters en los cinco continentes están comprometidos a hacer que la identificación de patrones de enfermedades sea instantánea y gratuita a través de la innovación tecnológica",
     "knowUsLink": "Conocenos",
     "header2": "Nos apoyamos",
     "supporter": "Conviértete en partidario"
@@ -43,8 +43,8 @@
   },
   "faq": {
     "distinguishableQ": "¿Por qué se distinguen las toses de COVID-19?",
-    "distinguishableA": "Al igual que otras enfermedades respiratorias, COVID-19 daña la garganta y los pulmones, creando diferencias detectables en los patrones de tos. En consecuencia, los sonidos de la tos pueden analizarse para detectar COVID-19. A nivel mundial, esta idea se está investigando activamente por varias instituciones prestigiosas, incluidas Carnegie Mellon (CMU), MIT y Cambridge. Por ejemplo, una investigación realizada por la Universidad de Cambridge mostró que un clasificador binario simple de aprendizaje automático puede clasificar a los pacientes con COVID-19 positivos a través de sonidos respiratorios y de tos de manera muy precisa, los investigadores de CMU identificaron 18 características de voz que distinguen a los pacientes positivos con COVID-19 y desarrollaron un modelo académico para detectar COVID-19 con alta precisión. ",
-    "aiQ": "¿Cómo detectará COVID-19 el algoritmo de inteligencia artificial de Virufy?",
-    "aiA": "Basado en investigaciones anteriores, Virufy está desarrollando un algoritmo de inteligencia artificial que se puede utilizar para predecir con precisión una infección por COVID-19 en cuestión de minutos según las grabaciones de los sonidos de la tos. Sin embargo, a diferencia de la investigación previa de COVID-19 sobre la tos dirigida en la población de EE. UU., Virufy tiene como objetivo recopilar datos de varios sitios en todo el mundo. Como una iniciativa dirigida por estudiantes con voluntarios en varios países, Virufy está desarrollando un modelo de diagnóstico de COVID-19 con mayor inclusión racial y espacial a través de datos que incluyen una variedad de etnias y diferencias fonológicas específicas de la comunidad"
+    "distinguishableA": "Al igual que otras enfermedades respiratorias, COVID-19 daña la garganta y los pulmones, creando diferencias notables en los patrones de tos. En consecuencia, los sonidos de la tos pueden analizarse para identificar patrones de COVID-19. A nivel mundial, esta idea se está investigando activamente por varias instituciones prestigiosas, incluidas Carnegie Mellon (CMU), MIT y Cambridge. Por ejemplo, una investigación realizada por la Universidad de Cambridge mostró que un clasificador binario simple de aprendizaje automático puede clasificar a los pacientes con COVID-19 positivos a través de sonidos respiratorios y de tos de manera muy precisa, los investigadores de CMU identificaron 18 características de voz que distinguen a los pacientes positivos con COVID-19 y desarrollaron un modelo académico para identificar patrones de COVID-19 con alta precisión. ",
+    "aiQ": "¿Cómo identificará patrones de COVID-19 el algoritmo de inteligencia artificial de Virufy?",
+    "aiA": "Basado en investigaciones anteriores, Virufy está desarrollando un algoritmo de inteligencia artificial que se puede utilizar para identificar con precisión una infección por COVID-19 en cuestión de minutos según las grabaciones de los sonidos de la tos. Sin embargo, a diferencia de la investigación previa de COVID-19 sobre la tos dirigida en la población de EE. UU., Virufy tiene como objetivo recopilar datos de varios sitios en todo el mundo. Como una iniciativa dirigida por estudiantes con voluntarios en varios países, Virufy está desarrollando un modelo de identificación del estado de COVID-19 con mayor inclusión racial y espacial a través de datos que incluyen una variedad de etnias y diferencias fonológicas específicas de la comunidad"
   }
 }
