@@ -26,13 +26,6 @@ export default function Dashboard({ data }) {
                 __html: intl.formatMessage({ id: "dashboard.sub-header" }),
               }}
             />
-            <a
-              className="vf-btn-primary mx-auto my-4 px-6 py-2 inline-block border-2 border-blue"
-              target="_blank"
-              href={"/app"}
-            >
-              {intl.formatMessage({ id: "dashboard.button" })}
-            </a>
           </div>
         </div>
       </div>
@@ -41,13 +34,26 @@ export default function Dashboard({ data }) {
         <iframe
           className="inset-0"
           frameborder="0"
-          width="75%"
+          width="80%"
           height="120%"
-          scrolling="no"
-          src="https://datastudio.google.com/embed/reporting/a8be8870-2823-40d9-9159-a1f5bde05502/page/FSMVC"
+          src={`https://virufy-dashboard.vercel.app/${
+            intl.locale == "ja" ? "jp" : intl.locale
+          }`}
           allowfullscreen
           style={{ border: 0 }}
-        ></iframe>
+        />
+      </div>
+      <div className="flex flex-col items-center justify-center m-2">
+        <p className="text-xl text-center font-semibold mb-4">
+          {intl.formatMessage({ id: "dashboard.cta" })}
+        </p>
+        <a
+          className="vf-btn-primary mx-auto my-4 px-6 py-2 inline-block border-2 border-blue"
+          target="_blank"
+          href={"/app"}
+        >
+          {intl.formatMessage({ id: "dashboard.button" })}
+        </a>
       </div>
     </Layout>
   );
