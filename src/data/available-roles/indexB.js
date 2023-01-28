@@ -477,6 +477,69 @@ export const newRoles = {
         url:
           "https://docs.google.com/document/d/1umbOcHv3ZAMHIRx9XwWyAcFrdMlpdiimwJmwzKh_Jr0",
       },
+      {
+        title: "Paralegal",
+        slug: "paralegal",
+        description:
+          "Seeking an individual to contribute on a part-time volunteer basis and collaborate closely with the Virufy globally-dispersed legal team.",
+        responsabilities: [
+          "Summarizing documents and preparing reports for attorneys",
+          "Conducting research, investigating facts and developing legal opinions",
+          "Drafting legal documents such as contracts",
+          "Organizing and archiving documents as required",
+          "Keeping track of changes in legal framework and providing timely updates on these changes",
+          "Translate and localize legal documents, dependant upon multilingual skills",
+        ],
+        requirements: [
+          "Bachelor's Degree, or Associate's Degree with additional work experience, in Paralegal Studies",
+          "ABA (or equivalent) Certified Paralegal",
+          "Previous law firm experience in a Paralegal role",
+          "Investigative mind and strong research skills",
+          "Experience in preparing legal reports",
+          "Organized, collaborative, detail-oriented, and tech savvy with exceptional communication skills and responsive to emails/messaging",
+          "Strong sense of responsibility and ability to carry out tasks independently ",
+        ],
+        desired_skills: [
+          "Previous experience in non-profit organizations (including research or internship)",
+          "Fluency in Spanish and/or Brazilian Portuguese",
+        ],
+        minimun_qualification: [],
+        location: "Remote",
+        time_commitment:
+          "Minimum 10+ hours per week while actively localizing policies",
+        url:
+          "https://docs.google.com/document/d/1BWrJDXIv7vG5c0FuqAoqnBynF5Quov17NDb_g57nd5A",
+      },
+      {
+        title: "Corporate Attorney (IT Oriented)",
+        slug: "corporate-attorney-it-oriented",
+        description:
+          "Seeking an individual to contribute on a part-time volunteer basis and collaborate closely with Virufy management and globally-dispersed legal teams to help manage data privacy concerns for their local jurisdictions.",
+        responsabilities: [
+          "Review and adapt to local regulation legal documents drafted by senior legal counsel such as NDAs, contracts, partnership agreements, etc",
+          "Advise management and infosec teams on relevant data security policies for local regulations",
+          "Research data privacy and protection questions raised from leadership as relevant to your locality, such as for CCPA, GDPR, and LGPD",
+          "Support responses to inquiries from government authorities and individual requests such as data deletion and data portability",
+          "Ensure, assess and monitor compliance with local and international regulatory standards on habeas data and data treatment, as well as exposure to related infringement risks",
+          "Translate and localize legal documents as necessary",
+        ],
+        requirements: [
+          "Master's Level legal student (LL.M), or recent grad (having completed JD and passed the relevant Bar)",
+          "Organized, collaborative, detail-oriented, and tech-savvy with exceptional communication skills and responsive to emails/messaging",
+          "Strong sense of responsibility and ability to carry out tasks independently",
+        ],
+        desired_skills: [
+          "Previous experience in non-profit organizations (including research or internship)",
+          "Understanding the deep meanings of legal terms such as “reasonable efforts”",
+          "Fluency in Spanish and/or Brazilian Portuguese is a plus",
+        ],
+        minimun_qualification: [],
+        location: "Remote",
+        time_commitment:
+          "Minimum 10+ hours per week while actively localizing policies",
+        url:
+          "https://docs.google.com/document/d/1yXPPna4s7jQxsg9dlhcaJdDcyJASbanPsjhPkuVOJeU",
+      },
     ],
   },
 };
