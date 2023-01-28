@@ -223,11 +223,6 @@
 <url> <loc>https://virufy.org/es/roles/business-manager/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/pt/roles/business-manager/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/ja/roles/business-manager/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/roles/corporate-attorney-it-oriented/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/en/roles/corporate-attorney-it-oriented/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/es/roles/corporate-attorney-it-oriented/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/pt/roles/corporate-attorney-it-oriented/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/ja/roles/corporate-attorney-it-oriented/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/roles/data-privacy-intern/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/en/roles/data-privacy-intern/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/es/roles/data-privacy-intern/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -273,11 +268,6 @@
 <url> <loc>https://virufy.org/es/roles/ml-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/pt/roles/ml-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/ja/roles/ml-engineer/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/roles/paralegal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/en/roles/paralegal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/es/roles/paralegal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/pt/roles/paralegal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/ja/roles/paralegal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/roles/project-manager/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/en/roles/project-manager/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/es/roles/project-manager/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
