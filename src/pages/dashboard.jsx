@@ -29,21 +29,13 @@ export default function Dashboard({ data }) {
           </div>
         </div>
       </div>
-      {/* COUNTER */}
-      <div className="w-full h-auto sm:h-screen grid justify-items-center px-2  md:mb-44 xs:mb-36">
-        <iframe
-          className="inset-0"
-          frameborder="0"
-          width="80%"
-          height="120%"
-          src={`https://virufy-dashboard.vercel.app/${
-            intl.locale == "ja" ? "jp" : intl.locale
-          }`}
-          allowfullscreen
-          style={{ border: 0 }}
-        />
-      </div>
-      <div className="flex flex-col items-center justify-center m-2">
+      <iframe
+        src={`https://virufy-dashboard.vercel.app/${
+          intl.locale == "ja" ? "jp" : intl.locale
+        }`}
+        className="w-full min-h-screen border-none"
+      />
+      <div className="flex flex-col items-center justify-center mt-8 m-2">
         <p className="text-xl text-center font-semibold mb-4">
           {intl.formatMessage({ id: "dashboard.cta" })}
         </p>
