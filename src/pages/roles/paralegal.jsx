@@ -9,9 +9,7 @@ import { GoPrimitiveDot, GoChevronLeft } from "react-icons/go";
 import { Link } from "gatsby";
 
 function paralegal() {
-  const role = newRoles.human_resources.roles.filter(
-    (role) => role.slug === "paralegal"
-  );
+  const role = newRoles.legal.roles.filter((role) => role.slug === "paralegal");
 
   return (
     <Layout className="font-montserrat">
