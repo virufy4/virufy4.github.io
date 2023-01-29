@@ -9,7 +9,7 @@ import { GoPrimitiveDot, GoChevronLeft } from "react-icons/go";
 import { Link } from "gatsby";
 
 function corporateAttorneyItOriented() {
-  const role = newRoles.human_resources.roles.filter(
+  const role = newRoles.legal.roles.filter(
     (role) => role.slug === "corporate-attorney-it-oriented"
   );
 

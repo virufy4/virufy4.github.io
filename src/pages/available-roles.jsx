@@ -110,6 +110,11 @@ export default function AvailableRoles() {
           <Role key={i} {...role} intl={intl} />
         ))}
 
+        <h2 className="text-blue-600 mt-14 mb-2">Legal</h2>
+        {newRoles.legal.roles.map((role, i) => (
+          <Role key={i} {...role} intl={intl} />
+        ))}
+
         {/* {roles.map((role) => (
           <Role key={role.title} {...role} intl={intl} />
         ))} */}
