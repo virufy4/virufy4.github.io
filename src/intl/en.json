@@ -5,161 +5,6 @@
     "code": "Error code: 404",
     "back": "Back to Homepage"
   },
-  "CAROUSEL": {
-    "listInfo": {
-      "title": "We believe that together we can help improve the world",
-      "intro": "People all over the world support and work with us to combat this type of disease, but many </p> people like you can help us too",
-      "jose": "“Teaching is the most efficient way to support the people we love”",
-      "philipe": "“Providing security for people I do not know”",
-      "sophie": "“Supporting people suffering from COVID”"
-    }
-  },
-  "OYW": {
-    "topbanner": {
-      "header": "About/Our Supporters",
-      "title": "Munich 2021",
-      "description": "OYW - The annual One Young World convened the brightest young talent from every country and sector, working to accelerate social impact. "
-    },
-    "headers": {
-      "header": "Virufy & One Young World",
-      "topbanner": "Our world needs great leadership. The new generation is one of the most informed, educated and well connected generations in world history. One Young World identifies, promotes and connects the most impactful young leaders across the globe to create a better world: a world with more responsible and effective leadership.",
-      "sub-header": "Virufy has been featured on various OYW platforms, including in the Americas and Japan, ambassadors in action , and ambassadors on the frontline for COVID-19 response . We are also collaborating with OYW coordinating ambassadors across various regions for outreach efforts. ",
-      "buttonJoinUs": "Join Us",
-      "help": "Help us bring Virufy to hospitals and communities near you! Together, we will transform healthcare and stop the spread of COVID. And this is just the beginning - join us in the fight against future pandemics, too!"
-    },
-    "section1": {
-      "header": "Check us out at the OYW 2021 Summit on 25 July 2021:",
-      "sub-header": "Yulie Qiao, Virufy’s Operations Lead, will be speaking during the COVID-19 Plenary Session.",
-      "sub-header2": "Learn more about Virufy at the Digital Exhibition."
-    },
-    "sectionHi": {
-      "header": "Come Say Hi!",
-      "amil": "<b>Amil Khanzada</b> - OYW Japan Ambassador & Virufy’s Founder and CEO",
-      "yulie": "<b>Yulie Qiao</b> - bp delegate, USA & Virufy Operations",
-      "ayomide": "<b>Ayomide Owoyemi, MD</b> - Novartis delegate, Nigeria & Virufy ML Clinical Stats ",
-      "shreya": "<b>Shreya Shreeram, MD</b> - Virufy delegate, India & Virufy Clinical Research",
-      "join": "<b>You can be part of the solution!</b> Visit our <a target='_blank' href='https://virufy.org/en/available-roles/'>Join Page</a> for open volunteering opportunities and also check out the <a target='_blank' href='https://docs.google.com/document/d/18XFbn6wSY6Ld-oN7UpqUY8GVX7T1wEaoJSn1HD9eBls/edit'>Virufy OYW playbook</a>."
-    },
-    "section2": {
-      "title": "Why One Young World?",
-      "header": "Focused on global impact",
-      "sub-header": " Collect data and provide equitable solutions for people in developing countries across the world.",
-      "youth": "Youth led",
-      "youth-des": "Our growing team is led by youth from over a dozen countries and are advised by global leaders.",
-      "ambassador": "Ambassador driven",
-      "ambassador-des": "Our organization structure matches One Young World with youth ambassadors leading operations in each country, with regional coordinating ambassadors.",
-      "diverse": "Diverse representation",
-      "diverse-des": "Our team has representation from over 25 universities and 15 countries and includes more than 10 One Young World ambassadors."
-    },
-    "ambassador": {
-      "header": "Our OYW x Virufy Community",
-      "ambassador-list": {
-        "amil": {
-          "name": "Amil Khanzada",
-          "descriptionOYW": "OYW Ambassador, Japan",
-          "descriptionVirufy": "Virufy Founder & Leader"
-        },
-        "madhav": {
-          "name": "Madhav Datt",
-          "descriptionOYW": "OYW Ambassador, India",
-          "descriptionVirufy": "Virufy Advisor"
-        },
-        "marcos": {
-          "name": "Marcos Deza",
-          "descriptionOYW": "OYW Ambassador, Argentina",
-          "descriptionVirufy": "Virufy Digital Communications"
-        },
-        "yulie": {
-          "name": "Yulie Qiao",
-          "descriptionOYW": "2021 OYW bp Delegate, USA",
-          "descriptionVirufy": "Virufy Operations"
-        },
-        "ayomide": {
-          "name": "Ayomide Owoyemi, MD",
-          "descriptionOYW": "2021 OYW Novartis Delegate, Nigeria",
-          "descriptionVirufy": "Virufy Machine Learning Clinical Statistics"
-        },
-        "shreya": {
-          "name": "Shreya Sreeram, MD",
-          "descriptionOYW": "2021 Virufy Delegate, India",
-          "descriptionVirufy": "Virufy Clinical Research"
-        },
-        "lauravelasquezh": {
-          "name": "Laura Velasquez",
-          "descriptionOYW": "2021 OYW Johnson & Johnson Delegate, Colombia",
-          "descriptionVirufy": "Arkangel AI Co-founder and President & Virufy Partner"
-        },
-        "nathan": {
-          "name": "Nathan Thomas",
-          "descriptionOYW": "OYW Coordinating Ambassador, USA",
-          "descriptionVirufy": " "
-        },
-        "jason": {
-          "name": "Jason Pareja Jauregui",
-          "descriptionOYW": "OYW Coordinating Ambassador LATAM, Peru",
-          "descriptionVirufy": " "
-        },
-        "katherine": {
-          "name": "Katherine Thalia Ortiz León",
-          "descriptionOYW": "OYW Ambassador, Peru",
-          "descriptionVirufy": " "
-        },
-        "gonzalo": {
-          "name": "Gonzalo Roiffe",
-          "descriptionOYW": "OYW Ambassador, Argentina",
-          "descriptionVirufy": " "
-        },
-        "annelisse": {
-          "name": "Annelisse Torrez Daza",
-          "descriptionOYW": "OYW Ambassador, Bolivia",
-          "descriptionVirufy": " "
-        },
-        "veronica": {
-          "name": "Verónica Guzmán Quilaqueo",
-          "descriptionOYW": "OYW Ambassador, Chile",
-          "descriptionVirufy": " "
-        },
-        "sebastian": {
-          "name": "Sebastian Pedraza",
-          "descriptionOYW": "OYW Ambassador, Colombia",
-          "descriptionVirufy": " "
-        },
-        "kenmaru": {
-          "name": "Kenmaru Suedomi",
-          "descriptionOYW": "OYW Ambassador, Japan",
-          "descriptionVirufy": " "
-        },
-        "kapil": {
-          "name": "Kapil Narain, MD",
-          "descriptionOYW": "OYW Ambassador, South Africa",
-          "descriptionVirufy": " "
-        },
-        "leonard": {
-          "name": "Leonard Burhz",
-          "descriptionOYW": "OYW Ambassador, Ireland",
-          "descriptionVirufy": " "
-        },
-        "allana": {
-          "name": "Allana Doyle",
-          "descriptionOYW": "Embajador OYW, EE.UU",
-          "descriptionVirufy": " "
-        },
-        "kavya": {
-          "name": "Kavya Madhavan",
-          "descriptionOYW": "Embajador OYW, EE.UU",
-          "descriptionVirufy": " "
-        }
-      }
-    },
-    "testimonials": {
-      "title": "Volunteer Stories",
-      "intro": "Our team is led by students dedicated to social good from reputable institutions like Stanford, Princeton, and One Young World. We have strong trust in members of the One Young World community and warmly welcome any ambassadors interested to pitch in.",
-      "annelisse": "“Having suffered through COVID myself along with all of my family in a underprivileged country, I knew instantly that I could make a difference and prevent others from facing my same fate by joining Virufy.”",
-      "sebastian": "“Virufy unites the power of youth and technology to transform the world. We hope that this solution will reach the whole world and that it will become a support for doctors, especially in low-income countries.”",
-      "gonzalo": "“Virufy will impact globally, no matter the users' background or social status. This is what changing the status quo feels like.”",
-      "marcos": "“I think that Virufy will develop a very accurate solution and this will be useful for the entire world in every industry. So I encourage everyone to take some minutes and contribute with us.”"
-    }
-  },
   "becomeaSupporter": {
     "title-BecomeaSuporter": "Become a Supporter",
     "title-BecomeaPartner": "Become a Partner",
@@ -172,6 +17,15 @@
     "inputstory": "*Share with us your story",
     "inputupLoadyourPicture": "*Upload your picture",
     "back": "Back"
+  },
+  "CAROUSEL": {
+    "listInfo": {
+      "title": "We believe that together we can help improve the world",
+      "intro": "People all over the world support and work with us to combat this type of disease, but many </p> people like you can help us too",
+      "jose": "“Teaching is the most efficient way to support the people we love”",
+      "philipe": "“Providing security for people I do not know”",
+      "sophie": "“Supporting people suffering from COVID”"
+    }
   },
   "dashboard": {
     "header": "Collected Data Dashboard",
@@ -500,13 +354,13 @@
     "title": "You can help control the pandemic | Virufy",
     "otherWaysContribute": {
       "title": "Other Ways To Contribute",
-      "contribute": "Contribute",
-      "collaborate": "Collaborate",
+      "contribute": "Donate",
+      "collaborate": "Join The Team",
       "tellStory": "Tell Your Story"
     },
     "joinusContibute": {
-      "title": "We need your contribution to be able to continue helping millions of people in the fight against covid",
-      "details": "We have two ways to contribute – choose the one you want, and donate now.",
+      "title": "We need your contribution to be able to continue helping millions of people in the fight against COVID-19",
+      "details": " ",
       "buttonDonate": "Donate"
     },
     "availableRoles": {
@@ -582,7 +436,7 @@
     "title": "Developing an online Covid-19 test with AI | Virufy",
     "section1": {
       "header": "An online Covid-19 test is possible",
-      "pg": "Virufy is a nonprofit research organization developing artificial intelligence (AI) technology to screen for COVID-19 from cough patterns, rapidly and at no cost through use of a smartphone.",
+      "pg": "Virufy is a nonprofit research organization developing artificial intelligence (AI) technology to rapidly screen for COVID-19 from cough patterns, through use of a smartphone at no cost.",
       "coughLink": "CONTRIBUTE YOUR COUGH",
       "donateLink": "Share your cough now",
       "donateLinkResponsive": "Donate now",
@@ -591,7 +445,7 @@
     },
     "section2": {
       "header": "We believe that together we can help improve the world",
-      "pg1": "People all over the world support and work with us to combat this type of disease, but many people like you can help us too",
+      "pg1": "We have people from all over the world who support and work with us to combat this type of disease, and many people like you can help us too!",
       "pg2": "No matter where you are in the world, all you will need is a mobile device and the Virufy app.",
       "learnMoreLink": "Learn More",
       "donateyourcough": "Share your cough"
@@ -617,7 +471,7 @@
       "supporter": "Become a Supporter"
     },
     "section5": {
-      "messagehero": "Let’s help the world and save many lives by recording your cough",
+      "messagehero": "Help us save the world and many lives by recording your cough",
       "donatebuttonhero": "Share your cough now"
     },
     "faq": {
@@ -642,7 +496,7 @@
     "ourSupporters": "Our Supporters",
     "ourTeam": "Our People",
     "aboutUs": "About Us",
-    "joinUs": "Join Us",
+    "joinUs": "Get Involved",
     "technology": "Our Technology",
     "name-1": "Jose",
     "name-2": "Phillipe",
@@ -805,6 +659,152 @@
       "buttonDonateCough": "Donate your cough now"
     }
   },
+  "OYW": {
+    "topbanner": {
+      "header": "About/Our Supporters",
+      "title": "Munich 2021",
+      "description": "OYW - The annual One Young World convened the brightest young talent from every country and sector, working to accelerate social impact. "
+    },
+    "headers": {
+      "header": "Virufy & One Young World",
+      "topbanner": "Our world needs great leadership. The new generation is one of the most informed, educated and well connected generations in world history. One Young World identifies, promotes and connects the most impactful young leaders across the globe to create a better world: a world with more responsible and effective leadership.",
+      "sub-header": "Virufy has been featured on various OYW platforms, including in the Americas and Japan, ambassadors in action , and ambassadors on the frontline for COVID-19 response . We are also collaborating with OYW coordinating ambassadors across various regions for outreach efforts. ",
+      "buttonJoinUs": "Join Us",
+      "help": "Help us bring Virufy to hospitals and communities near you! Together, we will transform healthcare and stop the spread of COVID. And this is just the beginning - join us in the fight against future pandemics, too!"
+    },
+    "section1": {
+      "header": "Check us out at the OYW 2021 Summit on 25 July 2021:",
+      "sub-header": "Yulie Qiao, Virufy’s Operations Lead, will be speaking during the COVID-19 Plenary Session.",
+      "sub-header2": "Learn more about Virufy at the Digital Exhibition."
+    },
+    "sectionHi": {
+      "header": "Come Say Hi!",
+      "amil": "<b>Amil Khanzada</b> - OYW Japan Ambassador & Virufy’s Founder and CEO",
+      "yulie": "<b>Yulie Qiao</b> - bp delegate, USA & Virufy Operations",
+      "ayomide": "<b>Ayomide Owoyemi, MD</b> - Novartis delegate, Nigeria & Virufy ML Clinical Stats ",
+      "shreya": "<b>Shreya Shreeram, MD</b> - Virufy delegate, India & Virufy Clinical Research",
+      "join": "<b>You can be part of the solution!</b> Visit our <a target='_blank' href='https://virufy.org/en/available-roles/'>Join Page</a> for open volunteering opportunities and also check out the <a target='_blank' href='https://docs.google.com/document/d/18XFbn6wSY6Ld-oN7UpqUY8GVX7T1wEaoJSn1HD9eBls/edit'>Virufy OYW playbook</a>."
+    },
+    "section2": {
+      "title": "Why One Young World?",
+      "header": "Focused on global impact",
+      "sub-header": " Collect data and provide equitable solutions for people in developing countries across the world.",
+      "youth": "Youth led",
+      "youth-des": "Our growing team is led by youth from over a dozen countries and are advised by global leaders.",
+      "ambassador": "Ambassador driven",
+      "ambassador-des": "Our organization structure matches One Young World with youth ambassadors leading operations in each country, with regional coordinating ambassadors.",
+      "diverse": "Diverse representation",
+      "diverse-des": "Our team has representation from over 25 universities and 15 countries and includes more than 10 One Young World ambassadors."
+    },
+    "ambassador": {
+      "header": "Our OYW x Virufy Community",
+      "ambassador-list": {
+        "amil": {
+          "name": "Amil Khanzada",
+          "descriptionOYW": "OYW Ambassador, Japan",
+          "descriptionVirufy": "Virufy Founder & Leader"
+        },
+        "madhav": {
+          "name": "Madhav Datt",
+          "descriptionOYW": "OYW Ambassador, India",
+          "descriptionVirufy": "Virufy Advisor"
+        },
+        "marcos": {
+          "name": "Marcos Deza",
+          "descriptionOYW": "OYW Ambassador, Argentina",
+          "descriptionVirufy": "Virufy Digital Communications"
+        },
+        "yulie": {
+          "name": "Yulie Qiao",
+          "descriptionOYW": "2021 OYW bp Delegate, USA",
+          "descriptionVirufy": "Virufy Operations"
+        },
+        "ayomide": {
+          "name": "Ayomide Owoyemi, MD",
+          "descriptionOYW": "2021 OYW Novartis Delegate, Nigeria",
+          "descriptionVirufy": "Virufy Machine Learning Clinical Statistics"
+        },
+        "shreya": {
+          "name": "Shreya Sreeram, MD",
+          "descriptionOYW": "2021 Virufy Delegate, India",
+          "descriptionVirufy": "Virufy Clinical Research"
+        },
+        "lauravelasquezh": {
+          "name": "Laura Velasquez",
+          "descriptionOYW": "2021 OYW Johnson & Johnson Delegate, Colombia",
+          "descriptionVirufy": "Arkangel AI Co-founder and President & Virufy Partner"
+        },
+        "nathan": {
+          "name": "Nathan Thomas",
+          "descriptionOYW": "OYW Coordinating Ambassador, USA",
+          "descriptionVirufy": " "
+        },
+        "jason": {
+          "name": "Jason Pareja Jauregui",
+          "descriptionOYW": "OYW Coordinating Ambassador LATAM, Peru",
+          "descriptionVirufy": " "
+        },
+        "katherine": {
+          "name": "Katherine Thalia Ortiz León",
+          "descriptionOYW": "OYW Ambassador, Peru",
+          "descriptionVirufy": " "
+        },
+        "gonzalo": {
+          "name": "Gonzalo Roiffe",
+          "descriptionOYW": "OYW Ambassador, Argentina",
+          "descriptionVirufy": " "
+        },
+        "annelisse": {
+          "name": "Annelisse Torrez Daza",
+          "descriptionOYW": "OYW Ambassador, Bolivia",
+          "descriptionVirufy": " "
+        },
+        "veronica": {
+          "name": "Verónica Guzmán Quilaqueo",
+          "descriptionOYW": "OYW Ambassador, Chile",
+          "descriptionVirufy": " "
+        },
+        "sebastian": {
+          "name": "Sebastian Pedraza",
+          "descriptionOYW": "OYW Ambassador, Colombia",
+          "descriptionVirufy": " "
+        },
+        "kenmaru": {
+          "name": "Kenmaru Suedomi",
+          "descriptionOYW": "OYW Ambassador, Japan",
+          "descriptionVirufy": " "
+        },
+        "kapil": {
+          "name": "Kapil Narain, MD",
+          "descriptionOYW": "OYW Ambassador, South Africa",
+          "descriptionVirufy": " "
+        },
+        "leonard": {
+          "name": "Leonard Burhz",
+          "descriptionOYW": "OYW Ambassador, Ireland",
+          "descriptionVirufy": " "
+        },
+        "allana": {
+          "name": "Allana Doyle",
+          "descriptionOYW": "Embajador OYW, EE.UU",
+          "descriptionVirufy": " "
+        },
+        "kavya": {
+          "name": "Kavya Madhavan",
+          "descriptionOYW": "Embajador OYW, EE.UU",
+          "descriptionVirufy": " "
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Volunteer Stories",
+      "intro": "Our team is led by students dedicated to social good from reputable institutions like Stanford, Princeton, and One Young World. We have strong trust in members of the One Young World community and warmly welcome any ambassadors interested to pitch in.",
+      "annelisse": "“Having suffered through COVID myself along with all of my family in a underprivileged country, I knew instantly that I could make a difference and prevent others from facing my same fate by joining Virufy.”",
+      "sebastian": "“Virufy unites the power of youth and technology to transform the world. We hope that this solution will reach the whole world and that it will become a support for doctors, especially in low-income countries.”",
+      "gonzalo": "“Virufy will impact globally, no matter the users' background or social status. This is what changing the status quo feels like.”",
+      "marcos": "“I think that Virufy will develop a very accurate solution and this will be useful for the entire world in every industry. So I encourage everyone to take some minutes and contribute with us.”"
+    }
+  },
   "paper": {
     "meta": "Get to read some of the most relevant papers about COVID-19 transmission, control, detection and the use of artificial intelligence for pre-screenings.",
     "title": "Papers on Covid-19 detection with AI | Virufy",
@@ -832,6 +832,11 @@
         "title": "Covid 19 Calculator -- Positive U.S. Socio-Economic Impact",
         "readMoreLink": "Read more...",
         "calculatorLink": "Calculator"
+      },
+      "section7": {
+        "date": "October 2022",
+        "title": "Hierarchical Multi-modal Transformer for Automatic Detection of COVID-19",
+        "readMoreLink": "Read more..."
       }
     }
   },
@@ -859,6 +864,8 @@
       "us_policy": "Privacy Policy",
       "eu": "Europe",
       "eu_policy": "Privacy Policy",
+      "ja": "Japan",
+      "ja_policy": "プライバシーポリシー",
       "other": "Other Countries",
       "other_policy": "Privacy Policy"
     }
@@ -899,6 +906,7 @@
         "sixthParagraph": "“United behind a common cause to end pandemics, our energy is unstoppable as we work across borders for the common good.” - Amil Khanzada",
         "Amil-Publications": "Amil’s Publications",
         "fifthParagraph": {
+          "zero": "2022. Hierarchical Multi-modal Transformer for Automatic Detection of COVID-19. ACM SPML; DOI: 3556384.3556414",
           "one": "2022. Using Deep Learning with Large Aggregated Datasets for COVID-19 Classification from Cough. arXiv: 2201.01669",
           "two": "2021. Using a Novel COVID-19 Calculator to Measure Positive U.S. Socio-Economic Impact of a COVID-19 Pre-Screening Solution (AI/ML). arXiv: 2201.11109",
           "three": "2020. Virufy: Global Applicability of AI Detection for COVID-19 from Cough Recordings. arXiv: 2011.13320",
@@ -911,11 +919,11 @@
       "title-ourpeople": "About/Our People",
       "weUnite": "We unite from across the world to defeat COVID-19 one cough at a time",
       "header": " Our People",
-      "teamLeadText": "Team Leads",
+      "teamLeadText": "Ambassadors",
       "advisorText": "Advisors",
       "oyw": "One Young World",
       "oyw-xs": "OYW",
-      "supportersText": "Our supporters",
+      "supportersText": "Our Supporters",
       "leadership": {
         "amil": {
           "name": "Amil Khanzada",
@@ -1089,6 +1097,11 @@
           "description": "Former CMO - Adobe\nBoard Member - CommonSpirit Health",
           "title": "Executive Marketing Advisor"
         },
+        "nakatani": {
+          "name": "Yukitoshi Nakatani",
+          "description": "CEO, IT Value Consulting\nFormer Director, Accenture Japan",
+          "title": "Japan Executive Advisor"
+        },
         "hugo": {
           "name": "Hugo Estrada",
           "description": "CEO & Managing Partner - iwé Consultores\nChairman - Nueva EPS (Health Insurance)",
@@ -1128,11 +1141,6 @@
           "name": "Mark Haseltine",
           "description": "Former CTO/CPO - edX\nComputer Science alumnus - MIT",
           "title": "Executive Advisor"
-        },
-        "mathijs": {
-          "name": "Mathijs De Vaan",
-          "description": "Management of Organizations\nPhD Sociology - Columbia University",
-          "title": "Assistant Professor - UC Berkeley Haas Business School"
         },
         "pedro": {
           "name": "Pedro Siena",
@@ -1188,6 +1196,31 @@
           "name": "Mert Pilanci",
           "description": "Assistant Professor of AI Stanford University Electrical Engineering",
           "title": "Artificial Intelligence Advisor"
+        },
+        "manuj": {
+          "name": "Manuj Aggarwal",
+          "description": "Chief Innovation Officer - TetraNoodle Technologies",
+          "title": "Executive AI, Strategy And Marketing Advisor"
+        },
+        "cheema": {
+          "name": "Faisal Cheema",
+          "description": "Associate Professor of Biomedical & Clinical Sciences, Tilman J. Fertitta College of Medicine, University of Houston",
+          "title": "Executive Clinical Advisor"
+        },
+        "atlas": {
+          "name": "Dr. Les Atlas",
+          "description": "Professor of Electrical and Computer Engineering - University of Washington\nPh.D. Electrical Engineering, Stanford",
+          "title": "Audio and Machine Learning Advisor"
+        },
+        "ozawa": {
+          "name": "Nobuyoshi Ozawa",
+          "description": "Clinical Development Department Group Manager, CRO",
+          "title": "Japan Clinical Development Lead"
+        },
+        "hirofumi": {
+          "name": "Hirofumi Yoshikoshi",
+          "description": "Senior Manager Clinical Development, CRO",
+          "title": "Japan Clinical Development Lead"
         }
       }
     },
