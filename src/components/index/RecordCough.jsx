@@ -49,7 +49,7 @@ export default ({ images }) => {
           <div className="flex-shrink-0 mb-8">
             <p>{intl.formatMessage({ id: "index.section3.description" })}</p>
           </div>
-          <div className="flex flex-col min-w-max">
+          <div className="flex flex-col self-start min-w-max">
             <Link
               className="vf-btn-primary mx-auto my-4 px-6 py-2 w-full border-2 border-blue"
               to="/dashboard"
