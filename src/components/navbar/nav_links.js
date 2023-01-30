@@ -12,7 +12,7 @@ const navLinks = [
     path: "/about",
     dropDownLinks: [
       { intlId: "nav.ourData", sectionId: "about-us", path: "/about" },
-      // { intlId: "nav.dashboard", sectionId: "", path: "/dashboard" },
+      { intlId: "nav.dashboard", sectionId: "", path: "/dashboard" },
       { intlId: "nav.ourTeam", sectionId: "", path: "/our-org#our-team" },
       { intlId: "nav.ourSupporters", sectionId: "", path: "/oursupporters" },
     ],
@@ -45,7 +45,7 @@ const mobileNavLinks = [
     defaultMessage: "About Us",
     paths: [
       { intlId: "nav.ourData", path: "/about/#about-us" },
-      // { intlId: "nav.dashboard", path: "/dashboard/" },
+      { intlId: "nav.dashboard", path: "/dashboard/" },
       { intlId: "nav.ourTeam", path: "/our-org/#our-team" },
       { intlId: "nav.ourSupporters", path: "/oursupporters" },
     ],
