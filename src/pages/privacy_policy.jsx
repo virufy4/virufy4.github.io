@@ -25,7 +25,6 @@ export default function PrivacyPolicy({ data }) {
           <p>
             <a
               className="text-black underline"
-              target="_blank"
               href="https://drive.google.com/file/d/1Fef7l77QP3EZboej6mw_q7fBNrayvs03/view"
             >
               {intl.formatMessage({
@@ -40,7 +39,6 @@ export default function PrivacyPolicy({ data }) {
           <p>
             <a
               className="text-black underline"
-              target="_blank"
               href="https://drive.google.com/file/d/1ZSrRivk4YJyyDioqYeAsz0fgNAP3UwVn/view"
             >
               {intl.formatMessage({
@@ -55,7 +53,6 @@ export default function PrivacyPolicy({ data }) {
           <p>
             <a
               className="text-black underline"
-              target="_blank"
               href="https://drive.google.com/file/d/1Zl9QO-Dliik84xjuXCdFGcDOk5GytXr1/view"
             >
               {intl.formatMessage({
@@ -70,7 +67,6 @@ export default function PrivacyPolicy({ data }) {
           <p>
             <a
               className="text-black underline"
-              target="_blank"
               href="https://drive.google.com/file/d/1eQOx81C5e5CoESYsEnrE9sWhCkTMDPEq/view"
             >
               {intl.formatMessage({
@@ -85,7 +81,6 @@ export default function PrivacyPolicy({ data }) {
           <p>
             <a
               className="text-black underline"
-              target="_blank"
               href="https://drive.google.com/file/d/1n8YZTb3bAqLLL5ygVE8-MstdzECcKJ_b/view"
             >
               {intl.formatMessage({
@@ -100,7 +95,6 @@ export default function PrivacyPolicy({ data }) {
           <p>
             <a
               className="text-black underline"
-              target="_blank"
               href="https://drive.google.com/file/d/1Qr3cFttfhjUoKxLcQrVEhsuO-OJ6VE0_/view"
             >
               {intl.formatMessage({
@@ -115,7 +109,6 @@ export default function PrivacyPolicy({ data }) {
           <p>
             <a
               className="text-black underline"
-              target="_blank"
               href="https://drive.google.com/file/d/1UgN2Bu2XIvv2YirLRYloSPlbYln_uzf9/view"
             >
               {intl.formatMessage({
@@ -130,7 +123,6 @@ export default function PrivacyPolicy({ data }) {
           <p>
             <a
               className="text-black underline"
-              target="_blank"
               href="https://drive.google.com/file/d/1EB_9q8nSxvJXWMtCfxCWmisM-n03TJYz/view"
             >
               {intl.formatMessage({
@@ -145,7 +137,6 @@ export default function PrivacyPolicy({ data }) {
           <p>
             <a
               className="text-black underline"
-              target="_blank"
               href="https://drive.google.com/file/d/1EB_9q8nSxvJXWMtCfxCWmisM-n03TJYz/view"
             >
               {intl.formatMessage({
@@ -159,7 +150,6 @@ export default function PrivacyPolicy({ data }) {
           <p>
             <a
               className="text-black underline"
-              target="_blank"
               href="https://drive.google.com/file/d/11RTMmnHW4SqHNf7htr3xuSi-o2v2vWlp/view"
             >
               {intl.formatMessage({
@@ -173,7 +163,6 @@ export default function PrivacyPolicy({ data }) {
           <p>
             <a
               className="text-black underline"
-              target="_blank"
               href="https://drive.google.com/file/d/1fUIe6FBss6WrwsrssVr6OM_2uFFVhESD/view"
             >
               {intl.formatMessage({
