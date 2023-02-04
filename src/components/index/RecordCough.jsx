@@ -52,13 +52,6 @@ export default ({ images }) => {
           <div className="flex flex-col self-start min-w-max">
             <Link
               className="vf-btn-primary mx-auto my-4 px-6 py-2 w-full border-2 border-blue"
-              to="/dashboard"
-            >
-              {intl.formatMessage({ id: "index.section3.header3" })}
-            </Link>
-            <Link
-              // className="vf-btn-clear mx-auto px-6 py-2 w-full text-blue border-2 border-blue"
-              className="vf-btn-clear mx-auto px-6 py-2 w-full text-blue border-2 border-blue"
               to="/get-involved"
             >
               {intl.formatMessage({ id: "index.section3.joincommunity" })}
