@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://virufy.org/compensar/precache-manifest.5a3849c2f6245740d11e4b0116c60161.js"
+  "https://virufy.org/compensar/precache-manifest.b7954fdcb387769e0adac1f9e83c786d.js"
 );
 
 self.addEventListener('message', (event) => {
