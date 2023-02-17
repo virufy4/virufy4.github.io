@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9254542e4bf9625ff09a960c190c4ca7",
+    "revision": "4964405afdb878c43d395426a6e42649",
     "url": "https://virufy.org/compensar/index.html"
   },
   {
@@ -96,8 +96,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/compensar/static/js/26.91696fb3.chunk.js"
   },
   {
-    "revision": "32349917d49069cc75fc",
-    "url": "https://virufy.org/compensar/static/js/27.ab4c02e5.chunk.js"
+    "revision": "82ffb7562fb6b22294a4",
+    "url": "https://virufy.org/compensar/static/js/27.7f880aca.chunk.js"
   },
   {
     "revision": "a43b1755aaeecbd4bd96",
@@ -132,12 +132,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/compensar/static/js/33.e95492a8.chunk.js"
   },
   {
-    "revision": "dd6afd2b966e706a3eec",
-    "url": "https://virufy.org/compensar/static/js/34.d3618920.chunk.js"
+    "revision": "d9607b7b7fef6d13aebf",
+    "url": "https://virufy.org/compensar/static/js/34.ca696d1b.chunk.js"
   },
   {
     "revision": "6e4801d64cd5677e977179501d49a9ce",
-    "url": "https://virufy.org/compensar/static/js/34.d3618920.chunk.js.LICENSE.txt"
+    "url": "https://virufy.org/compensar/static/js/34.ca696d1b.chunk.js.LICENSE.txt"
   },
   {
     "revision": "38db05c5fe08803c4399",
@@ -184,8 +184,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/compensar/static/js/44.d10b4fd0.chunk.js"
   },
   {
-    "revision": "0e6373840a76611e26d1",
-    "url": "https://virufy.org/compensar/static/js/45.312fed82.chunk.js"
+    "revision": "d8effc8aaefb10bbe529",
+    "url": "https://virufy.org/compensar/static/js/45.97ac394c.chunk.js"
   },
   {
     "revision": "1f52086676d48a68c065",
@@ -224,12 +224,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/compensar/static/js/54.76853864.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a22094ad978670fd2194",
-    "url": "https://virufy.org/compensar/static/js/55.7c29d77a.chunk.js"
+    "revision": "f48e781cdd732986f173",
+    "url": "https://virufy.org/compensar/static/js/55.db4e98da.chunk.js"
   },
   {
     "revision": "9a73b17d3f74e8a595e1554cd96c873a",
-    "url": "https://virufy.org/compensar/static/js/55.7c29d77a.chunk.js.LICENSE.txt"
+    "url": "https://virufy.org/compensar/static/js/55.db4e98da.chunk.js.LICENSE.txt"
   },
   {
     "revision": "09fa3a3cc620ac2a01f0",
@@ -252,12 +252,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://virufy.org/compensar/static/js/9.d8efdb53.chunk.js"
   },
   {
-    "revision": "56ab508c2f6ed996ae12",
-    "url": "https://virufy.org/compensar/static/js/main.9d88cfa1.chunk.js"
+    "revision": "460d7635db6dcef69203",
+    "url": "https://virufy.org/compensar/static/js/main.39b33640.chunk.js"
   },
   {
-    "revision": "a42120ba8ca40eea6a2b",
-    "url": "https://virufy.org/compensar/static/js/runtime-main.f1709c8d.js"
+    "revision": "cd73e3fd7c36b3608cfe",
+    "url": "https://virufy.org/compensar/static/js/runtime-main.ad2f909e.js"
   },
   {
     "revision": "74682ec33acb1a883ae7d81e961610ce",
