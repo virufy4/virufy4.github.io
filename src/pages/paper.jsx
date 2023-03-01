@@ -178,6 +178,30 @@ export default function Papers({ data }) {
             </u>
           </a>
         </div>
+        <div className="lg:w-2/5">
+          <GatsbyImage
+            className="mx-auto w-1/2"
+            fluid={images["ads"].childImageSharp.fluid}
+          />
+        </div>
+        <div className="lg:w-2/3 mx-10">
+          <p className="mb-8">
+            {intl.formatMessage({ id: `paper.papers.section3.date` })}
+          </p>
+          <h2 className="mb-8 font-bold text-2xl">
+            {intl.formatMessage({ id: `paper.papers.section3.title` })}
+          </h2>
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://arxiv.org/abs/2302.13527"
+            className="text-black"
+          >
+            <u>
+              {intl.formatMessage({ id: `paper.papers.section3.readMoreLink` })}
+            </u>
+          </a>
+        </div>
       </section>
     </Layout>
   );
