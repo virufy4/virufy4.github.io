@@ -28,4 +28,10 @@ export default {
   dgaAbogados: "https://col-law.com/home-2/",
   olartemoure: "https://www.olartemoure.com/",
   lswInstitute: "https://www.lswinstitute.org/",
+  barda: "https://www.medicalcountermeasures.gov/barda",
+  stanfordMed: "https://med.stanford.edu/",
+  jigJP: "https://www.jig.jp/",
+  shil: "https://innovations.stanford.edu/home",
+  kvgmedical: "https://www.kvgmch.org/",
+  compensar: "https://corporativo.compensar.com/",
 };
