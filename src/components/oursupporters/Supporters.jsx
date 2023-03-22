@@ -165,12 +165,13 @@ export default function Supporters() {
                     </div>
                   </div>
                 </section>
-                {/* <div className="place-self-center"
+                <div
+                  className="place-self-center"
                   style={{
-                    background: 'Gainsboro',
-                    height: '2px',
+                    background: "Gainsboro",
+                    height: "2px",
                   }}
-                /> */}
+                />
                 <section name="Innovators" className="my-10">
                   <h2 className="flex justify-center">Innovators ($500K +)</h2>
                   <div className="flex justify-evenly">
@@ -380,6 +381,8 @@ export default function Supporters() {
                         />
                       </a>
                     </div>
+                  </div>
+                  <div className="flex justify-evenly">
                     <div
                       style={{ flex: "0 1 20%" }}
                       className="md:min-w-250 md:pt-12 max-w-full"
@@ -392,8 +395,6 @@ export default function Supporters() {
                         />
                       </a>
                     </div>
-                  </div>
-                  <div className="flex justify-evenly">
                     <div
                       style={{ flex: "0 1 20%" }}
                       className="md:min-w-250 md:p-8 max-w-full"
@@ -415,18 +416,6 @@ export default function Supporters() {
                           imgStyle={{ objectFit: "contain" }}
                           className="h-full max-h-24"
                           fluid={images["kvgmedical"]}
-                        />
-                      </a>
-                    </div>
-                    <div
-                      style={{ flex: "0 1 20%" }}
-                      className="md:min-w-250 md:p-8 max-w-full"
-                    >
-                      <a href={supporter_links.compensar} target="_blank">
-                        <GatsbyImage
-                          imgStyle={{ objectFit: "contain" }}
-                          className="h-full max-h-24"
-                          fluid={images["compensar"]}
                         />
                       </a>
                     </div>
