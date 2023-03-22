@@ -202,12 +202,6 @@ export const advisors = [
     imageName: "melissa",
   },
   {
-    mediaLink: "https://weillcornell.org/anais-rameau-md",
-    id: "anais",
-    defaultName: "Anaïs Rameau",
-    imageName: "anais",
-  },
-  {
     mediaLink: "https://www.linkedin.com/in/madhavdatt/",
     id: "madhav",
     defaultName: "Madhav Datt",
@@ -281,28 +275,10 @@ export const advisors = [
     imageName: "richard",
   },
   {
-    mediaLink: "https://www.linkedin.com/in/pedrosiena/",
-    id: "pedro",
-    defaultName: "Pedro Siena",
-    imageName: "pedro",
-  },
-  {
     mediaLink: "https://www.linkedin.com/in/khwajashaik/",
     id: "khwaja",
     defaultName: "Khwaja Shaik",
     imageName: "khwaja",
-  },
-  {
-    mediaLink: "https://www.linkedin.com/in/george-pegelow-52b0387",
-    id: "george",
-    defaultName: "George Pagelow",
-    imageName: "george",
-  },
-  {
-    mediaLink: "https://www.linkedin.com/in/taisuke-fukuno-a3b3415",
-    id: "taisuke",
-    defaultName: "Taisuke Fukuno",
-    imageName: "taisuke",
   },
   {
     mediaLink: "http://tannan.fm/contents/about-us.html",
@@ -327,11 +303,5 @@ export const advisors = [
     id: "ozawa",
     defaultName: "Nobuyoshi Ozawa",
     imageName: "ozawa",
-  },
-  {
-    mediaLink: " ",
-    id: "hirofumi",
-    defaultName: "Hirofumi Yoshikoshi",
-    imageName: "hirofumi",
   },
 ];

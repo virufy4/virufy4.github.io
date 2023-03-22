@@ -411,6 +411,40 @@ export const newRoles = {
         url:
           "https://docs.google.com/document/d/17ISJC3yIhp7FAzLRYDDueC5Kr8sqCIUKndgvcmqBkow",
       },
+      {
+        title: "Product Manager",
+        slug: "product-manager",
+        description:
+          "This person will contribute on a part-time volunteer basis and collaborate closely with the development team, define the product roadmap, manage development progress and align with stakeholders.",
+        responsabilities: [
+          "Define Product roadmap and manage product backlog ",
+          "Analyze user needs and market conditions",
+          "Communicate product requirements to the development team",
+          "Prioritize tasks and ensure they’re successfully achieved",
+          "Develop, implement, and maintain production timelines",
+          "Communicate with marketing team and external stakeholders ",
+        ],
+        requirements: [],
+        desired_skills: [
+          "Previous experience in product management (including research or internship)",
+          "Academic studies in Computer Science a plus",
+          "Organized, collaborative, and detail-oriented",
+          "Exceptional communication skills",
+          "Strong sense of responsibility",
+          "Fluency in Spanish and/or Brazilian Portuguese (Good to have)",
+          "Knowledge of or experience with Latin American culture (Good to have)",
+        ],
+        minimun_qualification: [
+          "Age 18 or over",
+          "Legally authorized to work in the United States ( We do not sponsor Visas )",
+          "High School Graduate or College Degree",
+          "Valid Photo ID ( Drivers License or Passport )",
+        ],
+        location: "Remote",
+        time_commitment: "15+ hours per week on a part-time volunteer basis",
+        url:
+          "https://docs.google.com/document/d/17ISJC3yIhp7FAzLRYDDueC5Kr8sqCIUKndgvcmqBkow",
+      },
     ],
   },
   human_resources: {
