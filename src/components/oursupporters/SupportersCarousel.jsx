@@ -219,18 +219,6 @@ export default () => {
             </div>
             <div
               style={{ flex: "0 1 20%" }}
-              className="md:min-w-250 md:p-12 max-w-full"
-            >
-              <a href={supporter_links.stanfordMed} target="_blank">
-                <GatsbyImage
-                  imgStyle={{ objectFit: "contain" }}
-                  className="h-full max-h-24"
-                  fluid={images["stanfordmed"]}
-                />
-              </a>
-            </div>
-            <div
-              style={{ flex: "0 1 20%" }}
               className="md:min-w-250 md:p-10 max-w-full"
             >
               <a href={supporter_links.serviceBots} target="_blank">
@@ -293,18 +281,6 @@ export default () => {
           <div className="flex justify-evenly">
             <div
               style={{ flex: "0 1 20%" }}
-              className="md:min-w-250 md:pt-12 max-w-full"
-            >
-              <a href={supporter_links.shil} target="_blank">
-                <GatsbyImage
-                  imgStyle={{ objectFit: "contain" }}
-                  className="h-4/6 max-h-16"
-                  fluid={images["shil"]}
-                />
-              </a>
-            </div>
-            <div
-              style={{ flex: "0 1 20%" }}
               className="md:min-w-250 md:p-8 max-w-full"
             >
               <a href={supporter_links.cccadv} target="_blank">
@@ -312,18 +288,6 @@ export default () => {
                   imgStyle={{ objectFit: "contain" }}
                   className="h-full max-h-24"
                   fluid={images["cccadv-logo-color"]}
-                />
-              </a>
-            </div>
-            <div
-              style={{ flex: "0 1 20%" }}
-              className="md:min-w-250 md:p-8 max-w-full"
-            >
-              <a href={supporter_links.kvgmedical} target="_blank">
-                <GatsbyImage
-                  imgStyle={{ objectFit: "contain" }}
-                  className="h-full max-h-24"
-                  fluid={images["kvgmedical"]}
                 />
               </a>
             </div>
