@@ -108,6 +108,11 @@
 <url> <loc>https://virufy.org/es/donate/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/pt/donate/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/ja/donate/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/donators/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/en/donators/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/es/donators/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/pt/donators/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/ja/donators/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/faq/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/en/faq/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/es/faq/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
