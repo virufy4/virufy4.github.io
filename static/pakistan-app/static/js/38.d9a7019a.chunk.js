@@ -1,0 +1,2 @@
+(this["webpackJsonpmtd-app"]=this["webpackJsonpmtd-app"]||[]).push([[38],{359:function(e,t,n){"use strict";n.r(t);var a=n(6),c=n.n(a),r=n(450),p=n(279);test("renders learn react link",(function(){var e=(0,Object(r.a)(c.a.createElement(p.default,null)).getByText)(/learn react/i);expect(e).toBeInTheDocument()}))}}]);
+//# sourceMappingURL=38.d9a7019a.chunk.js.map
