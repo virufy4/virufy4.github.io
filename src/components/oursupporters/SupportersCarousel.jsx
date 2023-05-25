@@ -117,15 +117,6 @@ export default () => {
           </a>
         </div>
         <div className="flex-grow min-w-250 w-1/2 px-10 py-8">
-          <a href={supporter_links.cccadv} target="_blank">
-            <GatsbyImage
-              imgStyle={{ objectFit: "contain" }}
-              className="h-full max-h-24"
-              fluid={images["cccadv-logo-color"]}
-            />
-          </a>
-        </div>
-        <div className="flex-grow min-w-250 w-1/2 px-10 py-8">
           <a href={supporter_links.parrolabs} target="_blank">
             <GatsbyImage
               imgStyle={{ objectFit: "contain" }}

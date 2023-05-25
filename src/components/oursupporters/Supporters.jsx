@@ -234,35 +234,11 @@ export default function Supporters() {
                   style={{ flex: "0 1 20%" }}
                   className="md:min-w-250 md:p-14 max-w-full"
                 >
-                  <a href={supporter_links.littler} target="_blank">
-                    <GatsbyImage
-                      imgStyle={{ objectFit: "contain" }}
-                      className="h-full max-h-24"
-                      fluid={images["littler-logo-color"]}
-                    />
-                  </a>
-                </div>
-                <div
-                  style={{ flex: "0 1 20%" }}
-                  className="md:min-w-250 md:p-14 max-w-full"
-                >
                   <a href={supporter_links.xoor} target="_blank">
                     <GatsbyImage
                       imgStyle={{ objectFit: "contain" }}
                       className="h-full max-h-24"
                       fluid={images["xoor-logo-color"]}
-                    />
-                  </a>
-                </div>
-                <div
-                  style={{ flex: "0 1 20%" }}
-                  className="md:min-w-250 md:p-8 max-w-full"
-                >
-                  <a href={supporter_links.serviceBots} target="_blank">
-                    <GatsbyImage
-                      imgStyle={{ objectFit: "contain" }}
-                      className="h-full max-h-24"
-                      fluid={images["serviceBots-logo-color"]}
                     />
                   </a>
                 </div>
@@ -330,18 +306,6 @@ export default function Supporters() {
                   style={{ flex: "0 1 20%" }}
                   className="md:min-w-250 md:p-8 max-w-full"
                 >
-                  <a href={supporter_links.dgaAbogados} target="_blank">
-                    <GatsbyImage
-                      imgStyle={{ objectFit: "contain" }}
-                      className="h-4/6 max-h-16"
-                      fluid={images["dg&a-logo"]}
-                    />
-                  </a>
-                </div>
-                <div
-                  style={{ flex: "0 1 20%" }}
-                  className="md:min-w-250 md:p-8 max-w-full"
-                >
                   <a href={supporter_links.olartemoure} target="_blank">
                     <GatsbyImage
                       imgStyle={{ objectFit: "contain" }}
@@ -354,47 +318,11 @@ export default function Supporters() {
                   style={{ flex: "0 1 20%" }}
                   className="md:min-w-250 md:p-8 max-w-full"
                 >
-                  <a href={supporter_links.cccadv} target="_blank">
-                    <GatsbyImage
-                      imgStyle={{ objectFit: "contain" }}
-                      className="h-full max-h-24"
-                      fluid={images["cccadv-logo-color"]}
-                    />
-                  </a>
-                </div>
-                <div
-                  style={{ flex: "0 1 20%" }}
-                  className="md:min-w-250 md:p-8 max-w-full"
-                >
-                  <a href={supporter_links.arkangel} target="_blank">
-                    <GatsbyImage
-                      imgStyle={{ objectFit: "contain" }}
-                      className="h-full max-h-24"
-                      fluid={images["arkangel-logo-color"]}
-                    />
-                  </a>
-                </div>
-                <div
-                  style={{ flex: "0 1 20%" }}
-                  className="md:min-w-250 md:p-8 max-w-full"
-                >
                   <a href={supporter_links.lockedJar} target="_blank">
                     <GatsbyImage
                       imgStyle={{ objectFit: "contain" }}
                       className="h-full max-h-24"
                       fluid={images["lockedJar-logo-color"]}
-                    />
-                  </a>
-                </div>
-                <div
-                  style={{ flex: "0 1 20%" }}
-                  className="md:min-w-250 md:p-8 max-w-full"
-                >
-                  <a href={supporter_links.Cleveland} target="_blank">
-                    <GatsbyImage
-                      imgStyle={{ objectFit: "contain" }}
-                      className="h-full max-h-24"
-                      fluid={images["Cleveland-color-logo"]}
                     />
                   </a>
                 </div>
