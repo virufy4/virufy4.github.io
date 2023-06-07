@@ -1,2 +1,0 @@
-(this["webpackJsonpmtd-app"]=this["webpackJsonpmtd-app"]||[]).push([[27],{310:function(t,p,a){"use strict";a.r(p);var n=a(318);a.d(p,"default",(function(){return n.default}))}}]);
-//# sourceMappingURL=27.b978041f.chunk.js.map
