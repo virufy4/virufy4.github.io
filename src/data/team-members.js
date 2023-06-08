@@ -214,12 +214,6 @@ export const advisors = [
     imageName: "rafi",
   },
   {
-    mediaLink: "https://www.linkedin.com/in/rswartzbaugh/",
-    id: "richardswart",
-    defaultName: "Richard Swartzbaugh",
-    imageName: "richardswart",
-  },
-  {
     mediaLink: "https://www.linkedin.com/in/rdunlop/",
     id: "ronan",
     defaultName: "Ronan Dunlop",
