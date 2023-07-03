@@ -244,6 +244,12 @@ export const advisors = [
     imageName: "mert",
   },
   {
+    mediaLink: "https://www.linkedin.com/in/tetsuji-madarame-6a337916b",
+    id: "madarame",
+    defaultName: "Tetsuji Madarame",
+    imageName: "madarame",
+  },
+  {
     mediaLink: "https://www.facebook.com/nakatani.yukitoshi",
     id: "nakatani",
     defaultName: "Yukitoshi Nakatani",
