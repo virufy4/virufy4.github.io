@@ -1229,8 +1229,13 @@
         },
         "ozawa": {
           "name": "小澤信与",
-          "description": " 臨床開発部グループマネージャー",
+          "description": "臨床開発部グループマネージャー",
           "title": "日本臨床開発リード"
+        },
+        "madarame": {
+          "name": "班目哲司",
+          "description": "theDOCK、投資アドバイザリー委員\nスタンフォード大学 経営大学院 MBA",
+          "title": "日本郵船 DXイノベーション プリンシパルフェロー"
         },
         "hirofumi": {
           "name": "吉越洋文",
