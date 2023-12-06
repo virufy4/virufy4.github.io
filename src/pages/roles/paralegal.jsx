@@ -69,9 +69,7 @@ function paralegal() {
             <ul className="w-3/4 ml-8 mt-2">
               {role[0].responsabilities.map((resp, i) => (
                 <li key={i} className="flex items-start gap-2">
-                  <span>
-                    {/* <GoPrimitiveDot className="mt-1" /> */}●
-                  </span>
+                  <span>{/* <GoPrimitiveDot className="mt-1" /> */}●</span>
                   {resp}
                 </li>
               ))}
@@ -85,9 +83,7 @@ function paralegal() {
             <ul className="w-3/4 ml-8 mt-2">
               {role[0].requirements.map((resp, i) => (
                 <li key={i} className="flex items-start gap-2">
-                  <span>
-                    {/* <GoPrimitiveDot className="mt-1" /> */}●
-                  </span>
+                  <span>{/* <GoPrimitiveDot className="mt-1" /> */}●</span>
                   {resp}
                 </li>
               ))}
@@ -100,9 +96,7 @@ function paralegal() {
             <ul className="w-3/4 ml-8 mt-2">
               {role[0].desired_skills.map((resp, i) => (
                 <li key={i} className="flex items-start gap-2">
-                  <span>
-                    {/* <GoPrimitiveDot className="mt-1" /> */}●
-                  </span>
+                  <span>{/* <GoPrimitiveDot className="mt-1" /> */}●</span>
                   {resp}
                 </li>
               ))}
@@ -116,9 +110,7 @@ function paralegal() {
             <ul className="w-3/4 ml-8 mt-2">
               {role[0].minimun_qualification.map((resp, i) => (
                 <li key={i} className="flex items-start gap-2">
-                  <span>
-                    {/* <GoPrimitiveDot className="mt-1" /> */}●
-                  </span>
+                  <span>{/* <GoPrimitiveDot className="mt-1" /> */}●</span>
                   {resp}
                 </li>
               ))}
@@ -130,9 +122,7 @@ function paralegal() {
         <ul className="w-3/4 ml-8 mt-2">
           {" "}
           <li className="flex items-start gap-2">
-            <span>
-              {/* <GoPrimitiveDot className="mt-1" /> */}●
-            </span>
+            <span>{/* <GoPrimitiveDot className="mt-1" /> */}●</span>
             {role[0].time_commitment}
           </li>
         </ul>
@@ -140,9 +130,7 @@ function paralegal() {
         <ul className="w-3/4 ml-8 mt-2">
           {" "}
           <li className="flex items-start gap-2">
-            <span>
-              {/* <GoPrimitiveDot className="mt-1" /> */}●
-            </span>
+            <span>{/* <GoPrimitiveDot className="mt-1" /> */}●</span>
 
             <span>
               Reach out to{" "}
