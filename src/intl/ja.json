@@ -1105,8 +1105,8 @@
           "title": "Executive Clinical Advisor"
         },
         "kutsuna": {
-          "name": "Kutsuna Satoshi",
-          "description": "Infection Control and Prevention Professor\nOsaka University",
+          "name": "忽那賢志",
+          "description": "感染制御医学講座(感染制御学)\n大阪大学",
           "title": "Executive Clinical Advisor"
         },
         "madarame": {
@@ -1130,9 +1130,9 @@
           "title": "Audio and Machine Learning Advisor"
         },
         "ozawa": {
-          "name": "Nobuyoshi Ozawa",
-          "description": "Clinical Development Department Group Manager, CRO",
-          "title": "Japan Clinical Development Lead"
+          "name": "小澤信与",
+          "description": "臨床開発部グループマネージャー",
+          "title": "日本臨床開発リード"
         },
         "hugo": {
           "name": "Hugo Estrada",
