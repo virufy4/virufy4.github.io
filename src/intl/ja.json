@@ -1099,10 +1099,40 @@
           "description": "Former CMO - Adobe\nBoard Member - CommonSpirit Health",
           "title": "Executive Marketing Advisor"
         },
+        "cheema": {
+          "name": "Faisal Cheema",
+          "description": "Associate Professor of Biomedical & Clinical Sciences, Tilman J. Fertitta College of Medicine, University of Houston",
+          "title": "Executive Clinical Advisor"
+        },
         "kutsuna": {
           "name": "Kutsuna Satoshi",
           "description": "Infection Control and Prevention Professor\nOsaka University",
           "title": "Executive Clinical Advisor"
+        },
+        "madarame": {
+          "name": "Tetsuji Madarame",
+          "description": "Advisory Board, theDOCK Maritime VC\nMBA - Stanford GSB",
+          "title": "Principal Fellow, DX Innovation, Nippon Yusen"
+        },
+        "nakatani": {
+          "name": "Yukitoshi Nakatani",
+          "description": "CEO, IT Value Consulting\nFormer Director, Accenture Japan",
+          "title": "Japan Executive Advisor"
+        },
+        "manuj": {
+          "name": "Manuj Aggarwal ",
+          "description": "Chief Innovation Officer - TetraNoodle Technologies",
+          "title": "Executive AI, Strategy And Marketing Advisor"
+        },
+        "atlas": {
+          "name": "Dr. Les Atlas",
+          "description": "Professor of Electrical and Computer Engineering - University of Washington\nPh.D. Electrical Engineering, Stanford",
+          "title": "Audio and Machine Learning Advisor"
+        },
+        "ozawa": {
+          "name": "Nobuyoshi Ozawa",
+          "description": "Clinical Development Department Group Manager, CRO",
+          "title": "Japan Clinical Development Lead"
         },
         "hugo": {
           "name": "Hugo Estrada",
