@@ -5,7 +5,7 @@ import SEO from "../../components/SEO";
 import { IoMdBriefcase, IoMdContrast } from "react-icons/io";
 import { IoLocationSharp } from "react-icons/io5";
 import { HiCurrencyDollar } from "react-icons/hi";
-import { GoPrimitiveDot, GoChevronLeft } from "react-icons/go";
+import { GoChevronLeft } from "react-icons/go";
 import { Link } from "gatsby";
 
 function associateDataScientist() {
@@ -59,7 +59,8 @@ function associateDataScientist() {
               {role[0].responsabilities.map((resp, i) => (
                 <li key={i} className="flex items-start gap-2">
                   <span>
-                    <GoPrimitiveDot className="mt-1" />
+                    {/* <GoPrimitiveDot className="mt-1" /> */}
+                    ●
                   </span>
                   {resp}
                 </li>
@@ -75,7 +76,7 @@ function associateDataScientist() {
               {role[0].requirements.map((resp, i) => (
                 <li key={i} className="flex items-start gap-2">
                   <span>
-                    <GoPrimitiveDot className="mt-1" />
+                    {/* <GoPrimitiveDot className="mt-1" /> */}●
                   </span>
                   {resp}
                 </li>
@@ -90,7 +91,7 @@ function associateDataScientist() {
               {role[0].desired_skills.map((resp, i) => (
                 <li key={i} className="flex items-start gap-2">
                   <span>
-                    <GoPrimitiveDot className="mt-1" />
+                    {/* <GoPrimitiveDot className="mt-1" /> */}●
                   </span>
                   {resp}
                 </li>
@@ -106,7 +107,7 @@ function associateDataScientist() {
               {role[0].minimun_qualification.map((resp, i) => (
                 <li key={i} className="flex items-start gap-2">
                   <span>
-                    <GoPrimitiveDot className="mt-1" />
+                    {/* <GoPrimitiveDot className="mt-1" /> */}●
                   </span>
                   {resp}
                 </li>
@@ -120,7 +121,7 @@ function associateDataScientist() {
           {" "}
           <li className="flex items-start gap-2">
             <span>
-              <GoPrimitiveDot className="mt-1" />
+              {/* <GoPrimitiveDot className="mt-1" /> */}●
             </span>
             {role[0].time_commitment}
           </li>
@@ -130,7 +131,7 @@ function associateDataScientist() {
           {" "}
           <li className="flex items-start gap-2">
             <span>
-              <GoPrimitiveDot className="mt-1" />
+              {/* <GoPrimitiveDot className="mt-1" /> */}●
             </span>
 
             <span>
