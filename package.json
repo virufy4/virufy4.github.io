@@ -61,7 +61,7 @@
     "react-icons": "^4.3.1",
     "react-modal": "^3.14.4",
     "reactstrap": "^9.0.0",
-    "sass": "^1.43.4",
+    "sass": "^1.32.12",
     "swiper": "^7.2.0",
     "tailwindcss": "^2.0.2"
   },
