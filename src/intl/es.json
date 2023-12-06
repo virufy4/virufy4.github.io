@@ -815,11 +815,6 @@
         "title": "Virufy: Global Applicability of Crowdsourced and Clinical Datasets for AI Detection of COVID-19 from Cough",
         "readMoreLink": "Leer más..."
       },
-      "section3": {
-        "date": "Febrero 2023",
-        "title": "Complex Clipping for Improved Generalization in Machine Learning",
-        "readMoreLink": "Leer más..."
-      },
       "section4": {
         "date": "septiembre 2021",
         "title": "Challenges and Opportunities in the Deploying of COVID-19 Cough AI Systems",
@@ -1100,6 +1095,11 @@
           "description": "Former CMO - Adobe\nBoard Member - CommonSpirit Health",
           "title": "Executive Marketing Advisor"
         },
+        "kutsuna": {
+          "name": "Kutsuna Satoshi",
+          "description": "Infection Control and Prevention Professor\nOsaka University",
+          "title": "Executive Clinical Advisor"
+        },
         "nakatani": {
           "name": "Yukitoshi Nakatani",
           "description": "CEO, IT Value Consulting\nFormer Director, Accenture Japan",
@@ -1180,11 +1180,6 @@
           "description": "Advisory Council Member - Harvard Business Review\nResearch Council Thought Leader - Gartner",
           "title": "Chief Technology Officer - IBM"
         },
-        "george": {
-          "name": "George Pegelow",
-          "description": "Martial Arts & Philosophy Professor - Stanford University",
-          "title": "Executive Visionary Advisor"
-        },
         "rich": {
           "name": "Rich Walcoff",
           "description": "Sports Director - KGO Radio",
@@ -1219,11 +1214,6 @@
           "name": "Nobuyoshi Ozawa",
           "description": "Clinical Development Department Group Manager, CRO",
           "title": "Japan Clinical Development Lead"
-        },
-        "madarame": {
-          "name": "Tetsuji Madarame",
-          "description": "Advisory Board, theDOCK Maritime VC\nMBA - Stanford GSB",
-          "title": "Principal Fellow, DX Innovation, Nippon Yusen"
         },
         "hirofumi": {
           "name": "Hirofumi Yoshikoshi",

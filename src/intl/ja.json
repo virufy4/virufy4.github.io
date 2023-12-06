@@ -5,6 +5,161 @@
     "code": "エラーコード： 404",
     "back": "ホームページに戻る"
   },
+  "CAROUSEL": {
+    "listInfo": {
+      "title": "私たちは、共に世界をより良くすることができると信じています。",
+      "intro": "このような病気と闘うために、世界中の人々が私たちを支援し協力してくれています。</p> 今あなたの協力が必要です。",
+      "jose": "“教えることは、大切な人を支えるために、最も効率的な方法です”",
+      "philipe": "“私の手で、見ず知らずの誰かへ安心・安全を届ける”",
+      "sophie": "“COVIDに悩む人々をサポートしたい”"
+    }
+  },
+  "OYW": {
+    "topbanner": {
+      "header": "About/サポーター紹介",
+      "title": "ミュンヘン2021",
+      "description": "OYW - 毎年開催されるOne Young Worldは、社会的インパクトを加速させるために活動している、各国・各分野の最も優秀な若手人材が集結しました。"
+    },
+    "headers": {
+      "header": "Virufy & One Young World",
+      "topbanner": "私たちの世界は、優れたリーダーシップを必要としています。現代の若者世代は、世界史の中で未だかつてない情報量を持ち、豊かな教育を受け、十分なコネクションを持つ世代の一つです。One Young Worldは、より良い世界、つまりより責任感のある効果的なリーダーシップのある世界を創るために、世界中で最も影響力のある若いリーダーを発掘し、促進し、結びつけます。",
+      "sub-header": "Virufyは、アメリカ大陸や日本など、さまざまなOYWのプラットフォームでその活動の様子紹介されており、OYWとコラボレートし、各地域のアンバサダーとともに活動に取り組んでいます。 ",
+      "buttonJoinUs": "参加する",
+      "help": "Virufyをあなたの近くの病院や地域に届けるために、ご協力ください。一緒に、医療を変え、COVIDの蔓延を食い止めましょう。そして、これは始まりに過ぎません。将来のパンデミックに対する戦いにも参加しましょう！"
+    },
+    "section1": {
+      "header": "2021年7月25日に開催されるOYW2021サミットをご覧ください。:",
+      "sub-header": "COVID-19に対する総会が開かれ、VirufyのオペレーションリードであるYulie Qiaoが講演を行います。",
+      "sub-header2": "デジタル展示会でVirufyを詳しく知る"
+    },
+    "sectionHi": {
+      "header": "Come Say Hi!",
+      "amil": "<b>Amil Khanzada</b> - OYW 日本大使 & Virufy創設者兼CEO",
+      "yulie": "<b>Yulie Qiao</b> - bp 代表, USA & Virufyオペレーション",
+      "ayomide": "<b>Ayomide Owoyemi, MD</b> - Novartis 代表, Nigeria & Virufy ML 臨床統計 ",
+      "shreya": "<b>Shreya Shreeram, MD</b> - Virufy 代表, India & Virufy 臨床研究",
+      "join": "<b>You can be part of the solution!</b> ボランティアの募集 <a target='_blank' href='https://virufy.org/en/available-roles/'>Join Page</a> こちらもご覧ください <a target='_blank' href='https://docs.google.com/document/d/18XFbn6wSY6Ld-oN7UpqUY8GVX7T1wEaoJSn1HD9eBls/edit'>Virufy OYW playbook</a>."
+    },
+    "section2": {
+      "title": "なぜOne Young Worldなのか?",
+      "header": "グローバルなインパクトに焦点をあてる",
+      "sub-header": " データを収集し、世界中の開発途上国の人々のために公平なソリューションを提供する。",
+      "youth": "若者主導",
+      "youth-des": "私たちのチームは、十数カ国から集まった若者たちが率い、世界的なリーダーたちがアドバイスをしてくれることで、成長を続けています。",
+      "ambassador": "アンバサダー・ドリブン",
+      "ambassador-des": "ワン・ヤング・ワールドの組織構成は、ユースアンバサダーが各国での活動をリードし、地域コーディネートアンバサダーがそれに対応する形となっています。",
+      "diverse": "多彩な視点",
+      "diverse-des": "私たちのチームは、25以上の大学、15カ国から代表者が集まり、10人以上のワン・ヤング・ワールドのアンバサダーが参加しています。"
+    },
+    "ambassador": {
+      "header": "Our OYW x Virufy Community",
+      "ambassador-list": {
+        "amil": {
+          "name": "Amil Khanzada",
+          "descriptionOYW": "OYW Ambassador, Japan",
+          "descriptionVirufy": "Virufy Founder & Leader"
+        },
+        "madhav": {
+          "name": "Madhav Datt",
+          "descriptionOYW": "OYW Ambassador, India",
+          "descriptionVirufy": "Virufy Advisor"
+        },
+        "marcos": {
+          "name": "Marcos Deza",
+          "descriptionOYW": "OYW Ambassador, Argentina",
+          "descriptionVirufy": "Virufy Digital Communications"
+        },
+        "yulie": {
+          "name": "Yulie Qiao",
+          "descriptionOYW": "2021 OYW bp Delegate, USA",
+          "descriptionVirufy": "Virufy Operations"
+        },
+        "ayomide": {
+          "name": "Ayomide Owoyemi, MD",
+          "descriptionOYW": "2021 OYW Novartis Delegate, Nigeria",
+          "descriptionVirufy": "Virufy Machine Learning Clinical Statistics"
+        },
+        "shreya": {
+          "name": "Shreya Sreeram, MD",
+          "descriptionOYW": "2021 Virufy Delegate, India",
+          "descriptionVirufy": "Virufy Clinical Research"
+        },
+        "lauravelasquezh": {
+          "name": "Laura Velasquez",
+          "descriptionOYW": "2021 OYW Johnson & Johnson Delegate, Colombia",
+          "descriptionVirufy": "Arkangel AI Co-founder and President & Virufy Partner"
+        },
+        "nathan": {
+          "name": "Nathan Thomas",
+          "descriptionOYW": "OYW Coordinating Ambassador, USA",
+          "descriptionVirufy": " "
+        },
+        "jason": {
+          "name": "Jason Pareja Jauregui",
+          "descriptionOYW": "OYW Coordinating Ambassador LATAM, Peru",
+          "descriptionVirufy": " "
+        },
+        "katherine": {
+          "name": "Katherine Thalia Ortiz León",
+          "descriptionOYW": "OYW Ambassador, Peru",
+          "descriptionVirufy": " "
+        },
+        "gonzalo": {
+          "name": "Gonzalo Roiffe",
+          "descriptionOYW": "OYW Ambassador, Argentina",
+          "descriptionVirufy": " "
+        },
+        "annelisse": {
+          "name": "Annelisse Torrez Daza",
+          "descriptionOYW": "OYW Ambassador, Bolivia",
+          "descriptionVirufy": " "
+        },
+        "veronica": {
+          "name": "Verónica Guzmán Quilaqueo",
+          "descriptionOYW": "OYW Ambassador, Chile",
+          "descriptionVirufy": " "
+        },
+        "sebastian": {
+          "name": "Sebastian Pedraza",
+          "descriptionOYW": "OYW Ambassador, Colombia",
+          "descriptionVirufy": " "
+        },
+        "kenmaru": {
+          "name": "Kenmaru Suedomi",
+          "descriptionOYW": "OYW Ambassador, Japan",
+          "descriptionVirufy": " "
+        },
+        "kapil": {
+          "name": "Kapil Narain, MD",
+          "descriptionOYW": "OYW Ambassador, South Africa",
+          "descriptionVirufy": " "
+        },
+        "leonard": {
+          "name": "Leonard Burhz",
+          "descriptionOYW": "OYW Ambassador, Ireland",
+          "descriptionVirufy": " "
+        },
+        "allana": {
+          "name": "Allana Doyle",
+          "descriptionOYW": "Embajador OYW, EE.UU",
+          "descriptionVirufy": " "
+        },
+        "kavya": {
+          "name": "Kavya Madhavan",
+          "descriptionOYW": "Embajador OYW, EE.UU",
+          "descriptionVirufy": " "
+        }
+      }
+    },
+    "testimonials": {
+      "title": "ボランティア体験談",
+      "intro": "私たちのチームは、スタンフォード大学、プリンストン大学、そしてワン・ヤング・ワールドといった定評ある教育機関の、社会貢献活動に熱心な学生たちによって率いられています。私たちはOne Young Worldのメンバーを強く信頼しており、興味のあるアンバサダーがピッチに参加することを温かく迎えてくれます。",
+      "annelisse": "“私自身、恵まれない国で家族全員と一緒にCOVIDに苦しんだので、Virufyに参加することで、同じ運命に直面する人をなくすことができると即座に思いました”",
+      "sebastian": "“Virufyは、若者の力とテクノロジーを融合し、世界を変えていきます。このソリューションが全世界に届き、特に低所得国の医師を支える存在になることを期待しています。”",
+      "gonzalo": "“Virufyは、ユーザーのバックグラウンドや社会的地位に関係なく、グローバルにインパクトを与えることができます。これこそ、現状を変えるということなのです。”",
+      "marcos": "“Virufyが非常に正確なソリューションを開発し、これが全世界のあらゆる産業で役に立つと思うのです。ですから、皆さんもぜひ時間をとって、私たちと一緒に頑張りましょう。”"
+    }
+  },
   "becomeaSupporter": {
     "title-BecomeaSuporter": "サポーターになる（個人）",
     "title-BecomeaPartner": "パートナーになる（企業）",
@@ -17,15 +172,6 @@
     "inputstory": "*ストーリー",
     "inputupLoadyourPicture": "*プロフィール写真をアップロードする",
     "back": "戻る"
-  },
-  "CAROUSEL": {
-    "listInfo": {
-      "title": "私たちは、共に世界をより良くすることができると信じています。",
-      "intro": "このような病気と闘うために、世界中の人々が私たちを支援し協力してくれています。</p> 今あなたの協力が必要です。",
-      "jose": "“教えることは、大切な人を支えるために、最も効率的な方法です”",
-      "philipe": "“私の手で、見ず知らずの誰かへ安心・安全を届ける”",
-      "sophie": "“COVIDに悩む人々をサポートしたい”"
-    }
   },
   "dashboard": {
     "header": "収集データのダッシュボード",
@@ -72,7 +218,7 @@
         "Question#2": {
           "numberQuestion": "質問　その２",
           "questionIdQ": "アプリはどこでダウンロードできますか？iOSとAndroidに対応していますか？",
-          "questionIdA": "アプリは<a target='_blank' href='https://virufy.org/app'>https://virufy.org/app</a>でダウンロードできます。公式アプリストアに入れるには、国によっては政府または医療機関の承認が必要なため、承認後にアプリをダウンロードできるようにする予定です。 アプリはスマートフォンから接続可能です。スマートフォンとの連携が可能で、iOSやAndroidなど、あらゆるOSに対応しています。"
+          "questionIdA": "アプリは<a target='_blank' href='https://virufy.org/app'>https://virufy.org/app</a>でダウンロードできます。公式アプリストアに入れるには、国によっては政府または医療機関の承認が必要なため、アプリをダウンロードできるようにする予定です。\n\nアプリはスマートフォンから接続可能です。スマートフォンとの連携が可能で、iOSやAndroidなど、あらゆるOSに対応しています。"
         },
         "Question#3": {
           "numberQuestion": "質問　その３",
@@ -81,7 +227,7 @@
         },
         "Question#4": {
           "numberQuestion": "質問　その４",
-          "questionIdQ": "このアプリをスタートアップへ展開する予定はありますか？",
+          "questionIdQ": "このアプリをにスタートアップへ展開する予定はありますか？",
           "questionIdA": "Virufyは非営利団体です。人々のためになるアプリの展開を加速させるため、必要に応じて企業と提携することがあります。"
         },
         "Question#5": {
@@ -139,7 +285,7 @@
         "Question#8": {
           "numberQuestion": "質問　その８",
           "questionIdQ": "参加大学について教えてください。",
-          "questionIdA": "Virufyは、どの大学とも公式に提携していません。\n\nしかし、このVirufyプロジェクトはスタンフォード大学 <a target='_blank'href='https://responselab.stanford.edu/projects.html'>COVID-19レスポンス・イノベーション・ラボのプロジェクトであり、</a><a target='_blank' href='https://h4r.stanford.edu/'>スタンフォード・ハッキング</a>の一部でもあります。<a target='_blank' href='https://www.oneyoungworld.com/'>One Young World</a>など様々なプラットフォームで紹介されており、私たちのチームには、カリフォルニア大学バークレー校、ハーバード大学、プリンストン大学など、25以上の大学の学生や卒業生が参加しています。"
+          "questionIdA": "Virufyは、どの大学とも公式に提携していません。\n\nしかし、このVirufyプロジェクトはスタンフォード大学 <a target='_blank'href='https://responselab.stanford.edu/projects.html'>COVID-19レスポンス・イノベーション・ラボのプロジェクトであり、</a>,<a target='_blank' href='https://h4r.stanford.edu/'>スタンフォード・ハッキング</a>の一部でもあります。<a target='_blank' href='https://www.oneyoungworld.com/'>One Young World</a>など様々なプラットフォームで紹介されており、私たちのチームには、カリフォルニア大学バークレー校、ハーバード大学、プリンストン大学など、25以上の大学の学生や卒業生が参加しています。"
         }
       },
       "questionsAboutAI": {
@@ -343,7 +489,7 @@
     "navigate": "",
     "get": "お問い合わせ",
     "CodeofConduct": "行動規範",
-    "about": "詳細",
+    "about": "約",
     "ourtech": "私たちのテクノロジー",
     "opportunities": "機会",
     "faqs": "よくある質問",
@@ -435,8 +581,8 @@
     "meta": "人工知能を使用した効率的なオンラインCovid-19テストの構築に専念する人々によって2020年3月に設立されたプロジェクトであるVirufyに会いましょう。",
     "title": "AIを使用したオンラインCovid-19テストの開発| Virufy",
     "section1": {
-      "header": " ",
-      "pg": "非営利活動法人Virufyは、咳や呼吸音からCOVID−１９に罹患している可能性を判定する（患者さんの咳との類似性を判定する）アプリの開発を行っています。このアプリの日本展開に向けて、咳や呼吸音を解析するAI能力をさらに高めるために日本人の音声データ（咳や呼吸音）を必要としています。無症状の方でもご参加いただけますので、ぜひご協力ください",
+      "header": "オンラインのCovid-19テストが可能です",
+      "pg": "Virufyは、咳のパターンからCOVID-19を特定する人工知能（AI）技術を、スマートフォンを使って迅速かつ無償で開発する非営利の研究機関です。",
       "coughLink": "咳を寄付する",
       "donateLink": "今すぐ咳を寄付する",
       "donateLinkResponsive": "今すぐ寄付する",
@@ -458,7 +604,7 @@
       "header2": "AIが呼吸器のサインを解析",
       "header3": "咳の収集数",
       "tryItOutLink": "試してみる",
-      "description": "Virufyは2020年3月に設立されました。現在5大陸のVirufighterは、革新的な技術によって病気の迅速な判断を無料で行うことを目指し、活動に取り組んでいます。",
+      "description": "Virufyは2020年3月に設立されました。現在、5大陸のVirufighterは、革新的な技術によって病気の迅速な検査をを無料で行うことに目指し活動に取り組んでいます。",
       "numbercollected": "100,000",
       "joincommunity": "コミュニティーに参加する"
     },
@@ -602,27 +748,27 @@
     "topFold": {
       "ourTech": "私たちの技術",
       "diagnoseDisease": "Virufyを支えるサイエンス",
-      "healthcare": "人工知能（AI）は、呼吸パターンの微細な違いを検知し、病気の有無を検出することができます。",
+      "healthcare": "人工知能（AI）は、発声パターンの微細な違いを検知し、病気の有無を検出することができます。",
       "algorithmInfo": " ",
       "usingTechnology": "AIによる疾患解析",
       "ourAI": "私たちのAI",
       "edgeResearch": "COVID-19の臨床症状は非常に多様ですが、ほとんどの症例で乾いた咳が特徴的です。COVID-19は、喉と肺に独特の呼吸サインがあるのが特徴で、湿った咳をする呼吸器感染症とは異なるため、咳の音を解析することでCOVID-19を検出できることが示唆されています。人間の耳には微妙な違いかもしれませんが、AIアルゴリズムは、音声波形から抽出したMFCC係数、ピッチ、スペクトルエネルギー、ゼロクロスなどのさまざまな特徴を用いて、百日咳、喘息、肺炎などさまざまな呼吸器疾患を識別するための咳の音の分類に有望であることを示しています。様々な病気の咳のサンプルは、似たような音に聞こえますが、それぞれ音声の特徴のわずかな違いによって区別できるパターンを有しており、それをAIアルゴリズムが拾い上げることができるのです。COVID以外にも、スマートフォンで録音した音声から、喘鳴やロンカイなど特定の診断用呼吸音をAIが分類できることが実証されています。",
       "checkOutResearch": "論文",
-      "bottonClose": "閉じる"
+      "bottonClose": "を閉じる"
     },
     "howItWorks": {
-      "HowIt": " ",
+      "HowIt": "オンラインCovid-19テストの仕組み",
       "card-one": {
         "title": "1",
         "description": "咳を録音する"
       },
       "card-two": {
         "title": "2",
-        "description": "AIが咳を分析する"
+        "description": "AIがCOVIDのパターンを解析"
       },
       "card-three": {
         "title": "3",
-        "description": "COVID-19の咳の類似を表示する"
+        "description": "COVIDのリスク状況を報告"
       },
       "collectedData": "収集データダッシュボード",
       "numberofCollected": "収集した咳の数",
@@ -639,7 +785,7 @@
       },
       "carnegieMellonUniversity": {
         "title": "カーネギーメロン大学(CMU)",
-        "description": "カーネギーメロン大学の研究では、COVIDの診断のためのAIを学習させるために、大量の音声サンプルを収集することを目的としました。この研究の根拠は、以下の通りです。呼吸器系に影響を受けると、（言語に関係なく）声の響きや、呼吸や咳の音が変化する。その変化は、はっきりと聞き取れる粗いものから、訓練を受けていないリスナーには聞こえない、微細な変化（マイクロシグネチャーと呼ばれるもの）まで、さまざまである。",
+        "description": "カーネギーメロン大学の研究では、COVIDの診断のためのAIを学習させるために、大量の音声サンプルを収集することを目的としました。この研究の根拠は、以下の通りです。, 呼吸器系に影響を受けると、（言語に関係なく）声の響きや、呼吸や咳の音が変化する。その変化は、はっきりと聞き取れる粗いものから、訓練を受けていないリスナーには聞こえない、微細な変化（マイクロシグネチャーと呼ばれるもの）まで、さまざまである。\"",
         "source": ""
       },
       "MIT": {
@@ -649,7 +795,7 @@
       },
       "CornellUniversity": {
         "title": "ケンブリッジ大学",
-        "description": "咳のサンプルと呼吸を使って、COVID-19の音が喘息の人や健康な人と比較してどの程度識別できるかを理解したケンブリッジ大学によるクラウドソース研究です。その結果、単純な2値機械学習分類器でも、健康な音とCOVID-19の音を正しく分類できることがわかりました。我々のモデルは、すべてのタスクで70%を超えるAUCを達成しています。この研究結果は、自動分析された呼吸パターンをCOVID-19の判定として使用可能かどうか、さらなる調査を促すものとなった。",
+        "description": "咳のサンプルと呼吸を使って、COVID-19の音が喘息の人や健康な対照者とどの程度識別できるかを理解したケンブリッジ大学によるクラウドソース研究です。その結果、単純な2値機械学習分類器でも、健康な音とCOVID-19の音を正しく分類できることがわかりました。我々のモデルは、すべてのタスクで70%を超えるAUCを達成しています。この研究結果は、自動分析された呼吸パターンをCOVID-19の事前検査として使用するために、さらなる調査を促すものとなった。",
         "source": " "
       }
     },
@@ -657,152 +803,6 @@
       "title": " ",
       "description": "私たちは、テクノロジーがこれを現実のものにできると信じています。シリコンバレーで最も権威のある機関の専門家の支援を受け、私たちのチームは、咳の音を分析してCOVID-19陽性患者を98%の精度で検出する最先端のAIアルゴリズムを開発しました。",
       "buttonDonateCough": "今すぐ咳を寄付する"
-    }
-  },
-  "OYW": {
-    "topbanner": {
-      "header": "About/サポーター紹介",
-      "title": "ミュンヘン2021",
-      "description": "OYW - 毎年開催されるOne Young Worldは、社会的インパクトを加速させるために活動している、各国・各分野の最も優秀な若手人材が集結しました。"
-    },
-    "headers": {
-      "header": "Virufy & One Young World",
-      "topbanner": "私たちの世界は、優れたリーダーシップを必要としています。現代の若者世代は、世界史の中で未だかつてない情報量を持ち、豊かな教育を受け、十分なコネクションを持つ世代の一つです。One Young Worldは、より良い世界、つまりより責任感のある効果的なリーダーシップのある世界を創るために、世界中で最も影響力のある若いリーダーを発掘し、促進し、結びつけます。",
-      "sub-header": "Virufyは、アメリカ大陸や日本など、さまざまなOYWのプラットフォームでその活動の様子紹介されており、OYWとコラボレートし、各地域のアンバサダーとともに活動に取り組んでいます。 ",
-      "buttonJoinUs": "参加する",
-      "help": "Virufyをあなたの近くの病院や地域に届けるために、ご協力ください。一緒に、医療を変え、COVIDの蔓延を食い止めましょう。そして、これは始まりに過ぎません。将来のパンデミックに対する戦いにも参加しましょう！"
-    },
-    "section1": {
-      "header": "2021年7月25日に開催されるOYW2021サミットをご覧ください。:",
-      "sub-header": "COVID-19に対する総会が開かれ、VirufyのオペレーションリードであるYulie Qiaoが講演を行います。",
-      "sub-header2": "デジタル展示会でVirufyを詳しく知る"
-    },
-    "sectionHi": {
-      "header": "Come Say Hi!",
-      "amil": "<b>Amil Khanzada</b> - OYW 日本大使 & Virufy創設者兼CEO",
-      "yulie": "<b>Yulie Qiao</b> - bp 代表, USA & Virufyオペレーション",
-      "ayomide": "<b>Ayomide Owoyemi, MD</b> - Novartis 代表, Nigeria & Virufy ML 臨床統計 ",
-      "shreya": "<b>Shreya Shreeram, MD</b> - Virufy 代表, India & Virufy 臨床研究",
-      "join": "<b>You can be part of the solution!</b> ボランティアの募集 <a target='_blank' href='https://virufy.org/en/available-roles/'>Join Page</a> こちらもご覧ください <a target='_blank' href='https://docs.google.com/document/d/18XFbn6wSY6Ld-oN7UpqUY8GVX7T1wEaoJSn1HD9eBls/edit'>Virufy OYW playbook</a>."
-    },
-    "section2": {
-      "title": "なぜOne Young Worldなのか?",
-      "header": "グローバルなインパクトに焦点をあてる",
-      "sub-header": " データを収集し、世界中の開発途上国の人々のために公平なソリューションを提供する。",
-      "youth": "若者主導",
-      "youth-des": "私たちのチームは、十数カ国から集まった若者たちが率い、世界的なリーダーたちがアドバイスをしてくれることで、成長を続けています。",
-      "ambassador": "アンバサダー・ドリブン",
-      "ambassador-des": "ワン・ヤング・ワールドの組織構成は、ユースアンバサダーが各国での活動をリードし、地域コーディネートアンバサダーがそれに対応する形となっています。",
-      "diverse": "多彩な視点",
-      "diverse-des": "私たちのチームは、25以上の大学、15カ国から代表者が集まり、10人以上のワン・ヤング・ワールドのアンバサダーが参加しています。"
-    },
-    "ambassador": {
-      "header": "Our OYW x Virufy Community",
-      "ambassador-list": {
-        "amil": {
-          "name": "アミル・カンザダ",
-          "descriptionOYW": "OYM 日本大使",
-          "descriptionVirufy": "Virufy 創業者兼代表"
-        },
-        "madhav": {
-          "name": "マダヴ・ダット",
-          "descriptionOYW": "OYM インド大使",
-          "descriptionVirufy": "Virufy アドバイザー"
-        },
-        "marcos": {
-          "name": "マルコス・デザ",
-          "descriptionOYW": "OYM アルゼンチン大使",
-          "descriptionVirufy": "Virufy デジタルコミュニケーション"
-        },
-        "yulie": {
-          "name": "ユリ・チャオ",
-          "descriptionOYW": "2021年OYW bp代表 -米国",
-          "descriptionVirufy": "Virufy オペレーション"
-        },
-        "ayomide": {
-          "name": "アヨミデ・オウォエミ医学博士",
-          "descriptionOYW": "2021 OYW ノバルティス代表（ナイジェリア）",
-          "descriptionVirufy": "Virufy 機械学習・臨床統計"
-        },
-        "shreya": {
-          "name": "シュレーヤ・スリーラム医学博士",
-          "descriptionOYW": "2021年 Virufyインド代表",
-          "descriptionVirufy": "Virufy 臨床研究"
-        },
-        "lauravelasquezh": {
-          "name": "ローラ・ヴェラスケス",
-          "descriptionOYW": "2021 OYW ジョンソン・エンド・ジョンソン 代表（コロンビア）",
-          "descriptionVirufy": "Arkangel AI 共同創業者兼社長 & Virufy パートナー"
-        },
-        "nathan": {
-          "name": "ネイサン・トーマス",
-          "descriptionOYW": "OYWコーディネート・アンバサダー （米国）",
-          "descriptionVirufy": " "
-        },
-        "jason": {
-          "name": "ジェイソン・パレハ・ハウレギ",
-          "descriptionOYW": "OYWコーディネート・アンバサダー（ペルー）",
-          "descriptionVirufy": " "
-        },
-        "katherine": {
-          "name": "キャサリン・タリア・オルティス・レオン",
-          "descriptionOYW": "OYWペルー大使",
-          "descriptionVirufy": " "
-        },
-        "gonzalo": {
-          "name": "ゴンザロ・ロイフェ",
-          "descriptionOYW": "OYWアルゼンチン大使",
-          "descriptionVirufy": " "
-        },
-        "annelisse": {
-          "name": "アンネリーゼ・トーレス・ダーサ",
-          "descriptionOYW": "OYWボリビア大使",
-          "descriptionVirufy": " "
-        },
-        "veronica": {
-          "name": "ベロニカ・グズマン・クィラクエオ",
-          "descriptionOYW": "OYWチリ大使",
-          "descriptionVirufy": " "
-        },
-        "sebastian": {
-          "name": "セバスチャン・ペドラサ",
-          "descriptionOYW": "OYWコロンビア大使",
-          "descriptionVirufy": " "
-        },
-        "kenmaru": {
-          "name": "末冨健丸",
-          "descriptionOYW": "OYW日本大使",
-          "descriptionVirufy": " "
-        },
-        "kapil": {
-          "name": "カピル・ナライン医学博士",
-          "descriptionOYW": "OYW南アフリカ大使",
-          "descriptionVirufy": " "
-        },
-        "leonard": {
-          "name": "レオナルド・バーズ",
-          "descriptionOYW": "OYWアイルランド大使",
-          "descriptionVirufy": " "
-        },
-        "allana": {
-          "name": "アレーナ・ドイル",
-          "descriptionOYW": "OYW米国大使",
-          "descriptionVirufy": " "
-        },
-        "kavya": {
-          "name": "カブヤ・マドハバン",
-          "descriptionOYW": "OYW米国大使",
-          "descriptionVirufy": " "
-        }
-      }
-    },
-    "testimonials": {
-      "title": "ボランティア体験談",
-      "intro": "私たちのチームは、スタンフォード大学、プリンストン大学、そしてワン・ヤング・ワールドといった定評ある教育機関の、社会貢献活動に熱心な学生たちによって率いられています。私たちはOne Young Worldのメンバーを強く信頼しており、興味のあるアンバサダーがピッチに参加することを温かく迎えてくれます。",
-      "annelisse": "“私自身、恵まれない国で家族全員と一緒にCOVIDに苦しんだので、Virufyに参加することで、同じ運命に直面する人をなくすことができると即座に思いました”",
-      "sebastian": "“Virufyは、若者の力とテクノロジーを融合し、世界を変えていきます。このソリューションが全世界に届き、特に低所得国の医師を支える存在になることを期待しています。”",
-      "gonzalo": "“Virufyは、ユーザーのバックグラウンドや社会的地位に関係なく、グローバルにインパクトを与えることができます。これこそ、現状を変えるということなのです。”",
-      "marcos": "“Virufyが非常に正確なソリューションを開発し、これが全世界のあらゆる産業で役に立つと思うのです。ですから、皆さんもぜひ時間をとって、私たちと一緒に頑張りましょう。”"
     }
   },
   "paper": {
@@ -817,31 +817,21 @@
         "title": "Virufy 咳からCOVID-19を検出するAIのためのクラウドソースと臨床データセットのグローバルな適用可能性",
         "readMoreLink": "さらに読む..."
       },
-      "section3": {
-        "date": "2023年2月",
-        "title": "Complex Clipping for Improved Generalization in Machine Learning",
-        "readMoreLink": "さらに読む..."
-      },
       "section4": {
         "date": "2021年9月",
         "title": "COVID-19咳AIシステムの展開における課題と機会",
         "readMoreLink": "さらに読む..."
       },
       "section5": {
-        "date": "2022年1月",
+        "date": "20221年1月",
         "title": "咳からのCOVID-19分類のための大規模な集約データセットでのディープラーニングの使用",
         "readMoreLink": "さらに読む..."
       },
       "section6": {
-        "date": "2022年1月",
-        "title": "Covid 19 計算機 -- 米国の社会・経済にもたらす好影響",
+        "date": "20221年1月",
+        "title": "Covid 19 Calculator -- Positive U.S. Socio-Economic Impact",
         "readMoreLink": "さらに読む...",
-        "calculatorLink": "計算機"
-      },
-      "section7": {
-        "date": "2022年10月",
-        "title": "Hierarchical Multi-modal Transformer for Automatic Detection of COVID-19",
-        "readMoreLink": "Read more..."
+        "calculatorLink": "Calculator"
       }
     }
   },
@@ -869,15 +859,13 @@
       "us_policy": "Privacy Policy",
       "eu": "ヨーロッパ諸国",
       "eu_policy": "Privacy Policy",
-      "ja": "日本",
-      "ja_policy": "プライバシーポリシー",
       "other": "その他の国々",
       "other_policy": "Privacy Policy"
     }
   },
   "team": {
     "meta": "Whoever and wherever you are you may be able to join Virufy project and help create an AI driven online COVID-19 test. Make a difference today.",
-    "title": "アミルについて",
+    "title": "Read Amil’s Story",
     "supportersSection": {
       "header": "About/サポーター紹介",
       "description": "数々の企業や団体が、その豊富な知識で私たちをサポートし、私たちの活動に安心と確実性を与えてくれるのです。",
@@ -885,33 +873,32 @@
       "buttonSupporter": "サポーターになる"
     },
     "ourFounder": {
-      "subtitleOurFounder": "創業者",
-      "title-advisors": "アドバイザー",
+      "subtitleOurFounder": "Meet Our Founder",
+      "title-advisors": "Advisors",
       "amil": {
-        "name": "アミル・カンザダ",
+        "name": "Amil Khanzada",
         "email": "amil@berkeley.edu",
-        "description1": "HaasビジネススクールMBA課程、電気工学・コンピュータサイエンス学科修士課程在学中 ",
+        "description1": "MBA Candidate, Haas School of Business \nMaster of Engineering Candidate, \nDepartment of Electrical Engineering and \nComputer Sciences",
         "description2": "University of California, Berkeley 253 Cory Hall, Berkeley, CA",
         "title": "Founder & President"
       },
-      "titleAmilStory": "アミルのストーリー",
+      "titleAmilStory": "Amil’s Story",
       "amilStory": {
         "firstParagraph": {
-          "one": "　",
-          "two": "Virufyは、2020年3月、”公益のために、COVID-19を阻止する”というミッションのもと、アミル・カンザダ氏とこれに賛同する世界トップクラスの専門家たちの支持により結成されました。",
-          "three": "COVID-19が大流行したとき、街のロックダウン、逼迫する医療機関、ワクチン不足など、様々な問題が人々の生活を不安に貶める中、カンザダ氏は救援活動に身を投じ始めました。スタンフォード大学の教授の教えからヒントを得て、人工知能を使ってパンデミックに対抗することを思いついた彼は、有志達と共に非営利団体「Virufy」を設立し、咳の音声をAIで解析しCOVID-19の事前スクリーニングが瞬時に行えるスマートフォンアプリを開発することにしました。"
+          "one": "Virufy was formed in March 2020, when Amil committed himself to combat the pandemic and garnered the support of top-tier domain experts globally, aligned under the common mission: To stop COVID-19 in support of the public good.",
+          "two": "When the COVID-19 pandemic hit, in the midst of lockdowns, uncertainty, overflowing hospitals, and lacking test kits, Amil committed himself to pandemic relief efforts. Taking inspiration from the teachings of his Stanford University professors, he came up with the idea of using artificial intelligence to combat the pandemic.",
+          "three": "Supported by several Stanford faculty members and student groups, Amil founded Virufy—a nonprofit organization developing a smartphone app to prescreen for COVID-19 instantly through AI-powered analysis of voice and cough recordings."
         },
-        "secondParagraph": "カンザダ氏の社会奉仕の精神は、父親の影響を受け、幼少期から始まりました。幼い頃から父親と共に炊き出しや老人ホームでボランティア活動に従事し、中学時代になると、人を助けるための手段としてプログラミングに興味を持つようになりました。",
-        "thirdParagraph": "カリフォルニア大学バークレー校に入学して初めての正月休み、カンザダ氏が18歳のとき、高速道路で事故が発生し、人命救助にあたった父親がはねられ、命を落としました。最大のロールモデルを失った後、大変な苦労をしましたが、彼の心の中には、父親が持っていた「奉仕」の精神は失われていませんでした。",
+        "secondParagraph": "Amil’s passion for social service started from an early age. His father instilled in him the spirit of social service, where they volunteered together in soup kitchens and nursing homes. In middle school, Amil developed a love for programming as a means to help others.",
+        "thirdParagraph": "During his first New Year’s holiday at UC Berkeley, when Amil was 18 years old, his father was struck and killed while assisting at a highway accident, saving another’s life. Having lost his greatest role model, Amil struggled immensely. However, in his heart, he had never lost his father’s spirit of giving back.",
         "fourthParagraph": {
-          "one": "悲しみと喪失感の中で立ち上がることを決意し、残された母親と共に過ごし支えるために、毎日2時間半かけて学校に通いながら、学費を払うためのアルバイトをし、そして、ソフトウェアの知識と技術を磨きながら、公共サービスや恵まれない人々のことを思いやることの重要性を身をもって学びました。",
-          "two": "また、カンザダ氏は、日本の田舎で生活を送ったこともありました。そこでは、日本の若者や子供たちにアジャイル開発・ペアプログラミングを教えていました。その後、町のエボリューション大使に任命され、オランダで開催された<a target='_blank' rel='noreferrer' href='https://www.oneyoungworld.com/' class='underline text-blue'/>One Young World</a>に<a target='_blank' rel='noreferrer' href='https://oywj.org/' class='underline text-blue'/>日本</a>の代表として派遣されるまでに至りました。そうして、195カ国の若きソーシャルインパクトリーダーや各国の首脳、ノーベル賞受賞者たちと肩を並べる中で、より広範で世界的なソーシャルインパクトへの急務感を抱くこととなったのです。"
+          "one": "Amil resolved to stand up in the face of his grief and loss, and worked part-time to pay tuition while commuting 2.5 hours daily to stay with his mom and learned to value public service and the underprivileged while honing his software knowledge and skills.",
+          "two": "When Amil moved to the countryside of Japan, he taught agile pair programming to the young adults and children there. Later, Amil was appointed Evolution Ambassador of the town and sent to the <a target='_blank' rel='noreferrer' href='https://www.oneyoungworld.com/' class='underline text-blue'/>One Young World</a> conference in the Netherlands to represent <a target='_blank' rel='noreferrer' href='https://oywj.org/' class='underline text-blue'/> Japan </a>, amongst other young social impact leaders, country heads, and Nobel Laureates from 195 countries. At One Young World, Amil acquired a sense of urgency for broader, worldwide social impact."
         },
-        "fivethParagraph": "カンザダ氏の豊富な技術的バックグラウンド、奉仕の心、卓越したリーダーシップ、そしてボランティアや企業から提供された何万時間という時間を経て、Virufyは2022年6月現在、Amazon Web Services、Stanford COVID-19 Response Innovation Lab、Pillsbury Winthrop Shaw Pittman Lawなど30社のパートナー企業と、200名を超えるボランティアとともに、12カ国で事業を行うまでに成長しました。",
-        "sixthParagraph": "「パンデミックを終わらせるという共通の目的のもとに団結し、助けを必要とする人々のために国境を越えて活動する私達のエネルギーは止められない。」 —アミル・カンザダ",
-        "Amil-Publications": "アミルの研究論文",
+        "fivethParagraph": "Through Amil’s strong technical background, resolve to give back, and outstanding leadership, combined with the tens of thousands of hours contributed by volunteers and firms, Virufy has grown to operate in a dozen countries with more than 200 volunteers and 30 partner organizations, including Amazon Web Services, Stanford COVID-19 Response Innovation Lab, and Pillsbury Winthrop Shaw Pittman Law as of June 2022.",
+        "sixthParagraph": "“United behind a common cause to end pandemics, our energy is unstoppable as we work across borders for the common good.” - Amil Khanzada",
+        "Amil-Publications": "Amil’s Publications",
         "fifthParagraph": {
-          "zero": "2022. Hierarchical Multi-modal Transformer for Automatic Detection of COVID-19. ACM SPML; DOI: 3556384.3556414",
           "one": "2022. Using Deep Learning with Large Aggregated Datasets for COVID-19 Classification from Cough. arXiv: 2201.01669",
           "two": "2021. Using a Novel COVID-19 Calculator to Measure Positive U.S. Socio-Economic Impact of a COVID-19 Pre-Screening Solution (AI/ML). arXiv: 2201.11109",
           "three": "2020. Virufy: Global Applicability of AI Detection for COVID-19 from Cough Recordings. arXiv: 2011.13320",
@@ -924,7 +911,7 @@
       "title-ourpeople": "About/私たちの仲間",
       "weUnite": "COVID-19を倒すために、世界中から集まっています。",
       "header": " 私たちの仲間",
-      "teamLeadText": "親善大使",
+      "teamLeadText": "チームリーダー",
       "advisorText": "アドバイザー",
       "oyw": "One Young World",
       "oyw-xs": "OYW",
@@ -1098,24 +1085,24 @@
           "title": "Founder & President"
         },
         "kara": {
-          "name": "カーラ・マイスター医学博士",
-          "description": "スタンフォード医科大学\n耳鼻咽喉科臨床助教授",
-          "title": "クリニカル・アドバイザー"
+          "name": "Kara Meister, M.D.",
+          "description": "Clinical Assistant Professor of ENT\nStanford School of Medicine",
+          "title": "Clinical Advisor"
         },
         "jure": {
-          "name": "ユレ・レスコベック博士",
-          "description": "Pinterest チーフサイエンティスト\nスタンフォード大学 AI准教授",
-          "title": "人工知能アドバイザー"
+          "name": "Dr. Jure Leskovec",
+          "description": "Chief Scientist - Pinterest\nAssociate Professor of AI - Stanford",
+          "title": "Artificial Intelligence Advisor"
         },
         "melissa": {
-          "name": "メリッサ・ディルダール",
-          "description": "Adobe 元CMO\nCommonSpirit Health 取締役",
-          "title": "エグゼクティブ・マーケティング・アドバイザー"
+          "name": "Melissa Dyrdahl",
+          "description": "Former CMO - Adobe\nBoard Member - CommonSpirit Health",
+          "title": "Executive Marketing Advisor"
         },
-        "nakatani": {
-          "name": "中谷 幸俊",
-          "description": "IBM・アクセンチュア元部長",
-          "title": "日本アドバイザー"
+        "kutsuna": {
+          "name": "Kutsuna Satoshi",
+          "description": "Infection Control and Prevention Professor\nOsaka University",
+          "title": "Executive Clinical Advisor"
         },
         "hugo": {
           "name": "Hugo Estrada",
@@ -1123,64 +1110,69 @@
           "title": "Colombia Executive Outreach Advisor"
         },
         "anais": {
-          "name": "アナイス・ラモー医学博士",
-          "description": "コーネル大学耳鼻咽喉科 助教授\nマギル大学 医学博士",
-          "title": "クリニカル・アドバイザー"
+          "name": "Anaïs Rameau, M.D.",
+          "description": "Assistant Professor of ENT - Cornell University\nDoctor of Medicine - McGill University",
+          "title": "Clinical Advisor"
         },
         "madhav": {
-          "name": "マダヴ・ダット",
-          "description": "Green the Gene 創設者\n国連EP 元ユース世界代表",
-          "title": "エグゼクティブ・NPOアドバイザー"
+          "name": "Madhav Datt",
+          "description": "Founder - Green the Gene\nFormer Global Representative for Youth - UN EP",
+          "title": "Executive Nonprofit Advisor"
         },
         "rafi": {
-          "name": "ラフィ・アジム=カーン",
-          "description": "IP/IT パートナー兼\nデータプライバシー ヨーロッパ統括\nPillsbury Winthrop Shaw Pittman LLP",
-          "title": "エグゼクティブ・法務アドバイザー"
+          "name": "Rafi Azim-Khan",
+          "description": "Partner, IP/IT & Head Data Privacy Europe\nPillsbury Winthrop Shaw Pittman LLP",
+          "title": "Executive Legal Advisor"
         },
         "richardswart": {
-          "name": "リチャード・スウォーツボー",
-          "description": "Curaesoft リスクマネジメント\nアイオワ大学 法務博士",
-          "title": "エグゼクティブ・アドバイザー"
+          "name": "Richard Swartzbaugh",
+          "description": "Risk Management - Curaesoft\nJ.D. - University of Iowa",
+          "title": "Executive Advisor"
         },
         "ronan": {
-          "name": "ローナン・ダンロップ",
-          "description": "Pivotal/VMWare 前マーケティング統括\nCohuman マーケティング部門責任者",
-          "title": "エグゼクティブ・マーケティング・\nアドバイザー"
+          "name": "Ronan Dunlop",
+          "description": "Form Head of Marketing - Pivotal/VMWare\nVP of Marketing - Cohuman",
+          "title": "Executive Marketing Advisor"
         },
         "richard": {
-          "name": "リチャード・ノール",
-          "description": "The Brand Garden - CEO\nHenleyビジネススクール - 組織リーダーシップ修士号",
-          "title": "マーケティングアドバイザー"
+          "name": "Richard Nall",
+          "description": "CEO - The Brand Garden\nMaster's Organisational Leadership - Henley",
+          "title": "Marketing Advisor"
         },
         "mark.haseltine": {
-          "name": "マーク・ハーゼルティン",
-          "description": "edX 元CTO/CPO\nMITコンピュータサイエンス卒業生",
-          "title": "エグゼクティブ・アドバイザー"
+          "name": "Mark Haseltine",
+          "description": "Former CTO/CPO - edX\nComputer Science alumnus - MIT",
+          "title": "Executive Advisor"
+        },
+        "mathijs": {
+          "name": "Mathijs De Vaan",
+          "description": "Management of Organizations\nPhD Sociology - Columbia University",
+          "title": "Assistant Professor - UC Berkeley Haas Business School"
         },
         "pedro": {
-          "name": "ペドロ・シエナ",
-          "description": "シエナカンパニー - 創業者兼CEO\nスタンフォード・リーン・ローンチパッドメンター",
-          "title": "ブラジル エグゼクティブアドバイザー"
+          "name": "Pedro Siena",
+          "description": "Founder and CEO - Siena Company\nMentor - Stanford Lean Launchpad",
+          "title": "Brazil Executive Advisor"
         },
         "victor": {
-          "name": "ビクター・ワン",
-          "description": "China Silicon Valley 創業者兼会長\nスタンフォード大学院 MBA修了",
-          "title": "エグゼクティブ・アドバイザー"
+          "name": "Victor Wang",
+          "description": "Founder and Chairman- China Silicon Valley\nMBA - Stanford Graduate School of Business",
+          "title": "Executive Advisor"
         },
         "rok": {
-          "name": "ロク・ソシッチ",
-          "description": "シニアリサーチエンジニア\nスタンフォード大学工学部",
-          "title": "人工知能アドバイザー"
+          "name": "Rok Sosic",
+          "description": "Senior Research Engineer\nStanford School of Engineering",
+          "title": "Artificial Intelligence Advisor"
         },
         "taisuke": {
-          "name": "福野 泰介",
-          "description": "オープンデータ・ジャパン 創業者\nJig.jp - 会長",
-          "title": "エグゼクティブITアドバイザー"
+          "name": "Taisuke Fukuno",
+          "description": "Founder - Open Data Japan\nChairman - jig.jp",
+          "title": "Executive IT Advisor"
         },
         "tsutomu": {
-          "name": "伊東勤",
-          "description": "タンナンFMラジオ創設者\n東海道新幹線保守設計",
-          "title": "エグゼクティブ・ビジョナリー・アドバイザー"
+          "name": "Tsutomu Ito",
+          "description": "Founder - Tannan FM Radio\nLead Architect, Bullet Train",
+          "title": "Executive Visionary Advisor"
         },
         "alfonso": {
           "name": "Alfonso Assaf",
@@ -1188,69 +1180,34 @@
           "title": "Global Outreach Manager"
         },
         "khwaja": {
-          "name": "クワジャ・シェイク",
-          "description": "MOSH副議長兼取締役\nノース・フロリダ大学コンピューティング 取締役",
-          "title": "IBM - チーフ・テクノロジー・オフィサー"
-        },
-        "george": {
-          "name": "ジョージ・ペゲロー",
-          "description": "スタンフォード大学 武道哲学科教授",
-          "title": "エグゼクティブ・ビジョナリー・アドバイザー"
+          "name": "Khwaja Shaik",
+          "description": "Advisory Council Member - Harvard Business Review\nResearch Council Thought Leader - Gartner",
+          "title": "Chief Technology Officer - IBM"
         },
         "rich": {
-          "name": "リッチ・ウォルコフ",
-          "description": "KGOラジオ - スポーツディレクター",
-          "title": "コミュニケーション・アドバイザー"
+          "name": "Rich Walcoff",
+          "description": "Sports Director - KGO Radio",
+          "title": "Communications Advisor"
         },
         "mansoor": {
-          "name": "マンスール・アハメド",
-          "description": "Cleveland睡眠研究センター 創設者兼CEO\nキング・エドワード医科大学 - 医学学士、外科学士",
-          "title": "クリニカルリサーチアドバイザー"
+          "name": "Mansoor Ahmed",
+          "description": "Founder & CEO - Cleveland Sleep Research Center\nMBBS - King Edward Medical University",
+          "title": "Clinical Research Advisor"
         },
         "mert": {
-          "name": "マート・ピランチ",
-          "description": "スタンフォード大学電気工学部AI学科助教授",
-          "title": "人工知能アドバイザー"
-        },
-        "manuj": {
-          "name": "マヌジ・アガーワル",
-          "description": "TetraNoodle Technologies - チーフ・イノベーション・オフィサー",
-          "title": "エグゼクティブAI、戦略・マーケティングアドバイザー"
-        },
-        "cheema": {
-          "name": "ファイサル・チーマ",
-          "description": "ヒューストン大学/ティルマン・J・フィルテッタ医科大学\nバイオメディカル・臨床科学 准教授",
-          "title": "エグゼクティブ臨床アドバイザー"
-        },
-        "atlas": {
-          "name": "レス・アトラス博士",
-          "description": "ワシントン大学 電気・コンピュータ工学科 教授\nスタンフォード大学電気工学博士号",
-          "title": "オーディオ・機械学習アドバイザー"
-        },
-        "ozawa": {
-          "name": "小澤信与",
-          "description": "臨床開発部グループマネージャー",
-          "title": "日本臨床開発リード"
-        },
-        "madarame": {
-          "name": "班目哲司",
-          "description": "theDOCK、投資アドバイザリー委員\nスタンフォード大学 経営大学院 MBA",
-          "title": "日本郵船 DXイノベーション プリンシパルフェロー"
-        },
-        "hirofumi": {
-          "name": "吉越洋文",
-          "description": "臨床開発部シニアマネージャー",
-          "title": "日本臨床開発リード"
+          "name": "Mert Pilanci",
+          "description": "Assistant Professor of AI Stanford University Electrical Engineering",
+          "title": "Artificial Intelligence Advisor"
         }
       }
     },
     "valuesSection": {
       "meta": "私たちVirufyは、ウイルスの循環を減らすのに役立つAI駆動のCOVID-19テストを構築しています。 それに対する私たちのアプローチについてもっと学びましょう。",
       "About": "私たちについて",
-      "OurPurpose": "呼吸一つで世界の健康を変える",
+      "OurPurpose": "咳一つで世界の健康を変える",
       "vision": {
         "ourVision": "私たちのミッション",
-        "ourInnovative": "私たちの革新的なアプローチは、特に低所得国の患者さん、臨床医、政府に対して、優れたCOVID事前スクリーニングを提供することを目的としています。私たちは、病気の特定を可能にするAI技術の先駆けとなる非営利団体を目指し、世界のヘルスケアを変革します。私たちの活動で人々を鼓舞し、共にこのミッションを支援し応援してくれるメンバーを増やしたいと願っています。",
+        "ourInnovative": "私たちの革新的なアプローチは、特に低所得国の患者さん、臨床医、政府に対して、優れたCOVID事前スクリーニングを提供することを目的としています。私たちの革新的なアプローチは、特に低所得国の患者さん、臨床医、政府に対して、優れたCOVID事前スクリーニングを提供することを目的としています。私たちは、病気の特定を可能にするAI技術の先駆けとなる非営利団体を目指し、世界のヘルスケアを変革します。私の活動で人々を鼓舞し、共にこのミッションを支援し応援してくれるメンバーを増やしたいと願っています。",
         "ourCommitment": "個人情報保護への取り組み",
         "virufyPrivacy": "Virufy は、お客様の個人情報のプライバシーと保護に真剣に取り組んでいます。当社の法務チームについての詳細はこちら： <a target='_blank' href='https://virufy.org/privacy_policy'>Privacy Policy</a> ＆ <a target='_blank' href='https://virufy.org/cookie_policy'>Cookie Policy</a>",
         "buttonHelpUs": "研究紹介"

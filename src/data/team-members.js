@@ -202,6 +202,12 @@ export const advisors = [
     imageName: "melissa",
   },
   {
+    mediaLink: "https://www.med.osaka-u.ac.jp/eng/introduction/research/special/infection",
+    id: "kutsuna",
+    defaultName: "Kutsuna Satoshi",
+    imageName: "kutsuna",
+  },
+  {
     mediaLink: "https://www.linkedin.com/in/madhavdatt/",
     id: "madhav",
     defaultName: "Madhav Datt",

@@ -11,7 +11,8 @@
     "check": "prettier --check .",
     "format": "prettier --write .",
     "lint": "eslint --ext .js,.jsx .",
-    "test": "jest"
+    "test": "jest",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -79,7 +80,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-plugin-testing-library": "^4.12.0",
     "gh-pages": "^3.1.0",
-    "husky": "^4.3.7",
+    "husky": "^8.0.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^27.0.6",
     "lint-staged": "^10.5.3",
@@ -151,11 +152,6 @@
     "public/",
     "static/"
   ],
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged && jest"
-    }
-  },
   "lint-staged": {
     "*.{js,jsx}": "eslint --cache --fix",
     "*.{js,jsx,css,md,json}": "prettier --write"

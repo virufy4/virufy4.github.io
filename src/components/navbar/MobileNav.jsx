@@ -186,7 +186,7 @@ const MobileNav = ({ textColor, bgColor, virufyLogo }) => {
                   <div className="flex ml-6 ">
                     {button.intlId === "nav.joinUs" ? (
                       <Link
-                        to={`${button.path}`} // removed dup language for href
+                        to={`${button.path}`} // removed dup
                         className="vf-btn-clear py-2 px-5 whitespace-nowrap border-2 border-blue"
                       >
                         {intl.formatMessage({
