@@ -6,7 +6,7 @@
     "start": "gatsby serve",
     "clean": "gatsby clean",
     "build": "gatsby build",
-    "hompage": "virufy.org",
+    "homepage": "virufy.org",
     "build-intl": "gatsby clean && node ./scripts/build-intl-resources.js",
     "check": "prettier --check .",
     "format": "prettier --write .",
