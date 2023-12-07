@@ -832,6 +832,16 @@
         "title": "Covid 19 Calculator -- Positive U.S. Socio-Economic Impact",
         "readMoreLink": "さらに読む...",
         "calculatorLink": "Calculator"
+      },
+      "section3": {
+        "date": "2023年2月",
+        "title": "機械学習における複雑なクリッピングによる汎化の向上",
+        "readMoreLink": "Read more..."
+      },
+      "section7": {
+        "date": "2022年10月",
+        "title": "COVID-19の自動検出のための階層的なマルチモーダルトランスフォーマー",
+        "readMoreLink": "Read more..."
       }
     }
   },

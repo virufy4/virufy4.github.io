@@ -25,6 +25,16 @@
       "title": "Covid 19 Calculator -- Positive U.S. Socio-Economic Impact",
       "readMoreLink": "Read more...",
       "calculatorLink": "Calculator"
+    },
+    "section3": {
+      "date": "February 2023",
+      "title": "Complex Clipping for Improved Generalization in Machine Learning",
+      "readMoreLink": "Read more..."
+    },
+    "section7": {
+      "date": "October 2022",
+      "title": "Hierarchical Multi-modal Transformer for Automatic Detection of COVID-19",
+      "readMoreLink": "Read more..."
     }
   }
 }

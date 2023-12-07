@@ -26,6 +26,11 @@
       "readMoreLink": "Leer más...",
       "calculatorLink": "Calculator"
     },
+    "section3": {
+      "date": "febrero 2023",
+      "title": "Complex Clipping for Improved Generalization in Machine Learning",
+      "readMoreLink": "Read more..."
+    },
     "section7": {
       "date": "octubre 2022",
       "title": "Hierarchical Multi-modal Transformer for Automatic Detection of COVID-19",
