@@ -288,6 +288,12 @@ export const advisors = [
     imageName: "khwaja",
   },
   {
+    mediaLink: "https://www.linkedin.com/in/ayomide-owoyemi/",
+    id: "ayomide",
+    defaultName: "Ayomide Owoyemi",
+    imageName: "ayomide",
+  },
+  {
     mediaLink: "http://tannan.fm/contents/about-us.html",
     id: "tsutomu",
     defaultName: "Tsutomu Ito",
