@@ -883,12 +883,12 @@
       "buttonSupporter": "サポーターになる"
     },
     "ourFounder": {
-      "subtitleOurFounder": "Meet Our Founder",
-      "title-advisors": "Advisors",
+      "subtitleOurFounder": "創立者",
+      "title-advisors": "アドバイザー",
       "amil": {
-        "name": "Amil Khanzada",
+        "name": "アミル・カンザダ",
         "email": "amil@berkeley.edu",
-        "description1": "MBA Candidate, Haas School of Business \nMaster of Engineering Candidate, \nDepartment of Electrical Engineering and \nComputer Sciences",
+        "description1": "ハースビジネススクールMBA課程、電気工学\n・情報工学科修士課程在学中",
         "description2": "University of California, Berkeley 253 Cory Hall, Berkeley, CA",
         "title": "Founder & President"
       },
@@ -1090,24 +1090,24 @@
       },
       "advisors": {
         "amil": {
-          "name": "Amil Khanzada",
-          "description": "MBA / MEng (AI), \nUC Berkeley Haas, \nB.A. Computer Science, \nUC Berkeley",
+          "name": "アミル・カンザダ",
+          "description": "ハースビジネススクールMBA課程、電気工学・情報工学科修士課程在学中",
           "title": "Founder & President"
         },
         "kara": {
-          "name": "Kara Meister, M.D.",
-          "description": "Clinical Assistant Professor of ENT\nStanford School of Medicine",
-          "title": "Clinical Advisor"
+          "name": "カーラ・メイスター　医学博士",
+          "description": "ENTスタンフォード医科大学臨床助教授",
+          "title": "臨床アドバイザー"
         },
         "jure": {
-          "name": "Dr. Jure Leskovec",
-          "description": "Chief Scientist - Pinterest\nAssociate Professor of AI - Stanford",
-          "title": "Artificial Intelligence Advisor"
+          "name": "ユレ・レスコべック博士",
+          "description": "Pinterest チーフサイエンティスト\nスタンフォード大学AI准教授",
+          "title": "人工知能アドバイザー"
         },
         "melissa": {
-          "name": "Melissa Dyrdahl",
-          "description": "Former CMO - Adobe\nBoard Member - CommonSpirit Health",
-          "title": "Executive Marketing Advisor"
+          "name": "メリッサ・ディルダール",
+          "description": "前Adobe Board会員 　CommonSpirit Health",
+          "title": "エグゼクティブ・マーケティングアドバイザー"
         },
         "cheema": {
           "name": "Faisal Cheema",
@@ -1135,14 +1135,14 @@
           "title": "Japan Executive Advisor"
         },
         "manuj": {
-          "name": "Manuj Aggarwal ",
-          "description": "Chief Innovation Officer - TetraNoodle Technologies",
-          "title": "Executive AI, Strategy And Marketing Advisor"
+          "name": "マヌジ・アガーワル",
+          "description": "TetraNoodle Technologies - チーフ・イノベーション・オフィサー",
+          "title": "エグゼクティブAI、戦略・マーケティングアドバイザー"
         },
         "atlas": {
-          "name": "Dr. Les Atlas",
-          "description": "Professor of Electrical and Computer Engineering - University of Washington\nPh.D. Electrical Engineering, Stanford",
-          "title": "Audio and Machine Learning Advisor"
+          "name": "レス・アトラス博士",
+          "description": "ワシントン大学　電気・コンピュータ工学科教授\nスタンフォード大学電気工学博士号",
+          "title": "オーディオ・機械学習アドバイザー"
         },
         "ozawa": {
           "name": "小澤信与",
@@ -1155,69 +1155,69 @@
           "title": "Colombia Executive Outreach Advisor"
         },
         "anais": {
-          "name": "Anaïs Rameau, M.D.",
-          "description": "Assistant Professor of ENT - Cornell University\nDoctor of Medicine - McGill University",
-          "title": "Clinical Advisor"
+          "name": "アナイス・ラミュー医学博士",
+          "description": "ENTコーネル大学助教授\nマギル大学　医学博士",
+          "title": "臨床アドバイザー"
         },
         "madhav": {
-          "name": "Madhav Datt",
-          "description": "Founder - Green the Gene\nFormer Global Representative for Youth - UN EP",
-          "title": "Executive Nonprofit Advisor"
+          "name": "マダヴ・ダット",
+          "description": "Green the Gene創設者\n国連EP 前ユース世界代表",
+          "title": "エグゼクティブ・NPOアドバイザー"
         },
         "rafi": {
-          "name": "Rafi Azim-Khan",
-          "description": "Partner, IP/IT & Head Data Privacy Europe\nPillsbury Winthrop Shaw Pittman LLP",
-          "title": "Executive Legal Advisor"
+          "name": "ラフィ・アジム＝カーン",
+          "description": "IP/ITパートナー 兼 データプライバシー　ヨーロッパ統括\nPillsbury Winthrop Shaw Pittman LLP",
+          "title": "エグゼクティブ・法務アドバイザー"
         },
         "richardswart": {
-          "name": "Richard Swartzbaugh",
-          "description": "Risk Management - Curaesoft\nJ.D. - University of Iowa",
-          "title": "Executive Advisor"
+          "name": "リチャード・スウォーツボー",
+          "description": "Curaesoftリスクマネジメント\nアイオワ大学　法務博士",
+          "title": "エグゼクティブ・アドバイザー"
         },
         "ronan": {
-          "name": "Ronan Dunlop",
-          "description": "Form Head of Marketing - Pivotal/VMWare\nVP of Marketing - Cohuman",
-          "title": "Executive Marketing Advisor"
+          "name": "ローナン・ダンロップ",
+          "description": "Pivotal/VMWare　前マーケティング統括\nCohuman　マーケティング部門責任者",
+          "title": "エグゼクティブ・マーケティイングアドバイザー"
         },
         "richard": {
-          "name": "Richard Nall",
-          "description": "CEO - The Brand Garden\nMaster's Organisational Leadership - Henley",
-          "title": "Marketing Advisor"
+          "name": "リチャード・ノール",
+          "description": "CEO - The Brand Garden\nHenleyビジネススクール - 組織リーダーシップ修士号",
+          "title": "マーケティイングアドバイザー"
         },
         "mark.haseltine": {
-          "name": "Mark Haseltine",
-          "description": "Former CTO/CPO - edX\nComputer Science alumnus - MIT",
-          "title": "Executive Advisor"
+          "name": "マーク・ハーゼルティン",
+          "description": "edX 前CTO/CPO\nMITコンピュー\nターサイエンス卒業生",
+          "title": "エグゼクティブ・アドバイザー"
         },
         "mathijs": {
-          "name": "Mathijs De Vaan",
-          "description": "Management of Organizations\nPhD Sociology - Columbia University",
-          "title": "Assistant Professor - UC Berkeley Haas Business School"
+          "name": "マスジス・デ・ヴァアン",
+          "description": "団体管理　コロンビア大学　社会学博士号",
+          "title": "UC Berkeley Haas Business School　助教授"
         },
         "pedro": {
-          "name": "Pedro Siena",
-          "description": "Founder and CEO - Siena Company\nMentor - Stanford Lean Launchpad",
-          "title": "Brazil Executive Advisor"
+          "name": "ペドロ・シエナ",
+          "description": "Siena Company - 創設者兼CEO \nStanford Lean Launchpad - メンター",
+          "title": "ブラジル・エグゼクティブ・アドバイザー"
         },
         "victor": {
-          "name": "Victor Wang",
-          "description": "Founder and Chairman- China Silicon Valley\nMBA - Stanford Graduate School of Business",
-          "title": "Executive Advisor"
+          "name": "ビクター・ワン",
+          "description": "China Silicon Valley 創業者兼会長 \nスタンフォード大学院MBA終了",
+          "title": "エグゼクティブ・アドバイザー"
         },
         "rok": {
-          "name": "Rok Sosic",
-          "description": "Senior Research Engineer\nStanford School of Engineering",
-          "title": "Artificial Intelligence Advisor"
+          "name": "ロク・ソシッチ",
+          "description": "シニアリサーチエンジニア\nスタンフォード大学工学部",
+          "title": "人工知能アドバイザー"
         },
         "taisuke": {
-          "name": "Taisuke Fukuno",
-          "description": "Founder - Open Data Japan\nChairman - jig.jp",
-          "title": "Executive IT Advisor"
+          "name": "福野　泰介",
+          "description": "Open Data Japan 創設者\njig.jp 会長",
+          "title": "エグゼクティブITアドバイザー"
         },
         "tsutomu": {
-          "name": "Tsutomu Ito",
-          "description": "Founder - Tannan FM Radio\nLead Architect, Bullet Train",
-          "title": "Executive Visionary Advisor"
+          "name": "伊東　勤",
+          "description": "タンナンFMラジオ創設者\n東海道新幹線保守設計",
+          "title": "エグゼクティブ・ビジョナリーアドバイザー"
         },
         "alfonso": {
           "name": "Alfonso Assaf",
@@ -1225,24 +1225,24 @@
           "title": "Global Outreach Manager"
         },
         "khwaja": {
-          "name": "Khwaja Shaik",
-          "description": "Advisory Council Member - Harvard Business Review\nResearch Council Thought Leader - Gartner",
-          "title": "Chief Technology Officer - IBM"
+          "name": "クワジャ・シェイク",
+          "description": "MOSH副議長兼取締役　ノース・フロリダ大\n学コンピューティング取締役",
+          "title": "IBM - チーフ・テクノロジー・オフィサー"
         },
         "rich": {
-          "name": "Rich Walcoff",
-          "description": "Sports Director - KGO Radio",
-          "title": "Communications Advisor"
+          "name": "リッチ・ウォルコフ",
+          "description": "コミュニケーションズ　アドバイザー",
+          "title": "KGO Radio - スポーツディレクター"
         },
         "mansoor": {
-          "name": "Mansoor Ahmed",
-          "description": "Founder & CEO - Cleveland Sleep Research Center\nMBBS - King Edward Medical University",
-          "title": "Clinical Research Advisor"
+          "name": "マンスール・アハメド",
+          "description": "Cleveland睡眠研究センター創設者兼CEO\nキング・エドワード医科大学 - 医学博士、外科博士",
+          "title": "臨床研究アドバイザー"
         },
         "mert": {
-          "name": "Mert Pilanci",
-          "description": "Assistant Professor of AI Stanford University Electrical Engineering",
-          "title": "Artificial Intelligence Advisor"
+          "name": "マート・ピランチ",
+          "description": "スタンフォード大学電子工学部AI学科助教授",
+          "title": "人工知能アドバイザー"
         }
       }
     },
