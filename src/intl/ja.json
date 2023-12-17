@@ -1095,7 +1095,7 @@
           "title": "Founder & President"
         },
         "kara": {
-          "name": "カーラ・メイスター　医学博士",
+          "name": "カーラ・メイスター医学博士",
           "description": "ENTスタンフォード医科大学臨床助教授",
           "title": "臨床アドバイザー"
         },
@@ -1110,33 +1110,33 @@
           "title": "エグゼクティブ・マーケティングアドバイザー"
         },
         "cheema": {
-          "name": "Faisal Cheema",
-          "description": "Associate Professor of Biomedical & Clinical Sciences, Tilman J. Fertitta College of Medicine, University of Houston",
-          "title": "Executive Clinical Advisor"
+          "name": "ファイサル・チーマ",
+          "description": "ヒューストン大学ティルマン・フェルティッタ医科大学　生命医学・臨床科学准教授",
+          "title": "エグゼクティブ・臨床アドバイザー"
         },
         "kutsuna": {
           "name": "忽那賢志",
           "description": "感染制御医学講座(感染制御学)\n大阪大学",
-          "title": "Executive Clinical Advisor"
+          "title": "エグゼクティブ・臨床アドバイザー"
         },
         "ayomide": {
-          "name": "Ayomide Owoyemi",
-          "description": "PhD Biomedical Sciences - University of Illinois Chicago\nAmbassador - One Young World Nigeria",
-          "title": "Executive Clinical Advisor"
+          "name": "アヨミデ・オウェイェミ",
+          "description": "イリノイシカゴ大学　生命医科学博士号\nOne Young World　ナイジェリア大使",
+          "title": "エグゼクティブ・臨床アドバイザー"
         },
         "madarame": {
-          "name": "Tetsuji Madarame",
-          "description": "Advisory Board, theDOCK Maritime VC\nMBA - Stanford GSB",
-          "title": "Principal Fellow, DX Innovation, Nippon Yusen"
+          "name": "班目哲司",
+          "description": "theDOCK海事VC　取締役\nスタンフォード大学経営大学　MBA",
+          "title": "プリンシパルフェロー・DX Innovation・日本郵船"
         },
         "nakatani": {
-          "name": "Yukitoshi Nakatani",
-          "description": "CEO, IT Value Consulting\nFormer Director, Accenture Japan",
-          "title": "Japan Executive Advisor"
+          "name": "中谷幸俊",
+          "description": "ITバリューアソシエイツ　CEO\nアクセンチュア日本法人　元ディレクター",
+          "title": "日本エグゼクティブ・アドバイザー"
         },
         "manuj": {
           "name": "マヌジ・アガーワル",
-          "description": "TetraNoodle Technologies - チーフ・イノベーション・オフィサー",
+          "description": "TetraNoodle Technologies チーフ・イノベーション・オフィサー",
           "title": "エグゼクティブAI、戦略・マーケティングアドバイザー"
         },
         "atlas": {
@@ -1186,7 +1186,7 @@
         },
         "mark.haseltine": {
           "name": "マーク・ハーゼルティン",
-          "description": "edX 前CTO/CPO\nMITコンピュー\nターサイエンス卒業生",
+          "description": "edX 前CTO/CPO\nMITコンピューターサイエンス卒業生",
           "title": "エグゼクティブ・アドバイザー"
         },
         "mathijs": {
@@ -1201,7 +1201,7 @@
         },
         "victor": {
           "name": "ビクター・ワン",
-          "description": "China Silicon Valley 創業者兼会長 \nスタンフォード大学院MBA終了",
+          "description": "China Silicon Valley 創業者兼会長 \nスタンフォード大学院MBA",
           "title": "エグゼクティブ・アドバイザー"
         },
         "rok": {
@@ -1226,7 +1226,7 @@
         },
         "khwaja": {
           "name": "クワジャ・シェイク",
-          "description": "MOSH副議長兼取締役　ノース・フロリダ大\n学コンピューティング取締役",
+          "description": "MOSH副議長兼取締役\nノース・フロリダ大\n学コンピューティング取締役",
           "title": "IBM - チーフ・テクノロジー・オフィサー"
         },
         "rich": {
