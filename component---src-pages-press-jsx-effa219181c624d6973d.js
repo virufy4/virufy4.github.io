@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[7048],{4292:function(e,n,t){t.r(n),t.d(n,{default:function(){return c}});var u=t(7294);function c(){return(0,u.useEffect)((function(){window.location.replace("/news")})),u.createElement("p",null,"Redirecting...")}}}]);
+//# sourceMappingURL=component---src-pages-press-jsx-effa219181c624d6973d.js.map
