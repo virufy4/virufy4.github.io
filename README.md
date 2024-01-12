@@ -19,7 +19,7 @@ Please make sure you have the latest version of [Node.js](https://nodejs.org/) i
 
 ### Install dependencies
 
-It is recommended to install depenencies using [yarn](https://yarnpkg.com/) to take advantage of the `yarn.lock` file, but npm will work as well.
+It is recommended to install dependencies using [yarn](https://yarnpkg.com/) to take advantage of the `yarn.lock` file, but npm will work as well.
 
 ```bash
 $ yarn install # or npm install

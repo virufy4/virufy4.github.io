@@ -215,6 +215,12 @@ export const advisors = [
     imageName: "madhav",
   },
   {
+    mediaLink: "https://www.linkedin.com/in/may-xu-bb06934",
+    id: "may",
+    defaultName: "May Xu",
+    imageName: "may",
+  },
+  {
     mediaLink: "https://www.pillsburylaw.com/en/lawyers/rafi-azim-khan.html",
     id: "rafi",
     defaultName: "Rafi Azim-Khan",
