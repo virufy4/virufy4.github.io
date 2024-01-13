@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[4219],{4050:function(e,n,t){t.r(n),t.d(n,{default:function(){return f}});var u=t(7294);const c="https://www.gofundme.com/f/virufy-nonprofit";function f(){return(0,u.useEffect)((()=>{window.location.replace(c)})),u.createElement("p",null,"Redirecting...")}}}]);
+//# sourceMappingURL=component---src-pages-donate-jsx-0dfcd5ebf79d477d227d.js.map
