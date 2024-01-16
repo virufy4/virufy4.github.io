@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[7513],{2095:function(e,n,t){t.r(n),t.d(n,{default:function(){return r}});var c=t(7294);const u="/oyw";function r(){return(0,c.useEffect)((()=>{window.location.replace(u)})),c.createElement("p",null,"Redirecting...")}}}]);
+//# sourceMappingURL=component---src-pages-oyw-html-jsx-0dc5492213f3ab735f72.js.map
