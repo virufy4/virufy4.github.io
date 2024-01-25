@@ -1126,7 +1126,7 @@
         },
         "madarame": {
           "name": "班目哲司",
-          "description": "theDOCK海事VC　取締役\nスタンフォード大学経営大学　MBA",
+          "description": "theDOCK海事VC　取締役\nMBA - スタンフォード経営大学院",
           "title": "プリンシパルフェロー・DX Innovation・日本郵船"
         },
         "nakatani": {
@@ -1248,6 +1248,11 @@
           "name": "マート・ピランチ",
           "description": "スタンフォード大学電子工学部AI学科助教授",
           "title": "人工知能アドバイザー"
+        },
+        "kunishima": {
+          "name": "Hiroyuki Kunishima",
+          "description": "感染症学講座\n聖マリアンナ医科大学病院",
+          "title": "感染症アドバイザー"
         }
       }
     },
