@@ -1222,7 +1222,7 @@
         },
         "madarame": {
           "name": "Tetsuji Madarame",
-          "description": "Advisory Board, theDOCK Maritime VC\nMBA - Stanford GSB",
+          "description": "Advisory Board, theDOCK Maritime VC\nMBA - Stanford Graduate School of Business",
           "title": "Principal Fellow, DX Innovation, Nippon Yusen"
         },
         "atlas": {
@@ -1239,6 +1239,11 @@
           "name": "Hirofumi Yoshikoshi",
           "description": "Senior Manager Clinical Development, CRO",
           "title": "Japan Clinical Development Lead"
+        },
+        "kunishima": {
+          "name": "Hiroyuki Kunishima",
+          "description": "Department of Infectious Diseases\nSt. Marianna University Hospital",
+          "title": "Infectious Diseases Advisor"
         }
       }
     },

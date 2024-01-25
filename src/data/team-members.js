@@ -323,4 +323,10 @@ export const advisors = [
     defaultName: "Nobuyoshi Ozawa",
     imageName: "ozawa",
   },
+  {
+    mediaLink: "http://www.k-icnet.org/profile.html",
+    id: "kunishima",
+    defaultName: "Hiroyuki Kunishima",
+    imageName: "kunishima",
+  },
 ];

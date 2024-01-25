@@ -1116,7 +1116,7 @@
         },
         "madarame": {
           "name": "Tetsuji Madarame",
-          "description": "Advisory Board, theDOCK Maritime VC\nMBA - Stanford GSB",
+          "description": "Advisory Board, theDOCK Maritime VC\nMBA - Stanford Graduate School of Business",
           "title": "Principal Fellow, DX Innovation, Nippon Yusen"
         },
         "nakatani": {
@@ -1238,6 +1238,11 @@
           "name": "Mert Pilanci",
           "description": "Assistant Professor of AI Stanford University Electrical Engineering",
           "title": "Artificial Intelligence Advisor"
+        },
+        "kunishima": {
+          "name": "Hiroyuki Kunishima",
+          "description": "Department of Infectious Diseases\nSt. Marianna University Hospital",
+          "title": "Infectious Diseases Advisor"
         }
       }
     },
