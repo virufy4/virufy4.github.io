@@ -869,6 +869,8 @@
       "us_policy": "Privacy Policy",
       "eu": "ヨーロッパ諸国",
       "eu_policy": "Privacy Policy",
+      "ja": "日本",
+      "ja_policy": "プライバシーポリシー",
       "other": "その他の国々",
       "other_policy": "Privacy Policy"
     }
