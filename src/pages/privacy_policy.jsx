@@ -81,7 +81,7 @@ export default function PrivacyPolicy({ data }) {
           <p>
             <a
               className="text-black underline"
-              href="https://drive.google.com/file/d/1n8YZTb3bAqLLL5ygVE8-MstdzECcKJ_b/view"
+              href="https://drive.google.com/file/d/1lMVygBx3pV_lZBhFtZe5go4UM4mFt0qP/view"
             >
               {intl.formatMessage({
                 id: "privacy_policy.countries.gre_policy",
@@ -163,7 +163,7 @@ export default function PrivacyPolicy({ data }) {
           <p>
             <a
               className="text-black underline"
-              href="https://drive.google.com/file/d/1fUIe6FBss6WrwsrssVr6OM_2uFFVhESD/view"
+              href="https://drive.google.com/file/d/1hnxvDJ5qHBnUi7cnkNdyD4PuWMz8Ntss/view"
             >
               {intl.formatMessage({
                 id: "privacy_policy.countries.other_policy",
