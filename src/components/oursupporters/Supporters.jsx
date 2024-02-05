@@ -8,7 +8,6 @@ import FormSupportes from "../../pages/FormSupporter";
 import Ambassador from "../../components/OYW/Ambassador";
 import { oyw } from "../../data/oyw";
 import links from "../../data/index/links-donate";
-import "../../styles/hideScrollbar.css";
 
 const tabs = {
   supporters: "Our supporters",

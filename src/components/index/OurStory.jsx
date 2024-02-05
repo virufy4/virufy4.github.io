@@ -3,7 +3,6 @@ import { Link, useStaticQuery, graphql } from "gatsby";
 import { useIntl } from "gatsby-plugin-intl";
 import GatsbyImage from "gatsby-image";
 import supporter_links from "../../data/supporters_links";
-import "../../styles/hideScrollbar.css";
 
 export default function OurStory() {
   const intl = useIntl();
