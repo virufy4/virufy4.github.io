@@ -1,9 +1,9 @@
 const news = [
   {
-    mediaLink: "/barda-press-release",
+    mediaLink: "https://medicalcountermeasures.gov/newsroom/2022/ai_ml/",
     id: "section1",
-    imageName: "Virufy-Award-article",
-    country: " ",
+    imageName: "person-holding-phone",
+    country: "United States",
   },
   {
     mediaLink:

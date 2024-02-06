@@ -658,6 +658,14 @@
       "filter": "Filter News by Country"
     },
     "news": {
+      "section1": {
+        "date": "November 2022",
+        "title": "BARDA supports development of novel AI/ML-based digital apps for visual and auditory symptomatic infectious disease detection",
+        "name": "Medical Countermeasures",
+        "city": " ",
+        "country": "United States",
+        "readMoreLink": "Read more..."
+      },
       "section2": {
         "date": "February 2021",
         "title": "Esta app busca diagnosticar Covid-19 con sólo toser frente al teléfono",
