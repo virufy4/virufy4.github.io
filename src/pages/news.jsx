@@ -143,14 +143,6 @@ export default function News({ data }) {
         </span>
       </div>
       <section className="wrapper">
-        <a
-          target="_blank"
-          rel="noreferrer"
-          href="/smartphone-detection"
-          className="text-black wrapper md:flex"
-        >
-          Smartphone Detection Article
-        </a>
         <div
           style={{
             display: "flex",
