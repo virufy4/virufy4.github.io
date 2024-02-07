@@ -14,7 +14,7 @@ const news = [
   },
   {
     mediaLink:
-      "https://www.msn.com/es-pe/noticias/peru/covid-19-aplicativo-virufy-puede-diagnosticar-el-virus-mediante-el-an%C3%A1lisis-de-la-tos/ar-BB1ddBvf",
+      "https://www.americatv.com.pe/noticias/actualidad/covid-19-aplicativo-virufy-puede-diagnosticar-virus-mediante-analisis-tiene-precision-80-y-no-reemplazara-pruebas-diagnostico-grado-hospitalario-tos-n433332",
     id: "section3",
     imageName: "msn-article",
     country: " ",
