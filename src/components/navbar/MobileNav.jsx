@@ -105,7 +105,7 @@ const MobileNav = ({ textColor, bgColor, virufyLogo }) => {
                 <img
                   src={virufyLogo}
                   alt="virufy"
-                  className="mr-16 inline-block w-24"
+                  className="mr-16 inline-block w-32"
                 />
               </Link>
             </span>

@@ -42,7 +42,7 @@ export default ({ bgColor, textColor, virufyLogo }) => {
       {({ language: currentLocale }) => (
         <ModalHandler>
           {({ openModal }) => (
-            <div className="md:hidden xs:hidden 2xl:block">
+            <div className="xs:hidden sm:hidden md:hidden 2xl:block">
               <div className="flex justify-between py-3">
                 <Link to="/" className="inline-block w-40 h-12 mx-8">
                   <img
