@@ -29,10 +29,10 @@ export default ({ bgColor, textColor, virufyLogo }) => {
   const getLinkClasses = (link) => {
     const isActiveLink = isActivePath(location, link);
     return link.btnStyle
-      ? `ml-4 mr-0 pb-2 no-underline text-white py-2 px-6 ${
+      ? `ml-4 mr-0 pb-2 no-underline text-white py-2 px-6 whitespace-nowrap ${
           isActiveLink ? "bg-black" : "bg-blue"
         }`
-      : `ml-4 mr-0 pb-2 no-underline ${textColor} ${
+      : `ml-4 mr-0 pb-2 no-underline whitespace-nowrap ${textColor} ${
           isActiveLink ? "font-bold border-b-4 border-green" : ""
         }`;
   };
@@ -42,9 +42,9 @@ export default ({ bgColor, textColor, virufyLogo }) => {
       {({ language: currentLocale }) => (
         <ModalHandler>
           {({ openModal }) => (
-            <div className="md:hidden xs:hidden lg:block ">
+            <div className="xs:hidden sm:hidden md:hidden 2xl:block">
               <div className="flex justify-between py-3">
-                <Link to="/" className="inline-block w-40 h-12 mx-8 ">
+                <Link to="/" className="inline-block w-40 h-12 mx-8">
                   <img
                     className="logo"
                     src={virufyLogo}
@@ -54,7 +54,7 @@ export default ({ bgColor, textColor, virufyLogo }) => {
                     })}
                   />
                 </Link>
-                <div className="flex items-center text-black font-medium space-x-4 text-sm mr-5">
+                <div className="flex items-center text-black font-medium space-x-2 text-sm mr-5 3xl:space-x-4">
                   {navLinks.map((link, idx) => (
                     <span
                       onMouseEnter={() => setMouseOverLinkIdx(idx)}
