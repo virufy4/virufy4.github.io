@@ -29,7 +29,6 @@ $ yarn install # or npm install
 
 ```bash
 $ yarn build # or npm run build
-$ yarn build-intl # or npm run build-intl
 ```
 
 ### Start the web server
@@ -46,7 +45,6 @@ $ yarn start # or npm start
 $ yarn dev # or npm run dev
 ```
 
-Make sure to run the `build-intl` script first.
 
 ### Formatting and linting
 
