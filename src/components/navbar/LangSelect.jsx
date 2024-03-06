@@ -32,7 +32,7 @@ export const LanguageSelectorDropdown = ({ currentLang }) => {
   return (
     <Listbox value={currentLang} onChange={changeLocale}>
       <div className="mt-1 relative">
-        <Listbox.Button className="w-full pl-3 2xl:pr-8 py-2 3xl:pr-10">
+        <Listbox.Button className="w-full pl-3 2xl:pr-8 py-2 3xl:pr-10 xl:px-4">
           <span className="flex items-center">
             <span className="mr-4 block truncate font-medium">
               {langs[currentLang].name}

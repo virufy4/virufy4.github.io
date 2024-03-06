@@ -94,7 +94,7 @@ const MobileNav = ({ textColor, bgColor, virufyLogo }) => {
     <ModalHandler>
       {({ openModal }) => (
         <>
-          <div className="pt-6 flex items-start justify-between 2xl:hidden p-4">
+          <div className="p-3 flex items-center justify-between xl:hidden">
             <MobileNavToggle
               mobileNavOpen={navOpen}
               setMobileNavOpen={setNavOpen}
@@ -105,7 +105,7 @@ const MobileNav = ({ textColor, bgColor, virufyLogo }) => {
                 <img
                   src={virufyLogo}
                   alt="virufy"
-                  className="mr-16 inline-block w-32"
+                  className="inline-block w-28"
                 />
               </Link>
             </span>

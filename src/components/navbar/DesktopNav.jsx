@@ -42,9 +42,13 @@ export default ({ bgColor, textColor, virufyLogo }) => {
       {({ language: currentLocale }) => (
         <ModalHandler>
           {({ openModal }) => (
-            <div className="xs:hidden sm:hidden md:hidden 2xl:block">
+            // Inner Nav Container
+            <div className="hidden xl:block">
               <div className="flex justify-between py-3">
-                <Link to="/" className="inline-block w-40 h-12 mx-8">
+                <Link
+                  to="/"
+                  className="inline-block w-40 h-12 mx-8 xl:w-24 xl:mx-4 xl:pt-3 2xl:pt-0 2xl:w-40 2xl:mx-8"
+                >
                   <img
                     className="logo"
                     src={virufyLogo}
@@ -54,7 +58,7 @@ export default ({ bgColor, textColor, virufyLogo }) => {
                     })}
                   />
                 </Link>
-                <div className="flex items-center text-black font-medium space-x-2 text-sm mr-5 3xl:space-x-4">
+                <div className="flex items-center text-black font-medium space-x-2 text-sm mr-5 xl:space-x-1 2xl:mr-8 3xl:space-x-4">
                   {navLinks.map((link, idx) => (
                     <span
                       onMouseEnter={() => setMouseOverLinkIdx(idx)}
@@ -66,7 +70,7 @@ export default ({ bgColor, textColor, virufyLogo }) => {
                         to={`/${currentLocale}${link.path}`}
                         activeClassName="font-bold border-b-4 border-green"
                       >
-                        <span className="px-3">
+                        <span className="px-3 xl:px-1 2xl:px-3">
                           {intl.formatMessage({
                             id: link.intlId,
                             defaultMessage: link.defMsg,
@@ -94,17 +98,17 @@ export default ({ bgColor, textColor, virufyLogo }) => {
                       )}
                     </span>
                   ))}
-                  <div className="px-4">
+                  <div className="px-4 xl:px-1 2xl:px-4">
                     {" "}
                     <LanguageSelectorDropdown currentLang={intl.locale} />
                   </div>
-                  <div className="flex">
+                  <div className="flex gap-4">
                     {buttonJoinUs.map((button) => (
-                      <div className="flex mr-4 ">
+                      <div className="flex">
                         {button.intlId === "nav.joinUs" ? (
                           <Link
                             to={`/${intl.locale}${button.path}`}
-                            className="vf-btn-clear py-2 px-5 whitespace-nowrap border-2 border-blue"
+                            className="vf-btn-clear py-2 px-5 xl:px-3 2xl:px-5 whitespace-nowrap border-2 border-blue"
                           >
                             {intl.formatMessage({
                               id: button.intlId,
@@ -112,10 +116,10 @@ export default ({ bgColor, textColor, virufyLogo }) => {
                             })}
                           </Link>
                         ) : (
-                          <div className="ml-8 ">
+                          <div className="ml-8 xl:ml-0 2xl:ml-8">
                             <button
                               onClick={() => openModal(<DonateCards />)}
-                              className="vf-btn-primary py-2 px-5 whitespace-nowrap border-2 border-blue"
+                              className="vf-btn-primary py-2 px-5 xl:px-3 2xl:px-5 whitespace-nowrap border-2 border-blue"
                             >
                               {intl.formatMessage({
                                 id: button.intlId,
