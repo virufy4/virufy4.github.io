@@ -763,7 +763,8 @@
       "bottonClose": "Fechar"
     },
     "howItWorks": {
-      "HowIt": "Como nosso teste de Covid-19 online funciona",
+      "HowIt": "Como funciona",
+      "description": "Com apenas uma simples tosse no microfone do seu dispositivo, o Virufy aproveita o poder da inteligência artificial para detectar padrões sonoros exclusivos associados a problemas respiratórios, incluindo aqueles indicativos de COVID-19. Nossos algoritmos proprietários avaliam as nuances da sua tosse para fornecer resultados rápidos e precisos.",
       "card-one": {
         "title": "1",
         "description": "Grave sua tosse"

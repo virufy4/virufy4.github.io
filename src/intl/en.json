@@ -765,7 +765,8 @@
       "bottonClose": "Close"
     },
     "howItWorks": {
-      "HowIt": "How our online Covid-19 test works",
+      "HowIt": "How It Works",
+      "description": "With just a simple cough into your device's microphone, Virufy harnesses the power of artificial intelligence to detect unique sound patterns associated with respiratory issues, including those indicative of COVID-19. Our proprietary algorithms assess the nuances of your cough to deliver rapid and accurate results.",
       "card-one": {
         "title": "1",
         "description": "Record your cough"

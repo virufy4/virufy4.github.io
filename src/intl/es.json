@@ -763,7 +763,8 @@
       "bottonClose": "Cerrar"
     },
     "howItWorks": {
-      "HowIt": "Cómo funciona nuestra prueba de Covid-19 en línea",
+      "HowIt": "Cómo funciona",
+      "description": "Con solo toser en el micrófono de su dispositivo, Virufy aprovecha el poder de la inteligencia artificial para detectar patrones de sonido únicos asociados con problemas respiratorios, incluidos aquellos indicativos de COVID-19. Nuestros algoritmos patentados evalúan los matices de su tos para brindar resultados rápidos y precisos.",
       "card-one": {
         "title": "1",
         "description": "Graba tu tos"

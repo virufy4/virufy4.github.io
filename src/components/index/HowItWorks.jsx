@@ -47,7 +47,17 @@ const HowItWorks = ({ images }) => {
           id: "ourApproach.howItWorks.HowIt",
         })}
       </h2>
-      <div className="grid grid-cols-3 gap-2 max-w-5xl mx-auto">
+      <p className="w-4/5 font-normal text-black mb-4 mx-auto text-center">
+        {intl.formatMessage({
+          id: "ourApproach.howItWorks.description",
+        })}
+        {/* With just a simple cough into your device's microphone, Virufy harnesses
+        the power of artificial intelligence to detect unique sound patterns
+        associated with respiratory issues, including those indicative of
+        COVID-19. Our proprietary algorithms assess the nuances of your cough to
+        deliver rapid and accurate results. */}
+      </p>
+      {/* <div className="grid grid-cols-3 gap-2 max-w-5xl mx-auto">
         {worksCards.map((info, index) => {
           const cardIcon = findImage(info.imageName);
           return (
@@ -67,7 +77,7 @@ const HowItWorks = ({ images }) => {
             />
           );
         })}
-      </div>
+      </div> */}
     </section>
   );
 };
