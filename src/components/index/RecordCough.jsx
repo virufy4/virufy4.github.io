@@ -39,6 +39,8 @@ export default ({ images }) => {
     );
   }
 
+  const benefits = intl.formatMessage({ id: "index.section3.benefits" }).split("\n");
+
   return (
     <section className="grid grid-cols-2 xs:grid-cols-1 items-center">
       <div className="md:mx-12 xs:mx-6 ">
@@ -48,6 +50,17 @@ export default ({ images }) => {
         <div className="flex flex-col items-center w-full mb-6">
           <div className="flex-shrink-0 mb-8">
             <p>{intl.formatMessage({ id: "index.section3.description" })}</p>
+            <br></br>
+            <p>
+              {benefits.map((str, i) => {
+                const [title, description] = str.split(":");
+                return (
+                  <p key={i} className="w-5/6 text-base pb-1">
+                    <span style={{ textDecoration: 'underline' }}>{title}</span>: {description}
+                  </p>
+                );
+              })}
+            </p>
           </div>
           <div className="flex flex-col self-start min-w-max">
             <Link
