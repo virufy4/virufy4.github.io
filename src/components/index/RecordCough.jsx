@@ -39,7 +39,9 @@ export default ({ images }) => {
     );
   }
 
-  const benefits = intl.formatMessage({ id: "index.section3.benefits" }).split("\n");
+  const benefits = intl
+    .formatMessage({ id: "index.section3.benefits" })
+    .split("\n");
 
   return (
     <section className="grid grid-cols-2 xs:grid-cols-1 items-center">
@@ -56,7 +58,8 @@ export default ({ images }) => {
                 const [title, description] = str.split(":");
                 return (
                   <p key={i} className="w-5/6 text-base pb-1">
-                    <span style={{ textDecoration: 'underline' }}>{title}</span>: {description}
+                    <span style={{ textDecoration: "underline" }}>{title}</span>
+                    : {description}
                   </p>
                 );
               })}
