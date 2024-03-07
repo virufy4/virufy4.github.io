@@ -581,8 +581,8 @@
     "meta": "Conheça o Virufy, projeto fundado em março de 2020 por pessoas dedicadas a construir um teste online de Covid-19 com Inteligência Artificial.",
     "title": "Desenvolvendo um teste de COVID online com IA | Virufy",
     "section1": {
-      "header": "Detectar de COVID-19 a partir do seu telefone",
-      "pg": "Virufy é uma organização de pesquisa sem fins lucrativos que desenvolve tecnologia de inteligência artificial (IA) para detectar COVID-19 a partir de padrões da tosse por meio do uso de um smartphone, de maneira rápida e sem nenhum custo.",
+      "header": "Bem-vindo ao Virufy - seu companheiro pessoal de saúde",
+      "pg": "Capacite-se com o que há de mais moderno em tecnologia de saúde. Apresentamos o CoughCheck*, o aplicativo de última geração que utiliza algoritmos avançados para analisar sua tosse e fornecer informações sobre possíveis sintomas de infecção.",
       "coughLink": "CONTRIBUA O SEU TOSSE",
       "donateLink": "Doe sua tosse agora",
       "donateLinkResponsive": "Doe agora",
@@ -604,7 +604,8 @@
       "header2": "AI analisa a assinatura respiratória",
       "header3": "Número de tosses coletadas",
       "tryItOutLink": "EXPERIMENTE",
-      "description": "Virufy foi fundada em março de 2020. Hoje, Virufighters em cinco continentes estão empenhados em tornar o rastreamento de doenças em modo instantâneo e gratuito por meio da inovação em tecnologia.",
+      "description": "Na Virufy, o seu bem-estar está no centro de tudo o que fazemos. Priorizamos a privacidade, garantindo que seus dados permaneçam seguros e confidenciais. Junte-se aos milhares que já estão se beneficiando do nosso aplicativo e assuma o controle da sua saúde hoje!",
+      "benefits":"Análise Instantânea: Receba feedback imediato sobre as características da sua tosse e quaisquer associações potenciais com sintomas de doenças respiratórias.\nMantenha-se Informado: Acesse as informações e diretrizes mais recentes das autoridades de saúde sobre os sintomas de doenças respiratórias.\nResultados Instantâneos: Receba feedback rápido sobre a probabilidade de uma infecção com base na análise da tosse.\nInterface Amigável ao Usuário: Design intuitivo para uma navegação fácil e uma experiência de usuário sem problemas.",
       "numbercollected": "100.000",
       "joincommunity": "Junte-se à nossa comunidade"
     },
@@ -763,7 +764,8 @@
       "bottonClose": "Fechar"
     },
     "howItWorks": {
-      "HowIt": "Como nosso teste de Covid-19 online funciona",
+      "HowIt": "Como funciona",
+      "description": "Com apenas uma simples tosse no microfone do seu dispositivo, o Virufy aproveita o poder da inteligência artificial para detectar padrões sonoros exclusivos associados a problemas respiratórios, incluindo aqueles indicativos de COVID-19. Nossos algoritmos proprietários avaliam as nuances da sua tosse para fornecer resultados rápidos e precisos.",
       "card-one": {
         "title": "1",
         "description": "Grave sua tosse"

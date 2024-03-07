@@ -581,8 +581,8 @@
     "meta": "Conoce Virufy, un proyecto fundado en marzo de 2020 por personas dedicadas a construir una prueba en línea de Covid-19 con Inteligencia Artificial.",
     "title": "Desarrollando una prueba de Covid-19 en línea con IA | Virufy",
     "section1": {
-      "header": "Detectar de COVID-19 desde tu teléfono",
-      "pg": "Virufy es una organización de investigación sin fines de lucro que desarrolla tecnología de inteligencia artificial (IA) para identificar patrones de COVID-19 por medio de los sonidos de la tos, rápidamente y sin costo mediante el uso de un teléfono inteligente.",
+      "header": "Bienvenido a Virufy - Tu compañero de salud personal",
+      "pg": "Empodérate con lo último en tecnología sanitaria. Presentamos CoughCheck*, la aplicación de vanguardia que utiliza algoritmos avanzados para analizar su tos y brindar información sobre posibles síntomas de infección.",
       "coughLink": "DONA TU TOS",
       "donateLink": "Dona tu tos ahora",
       "donateLinkResponsive": "Dona ahora",
@@ -604,7 +604,8 @@
       "header2": "AI analiza el patron respiratorio",
       "header3": "Número de toses recopiladas",
       "tryItOutLink": "PRUEBA",
-      "description": "Virufy se fundó en marzo de 2020. Hoy, Virufighters en los cinco continentes se comprometen para hacer que la lucha contra enfermedades sea instantánea y gratuita a través de tecnología innovadora.",
+      "description": "En Virufy, tu bienestar está en el centro de todo lo que hacemos. Priorizamos la privacidad, garantizando que sus datos permanezcan seguros y confidenciales. ¡Únase a los miles que ya se benefician de nuestra aplicación y tome el control de su salud hoy!",
+      "benefits":"Análisis Instantáneo: Obtén retroalimentación inmediata sobre las características de tu tos y cualquier asociación potencial con síntomas de enfermedades respiratorias.\nMantente Informado: Accede a la información y directrices más recientes de las autoridades sanitarias con respecto a los síntomas de enfermedades respiratorias.\nResultados Instantáneos: Recibe comentarios rápidos sobre la probabilidad de una infección basada en el análisis de la tos.\nInterfaz Amigable para el Usuario: Diseño intuitivo para una navegación fácil y una experiencia de usuario sin problemas.",
       "numbercollected": "100.000",
       "joincommunity": "Únete a nuestra comunidad"
     },
@@ -763,7 +764,8 @@
       "bottonClose": "Cerrar"
     },
     "howItWorks": {
-      "HowIt": "Cómo funciona nuestra prueba de Covid-19 en línea",
+      "HowIt": "Cómo funciona",
+      "description": "Con solo toser en el micrófono de su dispositivo, Virufy aprovecha el poder de la inteligencia artificial para detectar patrones de sonido únicos asociados con problemas respiratorios, incluidos aquellos indicativos de COVID-19. Nuestros algoritmos patentados evalúan los matices de su tos para brindar resultados rápidos y precisos.",
       "card-one": {
         "title": "1",
         "description": "Graba tu tos"
