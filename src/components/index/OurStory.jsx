@@ -33,7 +33,7 @@ export default function OurStory() {
   );
   return (
     <>
-      <section className="md:flex flex-col justify-between pt-12 pb-24 ">
+      <section className="md:flex flex-col justify-between py-24 ">
         <h2 className="text-center mb-6 xs:mx-6">
           {intl.formatMessage({ id: "index.section4.header2" })}
         </h2>

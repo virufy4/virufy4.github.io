@@ -18,7 +18,7 @@ export default ({ images }) => {
         />
         <div className="h-auto md:h-xl p-8 lg:px-0 lg:mx-auto  mt-8 lg:w-32">
           <h1
-            className="leading-8  lg:pb-6  lg:w-3/12"
+            className="lg:pb-6 lg:w-3/12"
             dangerouslySetInnerHTML={{
               __html: intl.formatMessage({ id: "index.section1.header" }),
             }}

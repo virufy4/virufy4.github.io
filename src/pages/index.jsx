@@ -9,7 +9,6 @@ import Layout from "../components/Layout";
 import CoughSection from "../components/index/ContributeCough";
 import HowItWorks from "../components/index/HowItWorks";
 import RecordCough from "../components/index/RecordCough";
-import GlobalImpact from "../components/index/GlobalImpact";
 import OurStory from "../components/index/OurStory";
 import IndexQuestion from "../components/index/IndexQuestion";
 import { useIntl } from "gatsby-plugin-intl";
@@ -35,7 +34,6 @@ export default function Home({ data }) {
       <CoughSection images={images} />
       <HowItWorks images={images} />
       <RecordCough images={images} />
-      <GlobalImpact images={images} />
       <OurStory images={images} />
       <IndexQuestion images={images} />
     </Layout>
