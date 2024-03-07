@@ -16,15 +16,15 @@ export default ({ images }) => {
           className="bg-gradient-to-r from-gray-100 h-full max-h-56"
           fluid={images["fondo-hero-mobile"].childImageSharp.fluid}
         />
-        <div className="h-auto md:h-xl p-8 lg:px-0 lg:mx-auto  mt-8 lg:w-32">
+        <div className="h-auto md:h-xl p-8 lg:px-0 lg:mx-auto  mt-8 lg:w-32 text-center">
           <h1
             className="lg:pb-6 lg:w-3/12"
             dangerouslySetInnerHTML={{
               __html: intl.formatMessage({ id: "index.section1.header" }),
             }}
           />
-          <div className="flex justify-between">
-            <div className="flex flex-col items-start xs:items-center justify-center lg:-mt-16 md:w-10/12">
+          <div className="flex justify-center">
+            <div className="flex flex-col items-center justify-center lg:-mt-16 md:w-10/12">
               <p
                 className="my-8"
                 dangerouslySetInnerHTML={{

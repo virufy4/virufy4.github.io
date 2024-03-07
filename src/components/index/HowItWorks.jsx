@@ -41,13 +41,13 @@ const HowItWorks = ({ images }) => {
   );
 
   return (
-    <section className="md:py-10">
-      <h2 className="mb-8 text-center">
+    <section className="md:py-10 px-8 lg:px-12 text-center">
+      <h2 className="my-8 md:mb-8 md:mt-0">
         {intl.formatMessage({
           id: "ourApproach.howItWorks.HowIt",
         })}
       </h2>
-      <p className="w-4/5 font-normal text-black mb-4 mx-auto text-center">
+      <p className="font-normal text-black mb-4">
         {intl.formatMessage({
           id: "ourApproach.howItWorks.description",
         })}
