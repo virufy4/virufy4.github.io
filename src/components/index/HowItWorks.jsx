@@ -41,33 +41,17 @@ const HowItWorks = ({ images }) => {
   );
 
   return (
-    <section className="md:py-10">
-      <h2 className="mb-8 text-center">
+    <section className="md:py-10 px-8 lg:px-12 text-center">
+      <h2 className="my-8 md:mb-8 md:mt-0">
         {intl.formatMessage({
           id: "ourApproach.howItWorks.HowIt",
         })}
       </h2>
-      <div className="grid grid-cols-3 gap-2 max-w-5xl mx-auto">
-        {worksCards.map((info, index) => {
-          const cardIcon = findImage(info.imageName);
-          return (
-            <Card
-              key={info.id}
-              sourceNum={index}
-              title={intl.formatMessage({
-                id: `ourApproach.howItWorks.${info.id}.title`,
-              })}
-              description={intl.formatMessage({
-                id: `ourApproach.howItWorks.${info.id}.description`,
-              })}
-              icon={cardIcon}
-              source={intl.formatMessage({
-                id: `ourApproach.howItWorks.${info.id}.source`,
-              })}
-            />
-          );
+      <p className="font-normal text-black mb-4">
+        {intl.formatMessage({
+          id: "ourApproach.howItWorks.description",
         })}
-      </div>
+      </p>
     </section>
   );
 };

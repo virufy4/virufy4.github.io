@@ -581,8 +581,8 @@
     "meta": "Meet Virufy, a project founded in March 2020 by people dedicated to building an efficient online Covid-19 test with Artificial Intelligence.",
     "title": "Developing an online Covid-19 test with AI | Virufy",
     "section1": {
-      "header": "Detect COVID-19 from your phone",
-      "pg": "Virufy is a nonprofit research organization developing artificial intelligence (AI) technology to screen for COVID-19 from cough patterns, rapidly and at no cost through use of a smartphone.",
+      "header": "Welcome to Virufy - Your Personal Health Companion",
+      "pg": "Empower yourself with the latest in health technology. Introducing CoughCheck*, the cutting-edge app that utilizes advanced algorithms to analyze your cough and provide insights into potential infection symptoms.",
       "coughLink": "CONTRIBUTE YOUR COUGH",
       "donateLink": "Share your cough now",
       "donateLinkResponsive": "Donate now",
@@ -598,13 +598,14 @@
     },
     "section3": {
       "howItWorks": "How our online Covid-19 test works",
-      "header": "The Virufy Community",
+      "header": "Your Health, Our Priority",
       "sub-header": "We are collecting coughs to refine our AI algorithm, and will implement a three-step detection process that will help contribute to a quick and easy COVID-19 diagnosis for the benefit of countries across the world, especially low-income countries.<br>Help support our vision by donating a cough today.",
       "header1": "Record your cough",
       "header2": "AI analyzes the respiratory signature",
       "header3": "Number of Coughs Collected",
       "tryItOutLink": "TRY IT OUT",
-      "description": "Virufy was founded in March 2020. Today, Virufighters across five continents are committed to making disease screening instant and free of charge through innovative technology.",
+      "description": "At Virufy, your well-being is at the heart of everything we do. We prioritize privacy, ensuring that your data remains secure and confidential. Join the thousands already benefiting from our App and take control of your health today!",      
+      "benefits": "Instant Analysis: Get immediate feedback on your cough's characteristics and any potential associations with respiratory disease symptoms.\nStay Informed: Access the latest information and guidelines from health authorities regarding respiratory disease symptoms.\nInstant Results: Receive prompt feedback on the likelihood of an infection based on the cough analysis.\nUser-Friendly Interface: Intuitive design for easy navigation and seamless user experience.",
       "numbercollected": "100.000",
       "joincommunity": "Join our community"
     },
@@ -765,7 +766,8 @@
       "bottonClose": "Close"
     },
     "howItWorks": {
-      "HowIt": "How our online Covid-19 test works",
+      "HowIt": "How It Works",
+      "description": "With just a simple cough into your device's microphone, Virufy harnesses the power of artificial intelligence to detect unique sound patterns associated with respiratory issues, including those indicative of COVID-19. Our proprietary algorithms assess the nuances of your cough to deliver rapid and accurate results.",
       "card-one": {
         "title": "1",
         "description": "Record your cough"
