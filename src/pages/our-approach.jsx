@@ -100,9 +100,9 @@ export default function OurApproach({ data }) {
           })}
         </p>
       </div>
-      <h1 className="pt-2 pb-8 mx-8">
+      <h6 className="pt-2 pb-8 mx-8">
         {intl.formatMessage({ id: "ourApproach.topFold.ourTech" })}
-      </h1>
+      </h6>
       {/* The usingTechnology */}
       <div className="md:pt-12 md:py-14 mx-8 xs:py-8">
         <div className="grid grid-cols-1  lg:grid-cols-2 gap-6">
