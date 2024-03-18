@@ -76,7 +76,7 @@ export default function AvailableRoles() {
 
   return (
     <section className="container -mt-10">
-      <SEO title="Available Roles | Virufy" />
+      {/* <SEO title="Available Roles | Virufy" /> */}
 
       <div className="">
         <h2 className="my-8  font-heading xs:text-center">
