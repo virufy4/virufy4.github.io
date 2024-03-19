@@ -64,17 +64,13 @@ export default function About({ data }) {
                 {/* <div className="flex-1 md:pt-10 md:pl-2 text-xl">
                   {intl.formatMessage({ id: "team.valuesSection.About" })}
                 </div> */}
-                <h1 className="flex md:text-center font-normal mx-36 px-28 py-44">
-                  {intl.formatMessage({ id: "team.valuesSection.OurPurpose" })}
-                </h1>
+                <h1 className="flex md:text-center font-normal mx-36 px-28 py-44"></h1>
               </div>
             </BackgroundImage>
 
             {/* About us */}
             <div className="md:mx-8 md:pt-10 xs:pt-4 text-left">
-              <h2 className="flex-1 pt-2 pb-8 xs:hidden">
-                {intl.formatMessage({ id: "team.valuesSection.About" })}
-              </h2>
+              <h2 className="flex-1 pt-2 pb-8 xs:hidden"></h2>
               <div className="grid grid-cols-1 lg:grid-cols-2 md:gap-32 xs:p-6">
                 <div>
                   <h2 className="py-4 font-semibold">
