@@ -1123,6 +1123,13 @@
   dependencies:
     regenerator-runtime "^0.14.0"
 
+"@babel/runtime@^7.20.13":
+  version "7.24.1"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.24.1.tgz#431f9a794d173b53720e69a6464abc6f0e2a5c57"
+  integrity sha512-+BIznRzyqBf+2wCTxcKE3wDjfGeCoVE61KSHGpkzqrLi8qxqFwBeUFyId2cxkTmm55fzDGnm0+yCxaxygrLUnQ==
+  dependencies:
+    regenerator-runtime "^0.14.0"
+
 "@babel/standalone@^7.15.5":
   version "7.23.5"
   resolved "https://registry.yarnpkg.com/@babel/standalone/-/standalone-7.23.5.tgz#3209677d9cfd6411734bd758d445e3f93ad2d698"
@@ -6464,13 +6471,13 @@ gatsby-plugin-google-analytics@^3.1.0:
     minimatch "3.0.4"
     web-vitals "^1.1.2"
 
-gatsby-plugin-google-gtag@^3.1.0:
-  version "3.15.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-gtag/-/gatsby-plugin-google-gtag-3.15.0.tgz#697e0d15c9bd1d4fc4a89d887cf7a3b10ca72adb"
-  integrity sha512-DmpUA+rF6jUb0roXLWlf5j0i7M/djCw7J3n/Xm/TnbHnfCcYPrjtPyBxo4fhz+3k6Um3rzceoYQ3EOsIF9z3Cg==
+gatsby-plugin-google-gtag@^5.13.1:
+  version "5.13.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-gtag/-/gatsby-plugin-google-gtag-5.13.1.tgz#81b294f2ab12dad5ba5e9946e4b78cd315676bbc"
+  integrity sha512-aaJKIDwUWwhooJnalse1uvcusBmCwCVK33pp1IrDU02E7IohMen3eR5TsjLbfKO7Z+SbfKJEqUoi/r0ozrJarA==
   dependencies:
-    "@babel/runtime" "^7.15.4"
-    minimatch "^3.0.4"
+    "@babel/runtime" "^7.20.13"
+    minimatch "^3.1.2"
 
 gatsby-plugin-hotjar@^1.1.1:
   version "1.1.1"
