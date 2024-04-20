@@ -15,7 +15,7 @@ function associateDataScientist() {
 
   return (
     <Layout className="font-montserrat">
-      <SEO title="Roles | Virufy" />
+      {/* <SEO title="Roles | Virufy" /> */}
       {/* Top fold */}
       <div className="container">
         <div className="w-full border-b-2 border-gray-300">
