@@ -15,7 +15,7 @@ function projectManager() {
 
   return (
     <Layout className="font-montserrat">
-      <SEO title="Roles | Virufy" />
+      {/* <SEO title="Roles | Virufy" /> */}
       {/* Top fold */}
       <div className="w-full p-6 flex-col items-center md:flex-row md:w-md md:mx-auto md:p-8 md:my-10">
         <div className="w-full border-b-2 border-gray-300">
