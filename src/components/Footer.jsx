@@ -185,7 +185,7 @@ export default () => {
           <p className="text-sm">
             {intl.formatMessage({
               id: "footer.copyrightInformation",
-              defaultMessage: "©2021 Virufy  | All rights reserved",
+              defaultMessage: "©2024 Virufy | All rights reserved",
             })}
           </p>
         </div>
