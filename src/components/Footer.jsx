@@ -60,11 +60,6 @@ const footerLinks = [
     intlId: "footer.dontSellPersonalInfo",
     address: "/ccpa",
   },
-  {
-    intlId: "footer.CodeofConduct",
-    address:
-      "https://github.com/virufy/virufy-covid/blob/main/CODE_OF_CONDUCT.md",
-  },
 ];
 
 export default () => {
@@ -190,7 +185,7 @@ export default () => {
           <p className="text-sm">
             {intl.formatMessage({
               id: "footer.copyrightInformation",
-              defaultMessage: "©2021 Virufy  | All rights reserved",
+              defaultMessage: "©2024 Virufy | All rights reserved",
             })}
           </p>
         </div>
