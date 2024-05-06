@@ -1,0 +1,2 @@
+(this["webpackJsonpvirumap-app"]=this["webpackJsonpvirumap-app"]||[]).push([[36],{371:function(e,t,a){"use strict";a.r(t);var n=a(9),r=a.n(n),p=a(453),c=a(291);test("renders learn react link",(function(){var e=(0,Object(p.a)(r.a.createElement(c.default,null)).getByText)(/learn react/i);expect(e).toBeInTheDocument()}))}}]);
+//# sourceMappingURL=36.07a57a88.chunk.js.map
