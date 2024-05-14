@@ -384,7 +384,7 @@
       "buttonHelpUs": "Our Research"
     },
     "values": {
-      "OurValues": "Our Values",
+      "OurValues": "Values",
       "Transformation": {
         "title": "Transformation",
         "description": "We aim to transform expensive healthcare systems by using technology to drive necessary changes."
@@ -411,7 +411,7 @@
       }
     },
     "ourStory": {
-      "title": "Our Story",
+      "title": "Story",
       "description": "When the pandemic hit, Virufy’s founder, Amil Khanzada, knew smartphones were omnipresent and that COVID impacted the nose, throat, and lungs. He hypothesized that breathing and cough sounds could be analyzed with machine learning to detect COVID patterns. Wanting to make a positive impact, he orchestrated a clinical study with 362 patients in an esteemed university hospital. The original team of Virufy, beginning with Stanford graduate AI students, expanded to volunteers from universities globally."
     },
     "section4": {
