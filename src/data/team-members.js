@@ -329,4 +329,10 @@ export const advisors = [
     defaultName: "Hiroyuki Kunishima",
     imageName: "kunishima",
   },
+  {
+    mediaLink: "https://q-aos.kyushu-u.ac.jp/en/staff/1770/",
+    id: "fumihiko",
+    defaultName: "Fumihiko Yokota",
+    imageName: "fumihiko",
+  },
 ];

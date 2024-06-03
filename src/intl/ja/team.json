@@ -379,6 +379,11 @@
         "name": "Hiroyuki Kunishima",
         "description": "Department of Infectious Diseases\nSt. Marianna University Hospital",
         "title": "Infectious Diseases Advisor"
+      },
+      "fumihiko": {
+        "name": "Fumihiko Yokota",
+        "description": "Associate Professor of Epidemiology\nKyushu University",
+        "title": "Public Health Advisor"
       }
     }
   },

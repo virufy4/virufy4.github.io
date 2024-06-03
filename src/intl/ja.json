@@ -1265,7 +1265,12 @@
           "name": "國島 広之",
           "description": "感染症学講座\n聖マリアンナ医科大学病院",
           "title": "感染症アドバイザー"
-        }
+        },
+        "fumihiko": {
+          "name": "横田文彦",
+          "description": "疫学准教授\n九州大学",
+          "title": "公衆衛生アドバイザー"
+        }      
       }
     },
     "valuesSection": {
