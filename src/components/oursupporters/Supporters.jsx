@@ -1,13 +1,13 @@
-import React, { useState } from "react";
-import { Link, useStaticQuery, graphql } from "gatsby";
+import { graphql, Link, useStaticQuery } from "gatsby";
+import BackgroundImage from "gatsby-background-image";
 import GatsbyImage from "gatsby-image";
 import { useIntl } from "gatsby-plugin-intl";
-import supporter_links from "../../data/supporters_links";
-import BackgroundImage from "gatsby-background-image";
-import FormSupportes from "../../pages/FormSupporter";
+import React, { useState } from "react";
 import Ambassador from "../../components/OYW/Ambassador";
-import { oyw } from "../../data/oyw";
 import links from "../../data/index/links-donate";
+import { oyw } from "../../data/oyw";
+import supporter_links from "../../data/supporters_links";
+import FormSupportes from "../../pages/FormSupporter";
 
 const tabs = {
   supporters: "Our supporters",
@@ -334,6 +334,18 @@ export default function Supporters() {
                       imgStyle={{ objectFit: "contain" }}
                       className="h-full max-h-24"
                       fluid={images["responselab-logo-color"]}
+                    />
+                  </a>
+                </div>
+                <div
+                  style={{ flex: "0 1 20%" }}
+                  className="md:min-w-250 md:p-8 max-w-full"
+                >
+                  <a href={supporter_links.takemotoLab} target="_blank">
+                    <GatsbyImage
+                      imgStyle={{ objectFit: "contain" }}
+                      className="h-full max-h-24"
+                      fluid={images["takemoto-lab-logo"]}
                     />
                   </a>
                 </div>
