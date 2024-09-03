@@ -34,4 +34,5 @@ export default {
   shil: "https://innovations.stanford.edu/home",
   kvgmedical: "https://www.kvgmch.org/",
   compensar: "https://corporativo.compensar.com/",
+  takemotoLab: "http://www.hisac.u-fukui.ac.jp/imlabo/home.html",
 };
