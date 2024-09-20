@@ -15,7 +15,7 @@ const tabs = {
   teamLeads: "team leads",
 };
 
-export default function Supporters() {
+export default function Supporters({ lang }) {
   const intl = useIntl();
   const data = useStaticQuery(graphql`
       {
@@ -48,6 +48,9 @@ export default function Supporters() {
     "font-medium font-semibold text-lg  xs:text-2xl bg-white border-b-4 border-solid border-green focus:outline-none active:outline-none";
   const unselectedTabClasses =
     "bg-white text-gray-500 text-lg  xs:text-2xl font-semibold xs:py-2.5";
+  const uFukuiLink =
+    lang === "ja" ? supporter_links.uFukuiJapan : supporter_links.uFukuiEnglish;
+
   return (
     <>
       <section>
@@ -346,6 +349,18 @@ export default function Supporters() {
                       imgStyle={{ objectFit: "contain" }}
                       className="h-full max-h-24"
                       fluid={images["takemoto-lab-logo"]}
+                    />
+                  </a>
+                </div>
+                <div
+                  style={{ flex: "0 1 20%" }}
+                  className="md:min-w-250 md:p-8 max-w-full"
+                >
+                  <a href={uFukuiLink} target="_blank">
+                    <GatsbyImage
+                      imgStyle={{ objectFit: "contain" }}
+                      className="h-full max-h-24"
+                      fluid={images["university-of-fukui-logo"]}
                     />
                   </a>
                 </div>
