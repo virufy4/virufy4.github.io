@@ -35,4 +35,6 @@ export default {
   kvgmedical: "https://www.kvgmch.org/",
   compensar: "https://corporativo.compensar.com/",
   takemotoLab: "http://www.hisac.u-fukui.ac.jp/imlabo/home.html",
+  uFukuiJapan: "https://www.u-fukui.ac.jp/",
+  uFukuiEnglish: "https://www.u-fukui.ac.jp/eng",
 };
