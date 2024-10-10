@@ -37,4 +37,5 @@ export default {
   takemotoLab: "http://www.hisac.u-fukui.ac.jp/imlabo/home.html",
   uFukuiJapan: "https://www.u-fukui.ac.jp/",
   uFukuiEnglish: "https://www.u-fukui.ac.jp/eng",
+  nexusTaxServices: "https://nexustaxaccountants.com/",
 };
