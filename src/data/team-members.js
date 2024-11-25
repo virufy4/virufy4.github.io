@@ -335,4 +335,10 @@ export const advisors = [
     defaultName: "Fumihiko Yokota",
     imageName: "fumihiko",
   },
+  {
+    mediaLink: "https://ae.linkedin.com/in/tamer-fahmy-b4468614",
+    id: "tamer",
+    defaultName: "Tamer Fahmy",
+    imageName: "tamer",
+  },
 ];
