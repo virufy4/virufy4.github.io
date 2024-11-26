@@ -233,6 +233,11 @@
 <url> <loc>https://virufy.org/es/virumap-slides/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/pt/virumap-slides/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/ja/virumap-slides/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/news/beta-app-release-2023/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/en/news/beta-app-release-2023/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/es/news/beta-app-release-2023/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/pt/news/beta-app-release-2023/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://virufy.org/ja/news/beta-app-release-2023/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/bio/amil/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/en/bio/amil/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/es/bio/amil/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -253,11 +258,6 @@
 <url> <loc>https://virufy.org/es/bio/john/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/pt/bio/john/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/ja/bio/john/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/news/beta-app-release-2023/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/en/news/beta-app-release-2023/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/es/news/beta-app-release-2023/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/pt/news/beta-app-release-2023/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://virufy.org/ja/news/beta-app-release-2023/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/roles/associate-data-scientist/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/en/roles/associate-data-scientist/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://virufy.org/es/roles/associate-data-scientist/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
