@@ -341,4 +341,10 @@ export const advisors = [
     defaultName: "Tamer Fahmy",
     imageName: "tamer",
   },
+  {
+    mediaLink: "https://www.linkedin.com/in/shirinhasan/",
+    id: "shirin",
+    defaultName: "Shirin Hasan",
+    imageName: "shirin",
+  },
 ];
