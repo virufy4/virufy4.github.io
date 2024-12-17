@@ -35,7 +35,7 @@ const PaymentCard = () => {
             </div>
             <div className="flex justify-center items-center p-2 bg-gray-200 rounded-lg mt-5 h-16 hover:bg-lightBlue">
               <a
-                href="https://www.gofundme.com/f/virufy-covid19"
+                href="https://www.gofundme.com/f/donate-virufy"
                 className="w-full text-center m-0"
               >
                 <img
