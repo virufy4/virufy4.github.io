@@ -1,11 +1,10 @@
 import React, { useEffect } from "react";
 
-// const paperURL = "https://charity.gofundme.com/o/en/campaign/virufy";
-const paperURL = "https://www.gofundme.com/f/virufy-nonprofit";
+const paperURL = "https://www.gofundme.com/f/donate-virufy";
 
 export default function Paper() {
   useEffect(() => {
-    window.location.replace(paperURL);
+    window.location.assign(paperURL);
   });
 
   return <p>Redirecting...</p>;
