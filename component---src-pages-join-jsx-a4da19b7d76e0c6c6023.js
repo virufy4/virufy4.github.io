@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[9672],{3824:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var c=t(7294);const u="/available-roles";function l(){return(0,c.useEffect)((()=>{window.location.replace(u)})),c.createElement("p",null,"Redirecting...")}}}]);
-//# sourceMappingURL=component---src-pages-join-jsx-a4da19b7d76e0c6c6023.js.map
