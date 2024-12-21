@@ -1,2 +1,0 @@
-(this.webpackJsonpelderly_care_app=this.webpackJsonpelderly_care_app||[]).push([[31],{324:function(e,a,p){"use strict";p.r(a);var r=p(323);p.d(a,"default",(function(){return r.default}))}}]);
-//# sourceMappingURL=31.5568aa13.chunk.js.map
