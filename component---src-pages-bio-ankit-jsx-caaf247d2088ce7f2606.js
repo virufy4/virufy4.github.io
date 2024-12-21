@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[632],{7367:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var c=t(7294);const u="https://tiny.cc/ankit-bio";function i(){return(0,c.useEffect)((()=>{window.location.replace(u)})),c.createElement("p",null,"Redirecting...")}}}]);
+//# sourceMappingURL=component---src-pages-bio-ankit-jsx-caaf247d2088ce7f2606.js.map

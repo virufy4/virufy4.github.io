@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2691],{9832:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var c=t(7294);const u="https://tiny.cc/john-bio";function i(){return(0,c.useEffect)((()=>{window.location.replace(u)})),c.createElement("p",null,"Redirecting...")}}}]);
+//# sourceMappingURL=component---src-pages-bio-john-jsx-a685b8bb4980a77a7fcf.js.map
