@@ -275,6 +275,12 @@ export const advisors = [
     imageName: "victor",
   },
   {
+    mediaLink: "https://www.linkedin.com/in/adamleipzig/",
+    id: "adam",
+    defaultName: "Adam Leipzig",
+    imageName: "adam",
+  },
+  {
     mediaLink:
       "https://scholar.google.com/citations?user=xlZ4YJcAAAAJ&hl=en&oi=ao",
     id: "rok",
@@ -334,6 +340,12 @@ export const advisors = [
     id: "fumihiko",
     defaultName: "Fumihiko Yokota",
     imageName: "fumihiko",
+  },
+  {
+    mediaLink: "https://hyoka.ofc.kyushu-u.ac.jp/html/100021188_en.html",
+    id: "kohei",
+    defaultName: "Kohei Wakamiya",
+    imageName: "kohei",
   },
   {
     mediaLink: "https://ae.linkedin.com/in/tamer-fahmy-b4468614",

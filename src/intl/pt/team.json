@@ -32,7 +32,6 @@
       },
       "fivethParagraph": "Through Amil’s strong technical background, resolve to give back, and outstanding leadership, combined with the tens of thousands of hours contributed by volunteers and firms, Virufy has grown to operate in a dozen countries with more than 200 volunteers and 30 partner organizations, including Amazon Web Services, Stanford COVID-19 Response Innovation Lab, and Pillsbury Winthrop Shaw Pittman Law as of June 2022.",
       "sixthParagraph": "“United behind a common cause to end pandemics, our energy is unstoppable as we work across borders for the common good.” - Amil Khanzada",
-
       "Amil-Publications": "Amil’s Publications",
       "fifthParagraph": {
         "one": "2022. Using Deep Learning with Large Aggregated Datasets for COVID-19 Classification from Cough. arXiv: 2201.01669 ",
@@ -325,6 +324,11 @@
         "description": "Founder and Chairman- China Silicon Valley\nMBA - Stanford Graduate School of Business",
         "title": "Executive Advisor"
       },
+      "adam": {
+        "name": "Adam Leipzig",
+        "description": "CEO, Entertainment Media Partners, Ex-Presidente, National Geographic Films, Professor Profissional, Berkeley Haas School of Business",
+        "title": "Conselheiro Executivo"
+      },
       "rok": {
         "name": "Rok Sosic",
         "description": "Senior Research Engineer\nStanford School of Engineering",
@@ -377,7 +381,6 @@
       }
     }
   },
-
   "valuesSection": {
     "meta": "Pessoas de todo o mundo uniram forças para construir o Virufy, uma pré-triagem de COVID-19 que pode ajudar a diminuir a circulação do vírus. Saiba mais.",
     "About": "Sobre Nós",
@@ -416,12 +419,10 @@
         "description": "Nosso objetivo é garantir a detecção rápida de doenças mortais com apenas um toque em um dispositivo móvel."
       }
     },
-
     "ourStory": {
       "title": "Nossa História",
       "description": "Quando a pandemia atingiu, o fundador do Virufy, Amil Khanzada, sabia que os smartphones eram onipresentes e que o COVID afetava o nariz, a garganta e os pulmões. Ele levantou a hipótese de que os sons da respiração e da tosse poderiam ser analisados ​​com aprendizado de máquina para detectar os padrões do COVID. Querendo causar um impacto positivo, ele orquestrou um estudo clínico com 362 pacientes em um conceituado hospital universitário. A equipe original de Virufy, começando com estudantes de IA de Stanford, expandiu-se para voluntários de universidades em todo o mundo. "
     },
-
     "section4": {
       "header": "Nossos apoiadores",
       "pg1": "Virufy é um projeto do Stanford COVID-19 Response Innovation Lab e também é apresentado no One Young World"
