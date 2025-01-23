@@ -239,12 +239,6 @@ export const advisors = [
     imageName: "mark.haseltine",
   },
   {
-    mediaLink: "https://www.linkedin.com/in/mansoor-ahmed-31a86452/",
-    id: "mansoor",
-    defaultName: "Mansoor Ahmed",
-    imageName: "mansoor",
-  },
-  {
     mediaLink: "https://www.linkedin.com/in/doccheema/",
     id: "cheema",
     defaultName: "Faisal Cheema",
