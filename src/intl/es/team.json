@@ -300,6 +300,11 @@
         "description": "Founder and Chairman- China Silicon Valley\nMBA - Stanford Graduate School of Business",
         "title": "Executive Advisor"
       },
+      "adam": {
+        "name": "Adam Leipzig",
+        "description": "CEO, Entertainment Media Partners, Ex-Presidente, National Geographic Films, Profesor Profesional, Berkeley Haas School of Business",
+        "title": "Asesor Ejecutivo"
+      },
       "rok": {
         "name": "Rok Sosic",
         "description": "Senior Research Engineer\nStanford School of Engineering",
@@ -374,6 +379,11 @@
         "name": "Fumihiko Yokota",
         "description": "Associate Professor of Epidemiology\nKyushu University",
         "title": "Public Health Advisor"
+      },
+      "kohei": {
+        "name": "Kohei Wakamiya",
+        "description": "Asistente de Diseño Acústico, Universidad de Kyushu",
+        "title": "Asesor de IA de Audio"
       }
     }
   },

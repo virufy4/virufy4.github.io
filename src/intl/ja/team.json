@@ -32,7 +32,6 @@
       },
       "fivethParagraph": "Through Amil’s strong technical background, resolve to give back, and outstanding leadership, combined with the tens of thousands of hours contributed by volunteers and firms, Virufy has grown to operate in a dozen countries with more than 200 volunteers and 30 partner organizations, including Amazon Web Services, Stanford COVID-19 Response Innovation Lab, and Pillsbury Winthrop Shaw Pittman Law as of June 2022.",
       "sixthParagraph": "“United behind a common cause to end pandemics, our energy is unstoppable as we work across borders for the common good.” - Amil Khanzada",
-
       "Amil-Publications": "Amil’s Publications",
       "fifthParagraph": {
         "one": "2022. Using Deep Learning with Large Aggregated Datasets for COVID-19 Classification from Cough. arXiv: 2201.01669",
@@ -335,6 +334,11 @@
         "description": "Founder and Chairman- China Silicon Valley\nMBA - Stanford Graduate School of Business",
         "title": "Executive Advisor"
       },
+      "adam": {
+        "name": "アダム・ライプジグ",
+        "description": "CEO、エンターテインメントメディアパートナーズ、元ナショナルジオグラフィックフィルムズ社長、バークレー ハース スクール オブ ビジネスのプロフェッショナル教授",
+        "title": "エグゼクティブアドバイザー"
+      },
       "rok": {
         "name": "Rok Sosic",
         "description": "Senior Research Engineer\nStanford School of Engineering",
@@ -384,6 +388,11 @@
         "name": "Fumihiko Yokota",
         "description": "Associate Professor of Epidemiology\nKyushu University",
         "title": "Public Health Advisor"
+      },
+      "kohei": {
+        "name": "若宮浩平",
+        "description": "九州大学、音響設計助手",
+        "title": "音声AIアドバイザー"
       }
     }
   },
