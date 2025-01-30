@@ -12,7 +12,6 @@ export default function Fukuoka({ data }) {
   const teamImagesMap = {
     fumihiko: data.fumihiko?.childImageSharp?.fluid,
     amil: data.amil?.childImageSharp?.fluid,
-    ikue: data.ikue?.childImageSharp?.fluid,
     moeka: data.moeka?.childImageSharp?.fluid,
   };
 
@@ -60,12 +59,12 @@ export default function Fukuoka({ data }) {
 
       {/* Project Overview */}
       <div className="px-6 lg:px-40 mt-10">
-        <h2 className="text-2xl font-bold text-center">プロジェクト概要</h2>
+        {/* <h2 className="text-2xl font-bold text-center">プロジェクト概要</h2>
         <Img
           fluid={data.coughAppImage?.childImageSharp?.fluid || defaultImage}
           alt="Cough Detection App"
           className="rounded-md mx-auto w-full max-w-3xl mt-4"
-        />
+        /> */}
         <p className="mt-4 text-lg">
           咳は、インフルエンザ、新型コロナウイルス、風邪、肺炎など様々な呼吸器疾患の初期症状のひとつです。
           その音には、疾患特有のパターン、ピッチ、トーンが含まれています。
@@ -93,7 +92,7 @@ export default function Fukuoka({ data }) {
       {/* Team Members Section */}
       <div className="px-6 lg:px-40 mt-10 text-center">
         <h2 className="text-2xl font-bold">チーム紹介</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mt-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-6 justify-center">
           {teamMembers.map((member, index) => (
             <div key={index} className="text-center">
               <Img
@@ -135,13 +134,6 @@ export const query = graphql`
         }
       }
     }
-    coughAppImage: file(relativePath: { eq: "images/team/default.png" }) {
-      childImageSharp {
-        fluid {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
     fumihiko: file(relativePath: { eq: "images/team/fumihiko.png" }) {
       childImageSharp {
         fluid {
@@ -150,13 +142,6 @@ export const query = graphql`
       }
     }
     amil: file(relativePath: { eq: "images/team/amil.png" }) {
-      childImageSharp {
-        fluid {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
-    ikue: file(relativePath: { eq: "images/team/default.png" }) {
       childImageSharp {
         fluid {
           ...GatsbyImageSharpFluid

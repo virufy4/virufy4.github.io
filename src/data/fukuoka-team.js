@@ -11,11 +11,6 @@ export const teamMembers = [
   },
   {
     name: "宮田 萌花",
-    role: "監事",
-    image: "ikue",
-  },
-  {
-    name: "お問い合わせ",
     role: "プロジェクトリード",
     image: "moeka",
   },
