@@ -52,9 +52,7 @@ export default function Fukuoka({ data }) {
 
         {/*Extended Info */}
         <p className="mt-4 text-lg">代表理事: 横田 文彦 </p>
-        <p className="mt-4 text-lg">
-          所在地: 福岡市西区元岡７４４
-        </p>
+        <p className="mt-4 text-lg">所在地: 福岡市西区元岡７４４</p>
       </div>
 
       {/* Project Overview */}
