@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "../components/Layout";
+// import Layout from "../components/Layout";
 import SEO from "../components/SEO";
 import Img from "gatsby-image";
 import { graphql } from "gatsby";
@@ -16,7 +16,7 @@ export default function Fukuoka({ data }) {
   };
 
   return (
-    <Layout>
+    <div className="min-h-screen bg-white">
       <SEO title="Fukuoka | Virufy" />
 
       {/* Main Header */}
@@ -59,12 +59,6 @@ export default function Fukuoka({ data }) {
 
       {/* Project Overview */}
       <div className="px-6 lg:px-40 mt-10">
-        {/* <h2 className="text-2xl font-bold text-center">プロジェクト概要</h2>
-        <Img
-          fluid={data.coughAppImage?.childImageSharp?.fluid || defaultImage}
-          alt="Cough Detection App"
-          className="rounded-md mx-auto w-full max-w-3xl mt-4"
-        /> */}
         <p className="mt-4 text-lg">
           咳は、インフルエンザ、新型コロナウイルス、風邪、肺炎など様々な呼吸器疾患の初期症状のひとつです。
           その音には、疾患特有のパターン、ピッチ、トーンが含まれています。
@@ -92,13 +86,13 @@ export default function Fukuoka({ data }) {
       {/* Team Members Section */}
       <div className="px-6 lg:px-40 mt-10 text-center">
         <h2 className="text-2xl font-bold">チーム紹介</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-6 justify-center">
+        <div className="flex flex-col items-center gap-8 mt-6">
           {teamMembers.map((member, index) => (
-            <div key={index} className="text-center">
+            <div key={index} className="flex flex-col items-center text-center">
               <Img
                 fluid={teamImagesMap[member.image] || defaultImage}
                 alt={member.name}
-                className="rounded-full mx-auto w-32 h-32 object-cover shadow-lg"
+                className="w-48 h-48 object-cover shadow-lg border border-gray-300"
               />
               <p className="mt-4 font-bold text-lg">{member.name}</p>
               <p className="text-gray-600">{member.role}</p>
@@ -120,7 +114,7 @@ export default function Fukuoka({ data }) {
           </a>
         </p>
       </div>
-    </Layout>
+    </div>
   );
 }
 
